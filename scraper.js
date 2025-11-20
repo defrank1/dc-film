@@ -488,6 +488,14 @@ async function scrapeAllTheaters() {
     }
   });
 
+  // Filter out past screenings (only keep today and future)
+  const today = getTodayDate();
+  const futureScreenings = allScreenings.filter(screening => screening.date >= today);
+  allScreenings.length = 0;
+  allScreenings.push(...futureScreenings);
+
+  console.log(`\nFiltered to ${allScreenings.length} current/upcoming screenings (removed past dates)`);
+
   // Enrich with TMDB data (posters and years)
   if (TMDB_API_KEY && TMDB_API_KEY !== 'TMDB_API_KEY_PLACEHOLDER') {
     console.log('\nEnriching movie data with TMDB...');
