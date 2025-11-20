@@ -8,10 +8,10 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
-  # Run on push to main (for testing)
-  push:
-    branches:
-      - main
+  # Temporarily disabled until scraper is configured
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   scrape:
