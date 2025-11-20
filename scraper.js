@@ -18,6 +18,10 @@ const THEATERS = {
   AVALON: 'https://www.theavalon.org/'
 };
 
+// Configure axios with timeout
+axios.defaults.timeout = 15000; // 15 second timeout
+axios.defaults.headers.common['User-Agent'] = 'Mozilla/5.0 (compatible; DCFilmScraper/1.0)';
+
 /**
  * Scrape AFI Silver Theatre
  * Note: This requires inspecting their actual HTML structure
