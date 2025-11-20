@@ -18,9 +18,92 @@ const THEATERS = {
   AVALON: 'https://www.theavalon.org/'
 };
 
+// Load TMDB API key from package.json
+const packageJson = require('./package.json');
+const TMDB_API_KEY = packageJson.tmdbApiKey;
+
 // Configure axios with timeout
 axios.defaults.timeout = 15000; // 15 second timeout
 axios.defaults.headers.common['User-Agent'] = 'Mozilla/5.0 (compatible; DCFilmScraper/1.0)';
+
+/**
+ * TMDB API Helper Functions
+ */
+
+/**
+ * Extract year from title if it's in format "TITLE (YYYY)"
+ */
+function extractYearFromTitle(title) {
+  const match = title.match(/\((\d{4})\)\s*$/);
+  return match ? match[1] : null;
+}
+
+/**
+ * Clean title for TMDB search by removing year and extra formatting
+ */
+function cleanTitleForSearch(title) {
+  // Remove year in parentheses at the end
+  let cleanTitle = title.replace(/\s*\((\d{4})\)\s*$/, '');
+  // Remove extra whitespace
+  cleanTitle = cleanTitle.trim();
+  return cleanTitle;
+}
+
+/**
+ * Fetch movie data from TMDB API
+ */
+async function fetchMovieFromTMDB(title, existingYear = null) {
+  // Skip if no API key configured
+  if (!TMDB_API_KEY || TMDB_API_KEY === 'TMDB_API_KEY_PLACEHOLDER') {
+    return null;
+  }
+
+  try {
+    const cleanTitle = cleanTitleForSearch(title);
+
+    // Search for the movie
+    let searchUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}`;
+    if (existingYear) {
+      searchUrl += `&year=${existingYear}`;
+    }
+
+    const response = await axios.get(searchUrl, { timeout: 5000 });
+
+    if (response.data.results && response.data.results.length > 0) {
+      const movie = response.data.results[0];
+      return {
+        year: movie.release_date ? movie.release_date.substring(0, 4) : null,
+        poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : null
+      };
+    }
+  } catch (error) {
+    console.error(`TMDB lookup failed for "${title}":`, error.message);
+  }
+
+  return null;
+}
+
+/**
+ * Enrich screening with TMDB data (poster and year)
+ */
+async function enrichMovieData(screening) {
+  const existingYear = extractYearFromTitle(screening.title);
+  const tmdbData = await fetchMovieFromTMDB(screening.title, existingYear);
+
+  if (tmdbData) {
+    // Add poster if we don't have one
+    if (!screening.poster && tmdbData.poster) {
+      screening.poster = tmdbData.poster;
+    }
+
+    // Add year to title if not already present
+    if (tmdbData.year && !existingYear) {
+      screening.title = `${screening.title} (${tmdbData.year})`;
+    }
+  }
+
+  return screening;
+}
 
 /**
  * Scrape AFI Silver Theatre
@@ -381,15 +464,6 @@ function parseSunsDate(dateText) {
 }
 
 /**
- * Helper: Fetch poster from TMDB (optional)
- */
-async function fetchPoster(movieTitle) {
-  // TODO: Implement TMDB API integration if you want automatic posters
-  // For now, return null
-  return null;
-}
-
-/**
  * Main scraper function
  */
 async function scrapeAllTheaters() {
@@ -413,6 +487,21 @@ async function scrapeAllTheaters() {
       allScreenings.push(...result.value);
     }
   });
+
+  // Enrich with TMDB data (posters and years)
+  if (TMDB_API_KEY && TMDB_API_KEY !== 'TMDB_API_KEY_PLACEHOLDER') {
+    console.log('\nEnriching movie data with TMDB...');
+    const enrichedScreenings = [];
+    for (const screening of allScreenings) {
+      const enriched = await enrichMovieData(screening);
+      enrichedScreenings.push(enriched);
+    }
+    allScreenings.length = 0;
+    allScreenings.push(...enrichedScreenings);
+    console.log('TMDB enrichment complete');
+  } else {
+    console.log('\nSkipping TMDB enrichment (no API key configured)');
+  }
 
   // Sort by date and time
   allScreenings.sort((a, b) => {

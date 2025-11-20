@@ -69,14 +69,35 @@
   - Push trigger temporarily disabled (until scraper is production-ready)
   - Auto-commits updated data
 
+## TMDB Integration ✅ IMPLEMENTED
+
+### What It Does
+- Automatically fetches movie posters for all screenings
+- Adds release years to movie titles (e.g., "SUNSET BOULEVARD" → "SUNSET BOULEVARD (1950)")
+- Smart year handling: preserves existing years (e.g., "THE KILLER (1989)" stays as-is)
+
+### How It Works
+1. Parses existing years from titles using regex `/\((\d{4})\)$/`
+2. Cleans title for TMDB search (removes year)
+3. Searches TMDB API with cleaned title + existing year (if available)
+4. Only appends year if not already present
+5. Adds poster if screening doesn't have one
+
+### Setup Required
+- Free TMDB API key needed (see TMDB-SETUP.md for instructions)
+- Add key to `package.json` replacing `TMDB_API_KEY_PLACEHOLDER`
+- Scraper gracefully skips TMDB enrichment if no key configured
+
 ## Next Steps
 
 ### Immediate (Production Ready)
 1. ✅ Commit current scraper code
-2. ⏳ Test full scraper with all 5 theaters
-3. ⏳ Review data quality and remove duplicates
-4. ⏳ Re-enable GitHub Actions workflow
-5. ⏳ Push to GitHub and verify automation works
+2. ✅ TMDB integration implemented
+3. ⏳ Get TMDB API key and test enrichment
+4. ⏳ Test full scraper with all 5 theaters
+5. ⏳ Review data quality and remove duplicates
+6. ⏳ Re-enable GitHub Actions workflow
+7. ⏳ Push to GitHub and verify automation works
 
 ### Future Enhancements
 
