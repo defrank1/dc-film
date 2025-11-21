@@ -297,39 +297,11 @@ async function scrapeAngelika() {
  */
 async function scrapeMiracleTheater() {
   console.log('Scraping Miracle Theater...');
-  try {
-    const response = await axios.get(THEATERS.MIRACLE, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
-    });
-    const $ = cheerio.load(response.data);
-    const screenings = [];
-
-    // Look for event/movie listings
-    $('article, .event, .screening, .show').each((i, elem) => {
-      const $elem = $(elem);
-      const title = $elem.find('h1, h2, h3, .title').first().text().trim();
-      const link = $elem.find('a').first().attr('href');
-
-      if (title && title.length > 3 && !title.toLowerCase().includes('menu')) {
-        screenings.push({
-          title: title,
-          venue: 'Miracle Theater',
-          date: getTodayDate(),
-          time: '19:00',
-          poster: null,
-          ticketLink: link || THEATERS.MIRACLE
-        });
-      }
-    });
-
-    console.log(`Found ${screenings.length} screenings at Miracle Theater (limited data)`);
-    return screenings.slice(0, 10); // Limit to avoid duplicates
-  } catch (error) {
-    console.error('Error scraping Miracle Theater:', error.message);
-    return [];
-  }
+  // Disabled: Site uses Modern Events Calendar with JavaScript-rendered content
+  // The WordPress API doesn't expose screening times, only movie titles
+  // Would require headless browser (Puppeteer) to access actual showtimes
+  console.log('Miracle Theater scraping disabled (JavaScript-heavy site, no reliable data source)');
+  return [];
 }
 
 /**
