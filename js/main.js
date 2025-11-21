@@ -1,4 +1,4 @@
-// Fetch and display screenings
+Oka// Fetch and display screenings
 async function loadScreenings() {
     try {
         const response = await fetch('data/screenings.json');
@@ -67,16 +67,16 @@ function displayScreenings(screenings) {
                 <div class="screening">
                     <div class="poster">
                         ${screening.poster ?
-                            `<img src="${screening.poster}" alt="${screening.title} poster">` :
-                            ''}
+                    `<img src="${screening.poster}" alt="${screening.title} poster">` :
+                    ''}
                     </div>
                     <div class="screening-info">
                         <div class="showtime">${screening.time}</div>
                         <h3 class="movie-title">${screening.title}</h3>
                         <p class="venue">${screening.venue}</p>
                         ${screening.ticketLink ?
-                            `<a href="${screening.ticketLink}" class="ticket-link" target="_blank" rel="noopener">Buy Tickets</a>` :
-                            ''}
+                    `<a href="${screening.ticketLink}" class="ticket-link" target="_blank" rel="noopener">Buy Tickets</a>` :
+                    ''}
                     </div>
                 </div>
             `;
