@@ -36,7 +36,10 @@ function groupByDate(screenings) {
 
 // Format date for display
 function formatDate(dateString) {
-    const date = new Date(dateString);
+    // Parse date string as local time, not UTC
+    // dateString format: "2025-11-21"
+    const [year, month, day] = dateString.split('-');
+    const date = new Date(year, month - 1, day); // month is 0-indexed
     const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
     return date.toLocaleDateString('en-US', options);
 }
