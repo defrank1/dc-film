@@ -1,4 +1,4 @@
-Oka// Fetch and display screenings
+// Fetch and display screenings
 async function loadScreenings() {
     try {
         const response = await fetch('data/screenings.json');
