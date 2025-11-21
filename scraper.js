@@ -426,7 +426,14 @@ function parseAFITime(timeText) {
  * Helper: Get today's date in YYYY-MM-DD format
  */
 function getTodayDate() {
-  return new Date().toISOString().split('T')[0];
+  // Get current date in Eastern Time (DC timezone)
+  const options = { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' };
+  const formatter = new Intl.DateTimeFormat('en-US', options);
+  const parts = formatter.formatToParts(new Date());
+  const month = parts.find(p => p.type === 'month').value;
+  const day = parts.find(p => p.type === 'day').value;
+  const year = parts.find(p => p.type === 'year').value;
+  return `${year}-${month}-${day}`;
 }
 
 /**

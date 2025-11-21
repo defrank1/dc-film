@@ -1,142 +1,6 @@
 {
-  "lastUpdated": "2025-11-20T19:15:55.739Z",
+  "lastUpdated": "2025-11-21T05:16:13.927Z",
   "screenings": [
-    {
-      "title": "SHAMPOO (1975)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PUT YOUR SOUL ON YOUR HAND AND WALK (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/xC6FfKOMCkC1KlT3GCY3H9Ev6FB.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE HIDDEN FORTRESS (1958)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "13:50",
-      "poster": "https://image.tmdb.org/t/p/w500/olO4vMPKNIJQxhJh54TPQFwKpad.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "15:10",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "16:10",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE LANDLORD (1970)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/DoDKRMIRki2ft2D9bZGa1zzgVx.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PUT YOUR SOUL ON YOUR HAND AND WALK (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "16:55",
-      "poster": "https://image.tmdb.org/t/p/w500/xC6FfKOMCkC1KlT3GCY3H9Ev6FB.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PUT YOUR SOUL ON YOUR HAND AND WALK (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "18:20",
-      "poster": "https://image.tmdb.org/t/p/w500/xC6FfKOMCkC1KlT3GCY3H9Ev6FB.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Master of Suspense (2009)",
-      "venue": "Miracle Theater",
-      "date": "2025-11-20",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/An4tYzdYwMm88PNjKWV2sTfATYY.jpg",
-      "ticketLink": "https://themiracletheatre.com/event-category/in-theatre-movies/"
-    },
-    {
-      "title": "THE KILLER (1989)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "19:10",
-      "poster": "https://image.tmdb.org/t/p/w500/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PEKING OPERA BLUES (1986)",
-      "venue": "AFI Silver",
-      "date": "2025-11-20",
-      "time": "21:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6IcSrruE0hpBvqo40DRfX65nBRX.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NIGHT OF THE JUGGLER (1980)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-20",
-      "time": "21:45",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25111112/hXDG1YaJy4JCSZsqbD3snpEFmvt.jpg",
-      "ticketLink": "https://sunscinema.com/purchase/340052/"
-    },
     {
       "title": "THE WIZARD OF OZ (1939)",
       "venue": "AFI Silver",
@@ -218,6 +82,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Master of Suspense (2009)",
+      "venue": "Miracle Theater",
+      "date": "2025-11-21",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/An4tYzdYwMm88PNjKWV2sTfATYY.jpg",
+      "ticketLink": "https://themiracletheatre.com/event-category/in-theatre-movies/"
+    },
+    {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-11-21",
@@ -240,6 +112,14 @@
       "time": "21:40",
       "poster": "https://image.tmdb.org/t/p/w500/pGQy2KB3I0DouwnKNjChyCgULJQ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NIGHT OF THE JUGGLER (1980)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-21",
+      "time": "21:45",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25111112/hXDG1YaJy4JCSZsqbD3snpEFmvt.jpg",
+      "ticketLink": "https://sunscinema.com/movies/night-of-the-juggler/"
     },
     {
       "title": "HIGH AND LOW (1963)",

@@ -41,6 +41,16 @@ function formatDate(dateString) {
     return date.toLocaleDateString('en-US', options);
 }
 
+
+// Format time from 24-hour to 12-hour format
+function formatTime(timeString) {
+    const [hours, minutes] = timeString.split(':');
+    const hour = parseInt(hours, 10);
+    const ampm = hour >= 12 ? 'PM' : 'AM';
+    const hour12 = hour % 12 || 12;
+    return `${hour12}:${minutes} ${ampm}`;
+}
+
 // Display screenings grouped by date
 function displayScreenings(screenings) {
     const container = document.getElementById('screenings-container');
@@ -84,7 +94,7 @@ function displayScreenings(screenings) {
                     ''}
                     </div>
                     <div class="screening-info">
-                        <div class="showtime">${screening.time}</div>
+                        <div class="showtime">${formatTime(screening.time)}</div>
                         <h3 class="movie-title">${screening.title}</h3>
                         <p class="venue">${screening.venue}</p>
                         ${screening.ticketLink ?
