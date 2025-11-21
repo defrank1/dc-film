@@ -54,18 +54,31 @@ function displayScreenings(screenings) {
     const groupedScreenings = groupByDate(screenings);
     const sortedDates = Object.keys(groupedScreenings).sort();
 
+    // Track which movies have already been displayed with posters
+    const shownMovies = new Set();
+
     let html = '';
 
-    sortedDates.forEach(date => {
+    sortedDates.forEach((date, index) => {
+        const dateId = `date-${index}`;
         html += `
             <div class="date-section">
-                <h2 class="date-header">${formatDate(date)}</h2>
+                <h2 class="date-header" data-date-id="${dateId}">
+                    <span class="date-toggle">▼</span>
+                    ${formatDate(date)}
+                </h2>
+                <div class="date-screenings" id="${dateId}">
         `;
 
         groupedScreenings[date].forEach(screening => {
+            const showPoster = !shownMovies.has(screening.title);
+            if (showPoster) {
+                shownMovies.add(screening.title);
+            }
+
             html += `
                 <div class="screening">
-                    <div class="poster">
+                    <div class="poster${!showPoster ? ' hidden' : ''}">
                         ${screening.poster ?
                     `<img src="${screening.poster}" alt="${screening.title} poster">` :
                     ''}
@@ -82,10 +95,29 @@ function displayScreenings(screenings) {
             `;
         });
 
-        html += '</div>';
+        html += '</div></div>';
     });
 
     container.innerHTML = html;
+
+    // Add click handlers for collapsible date sections
+    document.querySelectorAll('.date-header').forEach(header => {
+        header.addEventListener('click', function() {
+            const dateId = this.getAttribute('data-date-id');
+            const screeningsDiv = document.getElementById(dateId);
+            const toggle = this.querySelector('.date-toggle');
+
+            if (screeningsDiv.classList.contains('collapsed')) {
+                screeningsDiv.classList.remove('collapsed');
+                screeningsDiv.style.maxHeight = screeningsDiv.scrollHeight + 'px';
+                toggle.textContent = '▼';
+            } else {
+                screeningsDiv.classList.add('collapsed');
+                screeningsDiv.style.maxHeight = '0';
+                toggle.textContent = '▶';
+            }
+        });
+    });
 }
 
 // Update last update time
