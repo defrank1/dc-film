@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T06:25:05.033Z",
+  "lastUpdated": "2025-11-22T12:32:48.873Z",
   "screenings": [
     {
       "title": "HIGH AND LOW (1963)",
@@ -74,6 +74,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "BY THE STREAM (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-22",
+      "time": "18:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/08/25110043/1.png",
+      "ticketLink": "https://sunscinema.com/purchase/340055/"
+    },
+    {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-11-22",
@@ -90,28 +98,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "BY THE STREAM (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/08/25110043/1-1024x576.png",
-      "ticketLink": "https://sunscinema.com/movies/by-the-stream/"
-    },
-    {
       "title": "THE FRIENDS (1996)",
       "venue": "Suns Cinema",
       "date": "2025-11-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25105421/uGbO4p5vEuMFyoxLwcnQZdvfoil-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-friends/"
-    },
-    {
-      "title": "RITMO ENFERMEDAD (FREE ENTRY, NOT TICKETED)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/10162238/Screenshot-2025-11-10-at-4.22.15%E2%80%AFPM-1024x1022.png",
-      "ticketLink": "https://sunscinema.com/special_events/ritmo-enfermedad/"
+      "time": "20:35",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25105421/uGbO4p5vEuMFyoxLwcnQZdvfoil.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/340056/"
     },
     {
       "title": "BULLET IN THE HEAD (1990)",
