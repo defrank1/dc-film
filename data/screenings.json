@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T06:29:48.317Z",
+  "lastUpdated": "2025-11-25T12:39:44.447Z",
   "screenings": [
     {
       "title": "THE WIZARD OF OZ (1939)",
@@ -86,16 +86,8 @@
       "venue": "Suns Cinema",
       "date": "2025-11-25",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25114128/wDmy9dQL5fWMA1ZKOS0YAy4JHqA-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-maiden/"
-    },
-    {
-      "title": "BYE BYE LOVE (2018)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25102111/yrBqJ8Dy0SpiVTV9igt2YWXi6OB-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/bye-bye-love/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25114128/wDmy9dQL5fWMA1ZKOS0YAy4JHqA.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/340082/"
     },
     {
       "title": "SENTIMENTAL VALUE (2025)",
@@ -120,6 +112,14 @@
       "time": "21:15",
       "poster": "https://image.tmdb.org/t/p/w500/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "BYE BYE LOVE (2018)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-25",
+      "time": "22:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25102111/yrBqJ8Dy0SpiVTV9igt2YWXi6OB.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/340083/"
     },
     {
       "title": "CINDERELLA (1950)",
