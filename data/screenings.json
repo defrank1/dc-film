@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-26T12:40:35.666Z",
+  "lastUpdated": "2025-11-26T18:23:52.337Z",
   "screenings": [
     {
       "title": "CINDERELLA (1950)",
@@ -554,6 +554,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "IN BRUGES (2008)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/88atstNUnf3AHnnCn4DW2rNJnfW-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/in-bruges-2/"
+    },
+    {
       "title": "PISTACHIO WARS (2024)",
       "venue": "Suns Cinema",
       "date": "2025-12-03",
@@ -568,6 +576,38 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21113143/iqyeQTdw-1024x576.jpeg",
       "ticketLink": "https://sunscinema.com/movies/the-business-of-fancy-dancing/"
+    },
+    {
+      "title": "GREMLINS (1984)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19142510/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/gremlins/"
+    },
+    {
+      "title": "BATMAN RETURNS (1992)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/batman-returns/"
+    },
+    {
+      "title": "KISAPMATA (1981)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24134446/g3yMkJUhLHAqpu9ZBfikY7EFk5i-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/kisapmata/"
+    },
+    {
+      "title": "BATCH '81 (1982)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24134544/dw1Q06oqvoL77ZIhsRBmfOCAHIk-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/batch-81/"
     }
   ]
 }
