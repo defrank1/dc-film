@@ -1,70 +1,6 @@
 {
-  "lastUpdated": "2025-11-26T01:23:53.063Z",
+  "lastUpdated": "2025-11-26T06:29:24.048Z",
   "screenings": [
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "18:20",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JAY KELLY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "18:25",
-      "poster": "https://image.tmdb.org/t/p/w500/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "BULLET IN THE HEAD (1990)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5tY6VtjHlQl4dOjVNhzyJaItkdr.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE MAIDEN (2016)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25114128/wDmy9dQL5fWMA1ZKOS0YAy4JHqA.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-maiden/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "21:05",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JAY KELLY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "21:10",
-      "poster": "https://image.tmdb.org/t/p/w500/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SANJURO (1962)",
-      "venue": "AFI Silver",
-      "date": "2025-11-25",
-      "time": "21:15",
-      "poster": "https://image.tmdb.org/t/p/w500/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "BYE BYE LOVE (2018)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-25",
-      "time": "22:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25102111/yrBqJ8Dy0SpiVTV9igt2YWXi6OB.jpg",
-      "ticketLink": "https://sunscinema.com/purchase/340083/"
-    },
     {
       "title": "CINDERELLA (1950)",
       "venue": "AFI Silver",
@@ -146,6 +82,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE MAIDEN (2016)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25114128/wDmy9dQL5fWMA1ZKOS0YAy4JHqA.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-maiden/"
+    },
+    {
       "title": "RUNNING ON EMPTY (1982)",
       "venue": "Suns Cinema",
       "date": "2025-11-26",
@@ -184,6 +128,14 @@
       "time": "21:30",
       "poster": "https://image.tmdb.org/t/p/w500/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "BYE BYE LOVE (2018)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-26",
+      "time": "22:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25102111/yrBqJ8Dy0SpiVTV9igt2YWXi6OB.jpg",
+      "ticketLink": "https://sunscinema.com/movies/bye-bye-love/"
     },
     {
       "title": "THE WIZARD OF OZ (1939)",
