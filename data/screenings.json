@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-29T06:27:01.062Z",
+  "lastUpdated": "2025-11-29T12:35:18.023Z",
   "screenings": [
     {
       "title": "CINDERELLA (1950)",
@@ -96,6 +96,14 @@
       "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "WITHNAIL & I (1987)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-29",
+      "time": "20:20",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25113020/bOgKCymrdPHPHozhRBNr9XhVD87-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/340076/"
     },
     {
       "title": "SENTIMENTAL VALUE (2025)",
