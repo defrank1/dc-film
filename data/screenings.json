@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-28T18:26:19.162Z",
+  "lastUpdated": "2025-11-29T01:22:20.128Z",
   "screenings": [
     {
       "title": "THE WIZARD OF OZ (1939)",
@@ -202,14 +202,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "UNIVERSAL LANGUAGE (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/25112645/A0FeRPihXjMDN9bdoKsOzIC7zl6-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/universal-language/"
-    },
-    {
       "title": "JAY KELLY (2025)",
       "venue": "AFI Silver",
       "date": "2025-11-29",
@@ -370,6 +362,14 @@
       "ticketLink": "https://sunscinema.com/movies/palestine-36/"
     },
     {
+      "title": "I AM CUBA (2005)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-04",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/08/26112629/a1306c8b85658b28c6e7bb11bba48869.jpg",
+      "ticketLink": "https://sunscinema.com/movies/i-am-cuba/"
+    },
+    {
       "title": "GREMLINS (1984)",
       "venue": "Suns Cinema",
       "date": "2025-12-05",
@@ -394,6 +394,54 @@
       "ticketLink": "https://sunscinema.com/movies/the-wind-that-shakes-the-barley/"
     },
     {
+      "title": "BLACK CHRISTMAS (2006)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143613/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
+      "ticketLink": "https://sunscinema.com/movies/black-christmas/"
+    },
+    {
+      "title": "DIAL CODE SANTA CLAUS (1990)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143425/sFbHQyEmrJeSEFDOCdSybeDYWGY-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/dial-code-santa-claus/"
+    },
+    {
+      "title": "GAZA MON AMOUR (2021)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24133618/2HXZnAYHY52WhoaDl8ugBqCjMJ5-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/gaza-mon-amour/"
+    },
+    {
+      "title": "WAJIB (2017)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24133748/20iZxgEwqRkJuHNSgnowLm9r7fo-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/wajib/"
+    },
+    {
+      "title": "CHAINED GIRLS (1965)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132758/ly97oFklvBCA8wHFtRInJO9WGj1-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/chained-girls/"
+    },
+    {
+      "title": "GLEN OR GLENDA (1953)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132646/i3amNNQD4X0KHG241kuJ3s5wYbG-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/glen-or-glenda/"
+    },
+    {
       "title": "KISAPMATA (1981)",
       "venue": "Suns Cinema",
       "date": "2025-12-17",
@@ -408,6 +456,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24134544/dw1Q06oqvoL77ZIhsRBmfOCAHIk-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/batch-81/"
+    },
+    {
+      "title": "DIE HARD (1988)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/die-hard/"
+    },
+    {
+      "title": "DON'T OPEN TILL CHRISTMAS (1984)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10110526/8uvEijsQVg6HEg6x58LAeL6qjeF-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/dont-open-till-christmas/"
     }
   ]
 }
