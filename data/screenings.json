@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-30T06:27:52.141Z",
+  "lastUpdated": "2025-11-30T12:35:03.639Z",
   "screenings": [
     {
       "title": "SENTIMENTAL VALUE (2025)",
@@ -50,6 +50,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "NO ONE KNOWS ABOUT PERSIAN CATS (2009)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-30",
+      "time": "18:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/27102915/8yGsGMSD5kP6lFuPO2xS6bM6muz.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/340199/"
+    },
+    {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-11-30",
@@ -66,22 +74,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "NO ONE KNOWS ABOUT PERSIAN CATS (2009)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-30",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/10/27102915/8yGsGMSD5kP6lFuPO2xS6bM6muz-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/no-one-knows-about-persian-cats/"
-    },
-    {
-      "title": "SLINGSHOT HIP HOP (2008)",
-      "venue": "Suns Cinema",
-      "date": "2025-11-30",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/03105149/zqMaOTyPgkV6YR9aeyNqnVOwwVC-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/slingshot-hip-hop/"
-    },
-    {
       "title": "DOG DAY AFTERNOON (1975)",
       "venue": "AFI Silver",
       "date": "2025-11-30",
@@ -96,6 +88,14 @@
       "time": "20:30",
       "poster": "https://image.tmdb.org/t/p/w500/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SLINGSHOT HIP HOP (2008)",
+      "venue": "Suns Cinema",
+      "date": "2025-11-30",
+      "time": "20:35",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/03105149/zqMaOTyPgkV6YR9aeyNqnVOwwVC.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/343828/"
     },
     {
       "title": "SENTIMENTAL VALUE (2025)",
@@ -248,6 +248,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10110526/8uvEijsQVg6HEg6x58LAeL6qjeF-683x1024.jpg",
       "ticketLink": "https://sunscinema.com/movies/dont-open-till-christmas/"
+    },
+    {
+      "title": "WITH HASAN IN GAZA (2026)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145020/owJhHIzOzsDCved5nXDLRGjD520-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/with-hasan-in-gaza/"
+    },
+    {
+      "title": "A FIDAI FILM (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145106/rZTRbUrUTlJe2nmmo7uXpQnZb9B-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-fidai-film/"
     }
   ]
 }
