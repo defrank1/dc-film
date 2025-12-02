@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T06:30:30.047Z",
+  "lastUpdated": "2025-12-02T12:41:10.670Z",
   "screenings": [
     {
       "title": "CINDERELLA (1950)",
@@ -74,14 +74,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "IN BRUGES (2008)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-02",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/88atstNUnf3AHnnCn4DW2rNJnfW-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/in-bruges-2/"
-    },
-    {
       "title": "RASHOMON (1950)",
       "venue": "AFI Silver",
       "date": "2025-12-02",
@@ -112,6 +104,14 @@
       "time": "21:10",
       "poster": "https://image.tmdb.org/t/p/w500/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IN BRUGES (2008)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-02",
+      "time": "21:30",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345398/"
     },
     {
       "title": "A GOOFY MOVIE (1995)",
@@ -1848,6 +1848,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145020/owJhHIzOzsDCved5nXDLRGjD520-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/with-hasan-in-gaza/"
+    },
+    {
+      "title": "A FIDAI FILM (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145106/rZTRbUrUTlJe2nmmo7uXpQnZb9B-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-fidai-film/"
     },
     {
       "title": "WHITETAIL (2025)",
