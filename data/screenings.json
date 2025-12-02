@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T12:41:10.670Z",
+  "lastUpdated": "2025-12-02T18:30:53.883Z",
   "screenings": [
     {
       "title": "CINDERELLA (1950)",
@@ -104,14 +104,6 @@
       "time": "21:10",
       "poster": "https://image.tmdb.org/t/p/w500/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IN BRUGES (2008)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-02",
-      "time": "21:30",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
-      "ticketLink": "https://sunscinema.com/purchase/345398/"
     },
     {
       "title": "A GOOFY MOVIE (1995)",
@@ -850,14 +842,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "GREMLINS (1984)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19142510/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/gremlins/"
-    },
-    {
       "title": "BATMAN RETURNS (1992)",
       "venue": "Suns Cinema",
       "date": "2025-12-11",
@@ -1152,14 +1136,6 @@
       "time": "18:30",
       "poster": "https://image.tmdb.org/t/p/w500/rjQj9mE7av7jqCsxt0JySPcSrxL.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "GAZA MON AMOUR (2021)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24133618/2HXZnAYHY52WhoaDl8ugBqCjMJ5-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/gaza-mon-amour/"
     },
     {
       "title": "WAJIB (2017)",
@@ -2000,6 +1976,22 @@
       "time": "21:15",
       "poster": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "CAROL (2015)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/26123121/cJeled7EyPdur6TnCA5GYg0UVna-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/carol/"
+    },
+    {
+      "title": "STRANGE DAYS (1995)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25130557/zSFuvi6fIPT8CHpH1KMG25T2Iub-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/strange-days/"
     }
   ]
 }
