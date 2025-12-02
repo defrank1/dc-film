@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-01T18:31:15.979Z",
+  "lastUpdated": "2025-12-02T01:25:25.697Z",
   "screenings": [
     {
       "title": "A GOOFY MOVIE (1995)",
@@ -302,7 +302,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-03",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/A1EaZKmioByA6Uj2ZCZxOYfE8ic.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lnPGzi7BNc17WtxXso16CjNjT5K.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -426,14 +426,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "PALESTINE 36 (2025)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-04",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24130752/5NV2As0VorEyHJeSvYWXLSxIlc3-1024x575.jpg",
-      "ticketLink": "https://sunscinema.com/movies/palestine-36/"
-    },
-    {
       "title": "I AM CUBA (2005)",
       "venue": "Suns Cinema",
       "date": "2025-12-04",
@@ -470,7 +462,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-05",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/A1EaZKmioByA6Uj2ZCZxOYfE8ic.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/lnPGzi7BNc17WtxXso16CjNjT5K.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -504,22 +496,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "GREMLINS (1984)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-05",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19142510/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/gremlins/"
-    },
-    {
-      "title": "BATMAN RETURNS (1992)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-05",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/batman-returns/"
     },
     {
       "title": "THE LOVE THAT REMAINS (2025)",
@@ -706,14 +682,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE WIND THAT SHAKES THE BARLEY (2006)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132922/fKrFGB96kVeJ9uE83Jc4fIWBgqO-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-wind-that-shakes-the-barley/"
-    },
-    {
       "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-07",
@@ -842,6 +810,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "JETTY (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/25142540/JETTY_92-1024x625.jpg",
+      "ticketLink": "https://sunscinema.com/movies/jetty/"
+    },
+    {
       "title": "SOUND OF FALLING (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-09",
@@ -914,6 +890,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MOONSTRUCK (1987)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19144023/hH5mm3A5r1Bw8uBAJXbAtJxBpPB-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/moonstruck/"
+    },
+    {
       "title": "BELOW THE CLOUDS (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-10",
@@ -968,6 +952,22 @@
       "time": "18:45",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "GREMLINS (1984)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19142510/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/gremlins/"
+    },
+    {
+      "title": "BATMAN RETURNS (1992)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-683x1024.jpg",
+      "ticketLink": "https://sunscinema.com/movies/batman-returns/"
     },
     {
       "title": "MIROIRS NO. 3 (2025)",
@@ -1168,6 +1168,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143425/sFbHQyEmrJeSEFDOCdSybeDYWGY-683x1024.jpg",
       "ticketLink": "https://sunscinema.com/movies/dial-code-santa-claus/"
+    },
+    {
+      "title": "BEATITUDE x DOJO, CASINO",
+      "venue": "Suns Cinema",
+      "date": "2025-12-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/01135126/12_13-flyer2-819x1024.jpg",
+      "ticketLink": "https://sunscinema.com/special_events/beatitude-x-dojo-casino/"
     },
     {
       "title": "THE LAST VIKING (2025)",
@@ -1944,14 +1952,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145020/owJhHIzOzsDCved5nXDLRGjD520-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/with-hasan-in-gaza/"
-    },
-    {
-      "title": "A FIDAI FILM (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145106/rZTRbUrUTlJe2nmmo7uXpQnZb9B-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-fidai-film/"
     },
     {
       "title": "WHITETAIL (2025)",
