@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2025-12-02T18:30:53.883Z",
+  "lastUpdated": "2025-12-03T01:25:32.289Z",
   "screenings": [
-    {
-      "title": "CINDERELLA (1950)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "BARRY LYNDON (1975)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JAY KELLY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "15:20",
-      "poster": "https://image.tmdb.org/t/p/w500/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-02",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "THE WIZARD OF OZ (1939)",
       "venue": "AFI Silver",
@@ -338,6 +290,22 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-05",
+      "time": "11:40",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-05",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-05",
@@ -351,6 +319,14 @@
       "date": "2025-12-05",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/lnPGzi7BNc17WtxXso16CjNjT5K.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-05",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -594,11 +570,35 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-08",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-08",
       "time": "12:45",
       "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-08",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -615,6 +615,14 @@
       "date": "2025-12-08",
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/etH5TJk18eua1i4xke8E2rYEpqB.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-08",
+      "time": "18:10",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -655,6 +663,22 @@
       "date": "2025-12-09",
       "time": "12:45",
       "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-09",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-09",
+      "time": "13:15",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -722,19 +746,27 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-10",
-      "time": "12:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
       "title": "THE LOVE THAT REMAINS (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-10",
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-10",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-10",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -762,19 +794,19 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-10",
-      "time": "18:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
       "title": "FRANZ (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-10",
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-10",
+      "time": "19:00",
+      "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -802,11 +834,35 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-11",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-11",
       "time": "12:45",
       "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-11",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2025-12-11",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1206,7 +1262,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-15",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1382,7 +1438,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-17",
       "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1614,7 +1670,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-19",
       "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1646,7 +1702,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-19",
       "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1702,7 +1758,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-20",
       "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1862,7 +1918,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-22",
       "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1902,7 +1958,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-23",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1942,7 +1998,7 @@
       "venue": "AFI Silver",
       "date": "2025-12-24",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
