@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T06:30:39.606Z",
+  "lastUpdated": "2025-12-03T12:40:47.303Z",
   "screenings": [
     {
       "title": "A GOOFY MOVIE (1995)",
@@ -94,16 +94,8 @@
       "venue": "Suns Cinema",
       "date": "2025-12-03",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21112420/ssBerDe2L2JFEtCIKREZ51cOiRU-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/pistachio-wars/"
-    },
-    {
-      "title": "THE BUSINESS OF FANCY DANCING",
-      "venue": "Suns Cinema",
-      "date": "2025-12-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21113143/iqyeQTdw-1024x576.jpeg",
-      "ticketLink": "https://sunscinema.com/movies/the-business-of-fancy-dancing/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21112420/ssBerDe2L2JFEtCIKREZ51cOiRU-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345000/"
     },
     {
       "title": "JAY KELLY (2025)",
@@ -112,6 +104,14 @@
       "time": "20:50",
       "poster": "https://image.tmdb.org/t/p/w500/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE BUSINESS OF FANCY DANCING",
+      "venue": "Suns Cinema",
+      "date": "2025-12-03",
+      "time": "21:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21113143/iqyeQTdw.jpeg",
+      "ticketLink": "https://sunscinema.com/purchase/345001/"
     },
     {
       "title": "SENTIMENTAL VALUE (2025)",
@@ -1992,6 +1992,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25130557/zSFuvi6fIPT8CHpH1KMG25T2Iub-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/strange-days/"
+    },
+    {
+      "title": "FORAGERS + WILD RELATIVES",
+      "venue": "Suns Cinema",
+      "date": "2025-12-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/02125045/wild-relatives-LG_0.jpg",
+      "ticketLink": "https://sunscinema.com/movies/foragers-wild-relatives/"
+    },
+    {
+      "title": "A FEELING GREATER THAN LOVE (2017)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/arVUENwamRa8M0jMOY26AtZoWy1-1024x576.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-feeling-greater-than-love/"
     }
   ]
 }
