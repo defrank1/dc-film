@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T06:30:29.338Z",
+  "lastUpdated": "2025-12-04T12:41:36.276Z",
   "screenings": [
     {
       "title": "SENTIMENTAL VALUE (2025)",
@@ -82,22 +82,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "PISTACHIO WARS (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-04",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21112420/ssBerDe2L2JFEtCIKREZ51cOiRU-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/pistachio-wars/"
-    },
-    {
-      "title": "I AM CUBA (2005)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-04",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/08/26112629/a1306c8b85658b28c6e7bb11bba48869.jpg",
-      "ticketLink": "https://sunscinema.com/movies/i-am-cuba/"
-    },
-    {
       "title": "JAY KELLY (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-04",
@@ -106,20 +90,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE BUSINESS OF FANCY DANCING",
-      "venue": "Suns Cinema",
-      "date": "2025-12-04",
-      "time": "21:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/21113143/iqyeQTdw.jpeg",
-      "ticketLink": "https://sunscinema.com/movies/the-business-of-fancy-dancing/"
-    },
-    {
       "title": "THE LOVE THAT REMAINS (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-04",
       "time": "21:10",
       "poster": "https://image.tmdb.org/t/p/w500/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "I AM CUBA (2005)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-04",
+      "time": "21:45",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/08/26112629/a1306c8b85658b28c6e7bb11bba48869.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345403/"
     },
     {
       "title": "SENTIMENTAL VALUE (2025)",
