@@ -1,62 +1,6 @@
 {
-  "lastUpdated": "2025-12-04T18:31:09.239Z",
+  "lastUpdated": "2025-12-05T01:26:11.902Z",
   "screenings": [
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JAY KELLY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PETER HUJAR'S DAY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "15:20",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JAY KELLY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MIROIRS NO. 3 (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-04",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rLQZtoJaZb85u4M3wPjrlVGrW1Q.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "AFI Silver",
@@ -1850,6 +1794,46 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-25",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-25",
+      "time": "16:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-25",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-26",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-26",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "CAROL (2015)",
       "venue": "Suns Cinema",
       "date": "2025-12-26",
@@ -1858,12 +1842,60 @@
       "ticketLink": "https://sunscinema.com/movies/carol/"
     },
     {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-26",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-27",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-27",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "STRANGE DAYS (1995)",
       "venue": "Suns Cinema",
       "date": "2025-12-27",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25130557/zSFuvi6fIPT8CHpH1KMG25T2Iub-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/strange-days/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-27",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-28",
+      "time": "13:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-28",
+      "time": "16:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
       "title": "FORAGERS + WILD RELATIVES",
@@ -1880,6 +1912,86 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/arVUENwamRa8M0jMOY26AtZoWy1-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/a-feeling-greater-than-love/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-28",
+      "time": "20:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-29",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-29",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-29",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-30",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-30",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-30",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2025-12-31",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-31",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2025-12-31",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
     }
   ]
 }
