@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2025-12-10T01:27:33.919Z",
+  "lastUpdated": "2025-12-10T06:31:27.534Z",
   "screenings": [
-    {
-      "title": "THE SOUTHERN CHRONICLES (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-09",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/2peyJP4L5SdvDslCWwKP4KLUiGZ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-09",
-      "time": "18:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "REEDLAND (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-09",
-      "time": "18:50",
-      "poster": "https://image.tmdb.org/t/p/w500/kTRGVm6d5hUzhPO6qb0boddIBIY.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "JETTY (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/25142540/JETTY_92.jpg",
-      "ticketLink": "https://sunscinema.com/movies/jetty/"
-    },
-    {
-      "title": "SOUND OF FALLING (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-09",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "PHANTOMS OF JULY (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-09",
-      "time": "21:10",
-      "poster": "https://image.tmdb.org/t/p/w500/4HqQg0WxnTNxkil7Pg21HPknwtj.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "THE LOVE THAT REMAINS (2025)",
       "venue": "AFI Silver",
@@ -112,6 +64,14 @@
       "time": "19:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "JETTY (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/25142540/JETTY_92.jpg",
+      "ticketLink": "https://sunscinema.com/movies/jetty/"
     },
     {
       "title": "BELOW THE CLOUDS (2025)",
