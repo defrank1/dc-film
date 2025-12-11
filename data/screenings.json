@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T06:32:15.998Z",
+  "lastUpdated": "2025-12-11T12:42:51.229Z",
   "screenings": [
     {
       "title": "IT WAS JUST AN ACCIDENT (2025)",
@@ -66,14 +66,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "BATMAN RETURNS (1992)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/batman-returns/"
-    },
-    {
       "title": "MIROIRS NO. 3 (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-11",
@@ -96,6 +88,14 @@
       "time": "21:10",
       "poster": "https://image.tmdb.org/t/p/w500/etH5TJk18eua1i4xke8E2rYEpqB.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "BATMAN RETURNS (1992)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-11",
+      "time": "21:30",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345407/"
     },
     {
       "title": "ELF Sing and Cheer Along",
