@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2025-12-12T01:28:04.725Z",
+  "lastUpdated": "2025-12-12T06:31:17.197Z",
   "screenings": [
-    {
-      "title": "A PRIVATE LIFE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/autix2cGJ0w47Fabzr8axN9U8Jl.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "18:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MIROIRS NO. 3 (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/rLQZtoJaZb85u4M3wPjrlVGrW1Q.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "DRACULA (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "20:40",
-      "poster": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "LITTLE TROUBLE GIRLS (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "21:10",
-      "poster": "https://image.tmdb.org/t/p/w500/etH5TJk18eua1i4xke8E2rYEpqB.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "BATMAN RETURNS (1992)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-11",
-      "time": "21:30",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/purchase/345407/"
-    },
     {
       "title": "ELF Sing and Cheer Along",
       "venue": "AFI Silver",
@@ -128,6 +80,14 @@
       "time": "21:20",
       "poster": "https://image.tmdb.org/t/p/w500/lzlHMOSCjXv0LkTehAD0XHS6xQh.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "BATMAN RETURNS (1992)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-12",
+      "time": "21:30",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/batman-returns/"
     },
     {
       "title": "A MAGNIFICENT LIFE (2025)",
