@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2025-12-11T18:28:48.668Z",
+  "lastUpdated": "2025-12-12T01:28:04.725Z",
   "screenings": [
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "12:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "FRANZ (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "15:50",
-      "poster": "https://image.tmdb.org/t/p/w500/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VISITOR (2013)",
-      "venue": "AFI Silver",
-      "date": "2025-12-11",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/i9XJG3iSUpAO3YAzlejNGLNzfdl.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "A PRIVATE LIFE (2025)",
       "venue": "AFI Silver",
@@ -882,6 +834,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "BLACK CHRISTMAS (2006)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143613/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
+      "ticketLink": "https://sunscinema.com/movies/black-christmas/"
+    },
+    {
       "title": "DON'T OPEN TILL CHRISTMAS (1984)",
       "venue": "Suns Cinema",
       "date": "2025-12-19",
@@ -1000,14 +960,6 @@
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/hPj1RiuhW72lIfa8UrIncDGSSD0.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "DIE HARD (1988)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-20",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
-      "ticketLink": "https://sunscinema.com/movies/die-hard/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -1256,6 +1208,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "DIE HARD (1988)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-23",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/die-hard/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
