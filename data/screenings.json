@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-14T06:28:05.194Z",
+  "lastUpdated": "2025-12-14T12:36:38.938Z",
   "screenings": [
     {
       "title": "GEN_ (2025)",
@@ -66,14 +66,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "WAJIB (2017)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24133748/20iZxgEwqRkJuHNSgnowLm9r7fo-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/wajib/"
-    },
-    {
       "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-14",
@@ -90,20 +82,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "WAJIB (2017)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-14",
+      "time": "20:15",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24133748/20iZxgEwqRkJuHNSgnowLm9r7fo.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345448/"
+    },
+    {
       "title": "THE CAPTIVE (2014)",
       "venue": "AFI Silver",
       "date": "2025-12-14",
       "time": "21:00",
       "poster": "https://image.tmdb.org/t/p/w500/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "BEATITUDE x DOJO, CASINO",
-      "venue": "Suns Cinema",
-      "date": "2025-12-14",
-      "time": "22:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/01135126/12_13-flyer2.jpg",
-      "ticketLink": "https://sunscinema.com/special_events/beatitude-x-dojo-casino/"
     },
     {
       "title": "CHRISTMAS IN CONNECTICUT (1945)",
