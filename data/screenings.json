@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T06:31:47.495Z",
+  "lastUpdated": "2025-12-16T12:41:48.986Z",
   "screenings": [
     {
       "title": "THE MUPPET CHRISTMAS CAROL (1992)",
@@ -82,28 +82,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "CHAINED GIRLS (1965)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132758/ly97oFklvBCA8wHFtRInJO9WGj1-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/chained-girls/"
-    },
-    {
-      "title": "GLEN OR GLENDA (1953)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132646/i3amNNQD4X0KHG241kuJ3s5wYbG-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/glen-or-glenda/"
-    },
-    {
       "title": "RENOVATION (2018)",
       "venue": "AFI Silver",
       "date": "2025-12-16",
       "time": "21:00",
       "poster": "https://image.tmdb.org/t/p/w500/cHlwk4Xu5Ug7NihAz3RSG1ze3nQ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "GLEN OR GLENDA (1953)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-16",
+      "time": "21:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132646/i3amNNQD4X0KHG241kuJ3s5wYbG.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345446/"
     },
     {
       "title": "AMRUM (2025)",
