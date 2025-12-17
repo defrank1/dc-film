@@ -1,70 +1,6 @@
 {
-  "lastUpdated": "2025-12-17T01:24:25.424Z",
+  "lastUpdated": "2025-12-17T06:30:57.400Z",
   "screenings": [
-    {
-      "title": "DUSE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/o9s7QiKnukMULQo12u7j9SnjjYb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "CIAO CIAO (1988)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/geZW7Idac0orJlMM5lZoUcsovSP.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "ISLANDS (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/a5CewSvoMsfAdg093AKzovKfVHd.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "KILL BILL: THE WHOLE BLOODY AFFAIR in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "18:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE LAST VIKING (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/92ztdPsf98i0tLcONIX92yuh3MQ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "RENOVATION (2018)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cHlwk4Xu5Ug7NihAz3RSG1ze3nQ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "GLEN OR GLENDA (1953)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-16",
-      "time": "21:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132646/i3amNNQD4X0KHG241kuJ3s5wYbG.jpg",
-      "ticketLink": "https://sunscinema.com/purchase/345446/"
-    },
-    {
-      "title": "AMRUM (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-16",
-      "time": "21:25",
-      "poster": "https://image.tmdb.org/t/p/w500/yrFHlsSa5bK2LrV0oN6xpdodyBI.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "IT'S A WONDERFUL LIFE (1946)",
       "venue": "AFI Silver",
@@ -160,6 +96,14 @@
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/2sUA6hyjC2HVJjDTKtCcOTzv6Qn.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "GLEN OR GLENDA (1953)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-17",
+      "time": "21:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24132646/i3amNNQD4X0KHG241kuJ3s5wYbG.jpg",
+      "ticketLink": "https://sunscinema.com/movies/glen-or-glenda/"
     },
     {
       "title": "MADE IN EU (2026)",
