@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T06:30:09.644Z",
+  "lastUpdated": "2025-12-19T12:39:26.196Z",
   "screenings": [
     {
       "title": "THE MUPPET CHRISTMAS CAROL (1992)",
@@ -82,36 +82,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "BLACK CHRISTMAS (2006)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-19",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143613/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
-      "ticketLink": "https://sunscinema.com/movies/black-christmas/"
-    },
-    {
-      "title": "DIAL CODE SANTA CLAUS (1990)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-19",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143425/sFbHQyEmrJeSEFDOCdSybeDYWGY-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/dial-code-santa-claus/"
-    },
-    {
-      "title": "DON'T OPEN TILL CHRISTMAS (1984)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-19",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10110526/8uvEijsQVg6HEg6x58LAeL6qjeF-683x1024.jpg",
-      "ticketLink": "https://sunscinema.com/movies/dont-open-till-christmas/"
-    },
-    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-19",
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "DIAL CODE SANTA CLAUS (1990)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-19",
+      "time": "20:30",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143425/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345395/"
     },
     {
       "title": "DIE HARD (1988)",
@@ -128,6 +112,14 @@
       "time": "21:30",
       "poster": "https://image.tmdb.org/t/p/w500/zZJACnkGZfSfHGvRxWFZe1dDxWR.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "DON'T OPEN TILL CHRISTMAS (1984)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-19",
+      "time": "22:45",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10110526/8uvEijsQVg6HEg6x58LAeL6qjeF.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345396/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
