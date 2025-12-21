@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T06:28:42.681Z",
+  "lastUpdated": "2025-12-21T12:36:27.831Z",
   "screenings": [
     {
       "title": "RENOVATION (2018)",
@@ -58,6 +58,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "WITH HASAN IN GAZA (2026)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-21",
+      "time": "18:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145020/owJhHIzOzsDCved5nXDLRGjD520.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345468/"
+    },
+    {
       "title": "ON HER MAJESTY'S SECRET SERVICE (1969)",
       "venue": "AFI Silver",
       "date": "2025-12-21",
@@ -74,28 +82,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "WITH HASAN IN GAZA (2026)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145020/owJhHIzOzsDCved5nXDLRGjD520-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/with-hasan-in-gaza/"
-    },
-    {
-      "title": "A FIDAI FILM (2024)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145106/rZTRbUrUTlJe2nmmo7uXpQnZb9B-1024x576.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-fidai-film/"
-    },
-    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-21",
       "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "A FIDAI FILM (2024)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-21",
+      "time": "20:35",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/24145106/rZTRbUrUTlJe2nmmo7uXpQnZb9B.jpg",
+      "ticketLink": "https://sunscinema.com/purchase/345469/"
     },
     {
       "title": "WHITETAIL (2025)",
