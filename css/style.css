@@ -97,6 +97,10 @@ h1 {
     background: rgba(34, 197, 94, 0.20);
 }
 
+.screening.venue-angelika {
+    background: rgba(249, 115, 22, 0.20);
+}
+
 .screening:last-child {
     border-bottom: none;
 }

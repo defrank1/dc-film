@@ -93,7 +93,8 @@ function displayScreenings(screenings) {
             const venueClass = screening.venue.toLowerCase().includes('afi') ? 'venue-afi' :
                               screening.venue.toLowerCase().includes('suns') ? 'venue-suns' :
                               screening.venue.toLowerCase().includes('miracle') ? 'venue-miracle' :
-                              screening.venue.toLowerCase().includes('library') ? 'venue-library' : '';
+                              screening.venue.toLowerCase().includes('library') ? 'venue-library' :
+                              screening.venue.toLowerCase().includes('angelika') ? 'venue-angelika' : '';
 
             html += `
                 <div class="screening ${venueClass}">
