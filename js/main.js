@@ -92,7 +92,8 @@ function displayScreenings(screenings) {
             // Determine venue class for background color
             const venueClass = screening.venue.toLowerCase().includes('afi') ? 'venue-afi' :
                               screening.venue.toLowerCase().includes('suns') ? 'venue-suns' :
-                              screening.venue.toLowerCase().includes('miracle') ? 'venue-miracle' : '';
+                              screening.venue.toLowerCase().includes('miracle') ? 'venue-miracle' :
+                              screening.venue.toLowerCase().includes('library') ? 'venue-library' : '';
 
             html += `
                 <div class="screening ${venueClass}">

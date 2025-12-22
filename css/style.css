@@ -93,6 +93,10 @@ h1 {
     background: rgba(168, 85, 247, 0.20);
 }
 
+.screening.venue-library {
+    background: rgba(34, 197, 94, 0.20);
+}
+
 .screening:last-child {
     border-bottom: none;
 }

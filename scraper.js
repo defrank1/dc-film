@@ -380,6 +380,53 @@ async function scrapeAvalonTheater() {
 }
 
 /**
+ * Scrape Library of Congress
+ * Uses LOC Events JSON API
+ */
+async function scrapeLibraryOfCongress() {
+  console.log('Scraping Library of Congress...');
+  try {
+    const response = await axios.get('https://www.loc.gov/events/?q=film&fo=json', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0'
+      }
+    });
+
+    const events = response.data.content.results;
+    const screenings = [];
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    events.forEach(event => {
+      const categories = event.item?.categories || [];
+      const isFilmScreening = categories.includes('film and video screenings');
+      const eventDate = new Date(event.date);
+      const isFuture = eventDate >= today;
+
+      if (isFilmScreening && isFuture) {
+        const startTime = event.item?.event_start_time_local || '';
+        const time = parseTime(startTime.split('T')[1]?.substring(0, 5) || '19:00');
+
+        screenings.push({
+          title: event.title,
+          venue: `Library of Congress - ${event.item?.campus || 'Main Campus'}`,
+          date: event.date,
+          time: time || '19:00',
+          poster: event.image_url?.[0] || null,
+          ticketLink: event.url
+        });
+      }
+    });
+
+    console.log(`Found ${screenings.length} screenings at Library of Congress`);
+    return screenings;
+  } catch (error) {
+    console.error('Error scraping Library of Congress:', error.message);
+    return [];
+  }
+}
+
+/**
  * Helper: Format date to YYYY-MM-DD
  */
 function formatDate(dateString) {
@@ -491,7 +538,8 @@ async function scrapeAllTheaters() {
     scrapeSunsCinema(),
     scrapeAngelika(),
     scrapeMiracleTheater(),
-    scrapeAvalonTheater()
+    scrapeAvalonTheater(),
+    scrapeLibraryOfCongress()
   ]);
 
   // Collect all successful results
