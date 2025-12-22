@@ -77,8 +77,20 @@ h1 {
 .screening {
     display: flex;
     gap: 12px;
-    padding: 12px 0;
+    padding: 12px;
     border-bottom: 1px solid #eee;
+}
+
+.screening.venue-afi {
+    background: rgba(0, 0, 0, 0.20);
+}
+
+.screening.venue-suns {
+    background: rgba(59, 130, 246, 0.20);
+}
+
+.screening.venue-miracle {
+    background: rgba(168, 85, 247, 0.20);
 }
 
 .screening:last-child {

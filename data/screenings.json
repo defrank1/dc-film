@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T01:41:35.743Z",
+  "lastUpdated": "2025-12-22T03:56:50.475Z",
   "screenings": [
     {
       "title": "RENOVATION (2018)",
@@ -178,6 +178,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "David (2025)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-22",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/david-2/"
+    },
+    {
       "title": "DIE HARD (1988)",
       "venue": "AFI Silver",
       "date": "2025-12-22",
@@ -200,6 +208,14 @@
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "It's a Wonderful Life (1946)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-22",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-11/"
     },
     {
       "title": "GOOD TIME (2017)",
@@ -554,6 +570,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "David (2025)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-26",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/david/"
+    },
+    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
@@ -568,6 +592,14 @@
       "time": "18:15",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Nuremberg (2025)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-26",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/fi7GXCxe0hIQRWwvIkZ1wI3fCHk.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/nuremberg-5/"
     },
     {
       "title": "MARTY SUPREME in 70mm",
@@ -626,6 +658,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Home Alone (1992)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-27",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/home-alone-7/"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-27",
@@ -640,6 +680,14 @@
       "time": "15:45",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "It’s a Wonderful Life (1946)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-27",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-10/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -672,6 +720,14 @@
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "White Christmas (1954)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-27",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/white-christmas-10/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -714,12 +770,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "The Polar Express (2004)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-polar-express-11/"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-28",
       "time": "15:30",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Elf (2003)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-28",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/elf-15/"
     },
     {
       "title": "MARTY SUPREME in 70mm",
@@ -760,6 +832,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/arVUENwamRa8M0jMOY26AtZoWy1-1024x576.jpg",
       "ticketLink": "https://sunscinema.com/movies/a-feeling-greater-than-love/"
+    },
+    {
+      "title": "David (2025)",
+      "venue": "Miracle Theater",
+      "date": "2025-12-28",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/david-4/"
     },
     {
       "title": "THE SECRET AGENT (2025)",

@@ -89,8 +89,13 @@ function displayScreenings(screenings) {
                 shownMovies.add(screening.title);
             }
 
+            // Determine venue class for background color
+            const venueClass = screening.venue.toLowerCase().includes('afi') ? 'venue-afi' :
+                              screening.venue.toLowerCase().includes('suns') ? 'venue-suns' :
+                              screening.venue.toLowerCase().includes('miracle') ? 'venue-miracle' : '';
+
             html += `
-                <div class="screening">
+                <div class="screening ${venueClass}">
                     <div class="poster${!showPoster ? ' hidden' : ''}">
                         ${screening.poster ?
                     `<img src="${screening.poster}" alt="${screening.title} poster">` :

@@ -293,15 +293,49 @@ async function scrapeAngelika() {
 
 /**
  * Scrape Miracle Theater
- * Note: May use WordPress/WooCommerce structure
+ * Uses RSS feed with Modern Events Calendar data
  */
 async function scrapeMiracleTheater() {
   console.log('Scraping Miracle Theater...');
-  // Disabled: Site uses Modern Events Calendar with JavaScript-rendered content
-  // The WordPress API doesn't expose screening times, only movie titles
-  // Would require headless browser (Puppeteer) to access actual showtimes
-  console.log('Miracle Theater scraping disabled (JavaScript-heavy site, no reliable data source)');
-  return [];
+  try {
+    const response = await axios.get('https://themiracletheatre.com/events/feed/', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0'
+      }
+    });
+    const $ = cheerio.load(response.data, { xmlMode: true });
+    const screenings = [];
+
+    $('item').each((i, item) => {
+      const $item = $(item);
+      const title = $item.find('title').text().trim();
+      const link = $item.find('link').text().trim();
+      const startDate = $item.find('mec\\:startDate, startDate').text().trim(); // 2025-12-22
+      const startHour = $item.find('mec\\:startHour, startHour').text().trim(); // "4:30 pm"
+      const category = $item.find('mec\\:category, category').text().trim();
+      const imageUrl = $item.find('description img').attr('src');
+
+      // Only include items in the "Movies" category
+      if (category && category.toLowerCase().includes('movies') && startDate && title) {
+        const time = parseTime(startHour);
+
+        screenings.push({
+          title: title,
+          venue: 'Miracle Theater',
+          date: startDate,
+          time: time || '19:30', // Default if parsing fails
+          poster: imageUrl || null,
+          ticketLink: link
+        });
+      }
+    });
+
+    console.log(`Found ${screenings.length} screenings at Miracle Theater`);
+    return screenings;
+  } catch (error) {
+    console.error('Error scraping Miracle Theater:', error.message);
+    return [];
+  }
 }
 
 /**
