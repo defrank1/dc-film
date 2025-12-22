@@ -402,14 +402,17 @@ async function scrapeLibraryOfCongress() {
       const isFilmScreening = categories.includes('film and video screenings');
       const eventDate = new Date(event.date);
       const isFuture = eventDate >= today;
+      const campus = event.item?.campus || '';
+      const isMainCampus = campus === 'Main Campus';
 
-      if (isFilmScreening && isFuture) {
+      // Only include Main Campus (DC) screenings, exclude Packard Campus (Culpeper, VA)
+      if (isFilmScreening && isFuture && isMainCampus) {
         const startTime = event.item?.event_start_time_local || '';
         const time = parseTime(startTime.split('T')[1]?.substring(0, 5) || '19:00');
 
         screenings.push({
           title: event.title,
-          venue: `Library of Congress - ${event.item?.campus || 'Main Campus'}`,
+          venue: 'Library of Congress',
           date: event.date,
           time: time || '19:00',
           poster: event.image_url?.[0] || null,
