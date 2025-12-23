@@ -461,43 +461,93 @@ async function scrapeMiracleTheater() {
 }
 
 /**
- * Scrape Avalon Theater
- * Note: May use calendar widget/events system
+ * Scrape Avalon Theater using Puppeteer
+ * Note: Site blocks requests, requires headless browser
  */
 async function scrapeAvalonTheater() {
-  console.log('Scraping Avalon Theater...');
+  console.log('Scraping Avalon Theater with Puppeteer...');
+
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--disable-gpu'
+    ]
+  });
+
   try {
-    const response = await axios.get(THEATERS.AVALON, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
+    await page.goto('https://www.theavalon.org/', {
+      waitUntil: 'networkidle2',
+      timeout: 30000
     });
-    const $ = cheerio.load(response.data);
-    const screenings = [];
 
-    // Look for event listings
-    $('.event, .screening, .fc-event, article').each((i, elem) => {
-      const $elem = $(elem);
-      const title = $elem.find('h1, h2, h3, .title, .event-title').first().text().trim();
-      const link = $elem.find('a').first().attr('href');
+    await new Promise(resolve => setTimeout(resolve, 2000));
 
-      if (title && title.length > 3) {
-        screenings.push({
-          title: title,
-          venue: 'Avalon Theater',
-          date: getTodayDate(),
-          time: '19:30',
-          poster: null,
-          ticketLink: link || THEATERS.AVALON
+    const screenings = await page.evaluate(() => {
+      const results = [];
+      const showtimeItems = document.querySelectorAll('ul.showtimes li, .showtimes li');
+
+      // Get today's date in YYYY-MM-DD format
+      const today = new Date();
+      const year = today.getFullYear();
+      const month = String(today.getMonth() + 1).padStart(2, '0');
+      const day = String(today.getDate()).padStart(2, '0');
+      const todayDate = `${year}-${month}-${day}`;
+
+      showtimeItems.forEach(item => {
+        const titleLink = item.querySelector('a');
+        const title = titleLink?.textContent?.trim();
+        const link = titleLink?.href;
+
+        const posterImg = item.querySelector('img');
+        const poster = posterImg?.src || null;
+
+        const timeElements = item.querySelectorAll('.times span, .times a');
+        timeElements.forEach(timeEl => {
+          const timeText = timeEl.textContent?.trim();
+
+          if (timeText && timeText.match(/^\d{1,2}:\d{2}$/)) {
+            let time24 = timeText;
+            const parts = timeText.split(':');
+            let hours = parseInt(parts[0]);
+            const minutes = parts[1];
+
+            // Assume PM for times before 10, AM for 10-11
+            if (hours < 10 && hours >= 1) {
+              hours += 12; // PM
+            }
+
+            time24 = `${String(hours).padStart(2, '0')}:${minutes}`;
+
+            results.push({
+              title,
+              venue: 'Avalon Theater',
+              date: todayDate,
+              time: time24,
+              poster,
+              ticketLink: link
+            });
+          }
         });
-      }
+      });
+
+      return results;
     });
 
-    console.log(`Found ${screenings.length} screenings at Avalon Theater (limited data)`);
-    return screenings.slice(0, 10); // Limit to avoid duplicates
+    console.log(`Found ${screenings.length} screenings at Avalon Theater`);
+    return screenings;
+
   } catch (error) {
     console.error('Error scraping Avalon Theater:', error.message);
     return [];
+  } finally {
+    await browser.close();
   }
 }
 
@@ -548,6 +598,128 @@ async function scrapeLibraryOfCongress() {
   } catch (error) {
     console.error('Error scraping Library of Congress:', error.message);
     return [];
+  }
+}
+
+/**
+ * Scrape National Gallery of Art using Puppeteer
+ * Note: Site uses Cloudflare protection, requires headless browser
+ */
+async function scrapeNationalGallery() {
+  console.log('Scraping National Gallery of Art with Puppeteer...');
+
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--disable-gpu'
+    ]
+  });
+
+  try {
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
+    const today = new Date();
+    const year = today.getFullYear();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    const dateParam = `${year}-${month}-${day}`;
+
+    const url = `https://www.nga.gov/calendar?type%5B103026%5D=103026&visit_start=${dateParam}&tab=all`;
+
+    await page.goto(url, {
+      waitUntil: 'networkidle2',
+      timeout: 30000
+    });
+
+    await new Promise(resolve => setTimeout(resolve, 3000));
+
+    const screenings = await page.evaluate(() => {
+      const results = [];
+      const seen = new Set();
+
+      const bodyText = document.body.innerText;
+      const lines = bodyText.split('\n');
+
+      let currentDate = null;
+      let currentTitle = null;
+      let currentTime = null;
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+
+        const dateMatch = line.match(/^([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})$/);
+        if (dateMatch) {
+          const months = {
+            January: '01', February: '02', March: '03', April: '04', May: '05', June: '06',
+            July: '07', August: '08', September: '09', October: '10', November: '11', December: '12'
+          };
+          const month = months[dateMatch[1]];
+          const day = dateMatch[2].padStart(2, '0');
+          const year = dateMatch[3];
+          if (month) {
+            currentDate = `${year}-${month}-${day}`;
+          }
+          continue;
+        }
+
+        if (line === 'FILMS') {
+          for (let j = i + 1; j < lines.length; j++) {
+            const nextLine = lines[j].trim();
+            if (nextLine && nextLine !== 'FILM SERIES' && !nextLine.includes('Learn More')) {
+              currentTitle = nextLine;
+              i = j;
+              break;
+            }
+          }
+          continue;
+        }
+
+        const timeMatch = line.match(/^(\d{1,2}):(\d{2})\s*(a\.m\.|p\.m\.)/i);
+        if (timeMatch && currentTitle && currentDate) {
+          let hours = parseInt(timeMatch[1]);
+          const minutes = timeMatch[2];
+          const period = timeMatch[3].toLowerCase();
+
+          if (period.startsWith('p') && hours !== 12) hours += 12;
+          if (period.startsWith('a') && hours === 12) hours = 0;
+
+          currentTime = `${String(hours).padStart(2, '0')}:${minutes}`;
+
+          const key = `${currentTitle}-${currentDate}-${currentTime}`;
+          if (!seen.has(key)) {
+            seen.add(key);
+
+            results.push({
+              title: currentTitle,
+              venue: 'National Gallery of Art',
+              date: currentDate,
+              time: currentTime,
+              poster: null,
+              ticketLink: `https://www.nga.gov/calendar?type%5B103026%5D=103026`
+            });
+          }
+
+          currentTitle = null;
+          currentTime = null;
+        }
+      }
+
+      return results;
+    });
+
+    console.log(`Found ${screenings.length} screenings at National Gallery of Art`);
+    return screenings;
+
+  } catch (error) {
+    console.error('Error scraping NGA:', error.message);
+    return [];
+  } finally {
+    await browser.close();
   }
 }
 
@@ -664,7 +836,8 @@ async function scrapeAllTheaters() {
     scrapeAngelika(),
     scrapeMiracleTheater(),
     scrapeAvalonTheater(),
-    scrapeLibraryOfCongress()
+    scrapeLibraryOfCongress(),
+    scrapeNationalGallery()
   ]);
 
   // Collect all successful results

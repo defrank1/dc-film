@@ -101,6 +101,14 @@ h1 {
     background: rgba(249, 115, 22, 0.20);
 }
 
+.screening.venue-avalon {
+    background: rgba(236, 72, 153, 0.20);
+}
+
+.screening.venue-nga {
+    background: rgba(139, 92, 246, 0.20);
+}
+
 .screening:last-child {
     border-bottom: none;
 }

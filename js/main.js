@@ -94,7 +94,9 @@ function displayScreenings(screenings) {
                               screening.venue.toLowerCase().includes('suns') ? 'venue-suns' :
                               screening.venue.toLowerCase().includes('miracle') ? 'venue-miracle' :
                               screening.venue.toLowerCase().includes('library') ? 'venue-library' :
-                              screening.venue.toLowerCase().includes('angelika') ? 'venue-angelika' : '';
+                              screening.venue.toLowerCase().includes('angelika') ? 'venue-angelika' :
+                              screening.venue.toLowerCase().includes('avalon') ? 'venue-avalon' :
+                              screening.venue.toLowerCase().includes('national gallery') ? 'venue-nga' : '';
 
             html += `
                 <div class="screening ${venueClass}">
