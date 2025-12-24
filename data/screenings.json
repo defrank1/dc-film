@@ -1,70 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T01:27:54.225Z",
+  "lastUpdated": "2025-12-24T06:32:24.629Z",
   "screenings": [
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "CHRISTMAS IN CONNECTICUT (1945)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "GOOD TIME (2017)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "HOME ALONE (1992)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "UNCUT GEMS (2019)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "EDWARD SCISSORHANDS (1990)",
-      "venue": "AFI Silver",
-      "date": "2025-12-23",
-      "time": "21:10",
-      "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "THE MUPPET CHRISTMAS CAROL (1992)",
       "venue": "AFI Silver",
@@ -458,6 +394,14 @@
       "ticketLink": "https://themiracletheatre.com/events/home-alone-7/"
     },
     {
+      "title": "Queen Kelly (1932)",
+      "venue": "National Gallery of Art",
+      "date": "2025-12-27",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/86kEZyMwfYZIxO28EHqmoBYPqN.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-27",
@@ -568,6 +512,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-polar-express-11/"
+    },
+    {
+      "title": "Holiday (2019)",
+      "venue": "National Gallery of Art",
+      "date": "2025-12-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jekgQsMxtLNaERcFexSeABWp6Y7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -928,6 +880,38 @@
       "time": "21:00",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "In Honor of Black Excellence; Speaking in Tongues",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-03",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "still/here; Rough and Unequal",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-04",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Ernest Cole: Lost and Found (2024)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "\"Outsider. Freud\" Film Screening and Conversation with Director Yair Qedar",
