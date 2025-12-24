@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T06:32:24.629Z",
+  "lastUpdated": "2025-12-24T12:40:19.142Z",
   "screenings": [
     {
       "title": "THE MUPPET CHRISTMAS CAROL (1992)",
@@ -40,6 +40,22 @@
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "13:15",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
       "title": "IT'S A WONDERFUL LIFE (1946)",
@@ -88,6 +104,22 @@
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
       "title": "THE HOUSEMAID (2025)",
@@ -146,12 +178,28 @@
       "ticketLink": null
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-24",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-24",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
       "title": "HUNDREDS OF BEAVERS: A NORTHWOODS CHRISTMAS",
