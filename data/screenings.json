@@ -1,102 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T01:28:53.889Z",
+  "lastUpdated": "2025-12-25T06:31:44.659Z",
   "screenings": [
-    {
-      "title": "THE MUPPET CHRISTMAS CAROL (1992)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "EYES WIDE SHUT (1999)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "12:50",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "IT'S A WONDERFUL LIFE (1946)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "ELF Sing and Cheer Along (2018)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/nZMeLiWPitR1d027mvWvY5tEXDH.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "UNCUT GEMS (2019)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "EDWARD SCISSORHANDS (1990)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "HUNDREDS OF BEAVERS: A NORTHWOODS CHRISTMAS",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "21:00",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "DIE HARD (1988)",
-      "venue": "AFI Silver",
-      "date": "2025-12-24",
-      "time": "21:15",
-      "poster": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -165,17 +69,17 @@
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-25",
-      "time": "13:15",
+      "time": "13:30",
       "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
-      "title": "Sentimental Value (2025)",
+      "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-25",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "MARTY SUPREME (2025)",
@@ -226,20 +130,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-25",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
       "title": "Sentimental Value (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-25",
-      "time": "16:30",
+      "time": "16:20",
       "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
       "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-25",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -298,12 +202,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Sentimental Value (2025)",
+      "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-25",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
