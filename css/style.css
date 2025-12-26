@@ -58,6 +58,40 @@ h1 {
     border-color: #333;
 }
 
+/* Filter controls */
+.filter-controls {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filter-controls label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.filter-controls select {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fff;
+    color: #333;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+.filter-controls select:hover {
+    border-color: #999;
+}
+
+.filter-controls select:focus {
+    outline: none;
+    border-color: #333;
+}
+
 .loading {
     text-align: center;
     padding: 40px;
@@ -222,6 +256,20 @@ footer p {
 
     h1 {
         font-size: 1.5rem;
+    }
+
+    .view-toggle {
+        flex-wrap: wrap;
+    }
+
+    .filter-controls {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .filter-controls select {
+        width: 100%;
     }
 
     .screening {

@@ -1,15 +1,57 @@
+// Global state
+let allScreenings = [];
+let selectedTheater = 'all';
+
 // Fetch and display screenings
 async function loadScreenings() {
     try {
         const response = await fetch('data/screenings.json');
         const data = await response.json();
-        displayScreenings(data.screenings);
+        allScreenings = data.screenings;
+        populateTheaterFilter(allScreenings);
+        displayScreenings(filterScreenings(allScreenings));
         updateLastUpdateTime(data.lastUpdated);
     } catch (error) {
         console.error('Error loading screenings:', error);
         document.getElementById('screenings-container').innerHTML =
             '<p style="text-align: center; color: #999; padding: 40px;">Unable to load screenings. Please try again later.</p>';
     }
+}
+
+// Populate theater filter dropdown
+function populateTheaterFilter(screenings) {
+    const theaters = new Set();
+    screenings.forEach(screening => {
+        theaters.add(screening.venue);
+    });
+
+    const sortedTheaters = Array.from(theaters).sort();
+    const select = document.getElementById('theater-filter');
+
+    // Clear existing options except "All Theaters"
+    select.innerHTML = '<option value="all">All Theaters</option>';
+
+    // Add theater options
+    sortedTheaters.forEach(theater => {
+        const option = document.createElement('option');
+        option.value = theater;
+        option.textContent = theater;
+        select.appendChild(option);
+    });
+
+    // Add change event listener
+    select.addEventListener('change', function() {
+        selectedTheater = this.value;
+        displayScreenings(filterScreenings(allScreenings));
+    });
+}
+
+// Filter screenings by selected theater
+function filterScreenings(screenings) {
+    if (selectedTheater === 'all') {
+        return screenings;
+    }
+    return screenings.filter(screening => screening.venue === selectedTheater);
 }
 
 // Group screenings by date
