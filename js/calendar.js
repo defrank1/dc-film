@@ -50,40 +50,46 @@ function renderCalendar() {
 
     // Current month's days
     const today = new Date();
+    today.setHours(0, 0, 0, 0); // Reset to start of day for accurate comparison
     const isCurrentMonth = today.getFullYear() === year && today.getMonth() === month;
 
     for (let day = 1; day <= daysInMonth; day++) {
         const dateString = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-        const isToday = isCurrentMonth && day === today.getDate();
+        const dayDate = new Date(year, month, day);
+        const isPastDay = dayDate < today;
         const dayScreenings = screeningsData.filter(s => s.date === dateString);
 
+        // Mark past days as "other-month" to gray them out
         html += `
-            <div class="calendar-day ${isToday ? 'today' : ''}">
+            <div class="calendar-day ${isPastDay ? 'other-month' : ''}">
                 <div class="day-number">${day}</div>
                 <div class="day-screenings">
         `;
 
-        // Sort screenings by time
-        dayScreenings.sort((a, b) => a.time.localeCompare(b.time));
+        // Only show screenings for current/future days
+        if (!isPastDay) {
+            // Sort screenings by time
+            dayScreenings.sort((a, b) => a.time.localeCompare(b.time));
 
-        // Group screenings by movie title and venue
-        const groupedScreenings = groupScreeningsByMovie(dayScreenings);
+            // Group screenings by movie title and venue
+            const groupedScreenings = groupScreeningsByMovie(dayScreenings);
 
-        // Add screenings to this day
-        groupedScreenings.forEach(group => {
-            const venueClass = getVenueClass(group.venue);
-            const times = group.times.map(t => formatTime(t)).join(', ');
+            // Add screenings to this day
+            groupedScreenings.forEach(group => {
+                const venueClass = getVenueClass(group.venue);
+                const times = group.times.map(t => formatTime(t)).join(', ');
 
-            html += `
-                <div class="day-screening ${venueClass}"
-                     onclick="window.open('${group.ticketLink || '#'}', '_blank')"
-                     title="${group.title} - ${group.venue} - ${times}">
-                    <span class="screening-time">${times}</span>
-                    <div class="screening-title">${group.title}</div>
-                    <div class="screening-venue">${getVenueShortName(group.venue)}</div>
-                </div>
-            `;
-        });
+                html += `
+                    <div class="day-screening ${venueClass}"
+                         onclick="window.open('${group.ticketLink || '#'}', '_blank')"
+                         title="${group.title} - ${group.venue} - ${times}">
+                        <span class="screening-time">${times}</span>
+                        <div class="screening-title">${group.title}</div>
+                        <div class="screening-venue">${getVenueShortName(group.venue)}</div>
+                    </div>
+                `;
+            });
+        }
 
         html += '</div></div>';
     }

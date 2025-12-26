@@ -95,10 +95,7 @@
     color: #999;
 }
 
-.calendar-day.today {
-    background: #fffbeb;
-    border: 2px solid #fbbf24;
-}
+/* Removed today highlighting per user request */
 
 .day-number {
     font-weight: 700;
