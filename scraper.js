@@ -108,11 +108,12 @@ async function enrichMovieData(screening) {
 
 /**
  * Scrape AFI Silver Theatre
- * Note: This requires inspecting their actual HTML structure
+ * Fetches all available data from their calendar page
  */
 async function scrapeAFISilver() {
   console.log('Scraping AFI Silver...');
   try {
+    // AFI calendar shows all upcoming screenings on the default page
     const response = await axios.get(THEATERS.AFI_SILVER, {
       headers: {
         'User-Agent': 'Mozilla/5.0'
@@ -140,7 +141,7 @@ async function scrapeAFISilver() {
       movieMap[movie.ID] = movie.Title;
     });
 
-    // Process showtime data
+    // Process showtime data - this includes all dates available on their calendar
     Object.entries(showData).forEach(([date, movies]) => {
       Object.entries(movies).forEach(([movieId, showtimes]) => {
         const title = movieMap[movieId];
@@ -175,18 +176,20 @@ async function scrapeAFISilver() {
  */
 async function scrapeSunsCinema() {
   console.log('Scraping Suns Cinema...');
+  const screenings = [];
+
   try {
-    const response = await axios.get(THEATERS.SUNS_CINEMA, {
+    // Scrape homepage for now playing
+    const homeResponse = await axios.get(THEATERS.SUNS_CINEMA, {
       headers: {
         'User-Agent': 'Mozilla/5.0'
       }
     });
-    const $ = cheerio.load(response.data);
-    const screenings = [];
+    const $home = cheerio.load(homeResponse.data);
 
     // Parse "now playing" section with specific showtimes
-    $('#now-playing .show').each((i, showElem) => {
-      const $show = $(showElem);
+    $home('#now-playing .show').each((i, showElem) => {
+      const $show = $home(showElem);
       const title = $show.find('h2').first().text().trim();
       const movieLink = $show.find('a').first().attr('href');
       const posterUrl = $show.attr('style')?.match(/url\((.*?)\)/)?.[1];
@@ -195,7 +198,7 @@ async function scrapeSunsCinema() {
       const $showtimes = $show.next('ol.showtimes');
       if ($showtimes.length > 0) {
         $showtimes.find('li').each((j, timeElem) => {
-          const $time = $(timeElem);
+          const $time = $home(timeElem);
           const isSoldOut = $time.find('.sold-out').length > 0;
 
           if (!isSoldOut) {
@@ -218,9 +221,9 @@ async function scrapeSunsCinema() {
       }
     });
 
-    // Parse upcoming shows (just dates, no specific times)
-    $('.shows .show').each((i, showElem) => {
-      const $show = $(showElem);
+    // Parse upcoming shows from homepage (just dates, no specific times)
+    $home('.shows .show').each((i, showElem) => {
+      const $show = $home(showElem);
       const title = $show.find('.show__title').text().trim();
       const dateText = $show.find('.show__date').text().trim();
       const movieLink = $show.find('.show-link').attr('href');
@@ -241,8 +244,51 @@ async function scrapeSunsCinema() {
       }
     });
 
-    console.log(`Found ${screenings.length} screenings at Suns Cinema`);
-    return screenings;
+    // Also scrape the upcoming films page for complete schedule
+    try {
+      const upcomingResponse = await axios.get('https://sunscinema.com/upcoming-films-3/', {
+        headers: {
+          'User-Agent': 'Mozilla/5.0'
+        }
+      });
+      const $upcoming = cheerio.load(upcomingResponse.data);
+
+      $upcoming('.shows .show').each((i, showElem) => {
+        const $show = $upcoming(showElem);
+        const title = $show.find('.show__title').text().trim();
+        const dateText = $show.find('.show__date').text().trim();
+        const movieLink = $show.find('.show-link').attr('href');
+        const posterUrl = $show.find('.show__image img').attr('src');
+
+        if (title && dateText) {
+          const date = parseSunsDate(dateText);
+          if (date) {
+            screenings.push({
+              title: title,
+              venue: 'Suns Cinema',
+              date: date,
+              time: '19:00', // Default time for shows without specific times
+              poster: posterUrl || null,
+              ticketLink: movieLink
+            });
+          }
+        }
+      });
+    } catch (error) {
+      console.error('Error scraping Suns upcoming films page:', error.message);
+    }
+
+    // Remove duplicates based on title + date
+    const seen = new Set();
+    const uniqueScreenings = screenings.filter(screening => {
+      const key = `${screening.title}-${screening.date}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    console.log(`Found ${uniqueScreenings.length} screenings at Suns Cinema`);
+    return uniqueScreenings;
   } catch (error) {
     console.error('Error scraping Suns Cinema:', error.message);
     return [];
