@@ -1,29 +1,21 @@
 {
-  "lastUpdated": "2025-12-26T12:39:59.483Z",
+  "lastUpdated": "2025-12-26T18:20:41.132Z",
   "screenings": [
     {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
       "date": "2025-12-26",
-      "time": "09:20",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
+      "time": "10:45",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
       "date": "2025-12-26",
-      "time": "09:45",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "IT WAS JUST AN ACCIDENT (2025)",
@@ -32,14 +24,6 @@
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "12:05",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-      "ticketLink": null
     },
     {
       "title": "MARTY SUPREME (Digital)",
@@ -58,14 +42,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "THE HOUSEMAID (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-26",
@@ -74,12 +50,28 @@
       "ticketLink": null
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
       "time": "13:40",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "MARTY SUPREME (2025)",
@@ -130,6 +122,22 @@
       "ticketLink": null
     },
     {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
@@ -178,12 +186,28 @@
       "ticketLink": null
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "MARTY SUPREME in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-26",
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-26",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -264,6 +288,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
       "ticketLink": "https://themiracletheatre.com/events/home-alone-7/"
+    },
+    {
+      "title": "Queen Kelly (1932)",
+      "venue": "National Gallery of Art",
+      "date": "2025-12-27",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/86kEZyMwfYZIxO28EHqmoBYPqN.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -376,6 +408,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-polar-express-11/"
+    },
+    {
+      "title": "Holiday (2019)",
+      "venue": "National Gallery of Art",
+      "date": "2025-12-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jekgQsMxtLNaERcFexSeABWp6Y7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -736,6 +776,38 @@
       "time": "21:00",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "In Honor of Black Excellence; Speaking in Tongues",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-03",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "still/here; Rough and Unequal",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-04",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Ernest Cole: Lost and Found (2024)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "\"Outsider. Freud\" Film Screening and Conversation with Director Yair Qedar",

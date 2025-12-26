@@ -558,6 +558,10 @@ async function scrapeAvalonTheater() {
 async function scrapeLibraryOfCongress() {
   console.log('Scraping Library of Congress...');
   try {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    // LOC API - fetch all available future events (no end date limit)
     const response = await axios.get('https://www.loc.gov/events/?q=film&fo=json', {
       headers: {
         'User-Agent': 'Mozilla/5.0'
@@ -566,8 +570,6 @@ async function scrapeLibraryOfCongress() {
 
     const events = response.data.content.results;
     const screenings = [];
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
 
     events.forEach(event => {
       const categories = event.item?.categories || [];
@@ -629,6 +631,7 @@ async function scrapeNationalGallery() {
     const day = String(today.getDate()).padStart(2, '0');
     const dateParam = `${year}-${month}-${day}`;
 
+    // No end date - fetch all available future screenings
     const url = `https://www.nga.gov/calendar?type%5B103026%5D=103026&visit_start=${dateParam}&tab=all`;
 
     await page.goto(url, {
@@ -847,13 +850,13 @@ async function scrapeAllTheaters() {
     }
   });
 
-  // Filter out past screenings (only keep today and future)
+  // Filter out only past screenings (keep all future screenings)
   const today = getTodayDate();
   const futureScreenings = allScreenings.filter(screening => screening.date >= today);
   allScreenings.length = 0;
   allScreenings.push(...futureScreenings);
 
-  console.log(`\nFiltered to ${allScreenings.length} current/upcoming screenings (removed past dates)`);
+  console.log(`\nFiltered to ${allScreenings.length} current and upcoming screenings (removed past dates)`);
 
   // Enrich with TMDB data (posters and years)
   if (TMDB_API_KEY && TMDB_API_KEY !== 'TMDB_API_KEY_PLACEHOLDER') {
