@@ -107,176 +107,213 @@ async function enrichMovieData(screening) {
 }
 
 /**
- * Scrape AFI Silver Theatre
- * Fetches all available data from their calendar page
+ * Scrape AFI Silver Theatre using Puppeteer
+ * Navigates through multiple months to get all available screenings
  */
 async function scrapeAFISilver() {
-  console.log('Scraping AFI Silver...');
+  console.log('Scraping AFI Silver with Puppeteer...');
+
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--disable-gpu'
+    ]
+  });
+
   try {
-    // AFI calendar shows all upcoming screenings on the default page
-    const response = await axios.get(THEATERS.AFI_SILVER, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
+    await page.goto(THEATERS.AFI_SILVER, {
+      waitUntil: 'networkidle2',
+      timeout: 30000
     });
-    const html = response.data;
-    const screenings = [];
 
-    // Extract JavaScript data embedded in the page
-    const showArrayMatch = html.match(/console\.log\("show_array:",\s*({.*?})\);/s);
-    const movieArrayMatch = html.match(/console\.log\("movie_array:",\s*(\[.*?\])\);/s);
+    await new Promise(resolve => setTimeout(resolve, 2000));
 
-    if (!showArrayMatch || !movieArrayMatch) {
-      console.log('Could not find show data in AFI Silver page');
-      return screenings;
+    const allScreenings = [];
+
+    // Scrape current month and next 2 months (3 months total)
+    for (let monthIndex = 0; monthIndex < 3; monthIndex++) {
+      try {
+        // Extract data from current view
+        const monthData = await page.evaluate(() => {
+          const html = document.documentElement.outerHTML;
+
+          // Extract JavaScript data embedded in the page
+          const showArrayMatch = html.match(/console\.log\("show_array:",\s*({.*?})\);/s);
+          const movieArrayMatch = html.match(/console\.log\("movie_array:",\s*(\[.*?\])\);/s);
+
+          if (!showArrayMatch || !movieArrayMatch) {
+            return null;
+          }
+
+          return {
+            showData: showArrayMatch[1],
+            movieData: movieArrayMatch[1]
+          };
+        });
+
+        if (monthData) {
+          // Parse the JavaScript objects
+          const showData = JSON.parse(monthData.showData);
+          const movieData = JSON.parse(monthData.movieData);
+
+          // Create a map of movie IDs to titles
+          const movieMap = {};
+          movieData.forEach(movie => {
+            movieMap[movie.ID] = movie.Title;
+          });
+
+          // Process showtime data
+          Object.entries(showData).forEach(([date, movies]) => {
+            Object.entries(movies).forEach(([movieId, showtimes]) => {
+              const title = movieMap[movieId];
+              if (!title) return;
+
+              showtimes.forEach(showtime => {
+                const time = parseAFITime(showtime.time);
+                if (time) {
+                  allScreenings.push({
+                    title: title,
+                    venue: 'AFI Silver',
+                    date: date,
+                    time: time,
+                    poster: null,
+                    ticketLink: `https://silver.afi.com/calendar/`
+                  });
+                }
+              });
+            });
+          });
+        }
+
+        // Click next month button if not on last iteration
+        if (monthIndex < 2) {
+          const nextButtonClicked = await page.evaluate(() => {
+            // Find the ">" arrow button near the calendar
+            const allElements = Array.from(document.querySelectorAll('*'));
+            const arrowElement = allElements.find(el => {
+              const text = el.textContent?.trim();
+              // Must be exactly ">" and not contain more text (avoid elements with children)
+              return text === '>' && el.children.length === 0;
+            });
+
+            if (arrowElement) {
+              arrowElement.click();
+              return true;
+            }
+            return false;
+          });
+
+          if (!nextButtonClicked) {
+            console.log('Could not find next month button, stopping');
+            break;
+          }
+
+          // Wait for calendar to update
+          await new Promise(resolve => setTimeout(resolve, 3000));
+        }
+      } catch (error) {
+        console.error(`Error scraping AFI month ${monthIndex}:`, error.message);
+      }
     }
 
-    // Parse the JavaScript objects
-    const showData = JSON.parse(showArrayMatch[1]);
-    const movieData = JSON.parse(movieArrayMatch[1]);
-
-    // Create a map of movie IDs to titles
-    const movieMap = {};
-    movieData.forEach(movie => {
-      movieMap[movie.ID] = movie.Title;
-    });
-
-    // Process showtime data - this includes all dates available on their calendar
-    Object.entries(showData).forEach(([date, movies]) => {
-      Object.entries(movies).forEach(([movieId, showtimes]) => {
-        const title = movieMap[movieId];
-        if (!title) return;
-
-        showtimes.forEach(showtime => {
-          const time = parseAFITime(showtime.time);
-          if (time) {
-            screenings.push({
-              title: title,
-              venue: 'AFI Silver',
-              date: date,
-              time: time,
-              poster: null,
-              ticketLink: `https://silver.afi.com/calendar/`
-            });
-          }
-        });
-      });
-    });
-
-    console.log(`Found ${screenings.length} screenings at AFI Silver`);
-    return screenings;
+    console.log(`Found ${allScreenings.length} screenings at AFI Silver`);
+    return allScreenings;
   } catch (error) {
     console.error('Error scraping AFI Silver:', error.message);
     return [];
+  } finally {
+    await browser.close();
   }
 }
 
 /**
- * Scrape Suns Cinema
+ * Scrape Suns Cinema using Puppeteer for the upcoming films page
  */
 async function scrapeSunsCinema() {
-  console.log('Scraping Suns Cinema...');
+  console.log('Scraping Suns Cinema with Puppeteer...');
   const screenings = [];
 
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
+  });
+
   try {
-    // Scrape homepage for now playing
-    const homeResponse = await axios.get(THEATERS.SUNS_CINEMA, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
+
+    // Scrape the upcoming films page with Puppeteer to handle JavaScript-loaded dates
+    await page.goto('https://sunscinema.com/upcoming-films-3/', {
+      waitUntil: 'networkidle2',
+      timeout: 30000
     });
-    const $home = cheerio.load(homeResponse.data);
 
-    // Parse "now playing" section with specific showtimes
-    $home('#now-playing .show').each((i, showElem) => {
-      const $show = $home(showElem);
-      const title = $show.find('h2').first().text().trim();
-      const movieLink = $show.find('a').first().attr('href');
-      const posterUrl = $show.attr('style')?.match(/url\((.*?)\)/)?.[1];
+    await new Promise(resolve => setTimeout(resolve, 2000));
 
-      // Find associated showtimes (next sibling element)
-      const $showtimes = $show.next('ol.showtimes');
-      if ($showtimes.length > 0) {
-        $showtimes.find('li').each((j, timeElem) => {
-          const $time = $home(timeElem);
-          const isSoldOut = $time.find('.sold-out').length > 0;
+    // Extract all show information
+    const shows = await page.evaluate(() => {
+      const showElements = document.querySelectorAll('.show-details');
+      const results = [];
 
-          if (!isSoldOut) {
-            const timeText = $time.find('span, a').first().text().trim();
-            const time = parseTime(timeText);
-            const purchaseLink = $time.find('a').attr('href') || movieLink;
+      showElements.forEach(show => {
+        const titleEl = show.querySelector('.show-title a.title');
+        const title = titleEl ? titleEl.textContent.trim() : null;
+        const link = titleEl ? titleEl.getAttribute('href') : null;
 
-            if (time) {
-              screenings.push({
-                title: title,
-                venue: 'Suns Cinema',
-                date: getTodayDate(),  // Today's date for "now playing"
-                time: time,
-                poster: posterUrl || null,
-                ticketLink: purchaseLink
-              });
-            }
+        const posterEl = show.querySelector('.show-poster img');
+        const poster = posterEl ? posterEl.getAttribute('src') : null;
+
+        const dates = [];
+
+        // Get all show dates from .show-date elements (scheduled screenings)
+        const dateElements = show.querySelectorAll('.show-date');
+        dateElements.forEach(dateEl => {
+          const dateText = dateEl.textContent.trim();
+          if (dateText) {
+            dates.push(dateText);
           }
         });
-      }
+
+        // Also check for "Opens on" date in .no-showtimes-date element (upcoming releases)
+        const noShowtimesEl = show.querySelector('.no-showtimes-date');
+        if (noShowtimesEl) {
+          const opensText = noShowtimesEl.textContent.trim();
+          if (opensText) {
+            dates.push(opensText);
+          }
+        }
+
+        if (title && dates.length > 0) {
+          results.push({ title, link, poster, dates });
+        }
+      });
+
+      return results;
     });
 
-    // Parse upcoming shows from homepage (just dates, no specific times)
-    $home('.shows .show').each((i, showElem) => {
-      const $show = $home(showElem);
-      const title = $show.find('.show__title').text().trim();
-      const dateText = $show.find('.show__date').text().trim();
-      const movieLink = $show.find('.show-link').attr('href');
-      const posterUrl = $show.find('.show__image img').attr('src');
-
-      if (title && dateText) {
+    // Parse each show and create screening entries
+    shows.forEach(show => {
+      show.dates.forEach(dateText => {
         const date = parseSunsDate(dateText);
         if (date) {
           screenings.push({
-            title: title,
+            title: show.title,
             venue: 'Suns Cinema',
             date: date,
-            time: '19:00', // Default time for shows without specific times
-            poster: posterUrl || null,
-            ticketLink: movieLink
+            time: '19:00', // Default time
+            poster: show.poster,
+            ticketLink: show.link
           });
         }
-      }
+      });
     });
-
-    // Also scrape the upcoming films page for complete schedule
-    try {
-      const upcomingResponse = await axios.get('https://sunscinema.com/upcoming-films-3/', {
-        headers: {
-          'User-Agent': 'Mozilla/5.0'
-        }
-      });
-      const $upcoming = cheerio.load(upcomingResponse.data);
-
-      $upcoming('.shows .show').each((i, showElem) => {
-        const $show = $upcoming(showElem);
-        const title = $show.find('.show__title').text().trim();
-        const dateText = $show.find('.show__date').text().trim();
-        const movieLink = $show.find('.show-link').attr('href');
-        const posterUrl = $show.find('.show__image img').attr('src');
-
-        if (title && dateText) {
-          const date = parseSunsDate(dateText);
-          if (date) {
-            screenings.push({
-              title: title,
-              venue: 'Suns Cinema',
-              date: date,
-              time: '19:00', // Default time for shows without specific times
-              poster: posterUrl || null,
-              ticketLink: movieLink
-            });
-          }
-        }
-      });
-    } catch (error) {
-      console.error('Error scraping Suns upcoming films page:', error.message);
-    }
 
     // Remove duplicates based on title + date
     const seen = new Set();
@@ -292,6 +329,8 @@ async function scrapeSunsCinema() {
   } catch (error) {
     console.error('Error scraping Suns Cinema:', error.message);
     return [];
+  } finally {
+    await browser.close();
   }
 }
 
@@ -836,19 +875,45 @@ function getTodayDate() {
 }
 
 /**
- * Helper: Parse Suns Cinema date format (e.g., "Nov 22") to YYYY-MM-DD
+ * Helper: Parse Suns Cinema date format to YYYY-MM-DD
+ * Handles formats: "Nov 22", "Sat, Dec 27", "Opens on January 7"
  */
 function parseSunsDate(dateText) {
   if (!dateText) return null;
 
-  // Match pattern like "Nov 22", "Dec 5", etc.
-  const match = dateText.match(/([A-Z][a-z]+)\s+(\d{1,2})/);
+  // Check for "Opens on Month Day" format (e.g., "Opens on January 7")
+  const opensMatch = dateText.match(/Opens on ([A-Z][a-z]+)\s+(\d{1,2})/);
+  if (opensMatch) {
+    const monthStr = opensMatch[1];
+    const day = opensMatch[2].padStart(2, '0');
+
+    // Full month name mapping
+    const fullMonths = {
+      'January': '01', 'February': '02', 'March': '03', 'April': '04',
+      'May': '05', 'June': '06', 'July': '07', 'August': '08',
+      'September': '09', 'October': '10', 'November': '11', 'December': '12'
+    };
+
+    const month = fullMonths[monthStr];
+    if (!month) return null;
+
+    // Determine year
+    const now = new Date();
+    const currentYear = now.getFullYear();
+    const currentMonth = now.getMonth() + 1;
+    const year = parseInt(month) < currentMonth ? currentYear + 1 : currentYear;
+
+    return `${year}-${month}-${day}`;
+  }
+
+  // Match pattern like "Nov 22", "Dec 5", or "Sat, Dec 27"
+  const match = dateText.match(/(?:[A-Z][a-z]+,?\s+)?([A-Z][a-z]+)\s+(\d{1,2})/);
   if (!match) return null;
 
   const monthStr = match[1];
   const day = match[2].padStart(2, '0');
 
-  // Month mapping
+  // Abbreviated month mapping
   const months = {
     'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
     'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',

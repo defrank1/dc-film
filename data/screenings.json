@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-26T18:28:10.950Z",
+  "lastUpdated": "2025-12-26T20:26:10.667Z",
   "screenings": [
     {
       "title": "Hamnet (2025)",
@@ -18,36 +18,12 @@
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-26",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2025-12-26",
-      "time": "12:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "13:20",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -72,14 +48,6 @@
       "time": "13:45",
       "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-      "ticketLink": null
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -342,7 +310,7 @@
       "venue": "Suns Cinema",
       "date": "2025-12-27",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25130557/zSFuvi6fIPT8CHpH1KMG25T2Iub-1024x576.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25130557/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
       "ticketLink": "https://sunscinema.com/movies/strange-days/"
     },
     {
@@ -462,7 +430,7 @@
       "venue": "Suns Cinema",
       "date": "2025-12-28",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/02125045/wild-relatives-LG_0.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/02124913/MV5BZDVjOTM2OTMtYmM2Ni00ODE5LWExOWMtYzMzZDcwOTlkNDE4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
       "ticketLink": "https://sunscinema.com/movies/foragers-wild-relatives/"
     },
     {
@@ -470,7 +438,7 @@
       "venue": "Suns Cinema",
       "date": "2025-12-28",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/arVUENwamRa8M0jMOY26AtZoWy1-1024x576.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/lm7u3mYHAAApKnw0VJpINDhYkmQ.jpg",
       "ticketLink": "https://sunscinema.com/movies/a-feeling-greater-than-love/"
     },
     {
@@ -658,11 +626,19 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "SUNSET BOULEVARD (1950)",
+      "venue": "Suns Cinema",
+      "date": "2025-12-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/07/23170301/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sunset-boulevard/"
+    },
+    {
       "title": "THE APARTMENT (1960)",
       "venue": "Suns Cinema",
       "date": "2025-12-30",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/06/27214907/rwYVl3kjD70nAyhlYXjl27bwFRx-683x1024.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/06/27214907/rwYVl3kjD70nAyhlYXjl27bwFRx.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-apartment/"
     },
     {
@@ -778,12 +754,324 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "13:40",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-01",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "13:40",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SHINING (1980)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23121653/uAR0AWqhQL1hQa69UDEbb2rE5Wx-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-shining/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-02",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "13:40",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "In Honor of Black Excellence; Speaking in Tongues",
       "venue": "National Gallery of Art",
       "date": "2026-01-03",
       "time": "14:00",
       "poster": null,
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "15:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "BUTCH CASSIDY AND THE SUNDANCE KID (1969)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23121826/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "ticketLink": "https://sunscinema.com/movies/butch-cassidy-and-the-sundance-kid/"
+    },
+    {
+      "title": "THE STING (1973)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23121755/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-sting/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-03",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "13:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "13:40",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
       "title": "still/here; Rough and Unequal",
@@ -794,6 +1082,582 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "16:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "20:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-04",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "11:40",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "14:50",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "16:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "20:10",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-05",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "16:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "JEREMIAH JOHNSON (1972)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-06",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122332/fANj1S3UmBB51wnKxYRKtw8LMBn-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/jeremiah-johnson/"
+    },
+    {
+      "title": "DOWNHILL RACER (1969)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-06",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/10/23122133/MV5BYjhhOWQ5NDYtM2I2Ni00NWNjLWExOWYtM2MzMmNlOGVhMTAyXkEyXkFqcGc%40._V1_.jpg",
+      "ticketLink": "https://sunscinema.com/movies/downhill-racer/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-06",
+      "time": "20:45",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "16:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "TOMBSTONE (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122527/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "ticketLink": "https://sunscinema.com/movies/tombstone/"
+    },
+    {
+      "title": "UNFORGIVEN (1992)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122418/54roTwbX9fltg85zjsmrooXAs12-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/unforgiven/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "20:45",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-07",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "15:10",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "16:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SNEAKERS (1992)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122744/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sneakers/"
+    },
+    {
+      "title": "THE CONVERSATION (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122602/dHqVBwcv1SGymOpUueRoKzcmdes1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-conversation/"
+    },
+    {
+      "title": "MARTY SUPREME in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "20:45",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-08",
+      "time": "21:15",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122912/eNYGj2DG3n8OrVPTfYunpPW9uas1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/it-was-just-an-accident/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-09",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE ROYAL TENENBAUMS (2001)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23125506/nG7hZJn7wQTSDCQT39Gy3s3tbrp-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-royal-tenenbaums/"
+    },
+    {
+      "title": "THE MAN WHO FELL TO EARTH (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "20:45",
+      "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-10",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "Ernest Cole: Lost and Found (2024)",
       "venue": "National Gallery of Art",
       "date": "2026-01-11",
@@ -802,12 +1666,580 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "18:30",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-11",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-12",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-12",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-12",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-12",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-13",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-13",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-13",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "I KILLED MY MOTHER (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130205/nB6OuDdERS95aQtoxPExXxsW3Ov-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/i-killed-my-mother/"
+    },
+    {
+      "title": "HEARTBEATS (2017)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-13",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3DvBfOx4roI3jg6d1jnLApzEFZM.jpg",
+      "ticketLink": "https://sunscinema.com/movies/heartbeats/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-13",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-14",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-14",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-14",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE COLLECTOR (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130707/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-collector/"
+    },
+    {
+      "title": "TEOREMA (1968)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/04125548/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
+      "ticketLink": "https://sunscinema.com/movies/teorema/"
+    },
+    {
+      "title": "THE MAN WHO FELL TO EARTH (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-01-14",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-14",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-15",
+      "time": "12:40",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-15",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-15",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE ANNIHILATION OF FISH (1999)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130838/f7ego9fmduGstTZejoq9SmLQwMj-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-annihilation-of-fish/"
+    },
+    {
+      "title": "MATEWAN (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/25120220/kdQ2MCsrsC39Ta9x05sWOb9wi5B-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/matewan/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-15",
+      "time": "21:05",
+      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-16",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-16",
+      "time": "16:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "ALL THAT’S LEFT OF YOU (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23131045/8OTAu88K9r9wqlLXux1mbnHmyPF-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/all-thats-left-of-you/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-16",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-17",
+      "time": "11:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-17",
+      "time": "14:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-17",
+      "time": "18:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "EDDINGTON (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23131333/4GIqZUgPZ146BhibsPHMHef2nXX-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/eddington/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-17",
+      "time": "20:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-18",
+      "time": "13:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE LIBRARIANS (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-01-18",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/f2xA2e81wBiRxio32kRJe42P05M.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-18",
+      "time": "17:15",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-18",
+      "time": "20:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-19",
+      "time": "11:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "KING: A FILMED RECORD... MONTGOMERY TO MEMPHIS (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-01-19",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yenKpaleqf2QBrMxpeYwVO8AJO1.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-19",
+      "time": "14:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-19",
+      "time": "18:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-19",
+      "time": "20:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-20",
+      "time": "11:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-20",
+      "time": "13:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-20",
+      "time": "16:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE RED SPECTACLES (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-20",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24140145/3FtJ3rdrxbIgdpU5LkZiins4Lex-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-red-spectacles/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-20",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-21",
+      "time": "13:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-21",
+      "time": "16:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "WHEN A WOMAN ASCENDS THE STAIRS (1960)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23142851/miGb5TwM8SIK5URe0mPMOYZqr3g.jpg",
+      "ticketLink": "https://sunscinema.com/movies/when-a-woman-ascends-the-stairs/"
+    },
+    {
+      "title": "THE FACE OF ANOTHER (1966)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-21",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-face-of-another/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-21",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-22",
+      "time": "11:00",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-22",
+      "time": "13:45",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-01-22",
+      "time": "16:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "FLESH FOR FRANKENSTEIN (1973)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144126/9GRNVP3Vny8WRafI1bwsrsf2BC0-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/flesh-for-frankenstein/"
+    },
+    {
+      "title": "THE BROOD (1979)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26193117/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-brood/"
+    },
+    {
+      "title": "THE TESTAMENT OF ANN LEE in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-01-22",
+      "time": "19:30",
+      "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "ALPHAVILLE (1965)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-23",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/10/19141453/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg",
+      "ticketLink": "https://sunscinema.com/movies/alphaville/"
+    },
+    {
+      "title": "HARAKIRI (1919)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24135820/3nPwMd3KviJWaHzG9fZCqlwWMas.jpg",
+      "ticketLink": "https://sunscinema.com/movies/harakiri/"
+    },
+    {
       "title": "Compensation (1999)",
       "venue": "National Gallery of Art",
       "date": "2026-01-25",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "PUNISHMENT PARK (1971)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/26105207/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
+      "ticketLink": "https://sunscinema.com/movies/punishment-park/"
+    },
+    {
+      "title": "SAMBIZANGA (1973)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/28080827/e25eb70db49b8217978a94e2cbccd7e8.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sambizanga/"
+    },
+    {
+      "title": "SEDUCTION: THE CRUEL WOMAN (1986)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144757/cWjvMaokuf9TAeze2SYPvkWQrVU-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/seduction-the-cruel-woman/"
+    },
+    {
+      "title": "MY FATHER IS COMING (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144703/xV7NOrZekNSluiao7bkbDQhSOZY-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/my-father-is-coming/"
+    },
+    {
+      "title": "I AM NOT A WITCH (2017)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145725/tWkbuUHugbckItwcyCf8uq1utOJ.jpg",
+      "ticketLink": "https://sunscinema.com/movies/i-am-not-a-witch/"
+    },
+    {
+      "title": "REDS (1981)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145255/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "ticketLink": "https://sunscinema.com/movies/reds/"
+    },
+    {
+      "title": "THE FIRST WIVES CLUB (1996)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145044/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-first-wives-club/"
     },
     {
       "title": "\"Outsider. Freud\" Film Screening and Conversation with Director Yair Qedar",
