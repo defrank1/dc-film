@@ -33,35 +33,34 @@ function renderCalendar() {
 
     // Get previous month's last days to fill in the grid
     const prevMonthLastDay = new Date(year, month, 0).getDate();
+    const prevMonthYear = month === 0 ? year - 1 : year;
+    const prevMonth = month === 0 ? 11 : month - 1;
 
-    let html = '<div class="calendar">';
+    const today = new Date();
+    today.setHours(0, 0, 0, 0); // Reset to start of day for accurate comparison
 
-    // Day headers
-    const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-    dayNames.forEach(day => {
-        html += `<div class="calendar-header">${day}</div>`;
-    });
+    // Build all calendar cells first
+    const allCells = [];
 
     // Previous month's trailing days
     for (let i = startingDayOfWeek - 1; i >= 0; i--) {
         const day = prevMonthLastDay - i;
-        html += `<div class="calendar-day other-month"><div class="day-number">${day}</div></div>`;
+        const cellDate = new Date(prevMonthYear, prevMonth, day);
+        allCells.push({
+            html: `<div class="calendar-day other-month"><div class="day-number">${day}</div></div>`,
+            isPast: cellDate < today
+        });
     }
 
     // Current month's days
-    const today = new Date();
-    today.setHours(0, 0, 0, 0); // Reset to start of day for accurate comparison
-    const isCurrentMonth = today.getFullYear() === year && today.getMonth() === month;
-
     for (let day = 1; day <= daysInMonth; day++) {
         const dateString = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
         const dayDate = new Date(year, month, day);
         const isPastDay = dayDate < today;
         const dayScreenings = screeningsData.filter(s => s.date === dateString);
 
-        // Mark past days as "other-month" to gray them out
-        html += `
-            <div class="calendar-day ${isPastDay ? 'other-month' : ''}">
+        let cellHtml = `
+            <div class="calendar-day">
                 <div class="day-number">${day}</div>
                 <div class="day-screenings">
         `;
@@ -79,7 +78,7 @@ function renderCalendar() {
                 const venueClass = getVenueClass(group.venue);
                 const times = group.times.map(t => formatTime(t)).join(', ');
 
-                html += `
+                cellHtml += `
                     <div class="day-screening ${venueClass}"
                          onclick="window.open('${group.ticketLink || '#'}', '_blank')"
                          title="${group.title} - ${group.venue} - ${times}">
@@ -91,17 +90,54 @@ function renderCalendar() {
             });
         }
 
-        html += '</div></div>';
+        cellHtml += '</div></div>';
+
+        allCells.push({
+            html: cellHtml,
+            isPast: isPastDay
+        });
     }
 
     // Next month's leading days to complete the grid
     const totalCells = startingDayOfWeek + daysInMonth;
     const remainingCells = 7 - (totalCells % 7);
     if (remainingCells < 7) {
+        const nextMonthYear = month === 11 ? year + 1 : year;
+        const nextMonth = month === 11 ? 0 : month + 1;
+
         for (let day = 1; day <= remainingCells; day++) {
-            html += `<div class="calendar-day other-month"><div class="day-number">${day}</div></div>`;
+            const cellDate = new Date(nextMonthYear, nextMonth, day);
+            allCells.push({
+                html: `<div class="calendar-day other-month"><div class="day-number">${day}</div></div>`,
+                isPast: cellDate < today
+            });
         }
     }
+
+    // Group cells into weeks (7 cells per week)
+    const weeks = [];
+    for (let i = 0; i < allCells.length; i += 7) {
+        weeks.push(allCells.slice(i, i + 7));
+    }
+
+    // Only render weeks that have at least one future day
+    let html = '<div class="calendar">';
+
+    // Day headers
+    const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    dayNames.forEach(day => {
+        html += `<div class="calendar-header">${day}</div>`;
+    });
+
+    // Render weeks that have at least one future day
+    weeks.forEach(week => {
+        const hasFutureDay = week.some(cell => !cell.isPast);
+        if (hasFutureDay) {
+            week.forEach(cell => {
+                html += cell.html;
+            });
+        }
+    });
 
     html += '</div>';
 
