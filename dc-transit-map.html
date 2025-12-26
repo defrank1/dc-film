@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DC Transit Coverage Map - Metro Stations & Bus Corridors</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+        .info-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            z-index: 1000;
+            max-width: 300px;
+        }
+        .info-box h3 {
+            margin: 0 0 10px 0;
+            font-size: 16px;
+        }
+        .legend-item {
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+        }
+        .legend-color {
+            width: 30px;
+            height: 20px;
+            margin-right: 10px;
+            border: 1px solid #333;
+            border-radius: 3px;
+        }
+        .layer-toggle {
+            margin: 5px 0;
+        }
+        .layer-toggle label {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+        .layer-toggle input {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info-box">
+        <h3>DC Transit Coverage</h3>
+        <div class="legend-item">
+            <div class="legend-color" style="background: rgba(220, 53, 69, 0.4);"></div>
+            <span>1/2 Mile from Metro Stations</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: rgba(13, 110, 253, 0.4);"></div>
+            <span>1/4 Mile from Bus Corridors</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: rgba(111, 66, 193, 0.5);"></div>
+            <span>Overlap (Both)</span>
+        </div>
+        <hr>
+        <div class="layer-toggle">
+            <label>
+                <input type="checkbox" id="toggle-metro" checked>
+                Show Metro Buffers
+            </label>
+        </div>
+        <div class="layer-toggle">
+            <label>
+                <input type="checkbox" id="toggle-bus" checked>
+                Show Bus Buffers
+            </label>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map centered on DC
+        var map = L.map('map').setView([38.9072, -77.0369], 12);
+
+        // Add simple CartoDB Positron base layer (clean, simple grayscale)
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap, &copy; CartoDB',
+            maxZoom: 19
+        }).addTo(map);
+
+        var metroLayer, busLayer;
+
+        // Load Metro Station Buffers
+        fetch('metro-buffers.geojson')
+            .then(response => {
+                console.log('Metro response received');
+                return response.json();
+            })
+            .then(data => {
+                console.log('Metro data loaded:', data);
+                metroLayer = L.geoJSON(data, {
+                    style: {
+                        color: '#dc3545',
+                        fillColor: '#dc3545',
+                        fillOpacity: 0.4,
+                        weight: 2,
+                        opacity: 0.8
+                    }
+                }).addTo(map);
+
+                // Zoom to metro layer bounds
+                map.fitBounds(metroLayer.getBounds());
+
+                metroLayer.bindPopup('<strong>1/2 Mile Metro Station Buffer</strong><br>Walkable distance from Metro stations');
+                console.log('Metro layer added to map');
+            })
+            .catch(error => console.error('Error loading metro buffers:', error));
+
+        // Load Bus Corridor Buffers
+        fetch('bus-buffers.geojson')
+            .then(response => {
+                console.log('Bus response received');
+                return response.json();
+            })
+            .then(data => {
+                console.log('Bus data loaded:', data);
+                busLayer = L.geoJSON(data, {
+                    style: {
+                        color: '#0d6efd',
+                        fillColor: '#0d6efd',
+                        fillOpacity: 0.4,
+                        weight: 2,
+                        opacity: 0.8
+                    }
+                }).addTo(map);
+
+                busLayer.bindPopup('<strong>1/4 Mile Bus Corridor Buffer</strong><br>High-frequency bus network coverage');
+                console.log('Bus layer added to map');
+            })
+            .catch(error => console.error('Error loading bus buffers:', error));
+
+        // Layer toggle controls
+        document.getElementById('toggle-metro').addEventListener('change', function(e) {
+            if (e.target.checked) {
+                if (metroLayer) map.addLayer(metroLayer);
+            } else {
+                if (metroLayer) map.removeLayer(metroLayer);
+            }
+        });
+
+        document.getElementById('toggle-bus').addEventListener('change', function(e) {
+            if (e.target.checked) {
+                if (busLayer) map.addLayer(busLayer);
+            } else {
+                if (busLayer) map.removeLayer(busLayer);
+            }
+        });
+
+        // Add scale control
+        L.control.scale({imperial: true, metric: true}).addTo(map);
+    </script>
+</body>
+</html>

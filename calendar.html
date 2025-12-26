@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DC Film Screenings!</title>
+    <title>DC Film Screenings - Calendar View</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/calendar.css">
 </head>
 
 <body>
@@ -13,13 +14,21 @@
         <h1>DC Film Screenings</h1>
         <p class="subtitle">Independent film screenings in the DC area</p>
         <nav class="view-toggle">
-            <a href="index.html" class="active">List View</a>
-            <a href="calendar.html">Calendar View</a>
+            <a href="index.html">List View</a>
+            <a href="calendar.html" class="active">Calendar View</a>
         </nav>
     </header>
 
-    <main id="screenings-container">
-        <div class="loading">Loading screenings...</div>
+    <main>
+        <div id="calendar-controls">
+            <button id="prev-month" class="month-nav">← Previous</button>
+            <h2 id="current-month"></h2>
+            <button id="next-month" class="month-nav">Next →</button>
+        </div>
+
+        <div id="calendar-container">
+            <div class="loading">Loading screenings...</div>
+        </div>
     </main>
 
     <footer>
@@ -31,7 +40,7 @@
         <p class="last-updated">Last updated: <span id="last-update-time"></span></p>
     </footer>
 
-    <script src="js/main.js"></script>
+    <script src="js/calendar.js"></script>
 </body>
 
 </html>

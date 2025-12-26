@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DC Transit Test</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        #status { position: absolute; top: 10px; left: 10px; background: white; padding: 10px; z-index: 1000; }
+    </style>
+</head>
+<body>
+    <div id="status">Loading...</div>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const status = document.getElementById('status');
+
+        // Initialize map
+        const map = L.map('map').setView([38.9072, -77.0369], 11);
+        status.innerHTML = 'Map initialized<br>';
+
+        // Add basemap
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; OpenStreetMap, &copy; CartoDB'
+        }).addTo(map);
+        status.innerHTML += 'Basemap added<br>';
+
+        // Test with a simple circle first
+        L.circle([38.9072, -77.0369], {
+            color: 'red',
+            fillColor: '#f03',
+            fillOpacity: 0.5,
+            radius: 500
+        }).addTo(map).bindPopup('Test Circle - Map is working!');
+        status.innerHTML += 'Test circle added<br>';
+
+        // Now try loading the actual data
+        fetch('metro-buffers.geojson')
+            .then(response => {
+                status.innerHTML += `Metro fetch complete (status: ${response.status})<br>`;
+                return response.json();
+            })
+            .then(data => {
+                status.innerHTML += `Metro JSON parsed (${data.features.length} features)<br>`;
+
+                const metroLayer = L.geoJSON(data, {
+                    style: {
+                        color: '#dc3545',
+                        fillColor: '#dc3545',
+                        fillOpacity: 0.4,
+                        weight: 2
+                    }
+                }).addTo(map);
+
+                status.innerHTML += `Metro layer added<br>`;
+                const bounds = metroLayer.getBounds();
+                status.innerHTML += `Bounds: ${bounds.toBBoxString()}<br>`;
+                map.fitBounds(bounds);
+
+                metroLayer.bindPopup('Metro Station Buffer');
+            })
+            .catch(error => {
+                status.innerHTML += `<span style="color:red">Metro Error: ${error}</span><br>`;
+                console.error('Metro error:', error);
+            });
+
+        fetch('bus-buffers.geojson')
+            .then(response => {
+                status.innerHTML += `Bus fetch complete (status: ${response.status})<br>`;
+                return response.json();
+            })
+            .then(data => {
+                status.innerHTML += `Bus JSON parsed (${data.features.length} features)<br>`;
+
+                const busLayer = L.geoJSON(data, {
+                    style: {
+                        color: '#0d6efd',
+                        fillColor: '#0d6efd',
+                        fillOpacity: 0.4,
+                        weight: 2
+                    }
+                }).addTo(map);
+
+                status.innerHTML += `Bus layer added<br>`;
+                busLayer.bindPopup('Bus Corridor Buffer');
+            })
+            .catch(error => {
+                status.innerHTML += `<span style="color:red">Bus Error: ${error}</span><br>`;
+                console.error('Bus error:', error);
+            });
+    </script>
+</body>
+</html>
