@@ -150,10 +150,12 @@ function displayScreenings(screenings) {
                     <div class="screening-info">
                         <div class="showtime">${formatTime(screening.time)}</div>
                         <h3 class="movie-title">${screening.title}</h3>
-                        <p class="venue">${screening.venue}</p>
-                        ${screening.ticketLink ?
+                        <div class="venue-row">
+                            <p class="venue">${screening.venue}</p>
+                            ${screening.ticketLink ?
                     `<a href="${screening.ticketLink}" class="ticket-link" target="_blank" rel="noopener">Buy Tickets</a>` :
                     ''}
+                        </div>
                     </div>
                 </div>
             `;
