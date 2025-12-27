@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2025-12-26T20:26:10.667Z",
+  "lastUpdated": "2025-12-27T01:26:48.941Z",
   "screenings": [
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
     {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
@@ -24,14 +8,6 @@
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -42,28 +18,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
       "time": "15:30",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
     },
     {
       "title": "MARTY SUPREME in 70mm",
@@ -82,30 +42,6 @@
       "ticketLink": "https://themiracletheatre.com/events/david/"
     },
     {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Sentimental Value (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-26",
@@ -122,22 +58,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "Nuremberg (2025)",
       "venue": "Miracle Theater",
       "date": "2025-12-26",
@@ -146,36 +66,12 @@
       "ticketLink": "https://themiracletheatre.com/events/nuremberg-5/"
     },
     {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
       "title": "MARTY SUPREME in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-26",
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2025-12-26",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -194,28 +90,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "10:45",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-26",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "IT WAS JUST AN ACCIDENT (2025)",
@@ -242,12 +130,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-27",
       "time": "13:40",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "Home Alone (1990)",
@@ -282,12 +186,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
       "title": "It’s a Wonderful Life (1946)",
       "venue": "Miracle Theater",
       "date": "2025-12-27",
       "time": "16:30",
       "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
       "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-10/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -314,6 +234,14 @@
       "ticketLink": "https://sunscinema.com/movies/strange-days/"
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "MARTY SUPREME in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-27",
@@ -330,6 +258,14 @@
       "ticketLink": "https://themiracletheatre.com/events/white-christmas-10/"
     },
     {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2025-12-27",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
       "date": "2025-12-27",
@@ -344,6 +280,30 @@
       "time": "21:00",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-27",
+      "time": "21:35",
+      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-27",
+      "time": "21:45",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE HOUSEMAID (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-27",
+      "time": "22:00",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "ticketLink": null
     },
     {
       "title": "SONG SUNG BLUE (2025)",
