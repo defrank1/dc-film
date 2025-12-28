@@ -1,117 +1,21 @@
 {
-  "lastUpdated": "2025-12-28T01:47:33.018Z",
+  "lastUpdated": "2025-12-28T06:29:56.673Z",
   "screenings": [
     {
-      "title": "IT WAS JUST AN ACCIDENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "12:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
       "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "10:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "13:40",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Home Alone (1990)",
-      "venue": "Miracle Theater",
-      "date": "2025-12-27",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/home-alone-7/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "15:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "It’s a Wonderful Life (1946)",
-      "venue": "Miracle Theater",
-      "date": "2025-12-27",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-10/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "White Christmas (1954)",
-      "venue": "Miracle Theater",
-      "date": "2025-12-27",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/white-christmas-10/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2025-12-27",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "10:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -120,6 +24,14 @@
       "time": "10:45",
       "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "THE HOUSEMAID (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "ticketLink": null
     },
     {
       "title": "Is This Thing On? (2025)",
@@ -138,12 +50,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "13:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "MARTY SUPREME in 70mm",
       "venue": "AFI Silver",
       "date": "2025-12-28",
       "time": "13:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "13:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -170,6 +98,14 @@
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
+      "title": "THE HOUSEMAID (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "13:55",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Polar Express (2004)",
       "venue": "Miracle Theater",
       "date": "2025-12-28",
@@ -194,12 +130,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Sentimental Value (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-28",
       "time": "16:20",
       "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
       "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "16:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Elf (2003)",
@@ -216,6 +168,14 @@
       "time": "16:35",
       "poster": "https://image.tmdb.org/t/p/w500/92laLBRtuyOm7l32XZJT7T6OXW1.jpg",
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
+      "title": "THE HOUSEMAID (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "16:40",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "ticketLink": null
     },
     {
       "title": "MARTY SUPREME in 70mm",
@@ -242,20 +202,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "FORAGERS + WILD RELATIVES",
-      "venue": "Suns Cinema",
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-28",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/11/02124913/MV5BZDVjOTM2OTMtYmM2Ni00ODE5LWExOWMtYzMzZDcwOTlkNDE4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "ticketLink": "https://sunscinema.com/movies/foragers-wild-relatives/"
-    },
-    {
-      "title": "A FEELING GREATER THAN LOVE (2017)",
-      "venue": "Suns Cinema",
-      "date": "2025-12-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/02123705/lm7u3mYHAAApKnw0VJpINDhYkmQ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-feeling-greater-than-love/"
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "David (2025)",
@@ -266,12 +218,28 @@
       "ticketLink": "https://themiracletheatre.com/events/david-4/"
     },
     {
+      "title": "SONG SUNG BLUE (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "19:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2025-12-28",
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "THE HOUSEMAID (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2025-12-28",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "ticketLink": null
     },
     {
       "title": "Is This Thing On? (2025)",
@@ -309,23 +277,23 @@
       "title": "SONG SUNG BLUE (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-28",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
+      "time": "21:55",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
       "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-28",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "time": "22:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
       "title": "THE HOUSEMAID (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-28",
-      "time": "22:10",
+      "time": "22:20",
       "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
       "ticketLink": null
     },
