@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2025-12-30T12:41:31.942Z",
+  "lastUpdated": "2025-12-30T18:29:56.648Z",
   "screenings": [
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-30",
-      "time": "10:00",
-      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-30",
-      "time": "10:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-30",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-      "ticketLink": null
-    },
     {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
@@ -48,22 +24,6 @@
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-30",
-      "time": "13:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-30",
-      "time": "13:10",
-      "poster": "https://image.tmdb.org/t/p/w500/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
-      "ticketLink": null
     },
     {
       "title": "THE HOUSEMAID (2025)",
@@ -514,6 +474,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "In Honor of Black Excellence; Speaking in Tongues",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-03",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-03",
@@ -608,6 +576,14 @@
       "time": "13:40",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "still/here; Rough and Unequal",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-04",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -1186,6 +1162,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Ernest Cole: Lost and Found (2024)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-11",
@@ -1730,6 +1714,14 @@
       "ticketLink": "https://sunscinema.com/movies/ran/"
     },
     {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "PUNISHMENT PARK (1971)",
       "venue": "Suns Cinema",
       "date": "2026-01-25",
@@ -1760,6 +1752,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144703/xV7NOrZekNSluiao7bkbDQhSOZY-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/my-father-is-coming/"
+    },
+    {
+      "title": "GHOSTKEEPER (1981)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30130854/Ghostkeeper_poster.jpg",
+      "ticketLink": "https://sunscinema.com/movies/ghostkeeper/"
+    },
+    {
+      "title": "A NEW LOVE IN TOKYO (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30124347/a4lidbbDWxcsI0M0vW7SN6gipq7-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-new-love-in-tokyo/"
     },
     {
       "title": "I AM NOT A WITCH (2017)",
