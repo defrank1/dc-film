@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2025-12-31T12:40:56.608Z",
+  "lastUpdated": "2025-12-31T18:28:31.958Z",
   "screenings": [
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-31",
-      "time": "10:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-31",
-      "time": "10:15",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -24,14 +8,6 @@
       "time": "10:45",
       "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "THE HOUSEMAID (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-31",
-      "time": "11:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Is This Thing On? (2025)",
@@ -64,22 +40,6 @@
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-31",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2025-12-31",
-      "time": "13:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -142,7 +102,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-31",
       "time": "16:20",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "ticketLink": null
     },
     {
@@ -222,7 +182,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-31",
       "time": "19:35",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "ticketLink": null
     },
     {
@@ -254,7 +214,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2025-12-31",
       "time": "22:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
       "ticketLink": null
     },
     {
@@ -490,6 +450,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "In Honor of Black Excellence; Speaking in Tongues",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-03",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-03",
@@ -584,6 +552,14 @@
       "time": "13:40",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "still/here; Rough and Unequal",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-04",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -874,20 +850,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "TOMBSTONE (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122527/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
-      "ticketLink": "https://sunscinema.com/movies/tombstone/"
-    },
-    {
       "title": "UNFORGIVEN (1992)",
       "venue": "Suns Cinema",
       "date": "2026-01-07",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122418/54roTwbX9fltg85zjsmrooXAs12-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/unforgiven/"
+    },
+    {
+      "title": "TOMBSTONE (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122527/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "ticketLink": "https://sunscinema.com/movies/tombstone/"
     },
     {
       "title": "MARTY SUPREME in 70mm",
@@ -1130,6 +1106,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE CONVERSATION (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122602/dHqVBwcv1SGymOpUueRoKzcmdes1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-conversation/"
+    },
+    {
       "title": "THE ROYAL TENENBAUMS (2001)",
       "venue": "Suns Cinema",
       "date": "2026-01-10",
@@ -1162,6 +1146,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Ernest Cole: Lost and Found (2024)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-11",
@@ -1192,6 +1184,22 @@
       "time": "18:30",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "IT WAS JUST AN ACCIDENT (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122912/eNYGj2DG3n8OrVPTfYunpPW9uas1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/it-was-just-an-accident/"
+    },
+    {
+      "title": "GHOST HUNTING (2023)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/31103509/aDtWFHbuzsOCD099xCGEQW9Hfvm.jpg",
+      "ticketLink": "https://sunscinema.com/movies/ghost-hunting/"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1306,20 +1314,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "TEOREMA (1968)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/04125548/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
-      "ticketLink": "https://sunscinema.com/movies/teorema/"
-    },
-    {
       "title": "THE COLLECTOR (2009)",
       "venue": "Suns Cinema",
       "date": "2026-01-14",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130707/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-collector/"
+    },
+    {
+      "title": "TEOREMA (1968)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/04125548/k7rEBaYUTgdxVqYl9aZm5ZcoB41.jpg",
+      "ticketLink": "https://sunscinema.com/movies/teorema/"
     },
     {
       "title": "THE MAN WHO FELL TO EARTH (1976)",
@@ -1482,6 +1490,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "AMREEKA (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/31103655/tMQEHscCqKLz7JXFfU87kdZU8uE.jpg",
+      "ticketLink": "https://sunscinema.com/movies/amreeka/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-18",
@@ -1642,20 +1658,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "FLESH FOR FRANKENSTEIN (1973)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144126/9GRNVP3Vny8WRafI1bwsrsf2BC0-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/flesh-for-frankenstein/"
-    },
-    {
       "title": "THE BROOD (1979)",
       "venue": "Suns Cinema",
       "date": "2026-01-22",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26193117/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-brood/"
+    },
+    {
+      "title": "FLESH FOR FRANKENSTEIN (1973)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144126/9GRNVP3Vny8WRafI1bwsrsf2BC0-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/flesh-for-frankenstein/"
     },
     {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
@@ -1682,22 +1698,6 @@
       "ticketLink": "https://sunscinema.com/movies/alphaville/"
     },
     {
-      "title": "Before Sunrise (1995)",
-      "venue": "Miracle Theater",
-      "date": "2026-01-23",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/before-sunrise-2/"
-    },
-    {
-      "title": "Before Sunrise (1995)",
-      "venue": "Miracle Theater",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/before-sunrise/"
-    },
-    {
       "title": "HARAKIRI (1919)",
       "venue": "Suns Cinema",
       "date": "2026-01-24",
@@ -1712,6 +1712,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/FepaiApo8Yr6pNIZIeYG5kW06J.jpg",
       "ticketLink": "https://sunscinema.com/movies/ran/"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PUNISHMENT PARK (1971)",
@@ -1730,20 +1738,20 @@
       "ticketLink": "https://sunscinema.com/movies/sambizanga/"
     },
     {
-      "title": "SEDUCTION: THE CRUEL WOMAN (1986)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-27",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144757/cWjvMaokuf9TAeze2SYPvkWQrVU-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/seduction-the-cruel-woman/"
-    },
-    {
       "title": "MY FATHER IS COMING (1991)",
       "venue": "Suns Cinema",
       "date": "2026-01-27",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144703/xV7NOrZekNSluiao7bkbDQhSOZY-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/my-father-is-coming/"
+    },
+    {
+      "title": "SEDUCTION: THE CRUEL WOMAN (1986)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144757/cWjvMaokuf9TAeze2SYPvkWQrVU-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/seduction-the-cruel-woman/"
     },
     {
       "title": "A NEW LOVE IN TOKYO (1994)",
@@ -1778,14 +1786,6 @@
       "ticketLink": "https://sunscinema.com/movies/on-becoming-a-guinea-fowl/"
     },
     {
-      "title": "REDS (1981)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-30",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145255/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
-      "ticketLink": "https://sunscinema.com/movies/reds/"
-    },
-    {
       "title": "THE FIRST WIVES CLUB (1996)",
       "venue": "Suns Cinema",
       "date": "2026-01-30",
@@ -1794,12 +1794,12 @@
       "ticketLink": "https://sunscinema.com/movies/the-first-wives-club/"
     },
     {
-      "title": "Groundhog Day (1993)",
-      "venue": "Miracle Theater",
+      "title": "REDS (1981)",
+      "venue": "Suns Cinema",
       "date": "2026-01-30",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/groundhog-day-5/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145255/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "ticketLink": "https://sunscinema.com/movies/reds/"
     },
     {
       "title": "A NEW LOVE IN TOKYO (1994)",
@@ -1808,14 +1808,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30124347/a4lidbbDWxcsI0M0vW7SN6gipq7-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/a-new-love-in-tokyo/"
-    },
-    {
-      "title": "Groundhog Day (1993)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-01",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/groundhog-day-4/"
     },
     {
       "title": "\"Outsider. Freud\" Film Screening and Conversation with Director Yair Qedar",
