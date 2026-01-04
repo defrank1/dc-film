@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T06:30:10.298Z",
+  "lastUpdated": "2026-01-04T12:38:28.829Z",
   "screenings": [
     {
       "title": "Hamnet (2025)",
@@ -82,6 +82,14 @@
       "ticketLink": null
     },
     {
+      "title": "still/here; Rough and Unequal",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-04",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-04",
@@ -110,7 +118,7 @@
       "venue": "Avalon Theater",
       "date": "2026-01-04",
       "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/yy1J2MUxZPq9iVxFBIbgt3ey1su.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
       "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
@@ -738,6 +746,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Ernest Cole: Lost and Found (2024)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-11",
@@ -1320,6 +1336,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/FepaiApo8Yr6pNIZIeYG5kW06J.jpg",
       "ticketLink": "https://sunscinema.com/movies/ran/"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PUNISHMENT PARK (1971)",
