@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T12:43:44.128Z",
+  "lastUpdated": "2026-01-05T18:31:42.821Z",
   "screenings": [
     {
       "title": "Hamnet (2025)",
@@ -26,14 +26,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-05",
-      "time": "12:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "SONG SUNG BLUE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-05",
@@ -48,22 +40,6 @@
       "time": "13:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-05",
-      "time": "13:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-05",
-      "time": "13:10",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -134,7 +110,7 @@
       "venue": "Avalon Theater",
       "date": "2026-01-05",
       "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/7YYrTByEx7fPetfcTa6pEF6XjD9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
       "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
@@ -666,14 +642,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Ernest Cole: Lost and Found (2024)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-11",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-11",
@@ -798,7 +766,7 @@
       "venue": "Suns Cinema",
       "date": "2026-01-13",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3DvBfOx4roI3jg6d1jnLApzEFZM.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/08/05123320/MV5BMWE5OWY1NzQtZjRhMi00ZTdjLWExMDYtNzM3OWYyYmY1MWMxXkEyXkFqcGc%40._V1_.jpg",
       "ticketLink": "https://sunscinema.com/movies/heartbeats/"
     },
     {
@@ -906,14 +874,6 @@
       "ticketLink": "https://sunscinema.com/movies/matewan/"
     },
     {
-      "title": "Film screening: Down Argentine Way (1940)",
-      "venue": "Library of Congress",
-      "date": "2026-01-15",
-      "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/09/Down-Argentine-Way-250x250.jpg#250x250",
-      "ticketLink": "https://www.loc.gov/item/event-419925/film-screening-down-argentine-way-1940/2026-01-15/"
-    },
-    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-15",
@@ -1016,6 +976,14 @@
       "time": "17:15",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "ALL THAT’S LEFT OF YOU (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-01-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23131045/8OTAu88K9r9wqlLXux1mbnHmyPF-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/all-thats-left-of-you/"
     },
     {
       "title": "AMREEKA (2009)",
@@ -1258,14 +1226,6 @@
       "ticketLink": "https://sunscinema.com/movies/ran/"
     },
     {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "PUNISHMENT PARK (1971)",
       "venue": "Suns Cinema",
       "date": "2026-01-25",
@@ -1368,14 +1328,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
       "ticketLink": "https://themiracletheatre.com/events/groundhog-day-4/"
-    },
-    {
-      "title": "\"Outsider. Freud\" Film Screening and Conversation with Director Yair Qedar",
-      "venue": "Library of Congress",
-      "date": "2026-02-05",
-      "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/12/Freud-poster-English-Small-600x600-1-250x250.jpg#250x250",
-      "ticketLink": "https://www.loc.gov/item/event-419750/outsider-freud-film-screening-and-conversation-with-director-yair-qedar/2026-02-05/"
     },
     {
       "title": "Shakespeare's \"Othello\" (2008)",
