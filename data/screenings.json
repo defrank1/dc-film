@@ -1,78 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T01:39:59.741Z",
+  "lastUpdated": "2026-01-07T06:32:12.860Z",
   "screenings": [
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "13:00",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "16:15",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "SONG SUNG BLUE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-06",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -232,22 +160,6 @@
       "time": "18:45",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "UNFORGIVEN (1992)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122418/54roTwbX9fltg85zjsmrooXAs12-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/unforgiven/"
-    },
-    {
-      "title": "TOMBSTONE (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23122527/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
-      "ticketLink": "https://sunscinema.com/movies/tombstone/"
     },
     {
       "title": "SONG SUNG BLUE (2025)",
@@ -640,14 +552,6 @@
       "time": "13:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Ernest Cole: Lost and Found (2024)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-11",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nEqDYZtw9GlzmwvmflY6b2mfwd7.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1512,14 +1416,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/FepaiApo8Yr6pNIZIeYG5kW06J.jpg",
       "ticketLink": "https://sunscinema.com/movies/ran/"
-    },
-    {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PUNISHMENT PARK (1971)",
