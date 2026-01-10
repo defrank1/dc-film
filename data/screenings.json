@@ -1,78 +1,6 @@
 {
-  "lastUpdated": "2026-01-10T01:28:42.697Z",
+  "lastUpdated": "2026-01-10T06:29:19.701Z",
   "screenings": [
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "16:15",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-09",
-      "time": "21:05",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-10",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
     {
       "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
@@ -98,12 +26,36 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "12:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-10",
       "time": "12:40",
       "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "RESURRECTION (1999)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "IS THIS THING ON? (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -146,6 +98,30 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "15:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "RESURRECTION (1999)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "IS THIS THING ON? (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Sentimental Value (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-10",
@@ -186,12 +162,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE ROYAL TENENBAUMS (2001)",
-      "venue": "Suns Cinema",
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "18:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "IS THIS THING ON? (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-10",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23125506/nG7hZJn7wQTSDCQT39Gy3s3tbrp-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-royal-tenenbaums/"
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -208,6 +192,14 @@
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "RESURRECTION (1999)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-10",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg",
+      "ticketLink": null
     },
     {
       "title": "Is This Thing On? (2025)",
@@ -238,7 +230,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-10",
       "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
