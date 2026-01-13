@@ -1,102 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T01:27:56.007Z",
+  "lastUpdated": "2026-01-13T06:32:45.945Z",
   "screenings": [
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "11:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "12:40",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "12:50",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "16:15",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-12",
-      "time": "21:05",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -264,22 +168,6 @@
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "I KILLED MY MOTHER (2009)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-13",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130205/nB6OuDdERS95aQtoxPExXxsW3Ov-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/i-killed-my-mother/"
-    },
-    {
-      "title": "HEARTBEATS (2017)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-13",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/08/05123320/MV5BMWE5OWY1NzQtZjRhMi00ZTdjLWExMDYtNzM3OWYyYmY1MWMxXkEyXkFqcGc%40._V1_.jpg",
-      "ticketLink": "https://sunscinema.com/movies/heartbeats/"
     },
     {
       "title": "RESURRECTION (1999)",
@@ -922,6 +810,14 @@
       "ticketLink": "https://sunscinema.com/movies/ran/"
     },
     {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "PUNISHMENT PARK (1971)",
       "venue": "Suns Cinema",
       "date": "2026-01-25",
@@ -1040,6 +936,22 @@
       "time": "19:00",
       "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/12/Freud-poster-English-Small-600x600-1-250x250.jpg#250x250",
       "ticketLink": "https://www.loc.gov/item/event-419750/outsider-freud-film-screening-and-conversation-with-director-yair-qedar/2026-02-05/"
+    },
+    {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Film screening: Flamingo Road (1949)",
+      "venue": "Library of Congress",
+      "date": "2026-02-12",
+      "time": "19:00",
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Flamingo-Road-357x500.jpg#357x500",
+      "ticketLink": "https://www.loc.gov/item/event-419946/film-screening-flamingo-road-1949/2026-02-12/"
     },
     {
       "title": "Shakespeare's \"Othello\" (2008)",
