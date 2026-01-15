@@ -1,45 +1,13 @@
 {
-  "lastUpdated": "2026-01-15T01:39:32.351Z",
+  "lastUpdated": "2026-01-15T06:32:33.216Z",
   "screenings": [
     {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-14",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-14",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-14",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE MAN WHO FELL TO EARTH (1987)",
-      "venue": "AFI Silver",
-      "date": "2026-01-14",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/v6lMq7th81PN1jzIrE0yYcvXTVM.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-14",
-      "time": "21:05",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-15",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
     },
     {
       "title": "Hamnet (2025)",
@@ -48,14 +16,6 @@
       "time": "10:45",
       "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-15",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "MARTY SUPREME (Digital)",
@@ -117,7 +77,7 @@
       "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-15",
-      "time": "13:30",
+      "time": "13:45",
       "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
@@ -210,22 +170,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE ANNIHILATION OF FISH (1999)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23130838/f7ego9fmduGstTZejoq9SmLQwMj-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-annihilation-of-fish/"
-    },
-    {
-      "title": "MATEWAN (1987)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/25120220/kdQ2MCsrsC39Ta9x05sWOb9wi5B-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/matewan/"
-    },
-    {
       "title": "ALL THAT'S LEFT OF YOU (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-15",
@@ -274,12 +218,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Broken Voices (2025)",
+      "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-15",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zNYlzUhNMBaufzRcmPkEMvJFKud.jpg",
-      "ticketLink": "https://www.theavalon.org/films/broken-voices/"
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -1130,14 +1074,6 @@
       "ticketLink": "https://sunscinema.com/movies/ran/"
     },
     {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "PUNISHMENT PARK (1971)",
       "venue": "Suns Cinema",
       "date": "2026-01-25",
@@ -1528,14 +1464,6 @@
       "time": "13:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Still We Rise (2022)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "OFFSIDE (2006) in 35mm",
