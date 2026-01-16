@@ -1,61 +1,21 @@
 {
-  "lastUpdated": "2026-01-16T01:41:36.080Z",
+  "lastUpdated": "2026-01-16T06:32:41.702Z",
   "screenings": [
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-15",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-15",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-15",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-15",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-15",
-      "time": "21:05",
-      "poster": "https://image.tmdb.org/t/p/w500/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Sentimental Value (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-16",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-16",
       "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-16",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -110,7 +70,7 @@
       "venue": "Avalon Theater",
       "date": "2026-01-16",
       "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
@@ -234,14 +194,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "ALL THAT’S LEFT OF YOU (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23131045/8OTAu88K9r9wqlLXux1mbnHmyPF-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/all-thats-left-of-you/"
-    },
-    {
       "title": "THE VOICE OF HIND RAJAB (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-16",
@@ -254,7 +206,7 @@
       "venue": "Avalon Theater",
       "date": "2026-01-16",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
@@ -488,14 +440,6 @@
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "ALL THAT’S LEFT OF YOU (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-18",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/23131045/8OTAu88K9r9wqlLXux1mbnHmyPF-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/all-thats-left-of-you/"
     },
     {
       "title": "AMREEKA (2009)",
@@ -1042,6 +986,14 @@
       "ticketLink": "https://sunscinema.com/movies/ran/"
     },
     {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "PUNISHMENT PARK (1971)",
       "venue": "Suns Cinema",
       "date": "2026-01-25",
@@ -1432,6 +1384,14 @@
       "time": "13:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "OFFSIDE (2006) in 35mm",
