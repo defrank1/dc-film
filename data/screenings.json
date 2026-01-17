@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-01-17T06:29:30.584Z",
+  "lastUpdated": "2026-01-17T12:38:03.660Z",
   "screenings": [
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
     {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
@@ -64,22 +48,6 @@
       "time": "12:15",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -138,28 +106,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Sentimental Value (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
-    },
-    {
       "title": "IS THIS THING ON? (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-17",
       "time": "16:25",
       "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
@@ -208,22 +160,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-17",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -1272,14 +1208,6 @@
       "time": "13:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "When Harry Met Sally (1989)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
       "title": "OFFSIDE (2006) in 35mm",
