@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-20T06:35:20.017Z",
+  "lastUpdated": "2026-01-20T12:48:15.067Z",
   "screenings": [
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "10:45",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
     {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
@@ -8,6 +16,14 @@
       "time": "11:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -50,12 +66,28 @@
       "ticketLink": null
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-20",
       "time": "13:45",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -106,12 +138,28 @@
       "ticketLink": null
     },
     {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-20",
       "time": "16:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -162,12 +210,28 @@
       "ticketLink": null
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-01-20",
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-20",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -472,14 +536,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/FepaiApo8Yr6pNIZIeYG5kW06J.jpg",
       "ticketLink": "https://sunscinema.com/movies/ran/"
-    },
-    {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PUNISHMENT PARK (1971)",
@@ -882,14 +938,6 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
-      "title": "Still We Rise (2022)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "OFFSIDE (2006) in 35mm",
       "venue": "AFI Silver",
       "date": "2026-02-08",
@@ -1094,7 +1142,7 @@
       "venue": "AFI Silver",
       "date": "2026-02-15",
       "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1110,7 +1158,7 @@
       "venue": "AFI Silver",
       "date": "2026-02-16",
       "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
