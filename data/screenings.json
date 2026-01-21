@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T12:47:50.043Z",
+  "lastUpdated": "2026-01-21T18:41:15.566Z",
   "screenings": [
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
     {
       "title": "THE SECRET AGENT (2025)",
       "venue": "AFI Silver",
@@ -24,14 +8,6 @@
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
-      "ticketLink": null
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -42,44 +18,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "12:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-21",
       "time": "13:45",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -122,28 +66,12 @@
       "ticketLink": null
     },
     {
-      "title": "Sentimental Value (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
-    },
-    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-21",
       "time": "16:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -208,22 +136,6 @@
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
-      "title": "Nouvelle Vague (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-21",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xXIfRSL38VcdJfEfqrpwWbRYjKG.jpg",
-      "ticketLink": "https://www.theavalon.org/films/nouvelle-vague/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -624,6 +536,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1490,6 +1410,14 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "HOLDING LIAT (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-08",
@@ -1610,6 +1538,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "SOMETHING'S GOTTA GIVE (2003)",
+      "venue": "AFI Silver",
+      "date": "2026-02-13",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "PUNCH-DRUNK LOVE (2002)",
       "venue": "AFI Silver",
       "date": "2026-02-13",
@@ -1631,6 +1567,14 @@
       "date": "2026-02-13",
       "time": "21:30",
       "poster": null,
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SOMETHING'S GOTTA GIVE (2003)",
+      "venue": "AFI Silver",
+      "date": "2026-02-14",
+      "time": "11:15",
+      "poster": "https://image.tmdb.org/t/p/w500/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1746,6 +1690,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "SOMETHING'S GOTTA GIVE (2003)",
+      "venue": "AFI Silver",
+      "date": "2026-02-17",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "JEREMIAH JOHNSON (1972)",
       "venue": "AFI Silver",
       "date": "2026-02-17",
@@ -1783,6 +1735,14 @@
       "date": "2026-02-18",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/r3T3767YCgHS7Y4tzPFyT129mWB.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "SOMETHING'S GOTTA GIVE (2003)",
+      "venue": "AFI Silver",
+      "date": "2026-02-19",
+      "time": "11:20",
+      "poster": "https://image.tmdb.org/t/p/w500/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
