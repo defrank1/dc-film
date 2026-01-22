@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T18:41:15.566Z",
+  "lastUpdated": "2026-01-22T01:43:56.078Z",
   "screenings": [
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "12:10",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "13:45",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
       "venue": "AFI Silver",
@@ -34,36 +10,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "14:50",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "RESURRECTION (1999)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "15:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-21",
       "time": "15:10",
       "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "15:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
@@ -82,14 +34,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-21",
@@ -98,36 +42,12 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "THE VOICE OF HIND RAJAB (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-21",
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "IS THIS THING ON? (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-21",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": null
     },
     {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
@@ -154,12 +74,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "10:45",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-22",
       "time": "11:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -170,12 +106,44 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "RESURRECTION (1999)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "NO OTHER CHOICE (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-22",
       "time": "12:10",
       "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
@@ -186,12 +154,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
       "title": "THE VOICE OF HIND RAJAB (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-22",
       "time": "14:45",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": null
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -202,6 +186,30 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "15:25",
+      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Sentimental Value (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sentimental-value/"
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE (Digital)",
       "venue": "AFI Silver",
       "date": "2026-01-22",
@@ -210,12 +218,28 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
       "title": "THE VOICE OF HIND RAJAB (2025)",
       "venue": "AFI Silver",
       "date": "2026-01-22",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": null
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -250,12 +274,44 @@
       "ticketLink": "https://sunscinema.com/movies/flesh-for-frankenstein/"
     },
     {
+      "title": "IS THIS THING ON? (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-01-22",
       "time": "19:30",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-22",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Is This Thing On? (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+    },
+    {
+      "title": "Nouvelle Vague (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/xXIfRSL38VcdJfEfqrpwWbRYjKG.jpg",
+      "ticketLink": "https://www.theavalon.org/films/nouvelle-vague/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -536,14 +592,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1410,14 +1458,6 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
-      "title": "Still We Rise (2022)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "HOLDING LIAT (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-08",
@@ -2258,6 +2298,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE GODFATHER (1972)",
+      "venue": "AFI Silver",
+      "date": "2026-03-27",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "THE THIRD MAN (1949)",
       "venue": "AFI Silver",
       "date": "2026-03-27",
@@ -2274,11 +2322,27 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE GODFATHER (1972)",
+      "venue": "AFI Silver",
+      "date": "2026-03-28",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
       "title": "THE NATURAL (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
       "time": "15:15",
       "poster": "https://image.tmdb.org/t/p/w500/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE GODFATHER (1972)",
+      "venue": "AFI Silver",
+      "date": "2026-03-29",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -2311,6 +2375,22 @@
       "date": "2026-03-30",
       "time": "18:15",
       "poster": "https://image.tmdb.org/t/p/w500/wxTbbrWypRgUcsTS9zw7p9tMbNq.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE GODFATHER (1972)",
+      "venue": "AFI Silver",
+      "date": "2026-03-30",
+      "time": "20:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "THE GODFATHER (1972)",
+      "venue": "AFI Silver",
+      "date": "2026-03-31",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
