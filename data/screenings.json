@@ -1,78 +1,6 @@
 {
-  "lastUpdated": "2026-01-22T01:43:56.078Z",
+  "lastUpdated": "2026-01-22T06:33:51.188Z",
   "screenings": [
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "15:10",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "16:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "18:10",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-21",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -258,28 +186,20 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "THE BROOD (1979)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26193117/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-brood/"
-    },
-    {
-      "title": "FLESH FOR FRANKENSTEIN (1973)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24144126/9GRNVP3Vny8WRafI1bwsrsf2BC0-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/flesh-for-frankenstein/"
-    },
-    {
       "title": "IS THIS THING ON? (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-22",
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-22",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
@@ -304,14 +224,6 @@
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
       "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
-      "title": "Nouvelle Vague (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-22",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xXIfRSL38VcdJfEfqrpwWbRYjKG.jpg",
-      "ticketLink": "https://www.theavalon.org/films/nouvelle-vague/"
     },
     {
       "title": "THE VOICE OF HIND RAJAB (2025)",
@@ -592,6 +504,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1456,6 +1376,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
+    },
+    {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "HOLDING LIAT (2025)",
