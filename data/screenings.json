@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T12:44:20.902Z",
+  "lastUpdated": "2026-01-23T18:32:03.667Z",
   "screenings": [
     {
       "title": "Is This Thing On? (2025)",
@@ -40,30 +40,6 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-23",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-23",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-23",
-      "time": "12:20",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -416,6 +392,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/wQD86MqaAqD1U68NFxIkRF5qS5u.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "Compensation (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-01-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "NO OTHER CHOICE (2025)",
@@ -1384,6 +1368,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
+    },
+    {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "HOLDING LIAT (2025)",
