@@ -1,139 +1,11 @@
 {
-  "lastUpdated": "2026-01-25T01:50:26.079Z",
+  "lastUpdated": "2026-01-25T06:30:35.759Z",
   "screenings": [
-    {
-      "title": "Before Sunrise (1995)",
-      "venue": "Miracle Theater",
-      "date": "2026-01-24",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/before-sunrise/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-24",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-24",
-      "time": "17:30",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MAGELLAN (2017)",
-      "venue": "AFI Silver",
-      "date": "2026-01-24",
-      "time": "17:45",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-24",
-      "time": "18:00",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "A Private Life (1989)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (1989)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Compensation (1999)",
-      "venue": "National Gallery of Art",
-      "date": "2026-01-25",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
-    },
-    {
-      "title": "A Private Life (1989)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "PUNISHMENT PARK (1971)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/26105207/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
-      "ticketLink": "https://sunscinema.com/movies/punishment-park/"
-    },
-    {
-      "title": "SAMBIZANGA (1973)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/28080827/e25eb70db49b8217978a94e2cbccd7e8.jpg",
-      "ticketLink": "https://sunscinema.com/movies/sambizanga/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (1989)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-25",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "FRANKENSTEIN (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-25",
-      "time": "21:00",
-      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "ticketLink": null
-    },
     {
       "title": "ALL THAT'S LEFT OF YOU (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-25",
-      "time": "21:45",
+      "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
       "ticketLink": null
     },
@@ -141,8 +13,64 @@
       "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-25",
-      "time": "22:00",
+      "time": "12:15",
       "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "HARD BOILED - HONG KONG CINEMA CLASSICS",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "15:35",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "18:30",
+      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "HARD BOILED - HONG KONG CINEMA CLASSICS",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-25",
+      "time": "19:00",
+      "poster": null,
       "ticketLink": null
     },
     {
@@ -1120,14 +1048,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
-    },
-    {
-      "title": "Still We Rise (2022)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "HOLDING LIAT (2025)",
