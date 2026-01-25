@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T12:40:12.996Z",
+  "lastUpdated": "2026-01-25T18:28:36.220Z",
   "screenings": [
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-25",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-25",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-25",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
-    },
     {
       "title": "ALL THAT'S LEFT OF YOU (2025)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -94,7 +70,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-26",
       "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -102,7 +78,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-26",
       "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -462,7 +438,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-27",
       "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -470,7 +446,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-27",
       "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -494,7 +470,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-28",
       "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -502,7 +478,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-28",
       "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -878,7 +854,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-29",
       "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -886,7 +862,7 @@
       "venue": "AFI Silver",
       "date": "2026-01-29",
       "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
@@ -1690,6 +1666,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE GREAT DICTATOR (1940)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25111821/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-great-dictator/"
+    },
+    {
       "title": "IF I HAD LEGS I'D KICK YOU (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-11",
@@ -1728,6 +1712,22 @@
       "time": "18:15",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "MCCABE & MRS. MILLER (1971)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25112425/eQ9hDaTNpZ4wb7FWdqoJcOCJBve-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mccabe-mrs-miller/"
+    },
+    {
+      "title": "THE GREAT SILENCE (1968)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25112156/3kpxS7SZMyYSXvhDnmxQXOOxiTM-1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-great-silence/"
     },
     {
       "title": "Film screening: Flamingo Road (1949)",
@@ -1776,6 +1776,14 @@
       "time": "19:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "AMÉLIE (2001)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/03/22100645/nSxDa3M9aMvGVLoItzWTepQ5h5d-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/amelie/"
     },
     {
       "title": "IN THE REALM OF THE SENSES in 35mm",
@@ -1866,14 +1874,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Lady and the Tramp (1955)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
-    },
-    {
       "title": "THE CANDIDATE (1972) in 35mm",
       "venue": "AFI Silver",
       "date": "2026-02-15",
@@ -1962,6 +1962,22 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "MOONLIGHT (2016)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/01/26161934/4911T5FbJ9eD2Faz5Z8cT3SUhU3-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/moonlight/"
+    },
+    {
+      "title": "HAPPY TOGETHER (1997)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-17",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kO4KjUkQOfWSBw06Bdl7m6AlEP7.jpg",
+      "ticketLink": "https://sunscinema.com/movies/happy-together/"
+    },
+    {
       "title": "THE MASTERMIND (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-17",
@@ -2010,6 +2026,22 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "WERCKMEISTER HARMONIES (2001)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113301/fzG0xks6HNSnQg6atlF98brHvIT-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/werckmeister-harmonies/"
+    },
+    {
+      "title": "DAMNATION (2014)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/05/02110514/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
+      "ticketLink": "https://sunscinema.com/movies/damnation/"
+    },
+    {
       "title": "WEAPONS (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-18",
@@ -2048,6 +2080,22 @@
       "time": "19:00",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "COMPENSATION (1999)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113502/k2SXL3KcW0PEjl8SC6mZoBuNPul.jpg",
+      "ticketLink": "https://sunscinema.com/movies/compensation/"
+    },
+    {
+      "title": "LOSING GROUND (1982)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/12/21140223/zSZT7ndjNUsskQq9IWosW3a9cbk.jpg",
+      "ticketLink": "https://sunscinema.com/movies/losing-ground/"
     },
     {
       "title": "IN THE REALM OF THE SENSES in 35mm",
@@ -2090,6 +2138,22 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "BOTTLE ROCKET (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25114234/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
+      "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
+    },
+    {
+      "title": "MARKETA LAZAROVÁ (1967)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113929/c16ArEPUqb0RdUyZBH6fnO7ZiLL.jpg",
+      "ticketLink": "https://sunscinema.com/movies/marketa-lazarova/"
+    },
+    {
       "title": "THE STING (1973)",
       "venue": "AFI Silver",
       "date": "2026-02-20",
@@ -2128,6 +2192,14 @@
       "time": "18:15",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "NADJA (1995)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
+      "ticketLink": "https://sunscinema.com/movies/nadja/"
     },
     {
       "title": "DEF BY TEMPTATION (1990)",
@@ -2274,6 +2346,14 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
+      "title": "THE TURIN HORSE (2011)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25115614/2kSElneXSKmMsGL55k0CbPGqLbu1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-turin-horse/"
+    },
+    {
       "title": "DEF BY TEMPTATION (1990)",
       "venue": "AFI Silver",
       "date": "2026-02-25",
@@ -2304,6 +2384,30 @@
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
+    },
+    {
+      "title": "WOLF’S HOLE (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25115805/1GfaK7FUqgc90peUBH4uSWIVCAr.jpg",
+      "ticketLink": "https://sunscinema.com/movies/wolfs-hole/"
+    },
+    {
+      "title": "ANDREI RUBLEV (1966)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25120130/910xRIUmNJrWH2hkQifBJtoPp5R.jpg",
+      "ticketLink": "https://sunscinema.com/movies/andrei-rublev/"
+    },
+    {
+      "title": "THE ASCENT (2019)",
+      "venue": "Suns Cinema",
+      "date": "2026-02-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10141814/nbGyTnH1TREKgZXLxEJNnDVohYC.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-ascent/"
     },
     {
       "title": "HEDDA (2025)",
