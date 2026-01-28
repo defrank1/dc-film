@@ -1,77 +1,13 @@
 {
-  "lastUpdated": "2026-01-28T01:43:38.273Z",
+  "lastUpdated": "2026-01-28T06:35:11.759Z",
   "screenings": [
     {
-      "title": "MAGELLAN (2017)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "15:00",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "15:10",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "16:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "NO OTHER CHOICE (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE LIBRARIANS (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "18:15",
-      "poster": "https://image.tmdb.org/t/p/w500/f2xA2e81wBiRxio32kRJe42P05M.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE TESTAMENT OF ANN LEE in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "MAGELLAN (2017)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "20:15",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "THE SECRET AGENT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-01-27",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Hamlet (1996)",
+      "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-28",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamlet/"
+      "time": "10:45",
+      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
+      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
     },
     {
       "title": "A Private Life (2025)",
@@ -250,28 +186,12 @@
       "ticketLink": "https://sunscinema.com/movies/a-new-love-in-tokyo/"
     },
     {
-      "title": "GHOSTKEEPER (1981)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30130854/Ghostkeeper_poster.jpg",
-      "ticketLink": "https://sunscinema.com/movies/ghostkeeper/"
-    },
-    {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-28",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-28",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "THE TESTAMENT OF ANN LEE in 70mm",
@@ -296,6 +216,14 @@
       "time": "19:45",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Beautiful! (1997)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-28",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "ticketLink": "https://www.theavalon.org/films/beautiful/"
     },
     {
       "title": "MAGELLAN (2017)",
@@ -1410,14 +1338,6 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
-      "title": "Still We Rise (2022)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "HOLDING LIAT (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-08",
@@ -1754,14 +1674,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "Casablanca (1943)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Lady and the Tramp (1955)",
       "venue": "Miracle Theater",
       "date": "2026-02-14",
@@ -1824,14 +1736,6 @@
       "time": "13:15",
       "poster": null,
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Sunset Boulevard (1950)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "THE CANDIDATE (1972) in 35mm",
@@ -2138,14 +2042,6 @@
       "ticketLink": "https://silver.afi.com/calendar/"
     },
     {
-      "title": "The General (1926)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-21",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nIp4gIXogCjfB1QABNsWwa9gSca.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "BLKNWS: TERMS & CONDITIONS (2025)",
       "venue": "AFI Silver",
       "date": "2026-02-21",
@@ -2184,14 +2080,6 @@
       "time": "13:15",
       "poster": "https://image.tmdb.org/t/p/w500/lY2RW6pxRYyPmrgUF0rjqbeAnTu.jpg",
       "ticketLink": "https://silver.afi.com/calendar/"
-    },
-    {
-      "title": "Mr. Smith Goes to Washington (1939)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-22",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "THE GREAT GATSBY (1974)",
