@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T01:55:32.702Z",
+  "lastUpdated": "2026-01-29T06:44:56.710Z",
   "screenings": [
-    {
-      "title": "A NEW LOVE IN TOKYO (1994)",
-      "venue": "Suns Cinema",
-      "date": "2026-01-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30124347/a4lidbbDWxcsI0M0vW7SN6gipq7-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-new-love-in-tokyo/"
-    },
     {
       "title": "Is This Thing On? (2025)",
       "venue": "Avalon Theater",
@@ -26,12 +18,44 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "THE VOICE OF HIND RAJAB (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-29",
       "time": "13:30",
       "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "ONE BATTLE AFTER ANOTHER (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "13:40",
+      "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
@@ -42,12 +66,20 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "Is This Thing On? (2025)",
-      "venue": "Avalon Theater",
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-29",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/45Nvc1QVa5FqSmZItpZ359GyaCE.jpg",
-      "ticketLink": "https://www.theavalon.org/films/is-this-thing-on/"
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "15:35",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
@@ -58,44 +90,52 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "I AM NOT A WITCH (2017)",
-      "venue": "Suns Cinema",
+      "title": "IRON LUNG (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/24145725/tWkbuUHugbckItwcyCf8uq1utOJ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/i-am-not-a-witch/"
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "ticketLink": null
     },
     {
-      "title": "ON BECOMING A GUINEA FOWL (2024)",
-      "venue": "Suns Cinema",
+      "title": "ALL THAT'S LEFT OF YOU (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "18:30",
+      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-29",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/30161830/6lMOpD8XVLKaB5uCsJXt1Fo7XNh-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/on-becoming-a-guinea-fowl/"
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-29",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "IRON LUNG (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-29",
+      "time": "19:45",
+      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2026-01-29",
-      "time": "19:00",
+      "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "Beautiful! (1997)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-29",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/beautiful/"
-    },
-    {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-29",
-      "time": "20:50",
-      "poster": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-      "ticketLink": null
     },
     {
       "title": "THE FIRST WIVES CLUB (1996)",
@@ -258,6 +298,14 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "LAW OF THE BORDER (1966)",
       "venue": "Suns Cinema",
       "date": "2026-02-08",
@@ -346,6 +394,14 @@
       "ticketLink": "https://sunscinema.com/movies/amelie/"
     },
     {
+      "title": "Casablanca (1943)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Lady and the Tramp (1955)",
       "venue": "Miracle Theater",
       "date": "2026-02-14",
@@ -360,6 +416,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/26130410/metrosexual-vday-flyer-2.jpeg",
       "ticketLink": "https://sunscinema.com/special_events/metrosexual-dance-party-2/"
+    },
+    {
+      "title": "Sunset Boulevard (1950)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "HAPPY TOGETHER (1997)",
@@ -426,6 +490,14 @@
       "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
     },
     {
+      "title": "The General (1926)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nIp4gIXogCjfB1QABNsWwa9gSca.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "HAIL THE NEW PURITAN (1986)",
       "venue": "Suns Cinema",
       "date": "2026-02-21",
@@ -440,6 +512,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/nadja/"
+    },
+    {
+      "title": "Mr. Smith Goes to Washington (1939)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "CLOUDBURST (1951)",
