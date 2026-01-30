@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T06:47:07.117Z",
+  "lastUpdated": "2026-01-30T12:53:04.633Z",
   "screenings": [
     {
       "title": "Bugonia (2025)",
@@ -86,7 +86,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-30",
       "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
       "ticketLink": null
     },
     {
@@ -142,7 +142,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-30",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
       "ticketLink": null
     },
     {
@@ -166,7 +166,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-01-30",
       "time": "21:55",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
       "ticketLink": null
     },
     {
@@ -184,6 +184,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/05141720/5gS0Jif1hIHhqhqLkur29tjdaOJ.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-mother-the-bear/"
+    },
+    {
+      "title": "Before Sunset (2004)",
+      "venue": "Miracle Theater",
+      "date": "2026-01-31",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/gycdE1ARByGQcK4fYR2mgpU6OO.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/before-sunset/"
     },
     {
       "title": "Groundhog Day (1993)",
@@ -416,22 +424,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/26130410/metrosexual-vday-flyer-2.jpeg",
       "ticketLink": "https://sunscinema.com/special_events/metrosexual-dance-party-2/"
-    },
-    {
-      "title": "An Affair to Remember (1957)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-14",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-2/"
-    },
-    {
-      "title": "Lady and the Tramp (1955)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
     },
     {
       "title": "Sunset Boulevard (1950)",
