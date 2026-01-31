@@ -1,102 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T18:40:38.630Z",
+  "lastUpdated": "2026-01-31T01:51:46.950Z",
   "screenings": [
-    {
-      "title": "Bugonia (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
-      "ticketLink": "https://www.theavalon.org/films/bugonia/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "THE VOICE OF HIND RAJAB (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "14:20",
-      "poster": "https://image.tmdb.org/t/p/w500/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "IRON LUNG (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
-      "ticketLink": null
-    },
     {
       "title": "Groundhog Day (1993)",
       "venue": "Miracle Theater",
@@ -106,44 +10,52 @@
       "ticketLink": "https://themiracletheatre.com/events/groundhog-day-5/"
     },
     {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "IRON LUNG (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "Bugonia (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-01-30",
-      "time": "19:30",
+      "date": "2026-01-31",
+      "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
       "ticketLink": "https://www.theavalon.org/films/bugonia/"
     },
     {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-      "ticketLink": null
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "11:15",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "IRON LUNG (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-01-30",
-      "time": "21:55",
-      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
-      "ticketLink": null
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "A NEW LOVE IN TOKYO (1994)",
@@ -162,12 +74,44 @@
       "ticketLink": "https://sunscinema.com/movies/the-mother-the-bear/"
     },
     {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Bugonia (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-01-31",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+      "ticketLink": "https://www.theavalon.org/films/bugonia/"
+    },
+    {
       "title": "Before Sunset (2004)",
       "venue": "Miracle Theater",
       "date": "2026-01-31",
       "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/gycdE1ARByGQcK4fYR2mgpU6OO.jpg",
       "ticketLink": "https://themiracletheatre.com/events/before-sunset/"
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-31",
+      "time": "21:45",
+      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "IRON LUNG (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-01-31",
+      "time": "21:55",
+      "poster": "https://image.tmdb.org/t/p/w500/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
+      "ticketLink": null
     },
     {
       "title": "Groundhog Day (1993)",
