@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T12:57:27.619Z",
+  "lastUpdated": "2026-02-02T18:42:49.215Z",
   "screenings": [
     {
       "title": "Bugonia (2025)",
@@ -16,30 +16,6 @@
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/gPU4BAkix6WerIWqUtJyUsL9M7G.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "IRON LUNG (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-02",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-02",
-      "time": "12:25",
-      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-02",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -234,6 +210,14 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
     },
     {
+      "title": "Still We Rise (2022)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-08",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zjenVykckQU7lycQIk3Ag1P8kTZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "LAW OF THE BORDER (1966)",
       "venue": "Suns Cinema",
       "date": "2026-02-08",
@@ -322,6 +306,14 @@
       "ticketLink": "https://sunscinema.com/movies/amelie/"
     },
     {
+      "title": "Casablanca (1943)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Lady and the Tramp (1955)",
       "venue": "Miracle Theater",
       "date": "2026-02-14",
@@ -344,6 +336,30 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
       "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-2/"
+    },
+    {
+      "title": "Lady and the Tramp (1955)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
+    },
+    {
+      "title": "Sunset Boulevard (1950)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "An Affair to Remember (1957)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-15",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-3/"
     },
     {
       "title": "HAPPY TOGETHER (1997)",
@@ -410,6 +426,14 @@
       "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
     },
     {
+      "title": "The General (1926)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2IqFPt9lHF7xLbtDw6DttXQXeet.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "HAIL THE NEW PURITAN (1986)",
       "venue": "Suns Cinema",
       "date": "2026-02-21",
@@ -424,6 +448,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/nadja/"
+    },
+    {
+      "title": "Mr. Smith Goes to Washington (1939)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "CASTRATION MOVIE ANTHOLOGY i & ii",
