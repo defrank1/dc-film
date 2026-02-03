@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T12:57:32.009Z",
+  "lastUpdated": "2026-02-03T18:55:13.687Z",
   "screenings": [
     {
       "title": "Bugonia (2025)",
@@ -16,30 +16,6 @@
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "IRON LUNG (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-03",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "ALL THAT'S LEFT OF YOU (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-03",
-      "time": "12:25",
-      "poster": "https://image.tmdb.org/t/p/w500/iTGzHTKpb828Gbd7mcQqCjEYd5b.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-03",
-      "time": "13:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -118,7 +94,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-03",
       "time": "19:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "ticketLink": null
     },
     {
@@ -344,6 +320,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
       "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
+    },
+    {
+      "title": "An Affair to Remember (1957)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-15",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-3/"
     },
     {
       "title": "HAPPY TOGETHER (1997)",
