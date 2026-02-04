@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T01:57:20.925Z",
+  "lastUpdated": "2026-02-04T06:51:32.468Z",
   "screenings": [
     {
       "title": "Bugonia (2025)",
@@ -106,14 +106,6 @@
       "ticketLink": null
     },
     {
-      "title": "FARGO (1996)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-04",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/22152106/rt7cpEr1uP6RTZykBFhBTcRaKvG-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/fargo/"
-    },
-    {
       "title": "ALL THAT'S LEFT OF YOU (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-04",
@@ -130,14 +122,6 @@
       "ticketLink": null
     },
     {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-04",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
       "title": "Bugonia (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-04",
@@ -152,6 +136,14 @@
       "time": "19:45",
       "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Cutting Through Rocks (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-04",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/qefjf5TeM0uRzrFU2c4xYt6ew9z.jpg",
+      "ticketLink": "https://www.theavalon.org/films/cutting-through-rocks/"
     },
     {
       "title": "GREY GARDENS (1976)",
