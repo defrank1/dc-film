@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-02-06T01:58:13.085Z",
+  "lastUpdated": "2026-02-06T06:53:42.205Z",
   "screenings": [
     {
-      "title": "Bugonia (2025)",
+      "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-06",
       "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
-      "ticketLink": "https://www.theavalon.org/films/bugonia/"
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
       "title": "A Private Life (2025)",
@@ -34,12 +34,20 @@
       "ticketLink": null
     },
     {
-      "title": "Hamnet (2025)",
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-06",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Song Sung Blue (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-06",
       "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
     },
     {
       "title": "THE MOMENT (2009)",
@@ -48,14 +56,6 @@
       "time": "14:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-06",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "THE MOMENT (2009)",
@@ -74,18 +74,10 @@
       "ticketLink": null
     },
     {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-06",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-06",
-      "time": "16:35",
+      "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
@@ -96,6 +88,14 @@
       "time": "16:45",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-06",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
       "title": "THE MOMENT (2009)",
@@ -114,22 +114,6 @@
       "ticketLink": null
     },
     {
-      "title": "FORCE MAJEURE",
-      "venue": "Suns Cinema",
-      "date": "2026-02-06",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/23140053/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
-      "ticketLink": "https://sunscinema.com/movies/force-majeure-2/"
-    },
-    {
-      "title": "THE THING (1982)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-06",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/22152044/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-thing/"
-    },
-    {
       "title": "THE MOMENT (2009)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-06",
@@ -141,9 +125,17 @@
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-06",
-      "time": "19:15",
+      "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Song Sung Blue (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-06",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
     },
     {
       "title": "THE MOMENT (2009)",
