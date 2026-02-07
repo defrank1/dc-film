@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-02-07T01:54:53.124Z",
+  "lastUpdated": "2026-02-07T06:40:30.220Z",
   "screenings": [
+    {
+      "title": "Cool Runnings (1993)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-07",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/cool-runnings/"
+    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -10,12 +18,20 @@
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-07",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+      "time": "12:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "12:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
@@ -34,12 +50,44 @@
       "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
     },
     {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "14:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "15:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-07",
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "16:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Hamnet (2025)",
@@ -50,20 +98,28 @@
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
     },
     {
-      "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB (1964)",
-      "venue": "Suns Cinema",
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/06/21112949/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
-      "ticketLink": "https://sunscinema.com/movies/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/"
+      "time": "17:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
-      "title": "BARRY LYNDON (1975)",
-      "venue": "Suns Cinema",
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "18:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-07",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/23140244/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
-      "ticketLink": "https://sunscinema.com/movies/barry-lyndon/"
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "When Harry Met Sally (1989)",
@@ -90,11 +146,19 @@
       "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
     },
     {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-07",
+      "time": "20:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-07",
       "time": "21:20",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
@@ -102,7 +166,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-07",
       "time": "21:50",
-      "poster": "https://image.tmdb.org/t/p/w500/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
@@ -192,14 +256,6 @@
       "time": "19:00",
       "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Flamingo-Road-357x500.jpg#357x500",
       "ticketLink": "https://www.loc.gov/item/event-419946/film-screening-flamingo-road-1949/2026-02-12/"
-    },
-    {
-      "title": "BARRY LYNDON (1975)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-13",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/23140244/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
-      "ticketLink": "https://sunscinema.com/movies/barry-lyndon/"
     },
     {
       "title": "AMÉLIE (2001)",
