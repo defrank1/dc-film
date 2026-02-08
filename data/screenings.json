@@ -1,110 +1,6 @@
 {
-  "lastUpdated": "2026-02-07T18:34:05.549Z",
+  "lastUpdated": "2026-02-08T02:27:45.762Z",
   "screenings": [
-    {
-      "title": "Cool Runnings (1993)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/cool-runnings/"
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Song Sung Blue (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "14:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "15:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "16:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "16:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "17:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "18:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "When Harry Met Sally (1989)",
       "venue": "Miracle Theater",
@@ -114,44 +10,36 @@
       "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-2/"
     },
     {
+      "title": "Cool Runnings (1993)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/cool-runnings/"
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "19:00",
+      "date": "2026-02-08",
+      "time": "13:30",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "Song Sung Blue (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-07",
-      "time": "19:30",
+      "date": "2026-02-08",
+      "time": "13:45",
       "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
       "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "20:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "21:20",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-07",
-      "time": "21:50",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "When Harry Met Sally (1989)",
@@ -170,6 +58,22 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Hamnet (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
       "title": "LAW OF THE BORDER (1966)",
       "venue": "Suns Cinema",
       "date": "2026-02-08",
@@ -184,6 +88,38 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/23140537/wtx3qqdwwp3sNANYfAFXl5tKZE6.jpg",
       "ticketLink": "https://sunscinema.com/movies/chronicle-of-the-years-of-fire/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Song Sung Blue (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-08",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-08",
+      "time": "21:20",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-08",
+      "time": "21:50",
+      "poster": "https://image.tmdb.org/t/p/w500/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
+      "ticketLink": null
     },
     {
       "title": "LE SILENCE DE LA MER (1949)",
