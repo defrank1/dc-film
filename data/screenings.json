@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-02-09T02:05:38.661Z",
+  "lastUpdated": "2026-02-09T07:02:50.432Z",
   "screenings": [
-    {
-      "title": "When Harry Met Sally (1989)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/when-harry-met-sally-3/"
-    },
-    {
-      "title": "Cool Runnings (1993)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-09",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/cool-runnings/"
-    },
     {
       "title": "Hamnet (2025)",
       "venue": "Avalon Theater",
@@ -24,6 +8,14 @@
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
       "ticketLink": "https://www.theavalon.org/films/hamnet/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-09",
+      "time": "11:15",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "THE MOMENT (2009)",
@@ -320,6 +312,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25114234/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
       "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-4/"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-3/"
     },
     {
       "title": "HAIL THE NEW PURITAN (1986)",
