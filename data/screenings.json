@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T06:59:18.754Z",
+  "lastUpdated": "2026-02-11T13:07:14.065Z",
   "screenings": [
     {
       "title": "Hamnet (2025)",
@@ -178,14 +178,6 @@
       "ticketLink": "https://sunscinema.com/movies/amelie/"
     },
     {
-      "title": "Casablanca (1943)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Lady and the Tramp (1955)",
       "venue": "Miracle Theater",
       "date": "2026-02-14",
@@ -216,14 +208,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
       "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
-    },
-    {
-      "title": "Sunset Boulevard (1950)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "An Affair to Remember (1957)",
@@ -298,12 +282,20 @@
       "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
     },
     {
-      "title": "The General (1926)",
-      "venue": "National Gallery of Art",
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-4/"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
       "date": "2026-02-21",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2IqFPt9lHF7xLbtDw6DttXQXeet.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-3/"
     },
     {
       "title": "HAIL THE NEW PURITAN (1986)",
@@ -320,14 +312,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/nadja/"
-    },
-    {
-      "title": "Mr. Smith Goes to Washington (1939)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-22",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "CASTRATION MOVIE ANTHOLOGY i & ii",
@@ -416,54 +400,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/27121412/6zD8cZ7gTvNLJdjEcnllYyJjkMY.jpg",
       "ticketLink": "https://sunscinema.com/movies/dead-mountaineers-hotel/"
-    },
-    {
-      "title": "Il Cinema Ritrovato on Tour: Smog",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-07",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Il Cinema Ritrovato on Tour: Rain",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Afterimage (Powidoki) (2016)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Good Valley Stories (2025)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
