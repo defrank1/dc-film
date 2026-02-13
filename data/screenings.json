@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-02-13T02:07:51.107Z",
+  "lastUpdated": "2026-02-13T06:58:14.124Z",
   "screenings": [
-    {
-      "title": "Hamnet (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hamnet/"
-    },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-13",
-      "time": "11:15",
+      "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
@@ -26,28 +18,20 @@
       "ticketLink": null
     },
     {
+      "title": "If I Had Legs I’d Kick You (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-13",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+    },
+    {
       "title": "THE MOMENT (2009)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-13",
       "time": "13:10",
       "poster": "https://image.tmdb.org/t/p/w500/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Song Sung Blue (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
     },
     {
       "title": "WUTHERING HEIGHTS (2026)",
@@ -58,12 +42,28 @@
       "ticketLink": null
     },
     {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-13",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-13",
       "time": "15:40",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Magellan (2017)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-13",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/magellan/"
     },
     {
       "title": "MARTY SUPREME (2025)",
@@ -77,7 +77,7 @@
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-13",
-      "time": "16:15",
+      "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
@@ -98,12 +98,12 @@
       "ticketLink": null
     },
     {
-      "title": "AMÉLIE (2001)",
-      "venue": "Suns Cinema",
+      "title": "Magellan (2017)",
+      "venue": "Avalon Theater",
       "date": "2026-02-13",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/03/22100645/nSxDa3M9aMvGVLoItzWTepQ5h5d-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/amelie/"
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/magellan/"
     },
     {
       "title": "THE MOMENT (2009)",
@@ -114,12 +114,12 @@
       "ticketLink": null
     },
     {
-      "title": "Song Sung Blue (2025)",
+      "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-13",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/song-sung-blue/"
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
     },
     {
       "title": "WUTHERING HEIGHTS (2026)",
