@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-02-13T18:46:48.687Z",
+  "lastUpdated": "2026-02-14T01:56:25.452Z",
   "screenings": [
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
@@ -12,122 +12,10 @@
     {
       "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-13",
+      "date": "2026-02-14",
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
       "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "15:40",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Magellan (2017)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "16:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "17:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Magellan (2017)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
-    },
-    {
-      "title": "THE MOMENT (2009)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "If I Had Legs I’d Kick You (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-13",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "20:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-13",
-      "time": "21:50",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Casablanca (1943)",
@@ -138,12 +26,36 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "Magellan (2017)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/magellan/"
+    },
+    {
       "title": "Lady and the Tramp (1955)",
       "venue": "Miracle Theater",
       "date": "2026-02-14",
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
       "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-3/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
       "title": "METROSEXUAL: DANCE PARTY",
@@ -154,12 +66,68 @@
       "ticketLink": "https://sunscinema.com/special_events/metrosexual-dance-party-2/"
     },
     {
+      "title": "An Affair to Remember (1957)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-14",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-2/"
+    },
+    {
+      "title": "Magellan (2017)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/magellan/"
+    },
+    {
+      "title": "If I Had Legs I’d Kick You (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "21:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "21:50",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Lady and the Tramp (1955)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-4/"
+    },
+    {
       "title": "Sunset Boulevard (1950)",
       "venue": "National Gallery of Art",
       "date": "2026-02-15",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "An Affair to Remember (1957)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-15",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/jwbWglYHbjqUu8M9DjTYzTOFklt.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/an-affair-to-remember-3/"
     },
     {
       "title": "HAPPY TOGETHER (1997)",
@@ -224,6 +192,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25114234/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
       "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-20",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-4/"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "Miracle Theater",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-3/"
     },
     {
       "title": "The General (1926)",
