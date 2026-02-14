@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-02-14T01:56:25.452Z",
+  "lastUpdated": "2026-02-14T06:42:44.656Z",
   "screenings": [
+    {
+      "title": "Frozen (2013)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-14",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "ticketLink": "https://www.theavalon.org/films/frozen/"
+    },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
@@ -10,12 +18,36 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-14",
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
       "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+    },
+    {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "13:10",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "Casablanca (1943)",
@@ -34,12 +66,28 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "15:40",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Magellan (2017)",
       "venue": "Avalon Theater",
       "date": "2026-02-14",
       "time": "15:45",
       "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
       "ticketLink": "https://www.theavalon.org/films/magellan/"
+    },
+    {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": null
     },
     {
       "title": "Lady and the Tramp (1955)",
@@ -50,6 +98,14 @@
       "ticketLink": "https://themiracletheatre.com/events/lady-and-the-tramp-3/"
     },
     {
+      "title": "CASABLANCA (1943)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-14",
@@ -58,12 +114,20 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "METROSEXUAL: DANCE PARTY",
-      "venue": "Suns Cinema",
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "CASABLANCA (1943)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-14",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/26130410/metrosexual-vday-flyer-2.jpeg",
-      "ticketLink": "https://sunscinema.com/special_events/metrosexual-dance-party-2/"
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": null
     },
     {
       "title": "An Affair to Remember (1957)",
@@ -82,12 +146,28 @@
       "ticketLink": "https://www.theavalon.org/films/magellan/"
     },
     {
+      "title": "THE MOMENT (2009)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "19:25",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-14",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/lfD6Gwf9qZu8aF017mGlDOXqWHQ.jpg",
       "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+    },
+    {
+      "title": "CASABLANCA (1943)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-14",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": null
     },
     {
       "title": "WUTHERING HEIGHTS (2026)",
