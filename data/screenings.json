@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T02:04:29.694Z",
+  "lastUpdated": "2026-02-18T07:00:13.473Z",
   "screenings": [
     {
       "title": "A Private Life (2025)",
@@ -98,22 +98,6 @@
       "ticketLink": null
     },
     {
-      "title": "DAMNATION (2014)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-18",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/05/02110514/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
-      "ticketLink": "https://sunscinema.com/movies/damnation/"
-    },
-    {
-      "title": "WERCKMEISTER HARMONIES (2001)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-18",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113301/fzG0xks6HNSnQg6atlF98brHvIT-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/werckmeister-harmonies/"
-    },
-    {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-18",
@@ -122,20 +106,20 @@
       "ticketLink": null
     },
     {
-      "title": "Magellan (2017)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-18",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
-    },
-    {
       "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-18",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
       "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+    },
+    {
+      "title": "Little Amélie or the Character of Rain (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-18",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
+      "ticketLink": "https://www.theavalon.org/films/little-amelie-or-the-character-of-rain/"
     },
     {
       "title": "COMPENSATION (1999)",
@@ -304,14 +288,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/27121412/6zD8cZ7gTvNLJdjEcnllYyJjkMY.jpg",
       "ticketLink": "https://sunscinema.com/movies/dead-mountaineers-hotel/"
-    },
-    {
-      "title": "The Way We Were (1973)",
-      "venue": "Miracle Theater",
-      "date": "2026-03-01",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
     }
   ]
 }
