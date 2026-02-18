@@ -1,18 +1,34 @@
 {
-  "lastUpdated": "2026-02-17T18:56:25.060Z",
+  "lastUpdated": "2026-02-18T02:04:29.694Z",
   "screenings": [
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "MARTY SUPREME (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-18",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-18",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "If I Had Legs I’d Kick You (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
       "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
@@ -20,15 +36,15 @@
     {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "14:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
@@ -36,7 +52,7 @@
     {
       "title": "Magellan (2017)",
       "venue": "Avalon Theater",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "15:45",
       "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
       "ticketLink": "https://www.theavalon.org/films/magellan/"
@@ -44,15 +60,15 @@
     {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "16:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
     },
     {
       "title": "THE MOMENT (2009)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/hBj1aTnGf4564Klv9yIbSuB7Y8w.jpg",
       "ticketLink": null
@@ -60,7 +76,7 @@
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
@@ -68,42 +84,18 @@
     {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "17:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
     },
     {
       "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
+      "date": "2026-02-18",
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-17",
-      "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Magellan (2017)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-17",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
-    },
-    {
-      "title": "If I Had Legs I’d Kick You (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-17",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
-      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
     },
     {
       "title": "DAMNATION (2014)",
@@ -120,6 +112,30 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113301/fzG0xks6HNSnQg6atlF98brHvIT-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/werckmeister-harmonies/"
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-18",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Magellan (2017)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-18",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/magellan/"
+    },
+    {
+      "title": "If I Had Legs I’d Kick You (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-18",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
+      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
     },
     {
       "title": "COMPENSATION (1999)",
@@ -170,14 +186,6 @@
       "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-3/"
     },
     {
-      "title": "The General (1926)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-21",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2IqFPt9lHF7xLbtDw6DttXQXeet.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "HAIL THE NEW PURITAN (1986)",
       "venue": "Suns Cinema",
       "date": "2026-02-21",
@@ -192,14 +200,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/nadja/"
-    },
-    {
-      "title": "Mr. Smith Goes to Washington (1939)",
-      "venue": "National Gallery of Art",
-      "date": "2026-02-22",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "CASTRATION MOVIE ANTHOLOGY i & ii",
@@ -312,54 +312,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
-    },
-    {
-      "title": "Il Cinema Ritrovato on Tour: Smog",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-07",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Il Cinema Ritrovato on Tour: Rain",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Afterimage (Powidoki) (2016)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Good Valley Stories (2025)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
