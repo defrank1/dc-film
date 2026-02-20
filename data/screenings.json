@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-02-20T01:58:51.281Z",
+  "lastUpdated": "2026-02-20T06:55:05.910Z",
   "screenings": [
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-20",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
     {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -42,12 +34,12 @@
       "ticketLink": null
     },
     {
-      "title": "If I Had Legs I’d Kick You (2025)",
+      "title": "The Secret Agent (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-20",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
-      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION",
@@ -74,20 +66,20 @@
       "ticketLink": null
     },
     {
-      "title": "Magellan (2017)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-20",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
-    },
-    {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-20",
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Marty Supreme (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-20",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": "https://www.theavalon.org/films/marty-supreme/"
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
@@ -114,22 +106,6 @@
       "ticketLink": null
     },
     {
-      "title": "MARKETA LAZAROVÁ (1967)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-20",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25113929/c16ArEPUqb0RdUyZBH6fnO7ZiLL.jpg",
-      "ticketLink": "https://sunscinema.com/movies/marketa-lazarova/"
-    },
-    {
-      "title": "BOTTLE ROCKET (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-20",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25114234/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
-      "ticketLink": "https://sunscinema.com/movies/bottle-rocket/"
-    },
-    {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-20",
@@ -154,20 +130,20 @@
       "ticketLink": null
     },
     {
-      "title": "Magellan (2017)",
+      "title": "The Secret Agent (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-20",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/magellan/"
+      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
     },
     {
-      "title": "If I Had Legs I’d Kick You (2025)",
+      "title": "Marty Supreme (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-20",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
-      "ticketLink": "https://www.theavalon.org/films/if-i-had-legs-id-kick-you/"
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": "https://www.theavalon.org/films/marty-supreme/"
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
@@ -328,6 +304,22 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
+    },
+    {
+      "title": "Casablanca (1943)",
+      "venue": "Miracle Theater",
+      "date": "2026-03-07",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/casablanca-7/"
+    },
+    {
+      "title": "Film screening: Young Frankenstein (1974)",
+      "venue": "Library of Congress",
+      "date": "2026-03-12",
+      "time": "19:00",
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Young-Frankenstein-250x250.jpg#250x250",
+      "ticketLink": "https://www.loc.gov/item/event-420443/film-screening-young-frankenstein-1974/2026-03-12/"
     }
   ]
 }
