@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T06:55:05.910Z",
+  "lastUpdated": "2026-02-20T12:56:13.861Z",
   "screenings": [
     {
       "title": "WUTHERING HEIGHTS (2026)",
@@ -178,6 +178,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-princess-bride-3/"
     },
     {
+      "title": "The General (1926)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2IqFPt9lHF7xLbtDw6DttXQXeet.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "HAIL THE NEW PURITAN (1986)",
       "venue": "Suns Cinema",
       "date": "2026-02-21",
@@ -192,6 +200,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/nadja/"
+    },
+    {
+      "title": "Mr. Smith Goes to Washington (1939)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "CASTRATION MOVIE ANTHOLOGY i & ii",
@@ -306,6 +322,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
     },
     {
+      "title": "Il Cinema Ritrovato on Tour: Smog",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-07",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Casablanca (1943)",
       "venue": "Miracle Theater",
       "date": "2026-03-07",
@@ -314,12 +338,44 @@
       "ticketLink": "https://themiracletheatre.com/events/casablanca-7/"
     },
     {
-      "title": "Film screening: Young Frankenstein (1974)",
-      "venue": "Library of Congress",
-      "date": "2026-03-12",
-      "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Young-Frankenstein-250x250.jpg#250x250",
-      "ticketLink": "https://www.loc.gov/item/event-420443/film-screening-young-frankenstein-1974/2026-03-12/"
+      "title": "Il Cinema Ritrovato on Tour: Rain",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-08",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Afterimage (Powidoki) (2016)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
