@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-02-21T01:53:47.249Z",
+  "lastUpdated": "2026-02-21T06:39:51.569Z",
   "screenings": [
+    {
+      "title": "The Great Zucchini featuring Abracadabra Alex",
+      "venue": "Avalon Theater",
+      "date": "2026-02-21",
+      "time": "10:30",
+      "poster": null,
+      "ticketLink": "https://www.theavalon.org/films/the-great-zucchini-and-abracadabra-alex/"
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
@@ -8,6 +24,22 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "KOKUHO (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "12:25",
+      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "12:30",
+      "poster": null,
+      "ticketLink": null
     },
     {
       "title": "The Secret Agent (2025)",
@@ -42,6 +74,30 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "15:00",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "KOKUHO (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "15:10",
+      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Marty Supreme (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-21",
@@ -58,20 +114,28 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "HAIL THE NEW PURITAN (1986)",
-      "venue": "Suns Cinema",
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/28110252/riscm3ibZai3JIOrAKc7fQFqItr-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/hail-the-new-puritan/"
+      "time": "17:15",
+      "poster": null,
+      "ticketLink": null
     },
     {
-      "title": "NADJA (1995)",
-      "venue": "Suns Cinema",
+      "title": "KOKUHO (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-21",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
-      "ticketLink": "https://sunscinema.com/movies/nadja/"
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Secret Agent (2025)",
@@ -93,16 +157,16 @@
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-21",
-      "time": "21:45",
+      "time": "19:50",
       "poster": null,
       "ticketLink": null
     },
     {
-      "title": "WUTHERING HEIGHTS (2026)",
+      "title": "THE ROCKY HORROR PICTURE SHOW (1975)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-21",
       "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
       "ticketLink": null
     },
     {
@@ -111,6 +175,14 @@
       "date": "2026-02-21",
       "time": "22:10",
       "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-21",
+      "time": "22:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
     },
     {
@@ -152,14 +224,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/28113657/x4vlDX1xc0ZPRYnzyiGMpUOBSPv.jpg",
       "ticketLink": "https://sunscinema.com/movies/cloudburst/"
-    },
-    {
-      "title": "NADJA (1995)",
-      "venue": "Suns Cinema",
-      "date": "2026-02-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/25115311/NADJA-Poster.jpeg",
-      "ticketLink": "https://sunscinema.com/movies/nadja/"
     },
     {
       "title": "THE TURIN HORSE (2011)",
@@ -248,14 +312,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
       "ticketLink": "https://themiracletheatre.com/events/casablanca-7/"
-    },
-    {
-      "title": "Casablanca (1943)",
-      "venue": "Miracle Theater",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
     },
     {
       "title": "Il Cinema Ritrovato on Tour: Rain",
