@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T06:45:40.404Z",
+  "lastUpdated": "2026-02-22T12:46:48.732Z",
   "screenings": [
     {
       "title": "A Private Life (2025)",
@@ -40,6 +40,14 @@
       "time": "13:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Mr. Smith Goes to Washington (1939)",
+      "venue": "National Gallery of Art",
+      "date": "2026-02-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
@@ -234,6 +242,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
     },
     {
+      "title": "Il Cinema Ritrovato on Tour: Smog",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-07",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Casablanca (1943)",
       "venue": "Miracle Theater",
       "date": "2026-03-07",
@@ -248,6 +264,46 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
       "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
+    },
+    {
+      "title": "Il Cinema Ritrovato on Tour: Rain",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-08",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Afterimage (Powidoki) (2016)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
