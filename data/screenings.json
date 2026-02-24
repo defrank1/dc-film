@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-02-24T13:03:05.370Z",
+  "lastUpdated": "2026-02-24T19:00:19.083Z",
   "screenings": [
-    {
-      "title": "MARTY SUPREME (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-24",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "KOKUHO (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-24",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
-      "ticketLink": null
-    },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
@@ -32,14 +16,6 @@
       "time": "12:30",
       "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-24",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
@@ -218,6 +194,22 @@
       "ticketLink": "https://themiracletheatre.com/events/the-color-of-pomegranates/"
     },
     {
+      "title": "IF I HAD LEGS I’D KICK YOU (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112917/va0TQ9WprMXRqQAzY56vyqY0Yd5-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/if-i-had-legs-id-kick-you/"
+    },
+    {
+      "title": "HAMNET (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112635/vbeyOZm2bvBXcbgPD3v6o94epPX1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/hamnet/"
+    },
+    {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "Suns Cinema",
       "date": "2026-03-05",
@@ -282,7 +274,31 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "Cloud (2022)",
+      "title": "TALE OF THE THREE JEWELS (1995)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24123042/3LwMkLbfyRnmdLehd0ou3lPx1n9.jpg",
+      "ticketLink": "https://sunscinema.com/movies/tale-of-the-three-jewels/"
+    },
+    {
+      "title": "THE STRANGER (1946)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24122723/tkLwdiJ0HX8ghVzpRWulC05sRKk.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-stranger-2/"
+    },
+    {
+      "title": "THE CHRONOLOGY OF WATER (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24134415/pU3GZI6C9lxzxUnBccIQLThDLVY-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-chronology-of-water/"
+    },
+    {
+      "title": "CLOUD (2022)",
       "venue": "Suns Cinema",
       "date": "2026-03-12",
       "time": "19:00",
@@ -312,6 +328,30 @@
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "SAINT OMER (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24123809/ekr25uuxlH7kg3KLhLLZcDZ15xd-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/saint-omer/"
+    },
+    {
+      "title": "3000 NIGHTS (2015)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24122901/eYnJuMEOs7qUbx0MnR4HKjAt1AD.jpg",
+      "ticketLink": "https://sunscinema.com/movies/3000-nights/"
+    },
+    {
+      "title": "AFTERNOONS OF SOLITUDE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24114552/uxmv9ySlP0KKiGZcWsU0wzy9goL-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/afternoons-of-solitude/"
     },
     {
       "title": "MISERICORDIA",
@@ -354,6 +394,38 @@
       "ticketLink": "https://sunscinema.com/movies/magellan/"
     },
     {
+      "title": "CHE: PART TWO (2008)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24125318/fKQwwWXYQNkrZa59VbnfVy2kfoF-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/che-part-two/"
+    },
+    {
+      "title": "CHE: PART ONE (2008)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24125107/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg",
+      "ticketLink": "https://sunscinema.com/movies/che-part-one/"
+    },
+    {
+      "title": "SCARECROW IN A GARDEN OF CUCUMBERS (1972)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24130627/a2xtFshGu1XRNVolhJUK0P2vBn7.jpg",
+      "ticketLink": "https://sunscinema.com/movies/scarecrow-in-a-garden-of-cucumbers/"
+    },
+    {
+      "title": "WOMEN IN REVOLT (1971)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24130540/9hlI1Ij8MdgUcPpWfWzk3b50MVQ.jpg",
+      "ticketLink": "https://sunscinema.com/movies/women-in-revolt/"
+    },
+    {
       "title": "CANOA: A SHAMEFUL MEMORY (1976)",
       "venue": "Suns Cinema",
       "date": "2026-03-25",
@@ -362,12 +434,60 @@
       "ticketLink": "https://sunscinema.com/movies/canoa-a-shameful-memory/"
     },
     {
+      "title": "KIN-DZA-DZA! (1986)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24120555/b38fRsOD7LoPGQSmKeB2jQvVkGx.jpg",
+      "ticketLink": "https://sunscinema.com/movies/kin-dza-dza/"
+    },
+    {
+      "title": "TREASURES OF SOVIET ANIMATION, VOL 1",
+      "venue": "Suns Cinema",
+      "date": "2026-03-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24120246/06y9ylgwzexol1kfh11o6zyvwtp1.jpeg",
+      "ticketLink": "https://sunscinema.com/movies/treasures-of-soviet-animation-vol-1/"
+    },
+    {
+      "title": "ONE BATTLE AFTER ANOTHER (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131636/lbBWwxBht4JFP5PsuJ5onpMqugW-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/one-battle-after-another/"
+    },
+    {
       "title": "Hair, Paper, Water (2026)",
       "venue": "National Gallery of Art",
       "date": "2026-03-28",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "THE PHOENECIAN SCHEME",
+      "venue": "Suns Cinema",
+      "date": "2026-03-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131154/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-phoenecian-scheme/"
+    },
+    {
+      "title": "MILESTONES (1916)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-31",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24133113/gJFK37TzwlxohwF5mnSg2BRGLOV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/milestones/"
+    },
+    {
+      "title": "LOST CHAPTERS (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-31",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24132212/vylOXm8u3OhyrV9WrSTls5zFZC2-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/lost-chapters/"
     },
     {
       "title": "Good Valley Stories (2025)",
