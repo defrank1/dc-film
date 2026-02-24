@@ -1,42 +1,42 @@
 {
-  "lastUpdated": "2026-02-23T19:00:50.697Z",
+  "lastUpdated": "2026-02-24T02:00:22.828Z",
   "screenings": [
     {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "The Secret Agent (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "title": "MARTY SUPREME (2025)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
-      "time": "14:50",
-      "poster": null,
+      "date": "2026-02-24",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "ticketLink": null
     },
     {
       "title": "KOKUHO (2025)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
+      "date": "2026-02-24",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "KOKUHO (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
       "time": "15:45",
       "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
       "ticketLink": null
@@ -44,74 +44,18 @@
     {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
+      "date": "2026-02-24",
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Marty Supreme (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "ticketLink": "https://www.theavalon.org/films/marty-supreme/"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "KOKUHO (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Secret Agent (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
-      "time": "19:20",
+      "date": "2026-02-24",
+      "time": "17:20",
       "poster": null,
       "ticketLink": null
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-23",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Marty Supreme (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-23",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "ticketLink": "https://www.theavalon.org/films/marty-supreme/"
     },
     {
       "title": "NITRATE KISSES (1992)",
@@ -128,6 +72,30 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/28113657/x4vlDX1xc0ZPRYnzyiGMpUOBSPv.jpg",
       "ticketLink": "https://sunscinema.com/movies/cloudburst/"
+    },
+    {
+      "title": "KOKUHO (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/a15F5KJ4mleusJR1YKP4zUyZaxG.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-24",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "THE TURIN HORSE (2011)",
@@ -202,12 +170,36 @@
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
     },
     {
-      "title": "Il Cinema Ritrovato on Tour: Smog",
-      "venue": "National Gallery of Art",
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
+    },
+    {
+      "title": "PETER HUJAR’S DAY (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140010/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
+      "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "Suns Cinema",
       "date": "2026-03-07",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141006/iLE2YOmeboeTDC7GlOp1dzh1VFo-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-secret-agent/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140927/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+      "ticketLink": "https://sunscinema.com/movies/no-other-choice/"
     },
     {
       "title": "Casablanca (1943)",
@@ -226,44 +218,68 @@
       "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
     },
     {
-      "title": "Il Cinema Ritrovato on Tour: Rain",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "Cloud (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140307/bmUTHMmqiLWBo19U2y5kk2uqJbA-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/cloud/"
     },
     {
-      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "CAUGHT BY THE TIDES (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140206/vRUsEXHm9iJgXuf8k4BiTLCnUb0-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/caught-by-the-tides/"
     },
     {
-      "title": "Afterimage (Powidoki) (2016)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "MISERICORDIA",
+      "venue": "Suns Cinema",
+      "date": "2026-03-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140345/7LVCXVdsGPPXRYGu5SRqgfVP96h-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/misericordia/"
     },
     {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "CONVERSATION PIECE (1974)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141555/vLFdB2MsgAH7UCVb60EzLTjIoqN.jpg",
+      "ticketLink": "https://sunscinema.com/movies/conversation-piece/"
     },
     {
-      "title": "Good Valley Stories (2025)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "QUEEN KELLY (1932)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141505/86kEZyMwfYZIxO28EHqmoBYPqN.jpg",
+      "ticketLink": "https://sunscinema.com/movies/queen-kelly/"
+    },
+    {
+      "title": "SOULEYMANE’S STORY (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141727/ns8tSpfBL63Y5Pi84C6Dzr3vlm4-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/souleymanes-story/"
+    },
+    {
+      "title": "MAGELLAN (2017)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140454/kA5trayJ6UICmTvSGrtWRftNRUJ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/magellan/"
+    },
+    {
+      "title": "CANOA: A SHAMEFUL MEMORY (1976)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140628/ag35bvtquwiDPsY4itNH895NguW-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/canoa-a-shameful-memory/"
     }
   ]
 }
