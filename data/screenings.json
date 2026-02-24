@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T06:58:45.963Z",
+  "lastUpdated": "2026-02-24T13:03:05.370Z",
   "screenings": [
     {
       "title": "MARTY SUPREME (2025)",
@@ -210,6 +210,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-way-we-were-2/"
     },
     {
+      "title": "Uptown Talkies Presents: The Color of Pomegranates",
+      "venue": "Miracle Theater",
+      "date": "2026-03-01",
+      "time": "18:00",
+      "poster": null,
+      "ticketLink": "https://themiracletheatre.com/events/the-color-of-pomegranates/"
+    },
+    {
       "title": "SENTIMENTAL VALUE (2025)",
       "venue": "Suns Cinema",
       "date": "2026-03-05",
@@ -224,6 +232,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140010/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
       "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
+    },
+    {
+      "title": "Il Cinema Ritrovato on Tour: Smog",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-07",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -258,6 +274,14 @@
       "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
     },
     {
+      "title": "Il Cinema Ritrovato on Tour: Rain",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-08",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Cloud (2022)",
       "venue": "Suns Cinema",
       "date": "2026-03-12",
@@ -272,6 +296,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140206/vRUsEXHm9iJgXuf8k4BiTLCnUb0-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/caught-by-the-tides/"
+    },
+    {
+      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Afterimage (Powidoki) (2016)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-15",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "MISERICORDIA",
@@ -320,6 +360,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140628/ag35bvtquwiDPsY4itNH895NguW-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/canoa-a-shameful-memory/"
+    },
+    {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
