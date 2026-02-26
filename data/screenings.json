@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-02-26T01:58:05.077Z",
+  "lastUpdated": "2026-02-26T06:58:42.381Z",
   "screenings": [
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-26",
-      "time": "12:00",
-      "poster": null,
-      "ticketLink": null
-    },
     {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
@@ -39,14 +31,6 @@
       "date": "2026-02-26",
       "time": "13:00",
       "poster": "https://image.tmdb.org/t/p/w500/egDmNUBcSvu6aqQPCfyd1UneCYr.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-26",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
       "ticketLink": null
     },
     {
@@ -122,20 +106,20 @@
       "ticketLink": null
     },
     {
+      "title": "The Secret Agent (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-26",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
+    },
+    {
       "title": "Marty Supreme (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-26",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "ticketLink": "https://www.theavalon.org/films/marty-supreme/"
-    },
-    {
-      "title": "Sinners (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-02-26",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sinners/"
     },
     {
       "title": "THE ASCENT (2017)",
