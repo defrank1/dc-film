@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T12:56:45.738Z",
+  "lastUpdated": "2026-02-27T18:41:05.108Z",
   "screenings": [
     {
       "title": "Frankenstein (2025)",
@@ -16,22 +16,6 @@
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/AnZ9XzhouSSvQH337923RPFTaqK.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "DREAMS (2000)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-27",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-27",
-      "time": "12:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "It Was Just an Accident (2025)",
@@ -178,6 +162,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-color-of-pomegranates/"
     },
     {
+      "title": "HAMNET (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112635/vbeyOZm2bvBXcbgPD3v6o94epPX1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/hamnet/"
+    },
+    {
       "title": "IF I HAD LEGS I’D KICK YOU (2025)",
       "venue": "Suns Cinema",
       "date": "2026-03-03",
@@ -188,18 +180,18 @@
     {
       "title": "HAMNET (2025)",
       "venue": "Suns Cinema",
-      "date": "2026-03-03",
+      "date": "2026-03-04",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112635/vbeyOZm2bvBXcbgPD3v6o94epPX1-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/hamnet/"
     },
     {
-      "title": "SENTIMENTAL VALUE (2025)",
+      "title": "IF I HAD LEGS I’D KICK YOU (2025)",
       "venue": "Suns Cinema",
-      "date": "2026-03-05",
+      "date": "2026-03-04",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112917/va0TQ9WprMXRqQAzY56vyqY0Yd5-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/if-i-had-legs-id-kick-you/"
     },
     {
       "title": "PETER HUJAR’S DAY (2025)",
@@ -210,12 +202,12 @@
       "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
     },
     {
-      "title": "Il Cinema Ritrovato on Tour: Smog",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-07",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
     },
     {
       "title": "THE SECRET AGENT (2025)",
@@ -250,14 +242,6 @@
       "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
     },
     {
-      "title": "Il Cinema Ritrovato on Tour: Rain",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "THE STRANGER (1946)",
       "venue": "Suns Cinema",
       "date": "2026-03-08",
@@ -282,12 +266,20 @@
       "ticketLink": "https://sunscinema.com/movies/the-chronology-of-water/"
     },
     {
-      "title": "CLOUD (2022)",
+      "title": "PETER HUJAR’S DAY (2025)",
       "venue": "Suns Cinema",
-      "date": "2026-03-12",
+      "date": "2026-03-11",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140307/bmUTHMmqiLWBo19U2y5kk2uqJbA-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/cloud/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140010/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
+      "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
+    },
+    {
+      "title": "SENTIMENTAL VALUE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
     },
     {
       "title": "CAUGHT BY THE TIDES (2025)",
@@ -298,28 +290,44 @@
       "ticketLink": "https://sunscinema.com/movies/caught-by-the-tides/"
     },
     {
-      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Afterimage (Powidoki) (2016)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "SAINT OMER (2022)",
+      "title": "CLOUD (2022)",
       "venue": "Suns Cinema",
-      "date": "2026-03-15",
+      "date": "2026-03-12",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24123809/ekr25uuxlH7kg3KLhLLZcDZ15xd-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/saint-omer/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140307/bmUTHMmqiLWBo19U2y5kk2uqJbA-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/cloud/"
+    },
+    {
+      "title": "THE SECRET AGENT (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141006/iLE2YOmeboeTDC7GlOp1dzh1VFo-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-secret-agent/"
+    },
+    {
+      "title": "NO OTHER CHOICE (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-13",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140927/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+      "ticketLink": "https://sunscinema.com/movies/no-other-choice/"
+    },
+    {
+      "title": "CAUGHT BY THE TIDES (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140206/vRUsEXHm9iJgXuf8k4BiTLCnUb0-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/caught-by-the-tides/"
+    },
+    {
+      "title": "CLOUD (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140307/bmUTHMmqiLWBo19U2y5kk2uqJbA-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/cloud/"
     },
     {
       "title": "3000 NIGHTS (2015)",
@@ -328,6 +336,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24122901/eYnJuMEOs7qUbx0MnR4HKjAt1AD.jpg",
       "ticketLink": "https://sunscinema.com/movies/3000-nights/"
+    },
+    {
+      "title": "SAINT OMER (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24123809/ekr25uuxlH7kg3KLhLLZcDZ15xd-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/saint-omer/"
     },
     {
       "title": "MISERICORDIA",
@@ -362,6 +378,14 @@
       "ticketLink": "https://sunscinema.com/movies/conversation-piece/"
     },
     {
+      "title": "SOULEYMANE’S STORY (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141727/ns8tSpfBL63Y5Pi84C6Dzr3vlm4-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/souleymanes-story/"
+    },
+    {
       "title": "MAGELLAN (2017)",
       "venue": "Suns Cinema",
       "date": "2026-03-19",
@@ -370,12 +394,12 @@
       "ticketLink": "https://sunscinema.com/movies/magellan/"
     },
     {
-      "title": "SOULEYMANE’S STORY (2024)",
+      "title": "MAGELLAN (2017)",
       "venue": "Suns Cinema",
-      "date": "2026-03-19",
+      "date": "2026-03-21",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141727/ns8tSpfBL63Y5Pi84C6Dzr3vlm4-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/souleymanes-story/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140454/kA5trayJ6UICmTvSGrtWRftNRUJ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/magellan/"
     },
     {
       "title": "CHE: PART TWO (2008)",
@@ -450,12 +474,12 @@
       "ticketLink": "https://sunscinema.com/movies/one-battle-after-another/"
     },
     {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
+      "title": "ONE BATTLE AFTER ANOTHER (2025)",
+      "venue": "Suns Cinema",
       "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131636/lbBWwxBht4JFP5PsuJ5onpMqugW-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/one-battle-after-another/"
     },
     {
       "title": "THE PHOENECIAN SCHEME",
@@ -466,20 +490,20 @@
       "ticketLink": "https://sunscinema.com/movies/the-phoenecian-scheme/"
     },
     {
-      "title": "OMAR (2009)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/26104947/mzCdtXQYdLPrNr16Ld5ZowavKoa.jpg",
-      "ticketLink": "https://sunscinema.com/movies/omar/"
-    },
-    {
       "title": "ALAM (2023)",
       "venue": "Suns Cinema",
       "date": "2026-03-29",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/26104723/653jbNSgjWsWvnhE467RYKMq699-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/alam/"
+    },
+    {
+      "title": "OMAR (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-03-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/26104947/mzCdtXQYdLPrNr16Ld5ZowavKoa.jpg",
+      "ticketLink": "https://sunscinema.com/movies/omar/"
     },
     {
       "title": "MILESTONES (1916)",
@@ -496,46 +520,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24132212/vylOXm8u3OhyrV9WrSTls5zFZC2-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/lost-chapters/"
-    },
-    {
-      "title": "The Treasure of the Sierra Madre (1948)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Santa Fe Trail (1940)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-11",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uBtJzonmF9uOFrDXlqQuxTfMwl7.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Good Valley Stories (2025)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
