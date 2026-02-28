@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-02-28T01:47:47.557Z",
+  "lastUpdated": "2026-02-28T06:37:14.658Z",
   "screenings": [
     {
-      "title": "The Way We Were (1973)",
-      "venue": "Miracle Theater",
-      "date": "2026-02-27",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-way-we-were/"
+      "title": "Arco (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-02-28",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/arco/"
     },
     {
       "title": "Frankenstein (2025)",
@@ -18,12 +18,20 @@
       "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
     },
     {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
+      "title": "DREAMS (2000)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-28",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+      "time": "11:40",
+      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "It Was Just an Accident (2025)",
@@ -34,12 +42,36 @@
       "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-02-28",
       "time": "14:10",
       "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "15:00",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "15:35",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "Frankenstein (2025)",
@@ -58,20 +90,28 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
-      "title": "WOLF’S HOLE (1987)",
-      "venue": "Suns Cinema",
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/25115805/1GfaK7FUqgc90peUBH4uSWIVCAr.jpg",
-      "ticketLink": "https://sunscinema.com/movies/wolfs-hole/"
+      "time": "16:45",
+      "poster": null,
+      "ticketLink": null
     },
     {
-      "title": "DEAD MOUNTAINEER’S HOTEL (1979)",
-      "venue": "Suns Cinema",
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-28",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/01/27121412/6zD8cZ7gTvNLJdjEcnllYyJjkMY.jpg",
-      "ticketLink": "https://sunscinema.com/movies/dead-mountaineers-hotel/"
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Secret Agent (2025)",
@@ -90,19 +130,19 @@
       "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
-      "title": "DREAMS (2000)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-02-28",
-      "time": "21:25",
-      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "WUTHERING HEIGHTS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-02-28",
-      "time": "21:30",
+      "time": "21:45",
       "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-02-28",
+      "time": "21:50",
+      "poster": null,
       "ticketLink": null
     },
     {
