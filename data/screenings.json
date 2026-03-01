@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T12:45:12.475Z",
+  "lastUpdated": "2026-03-01T18:31:55.528Z",
   "screenings": [
     {
       "title": "Arco (2025)",
@@ -16,22 +16,6 @@
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
-    },
-    {
-      "title": "DREAMS (2000)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-01",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-01",
-      "time": "12:10",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": null
     },
     {
       "title": "WUTHERING HEIGHTS (2026)",
@@ -448,6 +432,22 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140454/kA5trayJ6UICmTvSGrtWRftNRUJ-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/magellan/"
+    },
+    {
+      "title": "The King of Kings (2025)",
+      "venue": "Miracle Theater",
+      "date": "2026-03-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-5/"
+    },
+    {
+      "title": "Chariots of Fire (1981)",
+      "venue": "Miracle Theater",
+      "date": "2026-03-22",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/chariots-of-fire-3/"
     },
     {
       "title": "CHE: PART TWO (2008)",
