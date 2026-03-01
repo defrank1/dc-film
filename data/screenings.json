@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T02:09:32.415Z",
+  "lastUpdated": "2026-03-01T06:43:53.071Z",
   "screenings": [
     {
       "title": "Arco (2025)",
@@ -16,6 +16,30 @@
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
+    },
+    {
+      "title": "DREAMS (2000)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "12:10",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "13:35",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "It Was Just an Accident (2025)",
@@ -42,12 +66,28 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "14:50",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
       "title": "Frankenstein (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-01",
       "time": "16:15",
       "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Private Life (2025)",
@@ -58,6 +98,14 @@
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
     },
     {
+      "title": "A BETTER TOMORROW - HONG KONG CINEMA CLASSICS",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "16:45",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
       "title": "Uptown Talkies Presents: The Color of Pomegranates",
       "venue": "Miracle Theater",
       "date": "2026-03-01",
@@ -66,20 +114,12 @@
       "ticketLink": "https://themiracletheatre.com/events/the-color-of-pomegranates/"
     },
     {
-      "title": "PUNISHMENT PARK (1971)",
-      "venue": "Suns Cinema",
+      "title": "A BETTER TOMORROW - HONG KONG CINEMA CLASSICS",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-01",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/12/26105207/4ATUqZV6Bouf76aYabZ5R1KqdlM.jpg",
-      "ticketLink": "https://sunscinema.com/movies/punishment-park/"
-    },
-    {
-      "title": "SAMBIZANGA (1973)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/28080827/e25eb70db49b8217978a94e2cbccd7e8.jpg",
-      "ticketLink": "https://sunscinema.com/movies/sambizanga/"
+      "poster": null,
+      "ticketLink": null
     },
     {
       "title": "The Secret Agent (2025)",
@@ -90,6 +130,14 @@
       "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
     },
     {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-01",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "It Was Just an Accident (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-01",
@@ -98,18 +146,18 @@
       "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
-      "title": "WUTHERING HEIGHTS (2026)",
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-01",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "time": "21:35",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
       "ticketLink": null
     },
     {
       "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-01",
-      "time": "21:50",
+      "time": "22:10",
       "poster": null,
       "ticketLink": null
     },
