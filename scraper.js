@@ -108,7 +108,7 @@ async function enrichMovieData(screening) {
 
 /**
  * Scrape AFI Silver Theatre using Puppeteer
- * Navigates through multiple months to get all available screenings
+ * Two-layer extraction: embedded script data (primary) → DOM link parsing (fallback)
  */
 async function scrapeAFISilver() {
   console.log('Scraping AFI Silver with Puppeteer...');
@@ -136,97 +136,222 @@ async function scrapeAFISilver() {
     await new Promise(resolve => setTimeout(resolve, 2000));
 
     const allScreenings = [];
+    const MONTHS_TO_SCRAPE = 3;
 
-    // Scrape current month and next 2 months (3 months total)
-    for (let monthIndex = 0; monthIndex < 3; monthIndex++) {
+    for (let monthIndex = 0; monthIndex < MONTHS_TO_SCRAPE; monthIndex++) {
       try {
-        // Extract data from current view
-        const monthData = await page.evaluate(() => {
-          const html = document.documentElement.outerHTML;
+        const monthScreenings = await page.evaluate(() => {
+          // Helpers inlined for browser context
 
-          // Extract JavaScript data embedded in the page
-          const showArrayMatch = html.match(/console\.log\("show_array:",\s*({.*?})\);/s);
-          const movieArrayMatch = html.match(/console\.log\("movie_array:",\s*(\[.*?\])\);/s);
+          function parseTimeText(text) {
+            if (!text) return null;
+            const match = text.match(/(\d{1,2}):(\d{2})\s*([ap])\.m\./i);
+            if (!match) return null;
+            let hours = parseInt(match[1]);
+            const minutes = match[2];
+            const period = match[3].toLowerCase();
+            if (period === 'p' && hours !== 12) hours += 12;
+            if (period === 'a' && hours === 12) hours = 0;
+            return `${String(hours).padStart(2, '0')}:${minutes}`;
+          }
 
-          if (!showArrayMatch || !movieArrayMatch) {
+          function parseDateText(text) {
+            if (!text) return null;
+            // Pattern: "3/1", "3/1/2026", "03/01/2026"
+            const numericMatch = text.match(/\b(\d{1,2})\/(\d{1,2})(?:\/(\d{4}))?\b/);
+            if (numericMatch) {
+              const m = String(parseInt(numericMatch[1])).padStart(2, '0');
+              const d = String(parseInt(numericMatch[2])).padStart(2, '0');
+              const y = numericMatch[3] || String(new Date().getFullYear());
+              return `${y}-${m}-${d}`;
+            }
+            // Pattern: "March 1", "March 1, 2026"
+            const MONTHS = {
+              January: '01', February: '02', March: '03', April: '04', May: '05', June: '06',
+              July: '07', August: '08', September: '09', October: '10', November: '11', December: '12'
+            };
+            const namedMatch = text.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:,?\s*(\d{4}))?\b/);
+            if (namedMatch) {
+              const m = MONTHS[namedMatch[1]];
+              const d = namedMatch[2].padStart(2, '0');
+              const y = namedMatch[3] || String(new Date().getFullYear());
+              return `${y}-${m}-${d}`;
+            }
             return null;
           }
 
-          return {
-            showData: showArrayMatch[1],
-            movieData: movieArrayMatch[1]
-          };
-        });
+          const TIME_RE = /^\d{1,2}:\d{2}\s*[ap]\.m\.$/i;
+          const results = [];
+          const seen = new Set();
 
-        if (monthData) {
-          // Parse the JavaScript objects
-          const showData = JSON.parse(monthData.showData);
-          const movieData = JSON.parse(monthData.movieData);
+          // === Layer 1: Extract embedded script data ===
+          // The AFI calendar embeds show/movie data in inline <script> tags.
+          // Try the known console.log pattern plus common variations.
+          let showData = null;
+          let movieData = null;
 
-          // Create a map of movie IDs to titles
-          const movieMap = {};
-          movieData.forEach(movie => {
-            movieMap[movie.ID] = movie.Title;
-          });
+          for (const script of document.querySelectorAll('script:not([src])')) {
+            const text = script.textContent;
+            if (!showData) {
+              for (const re of [
+                /console\.log\(["']show_array["'],?\s*({[\s\S]*?})\s*\);/,
+                /var\s+show_array\s*=\s*({[\s\S]*?});/,
+              ]) {
+                const m = text.match(re);
+                if (m) { try { showData = JSON.parse(m[1]); } catch (e) {} if (showData) break; }
+              }
+            }
+            if (!movieData) {
+              for (const re of [
+                /console\.log\(["']movie_array["'],?\s*(\[[\s\S]*?\])\s*\);/,
+                /var\s+movie_array\s*=\s*(\[[\s\S]*?\]);/,
+              ]) {
+                const m = text.match(re);
+                if (m) { try { movieData = JSON.parse(m[1]); } catch (e) {} if (movieData) break; }
+              }
+            }
+            if (showData && movieData) break;
+          }
 
-          // Process showtime data
-          Object.entries(showData).forEach(([date, movies]) => {
-            Object.entries(movies).forEach(([movieId, showtimes]) => {
-              const title = movieMap[movieId];
-              if (!title) return;
+          if (showData && movieData) {
+            const movieMap = {};
+            movieData.forEach(movie => { movieMap[movie.ID] = movie.Title; });
 
-              showtimes.forEach(showtime => {
-                const time = parseAFITime(showtime.time);
-                if (time) {
-                  allScreenings.push({
-                    title: title,
-                    venue: 'AFI Silver',
-                    date: date,
-                    time: time,
-                    poster: null,
-                    ticketLink: `https://silver.afi.com/calendar/`
+            Object.entries(showData).forEach(([date, movies]) => {
+              Object.entries(movies).forEach(([movieId, showtimes]) => {
+                const title = movieMap[movieId];
+                if (!title) return;
+                showtimes.forEach(showtime => {
+                  const time = parseTimeText(showtime.time);
+                  if (!time) return;
+                  const key = `${title}-${date}-${time}`;
+                  if (seen.has(key)) return;
+                  seen.add(key);
+                  results.push({
+                    title,
+                    date,
+                    time,
+                    poster: `https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-${movieId}?referenceScheme=HeadOffice&allowPlaceHolder=true`,
+                    ticketLink: `https://silver.afi.com/movies/detail/${movieId}`,
+                    _method: 'script'
                   });
-                }
+                });
               });
             });
+
+            if (results.length > 0) return results;
+          }
+
+          // === Layer 2: DOM fallback ===
+          // Film titles and showtimes both link to /movies/detail/[ID].
+          // Time links are distinguished by their text matching a time pattern.
+          const timeLinks = Array.from(document.querySelectorAll('a[href*="/movies/detail/"]'))
+            .filter(el => TIME_RE.test(el.textContent.trim()));
+
+          timeLinks.forEach(timeLink => {
+            const time = parseTimeText(timeLink.textContent.trim());
+            if (!time) return;
+
+            const href = timeLink.getAttribute('href') || '';
+            const filmIdMatch = href.match(/\/movies\/detail\/(\w+)/);
+            if (!filmIdMatch) return;
+            const filmId = filmIdMatch[1];
+
+            // Find title: same film ID, non-time text, within a nearby ancestor
+            let title = null;
+            let node = timeLink.parentElement;
+            for (let depth = 0; depth < 10 && node && !title; depth++) {
+              for (const el of node.querySelectorAll(`a[href*="/movies/detail/${filmId}"]`)) {
+                const t = el.textContent.trim();
+                if (!TIME_RE.test(t) && t.length > 2) { title = t; break; }
+              }
+              node = node.parentElement;
+            }
+            if (!title) return;
+
+            // Find date: walk up ancestors looking for short date-like text in child nodes
+            let date = null;
+            node = timeLink.parentElement;
+            for (let depth = 0; depth < 20 && node && !date; depth++) {
+              for (const child of node.childNodes) {
+                const t = (child.textContent || '').trim();
+                if (t.length > 0 && t.length < 30) {
+                  const parsed = parseDateText(t);
+                  if (parsed) { date = parsed; break; }
+                }
+              }
+              node = node.parentElement;
+            }
+
+            if (!date) {
+              const now = new Date();
+              date = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+            }
+
+            const key = `${title}-${date}-${time}`;
+            if (seen.has(key)) return;
+            seen.add(key);
+            results.push({
+              title,
+              date,
+              time,
+              poster: `https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-${filmId}?referenceScheme=HeadOffice&allowPlaceHolder=true`,
+              ticketLink: href.startsWith('http') ? href : `https://silver.afi.com${href}`,
+              _method: 'dom'
+            });
           });
+
+          return results;
+        });
+
+        if (monthScreenings && monthScreenings.length > 0) {
+          const method = monthScreenings[0]?._method || 'unknown';
+          console.log(`  Month ${monthIndex + 1}: ${monthScreenings.length} screenings (via ${method})`);
+          allScreenings.push(...monthScreenings);
         }
 
-        // Click next month button if not on last iteration
-        if (monthIndex < 2) {
-          const nextButtonClicked = await page.evaluate(() => {
-            // Find the ">" arrow button near the calendar
-            const allElements = Array.from(document.querySelectorAll('*'));
-            const arrowElement = allElements.find(el => {
-              const text = el.textContent?.trim();
-              // Must be exactly ">" and not contain more text (avoid elements with children)
-              return text === '>' && el.children.length === 0;
-            });
-
-            if (arrowElement) {
-              arrowElement.click();
-              return true;
-            }
+        // Navigate to next month
+        if (monthIndex < MONTHS_TO_SCRAPE - 1) {
+          const navigated = await page.evaluate(() => {
+            // Try progressively broader selectors for the next-month button
+            const btn =
+              document.querySelector('[aria-label*="next" i]') ||
+              document.querySelector('[title*="next month" i]') ||
+              document.querySelector('.next-month') ||
+              document.querySelector('.nav-next') ||
+              document.querySelector('.fc-next-button') ||
+              Array.from(document.querySelectorAll('a, button, span')).find(
+                el => el.children.length === 0 && el.textContent?.trim() === '>'
+              );
+            if (btn) { btn.click(); return true; }
             return false;
           });
 
-          if (!nextButtonClicked) {
-            console.log('Could not find next month button, stopping');
+          if (!navigated) {
+            console.log(`  Could not find next-month button at month ${monthIndex + 1}, stopping`);
             break;
           }
 
-          // Wait for calendar to update
           await new Promise(resolve => setTimeout(resolve, 3000));
         }
-      } catch (error) {
-        console.error(`Error scraping AFI month ${monthIndex}:`, error.message);
+      } catch (err) {
+        console.error(`  Error scraping AFI month ${monthIndex + 1}:`, err.message);
       }
     }
 
-    console.log(`Found ${allScreenings.length} screenings at AFI Silver`);
-    return allScreenings;
-  } catch (error) {
-    console.error('Error scraping AFI Silver:', error.message);
+    const screenings = allScreenings.map(s => ({
+      title: toTitleCase(s.title),
+      venue: 'AFI Silver',
+      date: s.date,
+      time: s.time,
+      poster: s.poster,
+      ticketLink: s.ticketLink
+    }));
+
+    console.log(`Found ${screenings.length} screenings at AFI Silver`);
+    return screenings;
+  } catch (err) {
+    console.error('Error scraping AFI Silver:', err.message);
     return [];
   } finally {
     await browser.close();
@@ -853,11 +978,16 @@ function parseTime(timeText) {
 }
 
 /**
- * Helper: Parse AFI Silver time format (e.g., "01:00 PM") to "13:00"
+ * Helper: Convert ALL-CAPS title to Title Case for better TMDB matching
+ * Only converts titles that are entirely uppercase (AFI Silver uses all-caps)
  */
-function parseAFITime(timeText) {
-  // AFI times are already in the right format, just need conversion
-  return parseTime(timeText);
+function toTitleCase(title) {
+  if (!title || title !== title.toUpperCase()) return title;
+  const minorWords = new Set(['a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor', 'on', 'at', 'to', 'by', 'in', 'of', 'up']);
+  return title.toLowerCase().replace(/\b\w+/g, (word, offset) => {
+    if (offset === 0 || !minorWords.has(word)) return word.charAt(0).toUpperCase() + word.slice(1);
+    return word;
+  });
 }
 
 /**
