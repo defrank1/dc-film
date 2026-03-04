@@ -1,309 +1,21 @@
 {
-  "lastUpdated": "2026-03-02T03:02:58.513Z",
+  "lastUpdated": "2026-03-04T06:44:26.452Z",
   "screenings": [
-    {
-      "title": "Arco (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/arco/"
-    },
     {
       "title": "Frankenstein (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-03-01",
+      "date": "2026-03-04",
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
       "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
     },
     {
-      "title": "It Was Just an Accident (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
-    },
-    {
       "title": "A Private Life (2025)",
       "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "14:10",
+      "date": "2026-03-04",
+      "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "Frankenstein (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "The Secret Agent (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
-    },
-    {
-      "title": "It Was Just an Accident (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-01",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-01",
-      "time": "22:10",
-      "poster": null,
-      "ticketLink": null
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
-    {
-      "title": "3 Faces (2018)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002294?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002294"
-    },
-    {
-      "title": "No Other Choice (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005385?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005385"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "13:05",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "Three Days of the Condor (1975)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "13:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005311?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005311"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Documentary",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "15:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005450?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005450"
-    },
-    {
-      "title": "A Poet (2013)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Hedda (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005417"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "The Tale of Silyan (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005418?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005418"
-    },
-    {
-      "title": "Advance Screening: SIRÂT in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005452?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005452"
-    },
-    {
-      "title": "The Master (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005402?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005402"
-    },
-    {
-      "title": "A Poet (2013)",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-02",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
-    {
-      "title": "The Secret Agent (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "13:05",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "The Tale of Silyan (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005418?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005418"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Documentary",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "15:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005450?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005450"
-    },
-    {
-      "title": "A Poet (2013)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "The Master (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005402?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005402"
-    },
-    {
-      "title": "A Poet (2013)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
-    {
-      "title": "Hedda (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005417"
-    },
-    {
-      "title": "HAMNET (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112635/vbeyOZm2bvBXcbgPD3v6o94epPX1-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/hamnet/"
-    },
-    {
-      "title": "IF I HAD LEGS I’D KICK YOU (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112917/va0TQ9WprMXRqQAzY56vyqY0Yd5-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/if-i-had-legs-id-kick-you/"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "No Other Choice (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005385?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005385"
-    },
-    {
-      "title": "Three Days of the Condor (1975)",
-      "venue": "AFI Silver",
-      "date": "2026-03-03",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005311?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005311"
     },
     {
       "title": "The Tale of Silyan (2025)",
@@ -322,12 +34,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "12:00",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "DREAMS (2000)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "12:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "The Secret Agent (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-04",
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
     },
     {
       "title": "3 Faces (2018)",
@@ -346,7 +82,47 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
-      "title": "A Poet (2013)",
+      "title": "It Was Just an Accident (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-04",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-04",
+      "time": "14:10",
+      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "14:30",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "WUTHERING HEIGHTS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "15:35",
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Poet (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-04",
       "time": "15:45",
@@ -368,6 +144,38 @@
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
+      "title": "Frankenstein (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-04",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
+    },
+    {
+      "title": "DREAMS (2000)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "16:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-04",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "16:45",
+      "poster": null,
+      "ticketLink": null
     },
     {
       "title": "The Master (2012)",
@@ -394,23 +202,47 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
-      "title": "HAMNET (2025)",
-      "venue": "Suns Cinema",
+      "title": "ANGELIKA MEMBERS EXCLUSIVE MYSTERY SCREENING: MARCH 4",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-04",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112635/vbeyOZm2bvBXcbgPD3v6o94epPX1-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/hamnet/"
+      "poster": null,
+      "ticketLink": null
     },
     {
-      "title": "IF I HAD LEGS I’D KICK YOU (2025)",
-      "venue": "Suns Cinema",
+      "title": "The Secret Agent (2025)",
+      "venue": "Avalon Theater",
       "date": "2026-03-04",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24112917/va0TQ9WprMXRqQAzY56vyqY0Yd5-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/if-i-had-legs-id-kick-you/"
+      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
     },
     {
-      "title": "A Poet (2013)",
+      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "19:10",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "DREAMS (2000)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-04",
+      "time": "19:20",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "One Battle After Another (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-04",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/one-battle-after-another/"
+    },
+    {
+      "title": "A Poet (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-04",
       "time": "20:45",
@@ -482,7 +314,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005450"
     },
     {
-      "title": "A Poet (2013)",
+      "title": "A Poet (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-05",
       "time": "15:45",
@@ -498,7 +330,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005417"
     },
     {
-      "title": "A Poet (2013)",
+      "title": "A Poet (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-05",
       "time": "18:15",
@@ -578,12 +410,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000043"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-06",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-06",
+      "time": "13:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
       "title": "No Bears (2022)",
@@ -610,6 +458,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005395"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-06",
+      "time": "16:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-06",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
@@ -624,6 +488,14 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005443?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005443"
+    },
+    {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-06",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
     },
     {
       "title": "SirâT (2025)",
@@ -698,12 +570,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-07",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "VERTIGO in 70mm",
       "venue": "AFI Silver",
       "date": "2026-03-07",
       "time": "17:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002272?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002272"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-07",
+      "time": "17:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
       "title": "SirâT (2025)",
@@ -736,6 +624,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/zyaK5EIPuaZhp4THmcFySJwMPKT.jpg",
       "ticketLink": "https://themiracletheatre.com/events/casablanca-7/"
+    },
+    {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-07",
+      "time": "20:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
     },
     {
       "title": "VERTIGO in 70mm",
@@ -818,6 +714,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-08",
+      "time": "17:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "VERTIGO in 70mm",
       "venue": "AFI Silver",
       "date": "2026-03-08",
@@ -866,12 +770,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-08",
+      "time": "21:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-09",
       "time": "11:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-09",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
       "title": "Ordinary People (2002)",
@@ -890,6 +810,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-09",
+      "time": "13:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "Sinners (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-09",
@@ -906,6 +834,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-09",
+      "time": "16:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "Sentimental Value (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-09",
@@ -914,12 +850,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005313"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-09",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-09",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-09",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
     },
     {
       "title": "VERTIGO (Digital)",
@@ -962,6 +914,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-10",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "VERTIGO (Digital)",
       "venue": "AFI Silver",
       "date": "2026-03-10",
@@ -976,6 +936,14 @@
       "time": "15:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-10",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
       "title": "SirâT (2025)",
@@ -994,12 +962,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005395"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-10",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
       "title": "THE CHRONOLOGY OF WATER (2025)",
       "venue": "Suns Cinema",
       "date": "2026-03-10",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24134415/pU3GZI6C9lxzxUnBccIQLThDLVY-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-chronology-of-water/"
+    },
+    {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-10",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
     },
     {
       "title": "SirâT (2025)",
@@ -1034,6 +1018,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005397"
     },
     {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-11",
+      "time": "13:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-11",
@@ -1056,6 +1048,14 @@
       "time": "16:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-11",
+      "time": "16:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
       "title": "The Big Lebowski (1998)",
@@ -1098,6 +1098,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005091"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-11",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-11",
@@ -1112,6 +1120,14 @@
       "time": "11:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-12",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
       "title": "Ordinary People (2002)",
@@ -1130,6 +1146,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-12",
+      "time": "13:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
+    },
+    {
       "title": "MY UNDESIRABLE FRIENDS: PART I (Chapters 1-3)",
       "venue": "AFI Silver",
       "date": "2026-03-12",
@@ -1144,6 +1168,22 @@
       "time": "16:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
+      "date": "2026-03-12",
+      "time": "16:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
+      "title": "Oscar®-Nominated Short Films 2026: Live Action",
+      "venue": "AFI Silver",
+      "date": "2026-03-12",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
       "title": "MY UNDESIRABLE FRIENDS: PART I (Chapters 4-5)",
@@ -1182,16 +1222,24 @@
       "venue": "Library of Congress",
       "date": "2026-03-12",
       "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Young-Frankenstein-250x250.jpg#250x250",
-      "ticketLink": "https://www.loc.gov/item/event-420443/film-screening-young-frankenstein-1974/2026-03-12/"
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Young-Frankenstein-540x372.jpg#540x372",
+      "ticketLink": "https://www.loc.gov/item/event-420519/film-screening-young-frankenstein-1974/2026-03-12/"
     },
     {
       "title": "Film screening: Young Frankenstein (1974)",
       "venue": "Library of Congress",
       "date": "2026-03-12",
       "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Young-Frankenstein-540x372.jpg#540x372",
-      "ticketLink": "https://www.loc.gov/item/event-420519/film-screening-young-frankenstein-1974/2026-03-12/"
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2025/08/Young-Frankenstein-250x250.jpg#250x250",
+      "ticketLink": "https://www.loc.gov/item/event-420443/film-screening-young-frankenstein-1974/2026-03-12/"
+    },
+    {
+      "title": "The Secret Agent (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-12",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
     },
     {
       "title": "VERTIGO (Digital)",
