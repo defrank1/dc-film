@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-03-05T01:59:35.176Z",
+  "lastUpdated": "2026-03-05T06:50:54.509Z",
   "screenings": [
-    {
-      "title": "A Poet (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-04",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Hedda (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-04",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005417"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-04",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
     {
       "title": "Frankenstein (2025)",
       "venue": "Avalon Theater",
@@ -242,14 +218,6 @@
       "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
     },
     {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-05",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
-    },
-    {
       "title": "THE BRIDE! (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-05",
@@ -274,12 +242,12 @@
       "ticketLink": null
     },
     {
-      "title": "One Battle After Another (2025)",
+      "title": "It Was Just an Accident (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-05",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/one-battle-after-another/"
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
       "title": "The Secret Agent (2025)",
@@ -458,14 +426,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
-      "title": "Il Cinema Ritrovato on Tour: Smog",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-07",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "VERTIGO in 70mm",
       "venue": "AFI Silver",
       "date": "2026-03-07",
@@ -592,14 +552,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
       "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
-    },
-    {
-      "title": "Il Cinema Ritrovato on Tour: Rain",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Shakespeare's \"Othello\" (2008)",
@@ -994,14 +946,6 @@
       "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
     },
     {
-      "title": "SENTIMENTAL VALUE (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141157/pz9NCWxxOk3o0W3v1Zkhawrwb4i-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/sentimental-value/"
-    },
-    {
       "title": "Sinners (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-11",
@@ -1234,14 +1178,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005455"
     },
     {
-      "title": "Mary Cassatt: Painting the Modern Woman (2023)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ffVu1fIXnD3OLO6LQQIDP4VdR8x.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Promised Sky (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-14",
@@ -1304,14 +1240,6 @@
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005464?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005464"
-    },
-    {
-      "title": "Afterimage (Powidoki) (2016)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-15",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "It Was Just an Accident (2025)",
@@ -1994,14 +1922,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002716"
     },
     {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Nausicaä of the Valley of the Wind (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-28",
@@ -2274,14 +2194,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
     },
     {
-      "title": "The Treasure of the Sierra Madre (1948)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "INHERENT VICE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-04",
@@ -2506,14 +2418,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
-      "title": "Santa Fe Trail (1940)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-11",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uBtJzonmF9uOFrDXlqQuxTfMwl7.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "The Birds (1963)",
       "venue": "AFI Silver",
       "date": "2026-04-11",
@@ -2544,14 +2448,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
-    },
-    {
-      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PHANTOM THREAD in 70mm",
@@ -2786,14 +2682,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
-      "title": "Good Valley Stories (2025)",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "LICORICE PIZZA in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-18",
@@ -2824,14 +2712,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001227?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
-    },
-    {
-      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
-      "venue": "National Gallery of Art",
-      "date": "2026-04-19",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Reds (1981)",
