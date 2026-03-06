@@ -1,158 +1,6 @@
 {
-  "lastUpdated": "2026-03-05T19:15:28.846Z",
+  "lastUpdated": "2026-03-06T01:59:31.067Z",
   "screenings": [
-    {
-      "title": "Frankenstein (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "It Was Just an Accident (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "14:10",
-      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "The Tale of Silyan (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005418?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005418"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "14:15",
-      "poster": null,
-      "ticketLink": null
-    },
-    {
-      "title": "DREAMS (2000)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/9WzRVla0v3fIJ1QihTqJENdBNtg.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Documentary",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "15:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005450?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005450"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "15:35",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Poet (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Hedda (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "16:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005417"
-    },
-    {
-      "title": "THE BRIDE! (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Frankenstein (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
-    },
-    {
-      "title": "A Private Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: LIVE ACTION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Poet (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005225?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005225"
-    },
-    {
-      "title": "Three Days of the Condor (1975)",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005311?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005311"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-05",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "WUTHERING HEIGHTS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "ticketLink": null
-    },
     {
       "title": "PETER HUJAR’S DAY (2025)",
       "venue": "Suns Cinema",
@@ -160,38 +8,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140010/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
       "ticketLink": "https://sunscinema.com/movies/peter-hujars-day/"
-    },
-    {
-      "title": "THE BRIDE! (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Secret Agent (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
-    },
-    {
-      "title": "2026 OSCAR-NOMINATED SHORT FILMS: ANIMATION",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-05",
-      "time": "19:30",
-      "poster": null,
-      "ticketLink": null
-    },
-    {
-      "title": "It Was Just an Accident (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-05",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
       "title": "The Secret Agent (2025)",
@@ -218,6 +34,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
+      "title": "Frankenstein (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "11:15",
+      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
@@ -242,12 +74,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE BRIDE! (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "13:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "It Was Just an Accident (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
     },
     {
       "title": "Oscar®-Nominated Short Films 2026: Live Action",
@@ -266,6 +130,38 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003847"
     },
     {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "14:10",
+      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "14:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE BRIDE! (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
@@ -282,12 +178,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005395"
     },
     {
+      "title": "Frankenstein (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "ticketLink": "https://www.theavalon.org/films/frankenstein-2/"
+    },
+    {
       "title": "Oscar®-Nominated Short Films 2026: Animation",
       "venue": "AFI Silver",
       "date": "2026-03-06",
       "time": "16:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
+    },
+    {
+      "title": "A Private Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-private-life/"
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "17:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Oscar®-Nominated Short Films 2026: Live Action",
@@ -298,12 +218,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "18:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "THE BRIDE! (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "ticketLink": null
     },
     {
       "title": "Bebo'S Girl (1964)",
@@ -315,11 +251,43 @@
     },
     {
       "title": "The Secret Agent (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-secret-agent/"
+    },
+    {
+      "title": "It Was Just an Accident (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-06",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "ticketLink": "https://www.theavalon.org/films/it-was-just-an-accident/"
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "19:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Secret Agent (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-06",
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005201?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005201"
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "21:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "SirâT (2025)",
@@ -336,6 +304,22 @@
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000043?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000043"
+    },
+    {
+      "title": "THE BRIDE! (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-06",
+      "time": "22:10",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "SirâT (2025)",
