@@ -1,29 +1,13 @@
 {
-  "lastUpdated": "2026-03-09T02:02:10.891Z",
+  "lastUpdated": "2026-03-09T07:00:33.700Z",
   "screenings": [
     {
-      "title": "Casablanca (1943)",
-      "venue": "Miracle Theater",
-      "date": "2026-03-08",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/casablanca-6/"
-    },
-    {
-      "title": "Elio (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-09",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
-      "ticketLink": "https://www.theavalon.org/films/elio/"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-09",
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
     },
     {
       "title": "SirâT (2025)",
@@ -32,6 +16,14 @@
       "time": "11:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "Train Dreams (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-09",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
       "title": "THE BRIDE! (2026)",
@@ -74,14 +66,6 @@
       "ticketLink": null
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-09",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
-    },
-    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-09",
@@ -112,6 +96,14 @@
       "time": "14:30",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-09",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -218,12 +210,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-09",
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
     },
     {
       "title": "Train Dreams (2025)",
@@ -1608,6 +1600,14 @@
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002716?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002716"
+    },
+    {
+      "title": "The Prince of Egypt (1998)",
+      "venue": "Miracle Theater",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt/"
     },
     {
       "title": "Nausicaä of the Valley of the Wind (1984)",
