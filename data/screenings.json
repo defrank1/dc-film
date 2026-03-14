@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-03-14T01:56:07.740Z",
+  "lastUpdated": "2026-03-14T06:43:19.064Z",
   "screenings": [
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-13",
-      "time": "21:05",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "The Little Sister (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-13",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005474?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005474"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Animation",
-      "venue": "AFI Silver",
-      "date": "2026-03-14",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
-    },
     {
       "title": "Sentimental Value (2025)",
       "venue": "AFI Silver",
@@ -34,12 +10,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005313"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
+      "title": "Oscar®-Nominated Short Films 2026: Animation",
+      "venue": "AFI Silver",
       "date": "2026-03-14",
       "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005448?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005448"
     },
     {
       "title": "Train Dreams (2025)",
@@ -58,6 +34,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005455"
     },
     {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "12:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Oscar®-Nominated Short Films 2026: Live Action",
       "venue": "AFI Silver",
       "date": "2026-03-14",
@@ -66,20 +50,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-14",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
+    },
+    {
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "13:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-14",
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-14",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "Promised Sky (2026)",
@@ -98,12 +90,28 @@
       "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
     },
     {
+      "title": "PI (PI DAY) (2016)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "15:14",
+      "poster": "https://image.tmdb.org/t/p/w500/dndQ2BVFJq0ocf44ItrxnD7FIB5.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "ONE BATTLE AFTER ANOTHER in 70mm",
       "venue": "AFI Silver",
       "date": "2026-03-14",
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005257?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005257"
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-14",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
     },
     {
       "title": "SirâT (2025)",
@@ -114,12 +122,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-14",
       "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Eyes of Ghana (2025)",
@@ -136,6 +144,14 @@
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "17:20",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "SirâT (2025)",
@@ -162,12 +178,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005472"
     },
     {
-      "title": "CAUGHT BY THE TIDES (2025)",
-      "venue": "Suns Cinema",
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-14",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140206/vRUsEXHm9iJgXuf8k4BiTLCnUb0-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/caught-by-the-tides/"
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "19:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Train Dreams (2025)",
@@ -178,12 +202,20 @@
       "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-14",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
+    },
+    {
+      "title": "THE BRIDE! (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "19:50",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Secret Agent (2025)",
@@ -202,6 +234,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005458"
     },
     {
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-14",
+      "time": "21:35",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-14",
@@ -213,8 +253,8 @@
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-14",
-      "time": "22:10",
-      "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+      "time": "21:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
