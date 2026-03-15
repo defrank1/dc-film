@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-03-15T02:12:54.261Z",
+  "lastUpdated": "2026-03-15T06:55:23.306Z",
   "screenings": [
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-14",
-      "time": "21:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
     {
       "title": "Khartoum (1966)",
       "venue": "AFI Silver",
@@ -18,12 +10,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005464"
     },
     {
-      "title": "Train Dreams (2025)",
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-15",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-15",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -34,12 +34,12 @@
       "ticketLink": null
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
-      "venue": "Avalon Theater",
+      "title": "Afterimage (Powidoki) (2016)",
+      "venue": "National Gallery of Art",
       "date": "2026-03-15",
       "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
+      "poster": "https://image.tmdb.org/t/p/w500/ewSIleSH1w6hOvfgHlDTNyFooUF.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "It Was Just an Accident (2025)",
@@ -66,10 +66,18 @@
       "ticketLink": null
     },
     {
-      "title": "The Voice of Hind Rajab (2025)",
+      "title": "Sirat (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-15",
       "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
+      "ticketLink": "https://www.theavalon.org/films/sirat/"
+    },
+    {
+      "title": "The Voice of Hind Rajab (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-15",
+      "time": "15:00",
       "poster": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
     },
@@ -98,14 +106,6 @@
       "ticketLink": null
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-15",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
-    },
-    {
       "title": "REMINDERS OF HIM (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-15",
@@ -122,12 +122,12 @@
       "ticketLink": null
     },
     {
-      "title": "The Voice of Hind Rajab (2025)",
+      "title": "Train Dreams (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-15",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
       "title": "SirâT (2025)",
@@ -136,6 +136,14 @@
       "time": "17:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-15",
+      "time": "17:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "SirâT (2025)",
@@ -162,44 +170,12 @@
       "ticketLink": null
     },
     {
-      "title": "3000 NIGHTS (2015)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24122901/eYnJuMEOs7qUbx0MnR4HKjAt1AD.jpg",
-      "ticketLink": "https://sunscinema.com/movies/3000-nights/"
-    },
-    {
-      "title": "SAINT OMER (2022)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24123809/ekr25uuxlH7kg3KLhLLZcDZ15xd-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/saint-omer/"
-    },
-    {
       "title": "REMINDERS OF HIM (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-15",
       "time": "19:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "Train Dreams (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-15",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-15",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -1546,6 +1522,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt/"
     },
     {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Nausicaä of the Valley of the Wind (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-28",
@@ -1866,6 +1850,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005478"
     },
     {
+      "title": "Film screening: Where Danger Lives (1950)",
+      "venue": "Library of Congress",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Where-Danger-Lives-539x372.jpg#539x372",
+      "ticketLink": "https://www.loc.gov/item/event-420512/film-screening-where-danger-lives-1950/2026-04-02/"
+    },
+    {
       "title": "The Third Man (1949)",
       "venue": "AFI Silver",
       "date": "2026-04-02",
@@ -1912,6 +1904,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000505?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
+    },
+    {
+      "title": "The Treasure of the Sierra Madre (1948)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "INHERENT VICE in 70mm",
@@ -2138,6 +2138,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
+      "title": "Santa Fe Trail (1940)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-11",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/uBtJzonmF9uOFrDXlqQuxTfMwl7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Birds (1963)",
       "venue": "AFI Silver",
       "date": "2026-04-11",
@@ -2168,6 +2176,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
+    },
+    {
+      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PHANTOM THREAD in 70mm",
@@ -2402,6 +2418,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "LICORICE PIZZA in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-18",
@@ -2432,6 +2456,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001227?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
+    },
+    {
+      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Reds (1981)",
@@ -2602,12 +2634,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003226"
     },
     {
+      "title": "Film screening: The Petrified Forest (1936)",
+      "venue": "Library of Congress",
+      "date": "2026-04-23",
+      "time": "19:00",
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Petrified-Forest-540x372.jpg#540x372",
+      "ticketLink": "https://www.loc.gov/item/event-420516/film-screening-the-petrified-forest-1936/2026-04-23/"
+    },
+    {
       "title": "Marnie (1964)",
       "venue": "AFI Silver",
       "date": "2026-04-23",
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000512?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000512"
+    },
+    {
+      "title": "The Alamo (2004)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     }
   ]
 }
