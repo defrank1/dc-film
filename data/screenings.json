@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-16T02:14:08.824Z",
+  "lastUpdated": "2026-03-16T07:15:30.616Z",
   "screenings": [
+    {
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+    },
     {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
@@ -16,14 +24,6 @@
       "time": "11:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005313?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005313"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-16",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -42,20 +42,20 @@
       "ticketLink": null
     },
     {
+      "title": "Train Dreams (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
+    },
+    {
       "title": "ONE BATTLE AFTER ANOTHER (Digital)",
       "venue": "AFI Silver",
       "date": "2026-03-16",
       "time": "12:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005258?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005258"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-16",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "RAGING BULL (1980)",
@@ -82,6 +82,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
     },
     {
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
+    },
+    {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-16",
@@ -98,18 +106,10 @@
       "ticketLink": null
     },
     {
-      "title": "Sirat (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-16",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
-      "ticketLink": "https://www.theavalon.org/films/sirat/"
-    },
-    {
       "title": "The Voice of Hind Rajab (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-16",
-      "time": "15:00",
+      "time": "14:45",
       "poster": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
     },
@@ -128,6 +128,14 @@
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
     },
     {
       "title": "Oscar®-Nominated Short Films 2026: Animation",
@@ -154,12 +162,12 @@
       "ticketLink": null
     },
     {
-      "title": "Train Dreams (2025)",
+      "title": "The Voice of Hind Rajab (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-16",
-      "time": "17:15",
-      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
-      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-voice-of-hind-rajab/"
     },
     {
       "title": "REMINDERS OF HIM (2026)",
@@ -168,14 +176,6 @@
       "time": "17:20",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-16",
-      "time": "17:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "SirâT (2025)",
@@ -208,6 +208,22 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Train Dreams (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-16",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -1570,14 +1586,6 @@
       "ticketLink": "https://sunscinema.com/movies/omar/"
     },
     {
-      "title": "Wanda (1970)",
-      "venue": "Miracle Theater",
-      "date": "2026-03-29",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/wanda/"
-    },
-    {
       "title": "The Third Man (1949)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
@@ -1784,14 +1792,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005478?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005478"
-    },
-    {
-      "title": "Film screening: Where Danger Lives (1950)",
-      "venue": "Library of Congress",
-      "date": "2026-04-02",
-      "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Where-Danger-Lives-539x372.jpg#539x372",
-      "ticketLink": "https://www.loc.gov/item/event-420512/film-screening-where-danger-lives-1950/2026-04-02/"
     },
     {
       "title": "The Third Man (1949)",
@@ -2568,14 +2568,6 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003226?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003226"
-    },
-    {
-      "title": "Film screening: The Petrified Forest (1936)",
-      "venue": "Library of Congress",
-      "date": "2026-04-23",
-      "time": "19:00",
-      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/02/Petrified-Forest-540x372.jpg#540x372",
-      "ticketLink": "https://www.loc.gov/item/event-420516/film-screening-the-petrified-forest-1936/2026-04-23/"
     },
     {
       "title": "Marnie (1964)",
