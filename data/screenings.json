@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-03-17T02:01:31.700Z",
+  "lastUpdated": "2026-03-17T07:02:43.110Z",
   "screenings": [
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-17",
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "Hamnet (2025)",
@@ -58,6 +58,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-17",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+    },
+    {
       "title": "Oscar®-Nominated Short Films 2026: Animation",
       "venue": "AFI Silver",
       "date": "2026-03-17",
@@ -72,14 +80,6 @@
       "time": "14:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005308?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005308"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-17",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -130,14 +130,6 @@
       "ticketLink": null
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-17",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
-    },
-    {
       "title": "The Eyes of Ghana (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-17",
@@ -152,6 +144,14 @@
       "time": "17:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-17",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "The Voice of Hind Rajab (2025)",
@@ -194,22 +194,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005458"
     },
     {
-      "title": "MISERICORDIA",
-      "venue": "Suns Cinema",
-      "date": "2026-03-17",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140345/7LVCXVdsGPPXRYGu5SRqgfVP96h-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/misericordia/"
-    },
-    {
-      "title": "AFTERNOONS OF SOLITUDE (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-17",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24114552/uxmv9ySlP0KKiGZcWsU0wzy9goL-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/afternoons-of-solitude/"
-    },
-    {
       "title": "SINNERS (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-17",
@@ -226,12 +210,12 @@
       "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-17",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
@@ -1618,11 +1602,11 @@
       "ticketLink": "https://sunscinema.com/movies/omar/"
     },
     {
-      "title": "Wanda (1970)",
+      "title": "Uptown Talkies Presents: Wanda",
       "venue": "Miracle Theater",
       "date": "2026-03-29",
       "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
+      "poster": null,
       "ticketLink": "https://themiracletheatre.com/events/wanda/"
     },
     {
