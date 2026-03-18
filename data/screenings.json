@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T13:08:46.091Z",
+  "lastUpdated": "2026-03-18T18:57:45.246Z",
   "screenings": [
-    {
-      "title": "Sentimental Value (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-18",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005313?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005313"
-    },
-    {
-      "title": "It Was Just an Accident (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-18",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005308?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005308"
-    },
     {
       "title": "2026 Oscar Nominated Short Films – Animated (2026)",
       "venue": "Avalon Theater",
@@ -24,22 +8,6 @@
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
       "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
-    },
-    {
-      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-18",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-18",
-      "time": "12:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Train Dreams (2025)",
@@ -50,60 +18,12 @@
       "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-18",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Sinners (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-18",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005091?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005091"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-18",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
       "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-18",
       "time": "13:45",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
       "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
-    },
-    {
-      "title": "Oscar®-Nominated Short Films 2026: Live Action",
-      "venue": "AFI Silver",
-      "date": "2026-03-18",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005449?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005449"
-    },
-    {
-      "title": "PEAKY BLINDERS: THE IMMORTAL MAN (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-18",
-      "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-18",
-      "time": "14:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "The Voice of Hind Rajab (2025)",
@@ -1482,11 +1402,11 @@
       "ticketLink": "https://sunscinema.com/movies/omar/"
     },
     {
-      "title": "Uptown Talkies Presents: Wanda",
+      "title": "Wanda (1970)",
       "venue": "Miracle Theater",
       "date": "2026-03-29",
       "time": "20:00",
-      "poster": null,
+      "poster": "https://image.tmdb.org/t/p/w500/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
       "ticketLink": "https://themiracletheatre.com/events/wanda/"
     },
     {
