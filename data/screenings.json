@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-19T02:06:20.236Z",
+  "lastUpdated": "2026-03-19T06:56:42.413Z",
   "screenings": [
+    {
+      "title": "Train Dreams (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-19",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+      "ticketLink": "https://www.theavalon.org/films/train-dreams/"
+    },
     {
       "title": "Sentimental Value (2025)",
       "venue": "AFI Silver",
@@ -8,14 +16,6 @@
       "time": "11:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005313?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005313"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-19",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "Hamnet (2025)",
@@ -50,6 +50,14 @@
       "ticketLink": "https://www.theavalon.org/films/train-dreams/"
     },
     {
+      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-19",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+    },
+    {
       "title": "SINNERS (2025)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-19",
@@ -64,14 +72,6 @@
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-19",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "Oscar®-Nominated Short Films 2026: Animation",
@@ -130,12 +130,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
-      "title": "2026 Oscar Nominated Short Films – Documentary (2026)",
+      "title": "2026 Oscar Nominated Short Films – Animated (2026)",
       "venue": "Avalon Theater",
       "date": "2026-03-19",
       "time": "16:30",
       "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
-      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-documentary/"
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-animated/"
     },
     {
       "title": "AmíLcar (2025)",
@@ -186,20 +186,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
-      "title": "SOULEYMANE’S STORY (2024)",
-      "venue": "Suns Cinema",
+      "title": "2026 Oscar Nominated Short Films – Live Action (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-03-19",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23141727/ns8tSpfBL63Y5Pi84C6Dzr3vlm4-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/souleymanes-story/"
-    },
-    {
-      "title": "MAGELLAN (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-19",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140454/kA5trayJ6UICmTvSGrtWRftNRUJ-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/magellan/"
+      "poster": "https://image.tmdb.org/t/p/w500/ooHW73iBOTdiZRBPjFAIEl43hcp.jpg",
+      "ticketLink": "https://www.theavalon.org/films/2026-oscar-nominated-short-films-live-action/"
     },
     {
       "title": "Train Dreams (2025)",
@@ -240,14 +232,6 @@
       "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Nino (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-19",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/s7kmHzYxMnKuSqTD1XIwW0qg9hz.jpg",
-      "ticketLink": "https://www.theavalon.org/films/nino/"
     },
     {
       "title": "Calle MáLaga (2025)",
@@ -496,14 +480,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
-    },
-    {
-      "title": "MAGELLAN (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/23140454/kA5trayJ6UICmTvSGrtWRftNRUJ-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/magellan/"
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -1368,6 +1344,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/26104947/mzCdtXQYdLPrNr16Ld5ZowavKoa.jpg",
       "ticketLink": "https://sunscinema.com/movies/omar/"
+    },
+    {
+      "title": "Uptown Talkies Presents: Wanda",
+      "venue": "Miracle Theater",
+      "date": "2026-03-29",
+      "time": "20:00",
+      "poster": null,
+      "ticketLink": "https://themiracletheatre.com/events/wanda/"
     },
     {
       "title": "The Third Man (1949)",
