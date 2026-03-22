@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-22T06:50:54.417Z",
+  "lastUpdated": "2026-03-22T12:49:21.447Z",
   "screenings": [
+    {
+      "title": "Turner & Constable (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/turner-constable/"
+    },
     {
       "title": "ANDRE IS AN IDIOT (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -26,6 +34,14 @@
       "ticketLink": null
     },
     {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
       "title": "PROJECT HAIL MARY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
@@ -48,6 +64,14 @@
       "time": "13:15",
       "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "No Other Choice (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "13:15",
+      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
     },
     {
       "title": "Happy Birthday (1992)",
@@ -104,6 +128,22 @@
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "16:05",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "The Testament of Ann Lee (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-testament-of-ann-lee/"
     },
     {
       "title": "PROJECT HAIL MARY (2026)",
@@ -168,6 +208,22 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "No Other Choice (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-22",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
     },
     {
       "title": "ANDRE IS AN IDIOT (2026)",
