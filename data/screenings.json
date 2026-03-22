@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-03-22T02:06:39.553Z",
+  "lastUpdated": "2026-03-22T06:50:54.417Z",
   "screenings": [
     {
-      "title": "Marsha and the Positrons",
-      "venue": "Avalon Theater",
+      "title": "ANDRE IS AN IDIOT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
-      "time": "10:30",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/marsha-and-the-positrons-2/"
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Tree of Authenticity (2025)",
@@ -18,12 +18,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005459"
     },
     {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
+      "title": "ONE BATTLE AFTER ANOTHER (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-22",
+      "time": "13:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -34,12 +42,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
     },
     {
-      "title": "No Other Choice (2025)",
-      "venue": "Avalon Theater",
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
       "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
     },
     {
       "title": "Happy Birthday (1992)",
@@ -82,20 +90,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005462"
     },
     {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
+      "title": "SINNERS (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "ticketLink": null
     },
     {
-      "title": "The Testament of Ann Lee (2025)",
-      "venue": "Avalon Theater",
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-testament-of-ann-lee/"
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-22",
+      "time": "16:25",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Ghost Elephants (2026)",
@@ -122,6 +138,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005463"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-22",
+      "time": "18:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "My Father'S Shadow (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-22",
@@ -138,36 +162,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
     },
     {
-      "title": "CHE: PART ONE (2008)",
-      "venue": "Suns Cinema",
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24125107/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg",
-      "ticketLink": "https://sunscinema.com/movies/che-part-one/"
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
     },
     {
-      "title": "CHE: PART TWO (2008)",
-      "venue": "Suns Cinema",
+      "title": "ANDRE IS AN IDIOT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24125318/fKQwwWXYQNkrZa59VbnfVy2kfoF-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/che-part-two/"
-    },
-    {
-      "title": "No Other Choice (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-22",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-22",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+      "time": "19:35",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "ticketLink": null
     },
     {
       "title": "Memory of Princess Mumbi (2025)",
@@ -192,14 +200,6 @@
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "THE ROCKY HORROR PICTURE SHOW (1975)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-22",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "ticketLink": null
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -778,6 +778,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt/"
     },
     {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Nausicaä of the Valley of the Wind (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-28",
@@ -1154,6 +1162,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
     },
     {
+      "title": "The Treasure of the Sierra Madre (1948)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "INHERENT VICE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-04",
@@ -1378,6 +1394,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
+      "title": "malni – towards the ocean, towards the shore (2020)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "poster": "https://image.tmdb.org/t/p/w500/m97Eu7AwMeZU4HF1720I76241u1.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Birds (1963)",
       "venue": "AFI Silver",
       "date": "2026-04-11",
@@ -1408,6 +1432,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
+    },
+    {
+      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PHANTOM THREAD in 70mm",
@@ -1642,6 +1674,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "LICORICE PIZZA in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-18",
@@ -1672,6 +1712,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001227?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
+    },
+    {
+      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Reds (1981)",
@@ -1848,6 +1896,14 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000512?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000512"
+    },
+    {
+      "title": "The Alamo (2004)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Power to the People: John & Yoko Live in Nyc (2026)",
