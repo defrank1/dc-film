@@ -1,46 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T13:04:56.634Z",
+  "lastUpdated": "2026-03-23T18:53:29.958Z",
   "screenings": [
-    {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-23",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-23",
-      "time": "12:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-23",
-      "time": "12:10",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-23",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-23",
-      "time": "12:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
@@ -72,14 +32,6 @@
       "time": "14:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
-    },
-    {
-      "title": "ANDRE IS AN IDIOT (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-23",
-      "time": "14:40",
-      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
-      "ticketLink": null
     },
     {
       "title": "The Tree of Authenticity (2025)",
@@ -826,14 +778,6 @@
       "ticketLink": "https://sunscinema.com/movies/omar/"
     },
     {
-      "title": "Uptown Talkies Presents: Wanda",
-      "venue": "Miracle Theater",
-      "date": "2026-03-29",
-      "time": "20:00",
-      "poster": null,
-      "ticketLink": "https://themiracletheatre.com/events/wanda/"
-    },
-    {
       "title": "The Third Man (1949)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
@@ -1088,14 +1032,6 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000505?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
-    },
-    {
-      "title": "The King of Kings (2025)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-6/"
     },
     {
       "title": "The Treasure of the Sierra Madre (1948)",
