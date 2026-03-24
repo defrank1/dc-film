@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T13:09:23.183Z",
+  "lastUpdated": "2026-03-24T19:01:34.071Z",
   "screenings": [
     {
       "title": "Turner & Constable (2026)",
@@ -8,46 +8,6 @@
       "time": "10:30",
       "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
       "ticketLink": "https://www.theavalon.org/films/turner-constable/"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-24",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "ANDRE IS AN IDIOT (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-24",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-24",
-      "time": "12:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-24",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-24",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
-      "ticketLink": null
     },
     {
       "title": "Project Hail Mary (2026)",
@@ -66,28 +26,12 @@
       "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
     },
     {
-      "title": "Billy Preston: That'S the Way God Planned It (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-24",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
-    },
-    {
       "title": "My Father'S Shadow (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-24",
       "time": "14:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-24",
-      "time": "14:10",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "ticketLink": null
     },
     {
       "title": "Ancestral Visions of the Future (2025)",
@@ -882,6 +826,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
     },
     {
+      "title": "LAST YEAR AT MARIENBAD (1961)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-01",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134301/syIJCqiSkGRJTlyaBtyI5jqPtE7-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/last-year-at-marienbad/"
+    },
+    {
+      "title": "HIROSHIMA MON AMOUR (1959)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-01",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134021/zieczjWnvalaxwX5EQASEx0on5f.jpg",
+      "ticketLink": "https://sunscinema.com/movies/hiroshima-mon-amour/"
+    },
+    {
       "title": "The Godfather (1972)",
       "venue": "AFI Silver",
       "date": "2026-04-01",
@@ -930,6 +890,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005478"
     },
     {
+      "title": "CLÉO FROM 5 TO 7 (1962)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+      "ticketLink": "https://sunscinema.com/movies/cleo-from-5-to-7/"
+    },
+    {
+      "title": "LA POINTE COURTE (1956)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/12/21145237/uYEYkTHHhJKByHp44X7Rb8otibf.jpg",
+      "ticketLink": "https://sunscinema.com/movies/la-pointe-courte/"
+    },
+    {
       "title": "The Third Man (1949)",
       "venue": "AFI Silver",
       "date": "2026-04-02",
@@ -960,6 +936,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000994?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000994"
+    },
+    {
+      "title": "IVAN’S CHILDHOOD (1962)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/24160243/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "ticketLink": "https://sunscinema.com/movies/ivans-childhood/"
+    },
+    {
+      "title": "THE CRANES ARE FLYING (1957)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/03/28123651/foXYOdXEJ0rvtTDo4LLnsUnvPLB.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-cranes-are-flying/"
     },
     {
       "title": "Psycho (1960)",
@@ -1008,6 +1000,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002457?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002457"
+    },
+    {
+      "title": "THE UMBRELLAS OF CHERBOURG (1964)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-04",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24144004/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-umbrellas-of-cherbourg/"
+    },
+    {
+      "title": "THE YOUNG GIRLS OF ROCHEFORT (1967)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-04",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-young-girls-of-rochefort/"
     },
     {
       "title": "Psycho (1960)",
@@ -1098,6 +1106,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002685"
     },
     {
+      "title": "LES CRÉATURES (1966)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134757/Au7UmEA1gnUPIljLFPwb180WOkh.jpg",
+      "ticketLink": "https://sunscinema.com/movies/les-creatures/"
+    },
+    {
+      "title": "LE BONHEUR (1965)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134521/r6UYog9MruOe4X71AS57EhuJrFq.jpg",
+      "ticketLink": "https://sunscinema.com/movies/le-bonheur/"
+    },
+    {
       "title": "In a Lonely Place (1950)",
       "venue": "AFI Silver",
       "date": "2026-04-07",
@@ -1128,6 +1152,22 @@
       "time": "16:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002457?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002457"
+    },
+    {
+      "title": "LE JOLI MAI (1963)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24145003/6IzgPTaENPpg3b7wexti3RmMBK0.jpg",
+      "ticketLink": "https://sunscinema.com/movies/le-joli-mai/"
+    },
+    {
+      "title": "DAGUERRÉOTYPES (1978)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134854/3XXWWVKbePGBu6Q7e0ngve5cwBB.jpg",
+      "ticketLink": "https://sunscinema.com/movies/daguerreotypes/"
     },
     {
       "title": "The Godfather Part Ii (1974)",
@@ -1162,6 +1202,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
     },
     {
+      "title": "INDIA SONG (1975)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24143030/kCAla6EHtwymFS73o0Gu3lRbGMl.jpg",
+      "ticketLink": "https://sunscinema.com/movies/india-song/"
+    },
+    {
+      "title": "ONE SINGS, THE OTHER DOESN’T (1977)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135607/b3YTxT8LM1AWeWyrAXd3b0kjjzz.jpg",
+      "ticketLink": "https://sunscinema.com/movies/one-sings-the-other-doesnt/"
+    },
+    {
       "title": "INHERENT VICE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-04-09",
@@ -1192,6 +1248,14 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
+    },
+    {
+      "title": "SOLARIS (2002)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140346/pgqj7QoBPWFLLKtLEpPmFYFRMgB-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/solaris/"
     },
     {
       "title": "Brazil - Director'S Cut",
@@ -1240,6 +1304,22 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000086?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000086"
+    },
+    {
+      "title": "JUDEX (1963)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24145755/v9QWXz5F11R0yZpCcxIH1W50BHP.jpg",
+      "ticketLink": "https://sunscinema.com/movies/judex/"
+    },
+    {
+      "title": "EYES WITHOUT A FACE (1960)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-11",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24145656/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg",
+      "ticketLink": "https://sunscinema.com/movies/eyes-without-a-face/"
     },
     {
       "title": "Brazil - Director'S Cut",
@@ -1434,6 +1514,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001751"
     },
     {
+      "title": "VAGABOND (2022)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135500/2KFfwiPct1hwqi9dkKqoom0BenC.jpg",
+      "ticketLink": "https://sunscinema.com/movies/vagabond/"
+    },
+    {
+      "title": "MUR MURS (1982)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135355/dFU0gAIUeSS0k96it0LhCNN8v9R-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mur-murs/"
+    },
+    {
       "title": "Sneakers (1992)",
       "venue": "AFI Silver",
       "date": "2026-04-16",
@@ -1472,6 +1568,14 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001227?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
+    },
+    {
+      "title": "MIRROR (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140123/AttDP5OEsMxtHPPN7Z92p2Ntnmd-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mirror/"
     },
     {
       "title": "Marnie (1964)",
@@ -1570,6 +1674,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005423"
     },
     {
+      "title": "A GRIN WITHOUT A CAT (1977)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24145246/b7KC692Zb0rKYOpXDujJQSHdTok-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-grin-without-a-cat/"
+    },
+    {
+      "title": "FAR FROM VIETNAM (1967)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24144627/fwMPDjZKim3BQFomQfPcywwEwOp.jpg",
+      "ticketLink": "https://sunscinema.com/movies/far-from-vietnam/"
+    },
+    {
       "title": "Marnie (1964)",
       "venue": "AFI Silver",
       "date": "2026-04-19",
@@ -1642,6 +1762,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005423"
     },
     {
+      "title": "THE GLEANERS AND I (2000)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135209/6IdCTKi4Eu7i897jpe59wIDGCri.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-gleaners-and-i/"
+    },
+    {
       "title": "Reds (1981)",
       "venue": "AFI Silver",
       "date": "2026-04-21",
@@ -1680,6 +1808,14 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000512?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000512"
+    },
+    {
+      "title": "LE NAVIRE NIGHT (1979)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24145938/knLVUWmTx9VjHeprKvg3V8iKkwT.jpg",
+      "ticketLink": "https://sunscinema.com/movies/le-navire-night/"
     },
     {
       "title": "Ms .45 (1981)",
@@ -1722,6 +1858,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000512"
     },
     {
+      "title": "STALKER (2014)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140257/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "ticketLink": "https://sunscinema.com/movies/stalker/"
+    },
+    {
       "title": "The Alamo (1960)",
       "venue": "National Gallery of Art",
       "date": "2026-04-25",
@@ -1730,12 +1874,44 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
+      "title": "MR. FREEDOM (1969)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24142228/ae543dtPTLDBgDbNsVPkd0SDsOh.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mr-freedom/"
+    },
+    {
+      "title": "WHO ARE YOU, POLLY MAGOO? (1966)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24142127/7n7KBjh1eIN5dztryxljSDyZLMS.jpg",
+      "ticketLink": "https://sunscinema.com/movies/who-are-you-polly-magoo/"
+    },
+    {
+      "title": "FOX AND HIS FRIENDS (1975)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24143536/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
+      "ticketLink": "https://sunscinema.com/movies/fox-and-his-friends/"
+    },
+    {
       "title": "Power to the People: John & Yoko Live in Nyc (2026)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005485?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005485"
+    },
+    {
+      "title": "MURIEL, OR THE TIME OF RETURN (1963)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24142914/81tm32XqS9efV9bFV9qbThHD3yJ.jpg",
+      "ticketLink": "https://sunscinema.com/movies/muriel-or-the-time-of-return/"
     },
     {
       "title": "Steal This Story, Please! (2026)",
