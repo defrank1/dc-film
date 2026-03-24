@@ -1,21 +1,13 @@
 {
-  "lastUpdated": "2026-03-24T01:59:08.765Z",
+  "lastUpdated": "2026-03-24T07:02:37.424Z",
   "screenings": [
     {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-23",
-      "time": "20:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-23",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
+      "title": "Turner & Constable (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-24",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/turner-constable/"
     },
     {
       "title": "SirâT (2025)",
@@ -192,22 +184,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005475?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005475"
-    },
-    {
-      "title": "WOMEN IN REVOLT (1971)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-24",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24130540/9hlI1Ij8MdgUcPpWfWzk3b50MVQ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/women-in-revolt/"
-    },
-    {
-      "title": "SCARECROW IN A GARDEN OF CUCUMBERS (1972)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-24",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24130627/a2xtFshGu1XRNVolhJUK0P2vBn7.jpg",
-      "ticketLink": "https://sunscinema.com/movies/scarecrow-in-a-garden-of-cucumbers/"
     },
     {
       "title": "PROJECT HAIL MARY (2026)",
@@ -992,6 +968,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000505?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
+    },
+    {
+      "title": "The King of Kings (2025)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-6/"
     },
     {
       "title": "INHERENT VICE in 70mm",
