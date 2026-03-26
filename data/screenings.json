@@ -1,190 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T18:54:56.014Z",
+  "lastUpdated": "2026-03-26T02:10:51.483Z",
   "screenings": [
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "No Other Choice (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "14:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "Memory of Princess Mumbi (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005467?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005467"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "15:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Billy Preston: That'S the Way God Planned It (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "16:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "SINNERS (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "16:10",
-      "poster": "https://image.tmdb.org/t/p/w500/mEhWSOmUp3WsSWXZowpUuWJd5zO.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Testament of Ann Lee (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-testament-of-ann-lee/"
-    },
-    {
-      "title": "Happy Birthday (1992)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005461?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005461"
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Ghost Elephants (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
-    },
-    {
-      "title": "Kenja (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005463?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005463"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "19:05",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "ANDRE IS AN IDIOT (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "REMINDERS OF HIM (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-25",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "Mr. Nobody Against Putin (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-25",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mr-nobody-against-putin/"
-    },
-    {
-      "title": "Billy Preston: That'S the Way God Planned It (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "Laundry (2023)",
-      "venue": "AFI Silver",
-      "date": "2026-03-25",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005465?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005465"
-    },
     {
       "title": "Ghost Elephants (2026)",
       "venue": "AFI Silver",
@@ -202,6 +18,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "ANDRE IS AN IDIOT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "My Father'S Shadow (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-26",
@@ -210,12 +34,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SINNERS (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/mEhWSOmUp3WsSWXZowpUuWJd5zO.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "No Other Choice (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "13:15",
+      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
+    },
+    {
       "title": "Billy Preston: That'S the Way God Planned It (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-26",
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005483?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
+    },
+    {
+      "title": "REMINDERS OF HIM (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "14:05",
+      "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "ticketLink": null
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -234,6 +98,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005470"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "ONE BATTLE AFTER ANOTHER (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "16:05",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
       "title": "SirâT (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-26",
@@ -250,12 +138,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
     },
     {
-      "title": "Cotton Queen (2026)",
+      "title": "The Testament of Ann Lee (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-testament-of-ann-lee/"
+    },
+    {
+      "title": "Cotton Queen (1937)",
       "venue": "AFI Silver",
       "date": "2026-03-26",
       "time": "16:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005457?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005457"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
     },
     {
       "title": "Billy Preston: That'S the Way God Planned It (2026)",
@@ -282,6 +186,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005462"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "18:50",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "TREASURES OF SOVIET ANIMATION, VOL 1",
       "venue": "Suns Cinema",
       "date": "2026-03-26",
@@ -296,6 +216,30 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24120555/b38fRsOD7LoPGQSmKeB2jQvVkGx.jpg",
       "ticketLink": "https://sunscinema.com/movies/kin-dza-dza/"
+    },
+    {
+      "title": "ANDRE IS AN IDIOT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "Mr. Nobody Against Putin (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-26",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mr-nobody-against-putin/"
     },
     {
       "title": "Ghost Elephants (2026)",
@@ -314,12 +258,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "21:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Memory of Princess Mumbi (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-26",
       "time": "21:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005467?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005467"
+    },
+    {
+      "title": "ANDRE IS AN IDIOT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-26",
+      "time": "22:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "ticketLink": null
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -482,6 +442,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt/"
     },
     {
+      "title": "Hair, Paper, Water (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-03-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Nausicaä of the Valley of the Wind (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-28",
@@ -578,20 +546,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
     },
     {
-      "title": "Palestine '36 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
-    },
-    {
       "title": "Turner & Constable (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005478?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005478"
+    },
+    {
+      "title": "Palestine '36 (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-29",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -890,7 +858,7 @@
       "ticketLink": "https://sunscinema.com/movies/lost-chapters/"
     },
     {
-      "title": "MILESTONES (1916)",
+      "title": "MILESTONES (1920)",
       "venue": "Suns Cinema",
       "date": "2026-03-31",
       "time": "19:00",
@@ -1200,6 +1168,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-6/"
+    },
+    {
+      "title": "The Treasure of the Sierra Madre (1948)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "INHERENT VICE in 70mm",
@@ -1514,6 +1490,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
+      "title": "malni – towards the ocean, towards the shore (2020)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "poster": "https://image.tmdb.org/t/p/w500/m97Eu7AwMeZU4HF1720I76241u1.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Birds (1963)",
       "venue": "AFI Silver",
       "date": "2026-04-11",
@@ -1560,6 +1544,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
+    },
+    {
+      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PHANTOM THREAD in 70mm",
@@ -1778,7 +1770,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001751"
     },
     {
-      "title": "VAGABOND (2022)",
+      "title": "VAGABOND (2006)",
       "venue": "Suns Cinema",
       "date": "2026-04-16",
       "time": "19:00",
@@ -1842,7 +1834,7 @@
       "ticketLink": "https://sunscinema.com/movies/the-stairway-to-the-distant-path/"
     },
     {
-      "title": "MIRROR (2009)",
+      "title": "MIRROR (2017)",
       "venue": "Suns Cinema",
       "date": "2026-04-17",
       "time": "19:00",
@@ -1872,6 +1864,14 @@
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002179?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
+    },
+    {
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "LICORICE PIZZA in 70mm",
@@ -1914,6 +1914,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
     },
     {
+      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Reds (1981)",
       "venue": "AFI Silver",
       "date": "2026-04-19",
@@ -1922,7 +1930,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001482"
     },
     {
-      "title": "Billy Luck (2021)",
+      "title": "Billy Luck (2009)",
       "venue": "AFI Silver",
       "date": "2026-04-19",
       "time": "16:30",
@@ -2138,6 +2146,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
     },
     {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-24",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-24",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
+      "title": "A Generation (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-04-24",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005511?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
+    },
+    {
       "title": "THE TRAP (2019)",
       "venue": "Suns Cinema",
       "date": "2026-04-24",
@@ -2146,12 +2178,44 @@
       "ticketLink": "https://sunscinema.com/movies/the-trap/"
     },
     {
-      "title": "STALKER (2014)",
+      "title": "STALKER (2025)",
       "venue": "Suns Cinema",
       "date": "2026-04-24",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140257/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
       "ticketLink": "https://sunscinema.com/movies/stalker/"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-24",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
+    },
+    {
+      "title": "Kanal (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-04-25",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005512?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
+    },
+    {
+      "title": "The Alamo (2004)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-25",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
       "title": "Waiting for Guffman (1997)",
@@ -2160,6 +2224,14 @@
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005491?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
+    },
+    {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-25",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
     },
     {
       "title": "MR. FREEDOM (1969)",
@@ -2178,6 +2250,38 @@
       "ticketLink": "https://sunscinema.com/movies/who-are-you-polly-magoo/"
     },
     {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-25",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
+      "title": "A Generation (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-04-26",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005511?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-26",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
+    },
+    {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-26",
+      "time": "14:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
       "title": "FOOTLIGHT PARADE with PAGE MISS GLORY (1936)",
       "venue": "AFI Silver",
       "date": "2026-04-26",
@@ -2194,12 +2298,76 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
     },
     {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-26",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-27",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
+      "title": "Kanal (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-04-27",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005512?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
+    },
+    {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-27",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-27",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-28",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
+    },
+    {
       "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-28",
       "time": "15:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005491?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
+    },
+    {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-28",
+      "time": "17:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
+      "title": "Kanal (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-04-28",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005512?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
     },
     {
       "title": "TAXI ZUM KLO (1981)",
@@ -2218,6 +2386,14 @@
       "ticketLink": "https://sunscinema.com/movies/fox-and-his-friends/"
     },
     {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-28",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
       "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
@@ -2226,12 +2402,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
     },
     {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-29",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-29",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
+    },
+    {
       "title": "Power to the People: John & Yoko Live in Nyc (2026)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005485?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005485"
+    },
+    {
+      "title": "Angel'S Egg (1985)",
+      "venue": "AFI Silver",
+      "date": "2026-04-29",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005494?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
       "title": "EDEN AND AFTER (1970)",
@@ -2250,12 +2450,44 @@
       "ticketLink": "https://sunscinema.com/movies/successive-slidings-of-pleasure/"
     },
     {
+      "title": "A Generation (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-04-29",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005511?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
+    },
+    {
       "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-30",
       "time": "12:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005491?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005491"
+    },
+    {
+      "title": "A Generation (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-04-30",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005511?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
+    },
+    {
+      "title": "Kanal (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-04-30",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005512?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
+    },
+    {
+      "title": "Cronos (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-04-30",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005495?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
     },
     {
       "title": "JE T’AIME, JE T’AIME (2006)",
@@ -2274,6 +2506,14 @@
       "ticketLink": "https://sunscinema.com/movies/muriel-or-the-time-of-return/"
     },
     {
+      "title": "This Is Spinal Tap (1984)",
+      "venue": "AFI Silver",
+      "date": "2026-04-30",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002820?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
+    },
+    {
       "title": "Star Wars: a New Hope (1977)",
       "venue": "AFI Silver",
       "date": "2026-05-01",
@@ -2288,6 +2528,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
+    },
+    {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-01",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
     },
     {
       "title": "Star Wars: Return of the Jedi (1983)",
@@ -2322,6 +2570,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
     },
     {
+      "title": "The Red Spectacles (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-01",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005497?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005497"
+    },
+    {
       "title": "Star Wars: a New Hope (1977)",
       "venue": "AFI Silver",
       "date": "2026-05-02",
@@ -2362,6 +2618,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000793"
     },
     {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-02",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
+    },
+    {
       "title": "Star Wars: a New Hope (1977)",
       "venue": "AFI Silver",
       "date": "2026-05-02",
@@ -2370,12 +2634,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
     },
     {
+      "title": "The Devil'S Backbone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-05-02",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
+    },
+    {
       "title": "Star Wars: the Empire Strikes Back (1980)",
       "venue": "AFI Silver",
       "date": "2026-05-02",
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
+    },
+    {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-03",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
     },
     {
       "title": "Star Wars: a New Hope (1977)",
@@ -2410,6 +2690,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000793"
     },
     {
+      "title": "The Red Spectacles (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-03",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005497?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005497"
+    },
+    {
       "title": "Star Wars: a New Hope (1977)",
       "venue": "AFI Silver",
       "date": "2026-05-03",
@@ -2418,6 +2706,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
     },
     {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-04",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
+    },
+    {
       "title": "Star Wars: the Empire Strikes Back (1980)",
       "venue": "AFI Silver",
       "date": "2026-05-04",
@@ -2442,6 +2738,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
     },
     {
+      "title": "The Devil'S Backbone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-05-04",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
+    },
+    {
+      "title": "The Devil'S Backbone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-05-05",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
+    },
+    {
       "title": "Star Wars: the Empire Strikes Back (1980)",
       "venue": "AFI Silver",
       "date": "2026-05-05",
@@ -2458,12 +2770,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
     },
     {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-05",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
+    },
+    {
       "title": "Star Wars: Return of the Jedi (1983)",
       "venue": "AFI Silver",
       "date": "2026-05-05",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000793?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000793"
+    },
+    {
+      "title": "The Red Spectacles (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-05",
+      "time": "21:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005497?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005497"
+    },
+    {
+      "title": "Days and Nights in the Forest (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-06",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
     },
     {
       "title": "Star Wars: Return of the Jedi (1983)",
@@ -2488,6 +2824,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000791?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
+    },
+    {
+      "title": "The Devil'S Backbone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-05-06",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
+    },
+    {
+      "title": "The Devil'S Backbone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-05-07",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
     },
     {
       "title": "Star Wars: a New Hope (1977)",
@@ -2512,6 +2864,30 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
+    },
+    {
+      "title": "The Red Spectacles (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-07",
+      "time": "21:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005497?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005497"
+    },
+    {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-08",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-05-08",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
     },
     {
       "title": "A Mighty Wind (2003)",
@@ -2522,6 +2898,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005492"
     },
     {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-08",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
+    },
+    {
       "title": "The Departed (2006)",
       "venue": "AFI Silver",
       "date": "2026-05-08",
@@ -2530,12 +2914,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004136"
     },
     {
+      "title": "A New Leaf (1971)",
+      "venue": "AFI Silver",
+      "date": "2026-05-09",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002597"
+    },
+    {
       "title": "A Mighty Wind (2003)",
       "venue": "AFI Silver",
       "date": "2026-05-09",
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005492?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005492"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
+    },
+    {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-09",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
     },
     {
       "title": "The Departed (2006)",
@@ -2552,6 +2960,30 @@
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000637?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000637"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-10",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-05-10",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
+    },
+    {
+      "title": "A New Leaf (1971)",
+      "venue": "AFI Silver",
+      "date": "2026-05-10",
+      "time": "15:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002597"
     },
     {
       "title": "A Mighty Wind (2003)",
@@ -2578,6 +3010,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005492"
     },
     {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-11",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-05-11",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-11",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
+    },
+    {
       "title": "The Departed (2006)",
       "venue": "AFI Silver",
       "date": "2026-05-11",
@@ -2594,12 +3050,60 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004136"
     },
     {
+      "title": "A New Leaf (1971)",
+      "venue": "AFI Silver",
+      "date": "2026-05-12",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002597"
+    },
+    {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-12",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-05-12",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
+    },
+    {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-12",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
+    },
+    {
       "title": "A Mighty Wind (2003)",
       "venue": "AFI Silver",
       "date": "2026-05-13",
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005492?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005492"
+    },
+    {
+      "title": "A New Leaf (1971)",
+      "venue": "AFI Silver",
+      "date": "2026-05-13",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002597"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-13",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
     },
     {
       "title": "The Departed (2006)",
@@ -2618,12 +3122,60 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000637"
     },
     {
+      "title": "Ashes and Diamonds (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005513?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005513"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Bitter Rice (1949)",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
       "title": "Best in Show (2000)",
       "venue": "AFI Silver",
       "date": "2026-05-15",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002819?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "19:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
     },
     {
       "title": "Best in Show (2000)",
@@ -2634,12 +3186,92 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
     },
     {
+      "title": "Bitter Rice (1949)",
+      "venue": "AFI Silver",
+      "date": "2026-05-16",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "Conversation Piece (1974)",
+      "venue": "AFI Silver",
+      "date": "2026-05-16",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-16",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Chan Is Missing (1982)",
+      "venue": "AFI Silver",
+      "date": "2026-05-16",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Innocent Sorcerers (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005519?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005519"
+    },
+    {
+      "title": "Five Easy Pieces (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002589?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002589"
+    },
+    {
       "title": "Best in Show (2000)",
       "venue": "AFI Silver",
       "date": "2026-05-17",
       "time": "17:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002819?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
+    },
+    {
+      "title": "Chan Is Missing (1982)",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "19:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Conversation Piece (1974)",
+      "venue": "AFI Silver",
+      "date": "2026-05-18",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
     },
     {
       "title": "Best in Show (2000)",
@@ -2650,12 +3282,108 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
     },
     {
+      "title": "Bitter Rice (1949)",
+      "venue": "AFI Silver",
+      "date": "2026-05-18",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-18",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Conversation Piece (1974)",
+      "venue": "AFI Silver",
+      "date": "2026-05-19",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
+    },
+    {
+      "title": "Chan Is Missing (1982)",
+      "venue": "AFI Silver",
+      "date": "2026-05-19",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-19",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Innocent Sorcerers (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-05-19",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005519?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005519"
+    },
+    {
+      "title": "Five Easy Pieces (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-19",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002589?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002589"
+    },
+    {
       "title": "Best in Show (2000)",
       "venue": "AFI Silver",
       "date": "2026-05-20",
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002819?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
+    },
+    {
+      "title": "Bitter Rice (1949)",
+      "venue": "AFI Silver",
+      "date": "2026-05-20",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "Five Easy Pieces (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-05-20",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002589?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002589"
+    },
+    {
+      "title": "Conversation Piece (1974)",
+      "venue": "AFI Silver",
+      "date": "2026-05-20",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-20",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Conversation Piece (1974)",
+      "venue": "AFI Silver",
+      "date": "2026-05-21",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
     },
     {
       "title": "Best in Show (2000)",
@@ -2666,12 +3394,92 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
     },
     {
+      "title": "Bitter Rice (1949)",
+      "venue": "AFI Silver",
+      "date": "2026-05-21",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "The Princess Bride (1987)",
+      "venue": "AFI Silver",
+      "date": "2026-05-21",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000070?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000070"
+    },
+    {
+      "title": "Chan Is Missing (1982)",
+      "venue": "AFI Silver",
+      "date": "2026-05-21",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
+    },
+    {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-22",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
+    },
+    {
+      "title": "Mortu Nega (1988)",
+      "venue": "AFI Silver",
+      "date": "2026-05-22",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
+    },
+    {
+      "title": "Port of Shadows (1938)",
+      "venue": "AFI Silver",
+      "date": "2026-05-22",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001838?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001838"
+    },
+    {
       "title": "Terminator 2: Judgment Day (1991)",
       "venue": "AFI Silver",
       "date": "2026-05-22",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005493?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
+    },
+    {
+      "title": "Nadja - Director'S Cut",
+      "venue": "AFI Silver",
+      "date": "2026-05-22",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005502?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005502"
+    },
+    {
+      "title": "Man of Marble (1977)",
+      "venue": "AFI Silver",
+      "date": "2026-05-23",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005514?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005514"
+    },
+    {
+      "title": "Sholay - the Final Cut (1975)",
+      "venue": "AFI Silver",
+      "date": "2026-05-23",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005504?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005504"
+    },
+    {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-23",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
     },
     {
       "title": "Terminator 2: Judgment Day (1991)",
@@ -2682,12 +3490,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
     },
     {
+      "title": "Man of Iron (1935)",
+      "venue": "AFI Silver",
+      "date": "2026-05-24",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005515?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005515"
+    },
+    {
       "title": "Terminator 2: Judgment Day (1991)",
       "venue": "AFI Silver",
       "date": "2026-05-24",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005493?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
+    },
+    {
+      "title": "Port of Shadows (1938)",
+      "venue": "AFI Silver",
+      "date": "2026-05-24",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001838?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001838"
+    },
+    {
+      "title": "Nadja - Director'S Cut",
+      "venue": "AFI Silver",
+      "date": "2026-05-24",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005502?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005502"
+    },
+    {
+      "title": "Port of Shadows (1938)",
+      "venue": "AFI Silver",
+      "date": "2026-05-25",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001838?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001838"
+    },
+    {
+      "title": "Mortu Nega (1988)",
+      "venue": "AFI Silver",
+      "date": "2026-05-25",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
     },
     {
       "title": "Terminator 2: Judgment Day (1991)",
@@ -2698,12 +3546,92 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
     },
     {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-25",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
+    },
+    {
+      "title": "Nadja - Director'S Cut",
+      "venue": "AFI Silver",
+      "date": "2026-05-25",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005502?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005502"
+    },
+    {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-26",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
+    },
+    {
+      "title": "Mortu Nega (1988)",
+      "venue": "AFI Silver",
+      "date": "2026-05-26",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
+    },
+    {
+      "title": "Nadja - Director'S Cut",
+      "venue": "AFI Silver",
+      "date": "2026-05-26",
+      "time": "16:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005502?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005502"
+    },
+    {
+      "title": "Port of Shadows (1938)",
+      "venue": "AFI Silver",
+      "date": "2026-05-26",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001838?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001838"
+    },
+    {
       "title": "Terminator 2: Judgment Day (1991)",
       "venue": "AFI Silver",
       "date": "2026-05-26",
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005493?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
+    },
+    {
+      "title": "Port of Shadows (1938)",
+      "venue": "AFI Silver",
+      "date": "2026-05-27",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001838?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001838"
+    },
+    {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-27",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
+    },
+    {
+      "title": "Mortu Nega (1988)",
+      "venue": "AFI Silver",
+      "date": "2026-05-27",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
+    },
+    {
+      "title": "Nadja - Director'S Cut",
+      "venue": "AFI Silver",
+      "date": "2026-05-27",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005502?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005502"
     },
     {
       "title": "Terminator 2: Judgment Day (1991)",
@@ -2714,12 +3642,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
     },
     {
+      "title": "When Harry Met Sally... (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-05-28",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
+    },
+    {
+      "title": "Mortu Nega (1988)",
+      "venue": "AFI Silver",
+      "date": "2026-05-28",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
+    },
+    {
       "title": "Terminator 2: Judgment Day (1991)",
       "venue": "AFI Silver",
       "date": "2026-05-28",
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005493?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005493"
+    },
+    {
+      "title": "Los Golfos (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-05-29",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005505?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
+    },
+    {
+      "title": "The House With Laughing Windows (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-05-29",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005506?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005506"
+    },
+    {
+      "title": "Los Golfos (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-05-31",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005505?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
     }
   ]
 }
