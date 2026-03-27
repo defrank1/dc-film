@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2026-03-27T02:12:23.538Z",
+  "lastUpdated": "2026-03-27T07:05:35.269Z",
   "screenings": [
-    {
-      "title": "Billy Preston: That'S the Way God Planned It (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005483"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "Katanga: the Dance of the Scorpions (2024)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005462?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005462"
-    },
-    {
-      "title": "Ghost Elephants (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "Memory of Princess Mumbi (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-26",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005467?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005467"
-    },
     {
       "title": "My Father'S Shadow (2025)",
       "venue": "AFI Silver",
@@ -72,6 +24,14 @@
       "time": "12:15",
       "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-27",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
     },
     {
       "title": "The Natural (1984)",
@@ -98,14 +58,6 @@
       "ticketLink": null
     },
     {
-      "title": "No Other Choice (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-27",
-      "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
-    },
-    {
       "title": "Palestine '36 (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-27",
@@ -120,6 +72,14 @@
       "time": "13:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-27",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
     },
     {
       "title": "PALESTINE '36 (2025)",
@@ -170,20 +130,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
     },
     {
-      "title": "The Testament of Ann Lee (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-27",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/nb4LpzoNCNMxxNv9RhuIySHBanW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-testament-of-ann-lee/"
-    },
-    {
       "title": "Ghost Elephants (2026)",
       "venue": "AFI Silver",
       "date": "2026-03-27",
       "time": "16:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-27",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
     },
     {
       "title": "MARC BY SOFIA (2026)",
@@ -234,14 +194,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000148"
     },
     {
-      "title": "ONE BATTLE AFTER ANOTHER (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-27",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131636/lbBWwxBht4JFP5PsuJ5onpMqugW-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/one-battle-after-another/"
-    },
-    {
       "title": "MARC BY SOFIA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-03-27",
@@ -250,12 +202,12 @@
       "ticketLink": null
     },
     {
-      "title": "No Other Choice (2025)",
+      "title": "A Magnificent Life (2025)",
       "venue": "Avalon Theater",
       "date": "2026-03-27",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-      "ticketLink": "https://www.theavalon.org/films/no-other-choice/"
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
     },
     {
       "title": "Project Hail Mary (2026)",
@@ -416,14 +368,6 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
-    },
-    {
-      "title": "ONE BATTLE AFTER ANOTHER (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-03-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131636/lbBWwxBht4JFP5PsuJ5onpMqugW-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/one-battle-after-another/"
     },
     {
       "title": "THE PHOENECIAN SCHEME",
@@ -2058,7 +2002,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000512"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-24",
       "time": "12:45",
@@ -2106,7 +2050,7 @@
       "ticketLink": "https://sunscinema.com/movies/stalker/"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-24",
       "time": "21:00",
@@ -2130,7 +2074,7 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-25",
       "time": "14:45",
@@ -2138,7 +2082,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-25",
       "time": "16:45",
@@ -2186,7 +2130,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-26",
       "time": "13:15",
@@ -2210,7 +2154,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001865"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-26",
       "time": "19:30",
@@ -2250,7 +2194,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-27",
       "time": "21:00",
@@ -2258,7 +2202,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-28",
       "time": "13:15",
@@ -2266,7 +2210,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-28",
       "time": "15:00",
@@ -2314,7 +2258,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
       "time": "12:45",
@@ -2346,7 +2290,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005485"
     },
     {
-      "title": "Angel'S Egg (2006)",
+      "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
       "time": "19:00",
@@ -2378,7 +2322,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
     },
     {
-      "title": "Waiting for Guffman",
+      "title": "Waiting for Guffman (1997)",
       "venue": "AFI Silver",
       "date": "2026-04-30",
       "time": "12:45",
