@@ -1,21 +1,13 @@
 {
-  "lastUpdated": "2026-03-28T02:03:32.259Z",
+  "lastUpdated": "2026-03-28T06:58:01.399Z",
   "screenings": [
     {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-27",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "Sid and Nancy (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-03-27",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005480?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005480"
+      "title": "Turner & Constable (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-28",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/turner-constable/"
     },
     {
       "title": "Palestine '36 (2025)",
@@ -232,14 +224,6 @@
       "time": "18:35",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "THE PHOENECIAN SCHEME",
-      "venue": "Suns Cinema",
-      "date": "2026-03-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/24131154/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-phoenecian-scheme/"
     },
     {
       "title": "MARC BY SOFIA (2026)",
@@ -938,14 +922,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
     },
     {
-      "title": "The King of Kings (2025)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-04",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-6/"
-    },
-    {
       "title": "The Treasure of the Sierra Madre (1948)",
       "venue": "National Gallery of Art",
       "date": "2026-04-04",
@@ -984,14 +960,6 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-young-girls-of-rochefort/"
-    },
-    {
-      "title": "Chicago Serbian Film Fest Presents: SVADBA (The Wedding)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-04",
-      "time": "19:00",
-      "poster": null,
-      "ticketLink": "https://tsmevents.ticketspice.com/svadba"
     },
     {
       "title": "Psycho (1960)",
