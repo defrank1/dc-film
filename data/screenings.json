@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T06:58:01.399Z",
+  "lastUpdated": "2026-03-28T12:53:06.928Z",
   "screenings": [
     {
       "title": "Turner & Constable (2026)",
@@ -922,6 +922,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
     },
     {
+      "title": "The King of Kings (2025)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-04",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-king-of-kings-6/"
+    },
+    {
       "title": "The Treasure of the Sierra Madre (1948)",
       "venue": "National Gallery of Art",
       "date": "2026-04-04",
@@ -960,6 +968,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-young-girls-of-rochefort/"
+    },
+    {
+      "title": "Chicago Serbian Film Fest Presents: SVADBA (The Wedding)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-04",
+      "time": "19:00",
+      "poster": null,
+      "ticketLink": "https://tsmevents.ticketspice.com/svadba"
     },
     {
       "title": "Psycho (1960)",
