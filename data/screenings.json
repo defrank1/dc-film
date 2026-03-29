@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T18:39:13.821Z",
+  "lastUpdated": "2026-03-29T02:22:35.610Z",
   "screenings": [
-    {
-      "title": "Turner & Constable (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/turner-constable/"
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
     {
       "title": "The Prince of Egypt (1998)",
       "venue": "Miracle Theater",
@@ -34,188 +10,12 @@
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt/"
     },
     {
-      "title": "Hair, Paper, Water (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-03-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Nausicaä of the Valley of the Wind (1984)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003404?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003404"
-    },
-    {
-      "title": "A Magnificent Life (2025)",
+      "title": "Turner & Constable (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "Ghost Elephants (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
-    },
-    {
-      "title": "PALESTINE '36 (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Natural (1984)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005396?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005396"
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "Palestine '36 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
-    },
-    {
-      "title": "Two Prosecutors (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "18:35",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-28",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "The Godfather (1972)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "20:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001483"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-28",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "21:25",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "PALESTINE '36 (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-28",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
+      "date": "2026-03-29",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/cDBUokpY8ySLef7Er5hbY5guFfJ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/turner-constable/"
     },
     {
       "title": "Ghost Elephants (2026)",
@@ -224,6 +24,46 @@
       "time": "11:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005482?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005482"
+    },
+    {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
     },
     {
       "title": "Palestine '36 (2025)",
@@ -258,12 +98,44 @@
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt-2/"
     },
     {
+      "title": "STAND BY ME: 40TH ANNIVERSARY",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "14:25",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "15:10",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Natural (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005396?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005396"
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "15:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Two Prosecutors (2025)",
@@ -282,6 +154,38 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
     },
     {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "16:05",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Palestine '36 (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-29",
@@ -298,6 +202,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001483"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "18:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "ALAM (2023)",
       "venue": "Suns Cinema",
       "date": "2026-03-29",
@@ -312,6 +224,38 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/02/26104947/mzCdtXQYdLPrNr16Ld5ZowavKoa.jpg",
       "ticketLink": "https://sunscinema.com/movies/omar/"
+    },
+    {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-29",
+      "time": "19:25",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-29",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
     },
     {
       "title": "Uptown Talkies Presents: Wanda",
@@ -658,20 +602,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
     },
     {
-      "title": "LAST YEAR AT MARIENBAD (1961)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134301/syIJCqiSkGRJTlyaBtyI5jqPtE7-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/last-year-at-marienbad/"
-    },
-    {
       "title": "HIROSHIMA MON AMOUR (1959)",
       "venue": "Suns Cinema",
       "date": "2026-04-01",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134021/zieczjWnvalaxwX5EQASEx0on5f.jpg",
       "ticketLink": "https://sunscinema.com/movies/hiroshima-mon-amour/"
+    },
+    {
+      "title": "LAST YEAR AT MARIENBAD (1961)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-01",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24134301/syIJCqiSkGRJTlyaBtyI5jqPtE7-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/last-year-at-marienbad/"
     },
     {
       "title": "The Godfather (1972)",
@@ -754,20 +698,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005478"
     },
     {
-      "title": "CLÉO FROM 5 TO 7 (1962)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-02",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
-      "ticketLink": "https://sunscinema.com/movies/cleo-from-5-to-7/"
-    },
-    {
       "title": "LA POINTE COURTE (1956)",
       "venue": "Suns Cinema",
       "date": "2026-04-02",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/12/21145237/uYEYkTHHhJKByHp44X7Rb8otibf.jpg",
       "ticketLink": "https://sunscinema.com/movies/la-pointe-courte/"
+    },
+    {
+      "title": "CLÉO FROM 5 TO 7 (1962)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+      "ticketLink": "https://sunscinema.com/movies/cleo-from-5-to-7/"
     },
     {
       "title": "Two Prosecutors (2025)",
@@ -810,20 +754,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000994"
     },
     {
-      "title": "IVAN’S CHILDHOOD (1962)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/24160243/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
-      "ticketLink": "https://sunscinema.com/movies/ivans-childhood/"
-    },
-    {
       "title": "THE CRANES ARE FLYING (1957)",
       "venue": "Suns Cinema",
       "date": "2026-04-03",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/03/28123651/foXYOdXEJ0rvtTDo4LLnsUnvPLB.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-cranes-are-flying/"
+    },
+    {
+      "title": "IVAN’S CHILDHOOD (1962)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/07/24160243/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "ticketLink": "https://sunscinema.com/movies/ivans-childhood/"
     },
     {
       "title": "Psycho (1960)",
@@ -888,6 +832,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-young-girls-of-rochefort/"
+    },
+    {
+      "title": "Chicago Serbian Film Fest Presents: SVADBA (The Wedding)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-04",
+      "time": "19:00",
+      "poster": null,
+      "ticketLink": "https://tsmevents.ticketspice.com/svadba"
     },
     {
       "title": "Psycho (1960)",
@@ -1106,6 +1058,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005387"
     },
     {
+      "title": "Up (2009)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-10",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/up/"
+    },
+    {
       "title": "Annie Hall (1977)",
       "venue": "AFI Silver",
       "date": "2026-04-10",
@@ -1122,6 +1082,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
     },
     {
+      "title": "THE MOST TERRIBLE TIME OF MY LIFE (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/10/24120819/ffRn0MonRBfQk9xcW1iM0usizpR.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-most-terrible-time-in-my-life/"
+    },
+    {
       "title": "SOLARIS (2002)",
       "venue": "Suns Cinema",
       "date": "2026-04-10",
@@ -1130,12 +1098,12 @@
       "ticketLink": "https://sunscinema.com/movies/solaris/"
     },
     {
-      "title": "THE MOST TERRIBLE TIME OF MY LIFE (1994)",
-      "venue": "Suns Cinema",
+      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "venue": "Miracle Theater",
       "date": "2026-04-10",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/10/24120819/ffRn0MonRBfQk9xcW1iM0usizpR.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-most-terrible-time-in-my-life/"
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-2/"
     },
     {
       "title": "Brazil - Director'S Cut",
@@ -1242,20 +1210,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
-      "title": "BYE BYE TIBERIAS (2024)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-12",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24151748/xHm0kf7NdBlHDX4dj72UqudLJm3-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/bye-bye-tiberias/"
-    },
-    {
       "title": "COSTA BRAVA, LEBANON (2022)",
       "venue": "Suns Cinema",
       "date": "2026-04-12",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24151621/2hr5QMxRIR7BK6k1OeAucXEfjCN-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/costa-brava-lebanon/"
+    },
+    {
+      "title": "BYE BYE TIBERIAS (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24151748/xHm0kf7NdBlHDX4dj72UqudLJm3-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/bye-bye-tiberias/"
     },
     {
       "title": "Sneakers (1992)",
@@ -1338,20 +1306,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000086"
     },
     {
-      "title": "ASK ANY BUDDY (2019)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/25130200/leI0WxfeE3ZN3Jwb9h3R9Pu5vTT-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/ask-any-buddy/"
-    },
-    {
       "title": "CRUISING (1980)",
       "venue": "Suns Cinema",
       "date": "2026-04-14",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
       "ticketLink": "https://sunscinema.com/movies/cruising/"
+    },
+    {
+      "title": "ASK ANY BUDDY (2019)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/25130200/leI0WxfeE3ZN3Jwb9h3R9Pu5vTT-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/ask-any-buddy/"
     },
     {
       "title": "The Birds (1963)",
@@ -1442,20 +1410,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001751"
     },
     {
-      "title": "VAGABOND (2006)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135500/2KFfwiPct1hwqi9dkKqoom0BenC.jpg",
-      "ticketLink": "https://sunscinema.com/movies/vagabond/"
-    },
-    {
       "title": "MUR MURS (1982)",
       "venue": "Suns Cinema",
       "date": "2026-04-16",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135355/dFU0gAIUeSS0k96it0LhCNN8v9R-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/mur-murs/"
+    },
+    {
+      "title": "VAGABOND (2006)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135500/2KFfwiPct1hwqi9dkKqoom0BenC.jpg",
+      "ticketLink": "https://sunscinema.com/movies/vagabond/"
     },
     {
       "title": "Sneakers (1992)",
@@ -1498,20 +1466,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001227"
     },
     {
+      "title": "THE STAIRWAY TO THE DISTANT PAST (1995)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24153227/DzobQXrzJF32ong4QTCiJC2JD6-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-stairway-to-the-distant-past/"
+    },
+    {
       "title": "MIRROR (2017)",
       "venue": "Suns Cinema",
       "date": "2026-04-17",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140123/AttDP5OEsMxtHPPN7Z92p2Ntnmd-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/mirror/"
-    },
-    {
-      "title": "THE STAIRWAY TO THE DISTANT PATH",
-      "venue": "Suns Cinema",
-      "date": "2026-04-17",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24153227/DzobQXrzJF32ong4QTCiJC2JD6-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-stairway-to-the-distant-path/"
     },
     {
       "title": "Marnie (1964)",
@@ -1842,20 +1810,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005511"
     },
     {
-      "title": "STALKER (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-24",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140257/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
-      "ticketLink": "https://sunscinema.com/movies/stalker/"
-    },
-    {
       "title": "THE TRAP (2019)",
       "venue": "Suns Cinema",
       "date": "2026-04-24",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24153522/nPEhcdm305gdDX1WTaHOD281m1o-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-trap/"
+    },
+    {
+      "title": "STALKER (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140257/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "ticketLink": "https://sunscinema.com/movies/stalker/"
     },
     {
       "title": "Angel'S Egg (1985)",
@@ -2050,20 +2018,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
     },
     {
-      "title": "TAXI ZUM KLO (1981)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24154152/zJHMI2UQ9LSA3OLqwb0oBw4greq.jpg",
-      "ticketLink": "https://sunscinema.com/movies/taxi-zum-klo/"
-    },
-    {
       "title": "FOX AND HIS FRIENDS (1975)",
       "venue": "Suns Cinema",
       "date": "2026-04-28",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24143536/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
       "ticketLink": "https://sunscinema.com/movies/fox-and-his-friends/"
+    },
+    {
+      "title": "TAXI ZUM KLO (1981)",
+      "venue": "Suns Cinema",
+      "date": "2026-04-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24154152/zJHMI2UQ9LSA3OLqwb0oBw4greq.jpg",
+      "ticketLink": "https://sunscinema.com/movies/taxi-zum-klo/"
     },
     {
       "title": "Cronos (1993)",
@@ -3168,6 +3136,14 @@
       "time": "11:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005514?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005514"
+    },
+    {
+      "title": "Say Amen, Somebody (1983)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-23",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/84wtq20d0lxgJMO9NuUXydQaHRC.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sholay - the Final Cut (1975)",
