@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T18:40:42.109Z",
+  "lastUpdated": "2026-03-30T02:25:15.037Z",
   "screenings": [
-    {
-      "title": "Mr. Nobody Against Putin (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mr-nobody-against-putin/"
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "12:45",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
     {
       "title": "The Prince of Egypt (1998)",
       "venue": "Miracle Theater",
@@ -32,142 +8,6 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-prince-of-egypt-2/"
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "15:10",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Natural (1984)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005396?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005396"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "15:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Two Prosecutors (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "15:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "PALESTINE '36 (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "16:35",
-      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "17:15",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Palestine '36 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "17:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
-    },
-    {
-      "title": "The Godfather (1972)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001483?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001483"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "18:35",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "PALESTINE '36 (2025)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Magnificent Life (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
-    },
-    {
-      "title": "MARC BY SOFIA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-03-29",
-      "time": "19:25",
-      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-03-29",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
     },
     {
       "title": "Uptown Talkies Presents: Wanda",
@@ -178,28 +18,12 @@
       "ticketLink": "https://themiracletheatre.com/events/wanda/"
     },
     {
-      "title": "Two Prosecutors (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "20:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "The Third Man (1949)",
-      "venue": "AFI Silver",
-      "date": "2026-03-29",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000148?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000148"
+      "title": "Mr. Nobody Against Putin (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ss4NEGmPxgm4D73iMFeyjbE1m9b.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mr-nobody-against-putin/"
     },
     {
       "title": "My Father'S Shadow (2025)",
@@ -218,6 +42,46 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "STAND BY ME: 40TH ANNIVERSARY",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "12:10",
+      "poster": null,
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Third Man (1949)",
       "venue": "AFI Silver",
       "date": "2026-03-30",
@@ -234,6 +98,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
     },
     {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "15:10",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Natural (1984)",
       "venue": "AFI Silver",
       "date": "2026-03-30",
@@ -242,12 +130,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005396"
     },
     {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "15:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "16:05",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
       "title": "My Father'S Shadow (2025)",
       "venue": "AFI Silver",
       "date": "2026-03-30",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
+    },
+    {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Third Man (1949)",
@@ -272,6 +200,46 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005370?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005370"
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "19:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "MARC BY SOFIA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "A Magnificent Life (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/93vxPRNpEbnwmXGOc69zPw9kBvY.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-magnificent-life/"
+    },
+    {
+      "title": "PALESTINE '36 (2025)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-03-30",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-03-30",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
     },
     {
       "title": "The Godfather (1972)",
@@ -410,20 +378,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
     },
     {
-      "title": "SirâT (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-03-31",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
-    },
-    {
       "title": "Sid and Nancy (1986)",
       "venue": "AFI Silver",
       "date": "2026-03-31",
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005480?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005480"
+    },
+    {
+      "title": "SirâT (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-03-31",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005235?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005235"
     },
     {
       "title": "Two Prosecutors (2025)",
