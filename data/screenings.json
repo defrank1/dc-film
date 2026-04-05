@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T12:55:41.975Z",
+  "lastUpdated": "2026-04-05T18:42:12.162Z",
   "screenings": [
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-05",
-      "time": "10:15",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-05",
-      "time": "11:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "Fantasy Life (2026)",
       "venue": "Avalon Theater",
@@ -32,46 +16,6 @@
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-05",
-      "time": "13:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-05",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "NORTH BY NORTHWEST in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-04-05",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000505?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
-    },
-    {
-      "title": "Palestine '36 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-05",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-05",
-      "time": "14:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Fantasy Life (2026)",
@@ -458,6 +402,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
     },
     {
+      "title": "malni – towards the ocean, towards the shore (2020)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-11",
+      "time": "15:00",
+      "poster": "https://image.tmdb.org/t/p/w500/m97Eu7AwMeZU4HF1720I76241u1.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Birds (1963)",
       "venue": "AFI Silver",
       "date": "2026-04-11",
@@ -512,6 +464,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
       "ticketLink": "https://themiracletheatre.com/events/up-2/"
+    },
+    {
+      "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "PHANTOM THREAD in 70mm",
@@ -882,12 +842,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "venue": "Miracle Theater",
+      "title": "Good Valley Stories (2025)",
+      "venue": "National Gallery of Art",
       "date": "2026-04-18",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-3/"
+      "poster": "https://image.tmdb.org/t/p/w500/tRuNQ4ncAUrhfClwL8GJYUE9HYJ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "LICORICE PIZZA in 70mm",
@@ -930,14 +890,6 @@
       "ticketLink": "https://sunscinema.com/movies/la-jetee-sans-soleil/"
     },
     {
-      "title": "Chariots of Fire (1981)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/chariots-of-fire-4/"
-    },
-    {
       "title": "Miroirs No. 3 (2025)",
       "venue": "AFI Silver",
       "date": "2026-04-18",
@@ -968,6 +920,14 @@
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005335?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005335"
+    },
+    {
+      "title": "Cine-Concert: The Great Train Robbery followed by Sand!",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-19",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Reds (1981)",
@@ -1418,6 +1378,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
     },
     {
+      "title": "The Alamo (1960)",
+      "venue": "National Gallery of Art",
+      "date": "2026-04-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Angel'S Egg (1985)",
       "venue": "AFI Silver",
       "date": "2026-04-25",
@@ -1834,6 +1802,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
     },
     {
+      "title": "The Oath of the Sword with Ten Nights in a Barroom",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-02",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Steal This Story, Please! (2026)",
       "venue": "AFI Silver",
       "date": "2026-05-02",
@@ -2202,6 +2178,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005321"
     },
     {
+      "title": "The Maid of McMillen with Sparrows",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Ashes and Diamonds (1958)",
       "venue": "AFI Silver",
       "date": "2026-05-09",
@@ -2530,6 +2514,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
     },
     {
+      "title": "Brooklyn Bridge with Bridges Go Round",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Conversation Piece (1974)",
       "venue": "AFI Silver",
       "date": "2026-05-16",
@@ -2818,6 +2810,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005514"
     },
     {
+      "title": "Say Amen, Somebody (1983)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-23",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/84wtq20d0lxgJMO9NuUXydQaHRC.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Sholay - the Final Cut (1975)",
       "venue": "AFI Silver",
       "date": "2026-05-23",
@@ -3064,6 +3064,14 @@
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005505?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
+    },
+    {
+      "title": "Glory (1989)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-31",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Los Golfos (1960)",
