@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T13:07:27.981Z",
+  "lastUpdated": "2026-04-06T18:59:33.394Z",
   "screenings": [
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-06",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Godfather Part Ii (1974)",
-      "venue": "AFI Silver",
-      "date": "2026-04-06",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001484"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-06",
-      "time": "12:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "Fantasy Life (2026)",
       "venue": "Avalon Theater",
@@ -34,28 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
     },
     {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-06",
-      "time": "12:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-04-06",
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-06",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "ticketLink": null
     },
     {
       "title": "Fantasy Life (2026)",
@@ -834,6 +794,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
+      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-3/"
+    },
+    {
       "title": "Good Valley Stories (2025)",
       "venue": "National Gallery of Art",
       "date": "2026-04-18",
@@ -880,6 +848,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24155709/Screenshot-2026-03-24-at-3.56.41%E2%80%AFPM.png",
       "ticketLink": "https://sunscinema.com/movies/la-jetee-sans-soleil/"
+    },
+    {
+      "title": "Chariots of Fire (1981)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/chariots-of-fire-4/"
     },
     {
       "title": "Miroirs No. 3 (2025)",
