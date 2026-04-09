@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T02:07:57.908Z",
+  "lastUpdated": "2026-04-09T07:20:25.141Z",
   "screenings": [
     {
       "title": "THE DRAMA (2026)",
@@ -98,14 +98,6 @@
       "ticketLink": null
     },
     {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "16:05",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
       "title": "THE DRAMA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-04-09",
@@ -146,22 +138,6 @@
       "ticketLink": null
     },
     {
-      "title": "INDIA SONG (1975)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24143030/kCAla6EHtwymFS73o0Gu3lRbGMl.jpg",
-      "ticketLink": "https://sunscinema.com/movies/india-song/"
-    },
-    {
-      "title": "ONE SINGS, THE OTHER DOESN’T (1977)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24135607/b3YTxT8LM1AWeWyrAXd3b0kjjzz.jpg",
-      "ticketLink": "https://sunscinema.com/movies/one-sings-the-other-doesnt/"
-    },
-    {
       "title": "YOU, ME & TUSCANY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-04-09",
@@ -178,20 +154,20 @@
       "ticketLink": null
     },
     {
-      "title": "Holding Liat (2025)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/eqLXeHTCCepLaYSMwOcBpex5FJI.jpg",
-      "ticketLink": "https://www.theavalon.org/films/holding-liat/"
-    },
-    {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-04-09",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "Fantasy Life (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-09",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
     },
     {
       "title": "INHERENT VICE in 70mm",
