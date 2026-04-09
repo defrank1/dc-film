@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-04-09T13:25:23.434Z",
+  "lastUpdated": "2026-04-09T19:05:12.093Z",
   "screenings": [
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "12:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "12:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "Fantasy Life (2026)",
       "venue": "Avalon Theater",
@@ -32,22 +16,6 @@
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "In a Lonely Place (1950)",
-      "venue": "AFI Silver",
-      "date": "2026-04-09",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000994?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000994"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "14:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Fantasy Life (2026)",
@@ -162,14 +130,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005387"
     },
     {
-      "title": "Up (2009)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-10",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/up/"
-    },
-    {
       "title": "Annie Hall (1977)",
       "venue": "AFI Silver",
       "date": "2026-04-10",
@@ -200,14 +160,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24140346/pgqj7QoBPWFLLKtLEpPmFYFRMgB-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/solaris/"
-    },
-    {
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-10",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-2/"
     },
     {
       "title": "Brazil - Director'S Cut",
@@ -288,14 +240,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
-    },
-    {
-      "title": "Up (2009)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-12",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/up-2/"
     },
     {
       "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
@@ -794,14 +738,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-3/"
-    },
-    {
       "title": "Good Valley Stories (2025)",
       "venue": "National Gallery of Art",
       "date": "2026-04-18",
@@ -848,14 +784,6 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24155709/Screenshot-2026-03-24-at-3.56.41%E2%80%AFPM.png",
       "ticketLink": "https://sunscinema.com/movies/la-jetee-sans-soleil/"
-    },
-    {
-      "title": "Chariots of Fire (1981)",
-      "venue": "Miracle Theater",
-      "date": "2026-04-18",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/chariots-of-fire-4/"
     },
     {
       "title": "Miroirs No. 3 (2025)",
