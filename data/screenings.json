@@ -1,10 +1,34 @@
 {
-  "lastUpdated": "2026-04-09T19:05:12.093Z",
+  "lastUpdated": "2026-04-10T02:27:37.642Z",
   "screenings": [
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "YOU, ME & TUSCANY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "12:10",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "ticketLink": null
+    },
     {
       "title": "Fantasy Life (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "time": "12:30",
       "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
       "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
@@ -12,114 +36,10 @@
     {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-04-09",
+      "date": "2026-04-10",
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "Fantasy Life (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
-      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
-    },
-    {
-      "title": "All the President'S Men (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-04-09",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002457?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002457"
-    },
-    {
-      "title": "YOU, ME & TUSCANY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "15:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "17:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Fantasy Life (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
-      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
-    },
-    {
-      "title": "NORTH BY NORTHWEST in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-04-09",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000505?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000505"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "18:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "YOU, ME & TUSCANY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-09",
-      "time": "19:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Project Hail Mary (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "Fantasy Life (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-04-09",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
-      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
-    },
-    {
-      "title": "INHERENT VICE in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-04-09",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003265?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003265"
     },
     {
       "title": "The Birds (1963)",
@@ -130,12 +50,84 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005387"
     },
     {
+      "title": "YOU, ME & TUSCANY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "14:20",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "14:35",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fantasy Life (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-10",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "15:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Up (2009)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-10",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/up/"
+    },
+    {
+      "title": "YOU, ME & TUSCANY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "16:40",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Annie Hall (1977)",
       "venue": "AFI Silver",
       "date": "2026-04-10",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001683?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fantasy Life (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-10",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "18:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Place in the Sun (1951)",
@@ -162,12 +154,76 @@
       "ticketLink": "https://sunscinema.com/movies/solaris/"
     },
     {
+      "title": "YOU, ME & TUSCANY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-10",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-2/"
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-10",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
+      "title": "Fantasy Life (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
+      "ticketLink": "https://www.theavalon.org/films/fantasy-life/"
+    },
+    {
       "title": "Brazil - Director'S Cut",
       "venue": "AFI Silver",
       "date": "2026-04-10",
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000086?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000086"
+    },
+    {
+      "title": "PROJECT HAIL MARY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "YOU, ME & TUSCANY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "21:50",
+      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-04-10",
+      "time": "22:00",
+      "poster": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Place in the Sun (1951)",
@@ -240,6 +296,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003633"
+    },
+    {
+      "title": "Up (2009)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-12",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/up-2/"
     },
     {
       "title": "The Three Stooges: Rockin’ in the Rockies followed by Rin Tin Tin in Clash of the Wolves",
@@ -738,6 +802,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002179"
     },
     {
+      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-lord-of-the-rings-the-fellowship-of-the-ring-3/"
+    },
+    {
       "title": "Good Valley Stories (2025)",
       "venue": "National Gallery of Art",
       "date": "2026-04-18",
@@ -784,6 +856,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24155709/Screenshot-2026-03-24-at-3.56.41%E2%80%AFPM.png",
       "ticketLink": "https://sunscinema.com/movies/la-jetee-sans-soleil/"
+    },
+    {
+      "title": "Chariots of Fire (1981)",
+      "venue": "Miracle Theater",
+      "date": "2026-04-18",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/chariots-of-fire-4/"
     },
     {
       "title": "Miroirs No. 3 (2025)",
