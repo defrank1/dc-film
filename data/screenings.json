@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-04-15T13:22:09.587Z",
+  "lastUpdated": "2026-04-15T19:16:27.015Z",
   "screenings": [
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-15",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "ticketLink": null
-    },
     {
       "title": "The Stranger (2022)",
       "venue": "Avalon Theater",
@@ -18,76 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-stranger/"
     },
     {
-      "title": "YOU, ME & TUSCANY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-15",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Annie Hall (1977)",
-      "venue": "AFI Silver",
-      "date": "2026-04-15",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001683?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001683"
-    },
-    {
-      "title": "My Father'S Shadow (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-15",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005468?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005468"
-    },
-    {
-      "title": "PROJECT HAIL MARY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-15",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-04-15",
       "time": "12:15",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-15",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Sneakers (1992)",
-      "venue": "AFI Silver",
-      "date": "2026-04-15",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003514?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003514"
-    },
-    {
-      "title": "Palestine '36 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-15",
-      "time": "13:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005481?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005481"
-    },
-    {
-      "title": "YOU, ME & TUSCANY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-      "ticketLink": null
     },
     {
       "title": "The Stranger (2022)",
@@ -1744,6 +1672,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24150627/A5jRNmJHFkY8mQAFO4SOocm8ZrS-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/je-taime-je-taime/"
+    },
+    {
+      "title": "Erupcja (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-04-30",
+      "time": "20:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005539?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005539"
     },
     {
       "title": "I Swear (2025)",
