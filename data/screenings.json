@@ -1,38 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T13:01:58.364Z",
+  "lastUpdated": "2026-04-25T18:51:48.068Z",
   "screenings": [
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-25",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-25",
-      "time": "11:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Miroirs No. 3 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-25",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005339?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005339"
-    },
     {
       "title": "The Christophers (2026)",
       "venue": "Avalon Theater",
@@ -48,54 +16,6 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
-    },
-    {
-      "title": "Kanal (1957)",
-      "venue": "AFI Silver",
-      "date": "2026-04-25",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005512?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005512"
-    },
-    {
-      "title": "MONUMENT (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-25",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-25",
-      "time": "13:20",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-25",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "Miroirs No. 3 (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-04-25",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005339?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005339"
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-04-25",
-      "time": "13:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "The Christophers (2026)",
