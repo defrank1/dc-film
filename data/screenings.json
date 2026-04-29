@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T02:46:31.941Z",
+  "lastUpdated": "2026-04-29T08:15:07.753Z",
   "screenings": [
     {
       "title": "OUR HERO, BALTHAZAR (2026)",
@@ -24,6 +24,14 @@
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005339?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005339"
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-29",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Project Hail Mary (2026)",
@@ -90,6 +98,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002820"
     },
     {
+      "title": "Project Hail Mary (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-04-29",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "ticketLink": "https://www.theavalon.org/films/project-hail-mary/"
+    },
+    {
       "title": "I Swear (2025)",
       "venue": "AFI Silver",
       "date": "2026-04-29",
@@ -146,22 +162,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005494"
     },
     {
-      "title": "EDEN AND AFTER (1970)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24152413/AmJXMwr7xOgAmt6HlGLRRFUIBMr.jpg",
-      "ticketLink": "https://sunscinema.com/movies/eden-and-after/"
-    },
-    {
-      "title": "SUCCESSIVE SLIDINGS OF PLEASURE (1974)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24152108/yBJoqPs9FL7HvlI1qOLLp9IiC6l.jpg",
-      "ticketLink": "https://sunscinema.com/movies/successive-slidings-of-pleasure/"
-    },
-    {
       "title": "THE SHINING (1980)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-04-29",
@@ -194,12 +194,12 @@
       "ticketLink": null
     },
     {
-      "title": "The Christophers (2026)",
+      "title": "Two Prosecutors (2025)",
       "venue": "Avalon Theater",
       "date": "2026-04-29",
       "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
+      "poster": "https://image.tmdb.org/t/p/w500/dU46ROG7HoP7biPtntaMTjkGbU6.jpg",
+      "ticketLink": "https://www.theavalon.org/films/two-prosecutors/"
     },
     {
       "title": "Miroirs No. 3 (2025)",
@@ -893,7 +893,7 @@
       "title": "Star Wars: A New Hope (1977)",
       "venue": "Miracle Theater",
       "date": "2026-05-03",
-      "time": "14:30",
+      "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
       "ticketLink": "https://themiracletheatre.com/events/star-wars-a-new-hope-1977-4/"
     },
