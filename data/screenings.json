@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T02:47:52.608Z",
+  "lastUpdated": "2026-04-30T08:20:30.089Z",
   "screenings": [
     {
       "title": "I Swear (2025)",
@@ -202,22 +202,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005495"
     },
     {
-      "title": "MURIEL, OR THE TIME OF RETURN (1963)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-30",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24142914/81tm32XqS9efV9bFV9qbThHD3yJ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/muriel-or-the-time-of-return/"
-    },
-    {
-      "title": "JE T’AIME, JE T’AIME (2006)",
-      "venue": "Suns Cinema",
-      "date": "2026-04-30",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/03/24150627/A5jRNmJHFkY8mQAFO4SOocm8ZrS-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/je-taime-je-taime/"
-    },
-    {
       "title": "Project Hail Mary (2026)",
       "venue": "Avalon Theater",
       "date": "2026-04-30",
@@ -242,12 +226,12 @@
       "ticketLink": null
     },
     {
-      "title": "Two Prosecutors (2025)",
+      "title": "The Christophers (2026)",
       "venue": "Avalon Theater",
       "date": "2026-04-30",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/dU46ROG7HoP7biPtntaMTjkGbU6.jpg",
-      "ticketLink": "https://www.theavalon.org/films/two-prosecutors/"
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Erupcja (2026)",
@@ -3754,7 +3738,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001985"
     },
     {
-      "title": "THE EXTERMINATING ANGEL (2024)",
+      "title": "THE EXTERMINATING ANGEL (1962)",
       "venue": "Suns Cinema",
       "date": "2026-05-26",
       "time": "19:00",
