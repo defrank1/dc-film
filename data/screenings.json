@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-05-03T02:47:02.257Z",
+  "lastUpdated": "2026-05-03T07:59:44.316Z",
   "screenings": [
-    {
-      "title": "Star Wars: A New Hope (1977)",
-      "venue": "Miracle Theater",
-      "date": "2026-05-02",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/star-wars-a-new-hope-1977-3/"
-    },
     {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -22,7 +14,7 @@
       "venue": "Avalon Theater",
       "date": "2026-05-03",
       "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
@@ -134,7 +126,7 @@
       "venue": "Avalon Theater",
       "date": "2026-05-03",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
@@ -144,14 +136,6 @@
       "time": "14:35",
       "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-03",
-      "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Star Wars: the Empire Strikes Back (2000)",
@@ -222,7 +206,7 @@
       "venue": "Avalon Theater",
       "date": "2026-05-03",
       "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
@@ -232,14 +216,6 @@
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-03",
-      "time": "17:10",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Star Wars: Return of the Jedi (1983)",
@@ -310,16 +286,8 @@
       "venue": "Avalon Theater",
       "date": "2026-05-03",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-03",
-      "time": "19:45",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "I Swear (2025)",
@@ -1506,6 +1474,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005321"
     },
     {
+      "title": "Cine-Concert: The Maid of McMillen with Sparrows",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Ashes and Diamonds (1958)",
       "venue": "AFI Silver",
       "date": "2026-05-09",
@@ -2146,6 +2122,14 @@
       "ticketLink": "https://sunscinema.com/movies/daisies/"
     },
     {
+      "title": "Sabrina – 1954",
+      "venue": "Miracle Theater",
+      "date": "2026-05-15",
+      "time": "19:00",
+      "poster": null,
+      "ticketLink": "https://themiracletheatre.com/events/sabrina-1954-4/"
+    },
+    {
       "title": "The Princess Bride (1987)",
       "venue": "AFI Silver",
       "date": "2026-05-15",
@@ -2208,6 +2192,22 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "Brooklyn Bridge with Bridges Go Round",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "ADAPTED",
+      "venue": "Miracle Theater",
+      "date": "2026-05-16",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/28CMt6Jn0gJkHzWWGY1VwGIIskr.jpg",
+      "ticketLink": "https://adapted.eventive.org/schedule/6983c39aa0b9dd515b43f529"
     },
     {
       "title": "Conversation Piece (1974)",
@@ -2842,6 +2842,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005514"
     },
     {
+      "title": "Say Amen, Somebody (1983)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-23",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/84wtq20d0lxgJMO9NuUXydQaHRC.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Sholay - the Final Cut (1975)",
       "venue": "AFI Silver",
       "date": "2026-05-23",
@@ -3146,7 +3154,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001985"
     },
     {
-      "title": "THE EXTERMINATING ANGEL (2024)",
+      "title": "THE EXTERMINATING ANGEL (1962)",
       "venue": "Suns Cinema",
       "date": "2026-05-26",
       "time": "19:00",
@@ -3594,6 +3602,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005549"
     },
     {
+      "title": "Glory (1989)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-31",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "My Friend Eva (2025)",
       "venue": "AFI Silver",
       "date": "2026-05-31",
@@ -3882,6 +3898,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005520"
     },
     {
+      "title": "Museum of the Night (2014)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Trainspotting (1996)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
@@ -3992,6 +4016,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000551?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000551"
+    },
+    {
+      "title": "Robert Wilson and the Civil Wars (1987)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-13",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/8BDN6ZDAJDUkKgO88ib33cKLaQx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Amores Perros (2000)",
@@ -4288,6 +4320,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005509?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005509"
+    },
+    {
+      "title": "Truman and Tennessee: An Intimate Conversation (2021)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yBLui5HtiyAFWQqVXjqSdJeRLdv.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Young Soul Rebels - Director'S Cut",
