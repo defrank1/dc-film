@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T13:56:40.418Z",
+  "lastUpdated": "2026-05-04T19:27:09.295Z",
   "screenings": [
-    {
-      "title": "Days and Nights in the Forest (1970)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
-    },
-    {
-      "title": "Days and Nights in the Forest (1970)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005496?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005496"
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "11:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "11:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "The Devil Wears Prada 2 (2026)",
       "venue": "Avalon Theater",
@@ -58,100 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "Steal This Story, Please! (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
-    },
-    {
-      "title": "Steal This Story, Please! (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "11:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
-    },
-    {
       "title": "The Christophers (2026)",
       "venue": "Avalon Theater",
       "date": "2026-05-04",
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-christophers/"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "12:25",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Star Wars: the Empire Strikes Back (2000)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
-    },
-    {
-      "title": "Star Wars: the Empire Strikes Back (2000)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
-    },
-    {
-      "title": "Steal This Story, Please! (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
-    },
-    {
-      "title": "Steal This Story, Please! (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "13:40",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Everyone Is Lying to You for Money (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005537?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005537"
-    },
-    {
-      "title": "Everyone Is Lying to You for Money (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-04",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005537?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005537"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "14:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "The Devil Wears Prada 2 (2026)",
@@ -168,14 +32,6 @@
       "time": "14:35",
       "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-christophers/"
-    },
-    {
-      "title": "MONUMENT (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-04",
-      "time": "15:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
-      "ticketLink": null
     },
     {
       "title": "The Stranger (2011)",
@@ -238,7 +94,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-04",
       "time": "16:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "ticketLink": null
     },
     {
@@ -326,7 +182,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-04",
       "time": "19:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "ticketLink": null
     },
     {
@@ -1298,6 +1154,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005321"
     },
     {
+      "title": "Cine-Concert: The Maid of McMillen with Sparrows",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Ashes and Diamonds (1958)",
       "venue": "AFI Silver",
       "date": "2026-05-09",
@@ -1858,6 +1722,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004644"
     },
     {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
       "title": "ROAR (1981)",
       "venue": "Suns Cinema",
       "date": "2026-05-14",
@@ -1874,6 +1754,22 @@
       "ticketLink": "https://sunscinema.com/movies/the-visitor/"
     },
     {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-14",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
       "title": "The Princess Bride (1987)",
       "venue": "AFI Silver",
       "date": "2026-05-15",
@@ -1920,6 +1816,22 @@
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002819?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
     },
     {
       "title": "LOVES OF A BLONDE (1965)",
@@ -1978,6 +1890,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005524"
     },
     {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-15",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
       "title": "Best in Show (2000)",
       "venue": "AFI Silver",
       "date": "2026-05-16",
@@ -2008,6 +1936,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005499?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005499"
+    },
+    {
+      "title": "Brooklyn Bridge with Bridges Go Round",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "ADAPTED",
@@ -2160,6 +2096,22 @@
       "time": "17:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002819?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002819"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
+    },
+    {
+      "title": "The 48 Hour Film Project",
+      "venue": "AFI Silver",
+      "date": "2026-05-17",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003540?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003540"
     },
     {
       "title": "Chan Is Missing (1982)",
@@ -2648,6 +2600,14 @@
       "time": "11:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005514?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005514"
+    },
+    {
+      "title": "Say Amen, Somebody (1983)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-23",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/84wtq20d0lxgJMO9NuUXydQaHRC.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sholay - the Final Cut (1975)",
@@ -3402,6 +3362,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005549"
     },
     {
+      "title": "Glory (1989)",
+      "venue": "National Gallery of Art",
+      "date": "2026-05-31",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "My Friend Eva (2025)",
       "venue": "AFI Silver",
       "date": "2026-05-31",
@@ -3690,6 +3658,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005520"
     },
     {
+      "title": "Museum of the Night (2014)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Trainspotting (1996)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
@@ -3800,6 +3776,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000551?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000551"
+    },
+    {
+      "title": "Robert Wilson and the Civil Wars (1987)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-13",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/8BDN6ZDAJDUkKgO88ib33cKLaQx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Amores Perros (2000)",
@@ -4096,6 +4080,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005509?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005509"
+    },
+    {
+      "title": "Truman and Tennessee: An Intimate Conversation (2021)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yBLui5HtiyAFWQqVXjqSdJeRLdv.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Young Soul Rebels - Director'S Cut",
