@@ -1,189 +1,13 @@
 {
-  "lastUpdated": "2026-05-06T19:44:16.422Z",
+  "lastUpdated": "2026-05-07T02:45:04.615Z",
   "screenings": [
     {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "11:15",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
-    },
-    {
-      "title": "The Stranger (2011)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005335?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005335"
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "15:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Star Wars: the Empire Strikes Back (2000)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000792?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000792"
-    },
-    {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "16:40",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "date": "2026-05-07",
+      "time": "11:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "THE DRAMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "17:10",
-      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
-    },
-    {
-      "title": "I Swear (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
-    },
-    {
-      "title": "Steal This Story, Please! (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005484?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
-    },
-    {
-      "title": "Star Wars: a New Hope (1977)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000791?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000791"
-    },
-    {
-      "title": "ANGELIKA MEMBERS EXCLUSIVE MYSTERY SCREENING: MAY 6",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "19:00",
-      "poster": null,
-      "ticketLink": null
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-06",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Billy Preston: That’s The Way God Planned It (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-06",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/yFqXOi6WIMiXZMvSFvpmQmCZ32t.jpg",
-      "ticketLink": "https://www.theavalon.org/films/billy-preston-thats-the-way-god-planned-it/"
-    },
-    {
-      "title": "Everyone Is Lying to You for Money (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005537?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005537"
-    },
-    {
-      "title": "The Stranger (2011)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "20:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005335?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005335"
-    },
-    {
-      "title": "The Devil'S Backbone (2001)",
-      "venue": "AFI Silver",
-      "date": "2026-05-06",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
     },
     {
       "title": "The Devil'S Backbone (2001)",
@@ -192,6 +16,22 @@
       "time": "11:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005498?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005498"
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "11:15",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "MICHAEL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "ticketLink": null
     },
     {
       "title": "I Swear (2025)",
@@ -200,6 +40,22 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005521?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005521"
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "12:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Star Wars: a New Hope (1977)",
@@ -218,12 +74,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005484"
     },
     {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "13:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "Everyone Is Lying to You for Money (2026)",
       "venue": "AFI Silver",
       "date": "2026-05-07",
       "time": "14:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005537?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005537"
+    },
+    {
+      "title": "MICHAEL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "14:35",
+      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "I Swear (2025)",
@@ -242,12 +130,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000793"
     },
     {
+      "title": "MICHAEL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "American Dream (1990)",
       "venue": "AFI Silver",
       "date": "2026-05-07",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005527?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005527"
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "16:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "MONUMENT (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "17:10",
+      "poster": "https://image.tmdb.org/t/p/w500/uLRr3sVVqzcexegoCMrhb2AsVZn.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Steal This Story, Please! (2026)",
@@ -288,6 +216,46 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/12/20055709/7jQJackwYXKB70sA1YlwfDsbEGT.jpg",
       "ticketLink": "https://sunscinema.com/movies/cats-on-park-avenue/"
+    },
+    {
+      "title": "MICHAEL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "19:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DRAMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-05-07",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "Billy Preston: That’s The Way God Planned It (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-07",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yFqXOi6WIMiXZMvSFvpmQmCZ32t.jpg",
+      "ticketLink": "https://www.theavalon.org/films/billy-preston-thats-the-way-god-planned-it/"
     },
     {
       "title": "I Swear (2025)",
@@ -474,20 +442,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
     },
     {
-      "title": "Stand by Me (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-05-09",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
-    },
-    {
       "title": "Made in Eu (2026)",
       "venue": "AFI Silver",
       "date": "2026-05-09",
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005321?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005321"
+    },
+    {
+      "title": "Stand by Me (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-05-09",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004659"
     },
     {
       "title": "Cine-Concert: The Maid of McMillen with Sparrows",
@@ -2122,20 +2090,20 @@
       "ticketLink": "https://sunscinema.com/movies/chess-of-the-wind/"
     },
     {
-      "title": "Last Night I Conquered the City of Thebes (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-31",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005554?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005554"
-    },
-    {
       "title": "Bound (1996)",
       "venue": "AFI Silver",
       "date": "2026-05-31",
       "time": "20:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000838?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000838"
+    },
+    {
+      "title": "Last Night I Conquered the City of Thebes (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-05-31",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005554?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005554"
     },
     {
       "title": "MäDchen in Uniform (1931)",
@@ -2304,14 +2272,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000835?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
-    },
-    {
-      "title": "The Fall of Otrar (1991)",
-      "venue": "AFI Silver",
-      "date": "2026-06-06",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005507?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005507"
     },
     {
       "title": "Trainspotting (1996)",
