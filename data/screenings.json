@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-05-17T02:55:36.687Z",
+  "lastUpdated": "2026-05-17T08:19:33.383Z",
   "screenings": [
     {
-      "title": "ADAPTED",
-      "venue": "Miracle Theater",
-      "date": "2026-05-16",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/28CMt6Jn0gJkHzWWGY1VwGIIskr.jpg",
-      "ticketLink": "https://adapted.eventive.org/schedule/6983c39aa0b9dd515b43f529"
+      "title": "All My Sons (1948)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-17",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "ticketLink": "https://www.theavalon.org/films/all-my-sons/"
     },
     {
       "title": "The Princess Bride (1987)",
@@ -40,14 +40,6 @@
       "time": "11:35",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Christophers (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-05-17",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "IS GOD IS (2026)",
@@ -1234,7 +1226,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001985"
     },
     {
-      "title": "THE EXTERMINATING ANGEL (2024)",
+      "title": "THE EXTERMINATING ANGEL (1962)",
       "venue": "Suns Cinema",
       "date": "2026-05-26",
       "time": "19:00",
@@ -1528,6 +1520,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/06/27211543/3PUKp1TrA9kv1DCkPLEJFz167QW.jpg",
       "ticketLink": "https://sunscinema.com/movies/son-of-the-white-mare/"
+    },
+    {
+      "title": "Charade (1963)",
+      "venue": "Miracle Theater",
+      "date": "2026-05-29",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/charade-1963-7/"
     },
     {
       "title": "The House With Laughing Windows (1976)",
