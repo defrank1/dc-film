@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-19T14:58:37.444Z",
+  "lastUpdated": "2026-05-19T19:51:04.271Z",
   "screenings": [
+    {
+      "title": "All My Sons (1948)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-19",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "ticketLink": "https://www.theavalon.org/films/all-my-sons/"
+    },
     {
       "title": "The Devil Wears Prada 2 (2026)",
       "venue": "Avalon Theater",
@@ -8,78 +16,6 @@
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Silent Friend (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
-    },
-    {
-      "title": "Silent Friend (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
-    },
-    {
-      "title": "IS GOD IS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-19",
-      "time": "12:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Conversation Piece (1974)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
-    },
-    {
-      "title": "Conversation Piece (1974)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005500?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005500"
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-19",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-19",
-      "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Silent Friend (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "13:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
-    },
-    {
-      "title": "Silent Friend (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "13:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
     },
     {
       "title": "The Devil Wears Prada 2 (2026)",
@@ -90,28 +26,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "IS GOD IS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-05-19",
-      "time": "14:25",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Chan Is Missing (1982)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
-    },
-    {
-      "title": "Chan Is Missing (1982)",
-      "venue": "AFI Silver",
-      "date": "2026-05-19",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005501?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005501"
+      "time": "14:35",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Steal This Story, Please! (2026)",
@@ -190,7 +110,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-19",
       "time": "16:50",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
       "ticketLink": null
     },
     {
@@ -208,6 +128,14 @@
       "time": "17:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005556?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-19",
+      "time": "17:10",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Silent Friend (2026)",
@@ -278,7 +206,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-19",
       "time": "19:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
       "ticketLink": null
     },
     {
@@ -288,6 +216,14 @@
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "The Christophers (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-19",
+      "time": "19:45",
+      "poster": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-christophers/"
     },
     {
       "title": "Five Easy Pieces (1970)",
@@ -2730,14 +2666,6 @@
       "ticketLink": "https://sunscinema.com/movies/chess-of-the-wind/"
     },
     {
-      "title": "Last Night I Conquered the City of Thebes (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-05-31",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005554?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005554"
-    },
-    {
       "title": "Bound (1996)",
       "venue": "AFI Silver",
       "date": "2026-05-31",
@@ -2760,6 +2688,14 @@
       "time": "20:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000838?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000838"
+    },
+    {
+      "title": "Last Night I Conquered the City of Thebes (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-05-31",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005554?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005554"
     },
     {
       "title": "MäDchen in Uniform (1931)",
@@ -3552,6 +3488,14 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005542?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005542"
+    },
+    {
+      "title": "Film screening: Chungking Express (1994)",
+      "venue": "Library of Congress",
+      "date": "2026-06-18",
+      "time": "19:00",
+      "poster": "https://www.loc.gov/static/managed-content/uploads/sites/9/2026/05/chungking-express-624x413.jpg#624x413",
+      "ticketLink": "https://www.loc.gov/item/event-421170/film-screening-chungking-express-1994/2026-06-18/"
     },
     {
       "title": "Trouble Every Day (2001)",
