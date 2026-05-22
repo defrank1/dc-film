@@ -1,133 +1,37 @@
 {
-  "lastUpdated": "2026-05-22T14:36:05.650Z",
+  "lastUpdated": "2026-05-22T19:42:44.920Z",
   "screenings": [
     {
-      "title": "Blue Heron (2026)",
-      "venue": "AFI Silver",
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-05-22",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005556?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
-    },
-    {
-      "title": "Blue Heron (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005556?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "I LOVE BOOSTERS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-22",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "When Harry Met Sally... (1989)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
-    },
-    {
-      "title": "When Harry Met Sally... (1989)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005486?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005486"
-    },
-    {
-      "title": "THE MANDALORIAN AND GROGU (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-22",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-22",
-      "time": "12:45",
+      "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": null
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "Blue Heron (2026)",
-      "venue": "AFI Silver",
+      "title": "I Swear (2025)",
+      "venue": "Avalon Theater",
       "date": "2026-05-22",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005556?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+      "ticketLink": "https://www.theavalon.org/films/i-swear/"
     },
     {
-      "title": "Blue Heron (2026)",
-      "venue": "AFI Silver",
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-05-22",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005556?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005556"
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
+      "title": "I Swear (2025)",
+      "venue": "Avalon Theater",
       "date": "2026-05-22",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "Mortu Nega (1988)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
-    },
-    {
-      "title": "Mortu Nega (1988)",
-      "venue": "AFI Silver",
-      "date": "2026-05-22",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005503?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005503"
-    },
-    {
-      "title": "IS GOD IS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-22",
-      "time": "14:40",
-      "poster": "https://image.tmdb.org/t/p/w500/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-      "ticketLink": null
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+      "ticketLink": "https://www.theavalon.org/films/i-swear/"
     },
     {
       "title": "CHIME with SERPENT'S PATH (1998)",
@@ -144,14 +48,6 @@
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005577?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005577"
-    },
-    {
-      "title": "THE MANDALORIAN AND GROGU (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-05-22",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "ticketLink": null
     },
     {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
@@ -178,12 +74,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-22",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "I LOVE BOOSTERS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-22",
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "I Swear (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-22",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+      "ticketLink": "https://www.theavalon.org/films/i-swear/"
     },
     {
       "title": "Silent Friend (2026)",
@@ -258,12 +170,28 @@
       "ticketLink": "https://themiracletheatre.com/events/funny-face-5/"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-22",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "I LOVE BOOSTERS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-05-22",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/wGKHzRuv1Gh9PlUSSecp7WkTdGJ.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "I Swear (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-05-22",
+      "time": "19:45",
+      "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+      "ticketLink": "https://www.theavalon.org/films/i-swear/"
     },
     {
       "title": "I Love Boosters (2026)",
@@ -2218,6 +2146,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005545"
     },
     {
+      "title": "THE WATERMELON WOMAN (1997)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22132922/mBBqKfkvzSk6Rk7bfRXU9kR916N-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-watermelon-woman/"
+    },
+    {
+      "title": "DESERT HEARTS (1985)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/07/29213839/Desert-Hearts_poster_r_original-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/desert-hearts/"
+    },
+    {
       "title": "Los Tigres (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-02",
@@ -2256,6 +2200,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000838?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000838"
+    },
+    {
+      "title": "MY OWN PRIVATE IDAHO (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/05/24162348/hiFGxsq7Mzss536Rc1cahaNWCJe.jpg",
+      "ticketLink": "https://sunscinema.com/movies/my-own-private-idaho/"
+    },
+    {
+      "title": "RAISING ARIZONA (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/01/26161227/m5Zp4K4hKdPhsBl3E0p8I7QomlT1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/raising-arizona-2/"
     },
     {
       "title": "The House With Laughing Windows (1976)",
@@ -2306,6 +2266,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005506"
     },
     {
+      "title": "IN THE MOOD FOR LOVE (2000)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-04",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/04/27094236/81M7Ft3T9GL.jpg",
+      "ticketLink": "https://sunscinema.com/movies/in-the-mood-for-love/"
+    },
+    {
+      "title": "FALLEN ANGELS (1995)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-04",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/fallen-angels/"
+    },
+    {
+      "title": "Trail Running Film Festival (2023)",
+      "venue": "Miracle Theater",
+      "date": "2026-06-04",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/wm7W8VMysgHdUUtS49gLabKlBw9.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/trail-running-film-festival-2/"
+    },
+    {
       "title": "The Fall of Otrar (1991)",
       "venue": "AFI Silver",
       "date": "2026-06-05",
@@ -2336,6 +2320,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000835?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
+    },
+    {
+      "title": "ROBOCOP (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/06/21120049/hHtOgGb3NihlyRATHlKPaFApbrd-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/robocop/"
+    },
+    {
+      "title": "STARSHIP TROOPERS (1997)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/05/23135106/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "ticketLink": "https://sunscinema.com/movies/starship-troopers/"
     },
     {
       "title": "The Harder They Come (1972)",
@@ -2384,6 +2384,22 @@
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003531?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003531"
+    },
+    {
+      "title": "SANJURO (1962)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-06",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sanjuro/"
+    },
+    {
+      "title": "YOJIMBO (1961)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-06",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "ticketLink": "https://sunscinema.com/movies/yojimbo-2/"
     },
     {
       "title": "Trainspotting (1996)",
@@ -2448,6 +2464,22 @@
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005567?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005567"
+    },
+    {
+      "title": "PILLION (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22134810/7Pd6ChSQjSXy4snJiorSdzg2cG3-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/pillion/"
+    },
+    {
+      "title": "THE LEATHER BOYS (1964)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-07",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22134453/l9oYKhfxQYLu3Itkm4d4eeYBhaP.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-leather-boys/"
     },
     {
       "title": "The Price of Love: Cheddi Jagan",
@@ -2530,6 +2562,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005564"
     },
     {
+      "title": "SEXY BEAST (2001)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/10/27131838/dIJiXE1ghGGQmRvE3wFO8QmpLOH.jpg",
+      "ticketLink": "https://sunscinema.com/movies/sexy-beast/"
+    },
+    {
       "title": "THE SEDUCTION OF MIMI (1972)",
       "venue": "Suns Cinema",
       "date": "2026-06-09",
@@ -2586,6 +2626,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
     {
+      "title": "NEXT LIFE (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22135140/cg8qDuNX31reaGVghwY6FPOKsU4.jpg",
+      "ticketLink": "https://sunscinema.com/movies/next-life/"
+    },
+    {
       "title": "The Serpent'S Skin (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-10",
@@ -2634,6 +2682,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005570"
     },
     {
+      "title": "HAPPY TOGETHER (1997)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-11",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jIv3EiZIC2tkBmjQ747Lyf5c61b.jpg",
+      "ticketLink": "https://sunscinema.com/movies/happy-together/"
+    },
+    {
+      "title": "CHUNGKING EXPRESS (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-11",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "ticketLink": "https://sunscinema.com/movies/chungking-express/"
+    },
+    {
       "title": "Reggae Girlz (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-11",
@@ -2672,6 +2736,22 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003959?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003959"
+    },
+    {
+      "title": "BLUE HERON (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22135950/4hfMbVbYc2gsMnSE1K8Oc9LQH4j-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/blue-heron/"
+    },
+    {
+      "title": "REVELATIONS OF DIVINE LOVE (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22124836/q8YNdWmEGP6kwNVADATDV2ll9yA-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/revelations-of-divine-love/"
     },
     {
       "title": "Pillion (2025)",
@@ -2930,6 +3010,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002618"
     },
     {
+      "title": "CITY WIDE FEVER (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22140637/n9PkDK1INHTm35YoovTQlgq4umG-1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/city-wide-fever/"
+    },
+    {
       "title": "A Useful Ghost (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-17",
@@ -2960,6 +3048,14 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005542?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005542"
+    },
+    {
+      "title": "THE WILD GOOSE LAKE (2019)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-18",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/w49o4vmNFpCt4VFJp7ip6tjHh3x.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-wild-goose-lake/"
     },
     {
       "title": "Trouble Every Day (2001)",
@@ -3064,6 +3160,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003729?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003729"
+    },
+    {
+      "title": "POLICE STORY (1985)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-20",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
+      "ticketLink": "https://sunscinema.com/movies/police-story-2/"
+    },
+    {
+      "title": "MIAMI CONNECTION (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-20",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pfysfJ8f1JcVVOeGQ5EZSxeSka8.jpg",
+      "ticketLink": "https://sunscinema.com/movies/miami-connection/"
     },
     {
       "title": "My Own Private Idaho (1991)",
@@ -3226,6 +3338,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003729"
     },
     {
+      "title": "THE BLUE TRAIL (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22142718/ua8XnJ450rhBTxkY2wpD2ITw7BJ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-blue-trail/"
+    },
+    {
       "title": "Rose of Nevada (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-24",
@@ -3272,6 +3392,14 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005544?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005544"
+    },
+    {
+      "title": "MAD BILLS TO PAY (or Destiny, dile que no soy malo) (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22142457/5f0AG1eGsRC5aIdUGt8wAkrTSuS-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mad-bills-to-pay-or-destiny-dile-que-no-soy-malo/"
     },
     {
       "title": "Thief (1981)",
@@ -3354,6 +3482,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004252"
     },
     {
+      "title": "A TOUCH OF ZEN (1970)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/02/25160040/TouchofZen_poster.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-touch-of-zen/"
+    },
+    {
+      "title": "DRAGON INN (1967)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/02/25155803/DragonInn_poster.jpg",
+      "ticketLink": "https://sunscinema.com/movies/dragon-inn/"
+    },
+    {
       "title": "Matador (2005)",
       "venue": "AFI Silver",
       "date": "2026-06-27",
@@ -3392,6 +3536,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000503?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000503"
+    },
+    {
+      "title": "STRESS POSITIONS (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22141636/dsVWPrHJvXEt1XPxAEqLiSq0eyy-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/stress-positions/"
+    },
+    {
+      "title": "APPROPRIATE BEHAVIOR (2015)",
+      "venue": "Suns Cinema",
+      "date": "2026-06-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22141528/ywa3IaNZz6m7jMur18zn4de59CV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/appropriate-behavior/"
     },
     {
       "title": "The Devil Queen (1974)",
