@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T17:35:52.517Z",
+  "lastUpdated": "2026-06-01T21:31:29.062Z",
   "screenings": [
     {
       "title": "The Devil Wears Prada 2 (2026)",
@@ -18,14 +18,6 @@
       "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
-      "title": "Silent Friend (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
-    },
-    {
       "title": "The Devil Wears Prada 2 (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-01",
@@ -34,76 +26,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-01",
       "time": "14:20",
       "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "Los Golfos (1960)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005505?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "15:35",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Mulholland Drive (2001)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
-    },
-    {
-      "title": "THE MANDALORIAN AND GROGU (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "HAIRSPRAY (2007)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "Sundays (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005549?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005549"
     },
     {
       "title": "The Devil Wears Prada 2 (2026)",
@@ -742,7 +670,7 @@
       "venue": "Suns Cinema",
       "date": "2026-06-06",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/03/01134151/sanjuro-md-web.jpg",
       "ticketLink": "https://sunscinema.com/movies/sanjuro/"
     },
     {
@@ -1590,7 +1518,7 @@
       "venue": "Suns Cinema",
       "date": "2026-06-20",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/pfysfJ8f1JcVVOeGQ5EZSxeSka8.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/02/01134453/mc-poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/miami-connection/"
     },
     {
@@ -1598,7 +1526,7 @@
       "venue": "Suns Cinema",
       "date": "2026-06-20",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/03/01134738/ps-poster.jpeg",
       "ticketLink": "https://sunscinema.com/movies/police-story-2/"
     },
     {
