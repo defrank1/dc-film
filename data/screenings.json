@@ -1,157 +1,13 @@
 {
-  "lastUpdated": "2026-06-01T21:31:29.062Z",
+  "lastUpdated": "2026-06-02T03:49:48.119Z",
   "screenings": [
     {
       "title": "The Devil Wears Prada 2 (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "14:20",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "Tekkonkinkreet (2006)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005578?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005578"
-    },
-    {
-      "title": "THE MANDALORIAN AND GROGU (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "Three Goodbyes (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005555?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005555"
-    },
-    {
-      "title": "HAIRSPRAY (2007)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-01",
-      "time": "19:35",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Blue Velvet (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000087?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000087"
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "Strange River (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-06-01",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005552?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005552"
-    },
-    {
-      "title": "THE MANDALORIAN AND GROGU (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I LOVE BOOSTERS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-01",
-      "time": "21:40",
-      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "ticketLink": null
     },
     {
       "title": "I Love Boosters (2026)",
@@ -160,6 +16,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "Los Golfos (1960)",
@@ -170,12 +34,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
     },
     {
+      "title": "I LOVE BOOSTERS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Silent Friend (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-02",
       "time": "12:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005341?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
+    },
+    {
+      "title": "THE MANDALORIAN AND GROGU (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "13:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
       "title": "The House With Laughing Windows (1976)",
@@ -194,12 +90,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "14:20",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
+    },
+    {
+      "title": "I LOVE BOOSTERS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Mulholland Drive (2001)",
       "venue": "AFI Silver",
       "date": "2026-06-02",
       "time": "15:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
+    },
+    {
+      "title": "THE MANDALORIAN AND GROGU (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Last Night I Conquered the City of Thebes (2025)",
@@ -218,12 +146,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "I LOVE BOOSTERS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
+    },
+    {
       "title": "Forastera (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-02",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005548?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005548"
+    },
+    {
+      "title": "THE MANDALORIAN AND GROGU (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "ticketLink": null
     },
     {
       "title": "I Love Boosters (2026)",
@@ -256,6 +216,38 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22132922/mBBqKfkvzSk6Rk7bfRXU9kR916N-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-watermelon-woman/"
+    },
+    {
+      "title": "THE DEVIL WEARS PRADA 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "19:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
+      "title": "I LOVE BOOSTERS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-06-02",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-02",
+      "time": "19:35",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "Blue Velvet (1986)",
@@ -706,14 +698,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005209"
     },
     {
-      "title": "Museum of the Night (2014)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-07",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Agridulce (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
@@ -765,7 +749,7 @@
       "title": "Trainspotting (1996)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
-      "time": "21:00",
+      "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000835?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
@@ -1066,14 +1050,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000551"
     },
     {
-      "title": "Robert Wilson and the Civil Wars (1987)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-13",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/8BDN6ZDAJDUkKgO88ib33cKLaQx.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Amores Perros (2000)",
       "venue": "AFI Silver",
       "date": "2026-06-13",
@@ -1114,14 +1090,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004515"
     },
     {
-      "title": "Every Contact Leaves a Trace with Grazing on Images",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-14",
-      "time": "11:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Grave of the Fireflies (2005)",
       "venue": "AFI Silver",
       "date": "2026-06-14",
@@ -1136,14 +1104,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005516?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005516"
-    },
-    {
-      "title": "Barbara Forever! (2026)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Breaking the Waves (1996)",
@@ -1482,14 +1442,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005509"
     },
     {
-      "title": "Truman and Tennessee: An Intimate Conversation (2021)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-20",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/yBLui5HtiyAFWQqVXjqSdJeRLdv.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Young Soul Rebels - Director'S Cut",
       "venue": "AFI Silver",
       "date": "2026-06-20",
@@ -1552,14 +1504,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005509?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005509"
-    },
-    {
-      "title": "Singin’ in the Rain (1952)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-21",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "My Own Private Idaho (1991)",
@@ -1874,14 +1818,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005510"
     },
     {
-      "title": "Oklahoma! (1955)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-27",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Taxi Driver (1976)",
       "venue": "AFI Silver",
       "date": "2026-06-27",
@@ -1936,14 +1872,6 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005518?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005518"
-    },
-    {
-      "title": "Yankee Doodle Dandy (1942)",
-      "venue": "National Gallery of Art",
-      "date": "2026-06-28",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "The Wolf of Wall Street (2013)",
@@ -2386,14 +2314,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005582"
     },
     {
-      "title": "Stormy Weather with The Black Network",
-      "venue": "National Gallery of Art",
-      "date": "2026-07-11",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "48 Hrs. (1982)",
       "venue": "AFI Silver",
       "date": "2026-07-11",
@@ -2424,14 +2344,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002286?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002286"
-    },
-    {
-      "title": "An American in Paris (1951)",
-      "venue": "National Gallery of Art",
-      "date": "2026-07-18",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Trading Places (1983)",
