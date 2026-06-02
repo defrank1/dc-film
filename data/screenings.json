@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T10:20:54.748Z",
+  "lastUpdated": "2026-06-02T16:21:11.260Z",
   "screenings": [
     {
       "title": "Frida Kahlo – Special Edition",
@@ -8,14 +8,6 @@
       "time": "10:30",
       "poster": null,
       "ticketLink": "https://www.theavalon.org/films/frida-kahlo-special-edition/"
-    },
-    {
-      "title": "I Love Boosters (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-06-02",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
       "title": "Tuner (2026)",
@@ -32,14 +24,6 @@
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005505?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005505"
-    },
-    {
-      "title": "I LOVE BOOSTERS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-02",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "ticketLink": null
     },
     {
       "title": "Silent Friend (2026)",
@@ -506,12 +490,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000087"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "The Fall of Otrar (1991)",
       "venue": "AFI Silver",
       "date": "2026-06-05",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005507?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005507"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
       "title": "Mulholland Drive (2001)",
@@ -522,12 +530,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Miss Jobson (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-05",
       "time": "16:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005560?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005560"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "Bankie Banx: King of the Dune",
@@ -578,12 +602,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-05",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "The Harder They Come (1972)",
       "venue": "AFI Silver",
       "date": "2026-06-05",
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003531?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003531"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
       "title": "El Regresado (2026)",
@@ -602,6 +650,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005507"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "1776 (1972)",
       "venue": "Miracle Theater",
       "date": "2026-06-06",
@@ -618,12 +674,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005562"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "A Caribbean Story",
       "venue": "AFI Silver",
       "date": "2026-06-06",
       "time": "16:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005563?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005563"
+    },
+    {
+      "title": "Blue Velvet (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000087?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000087"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "The Harder They Come (1972)",
@@ -658,6 +738,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-06",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Zion (2011)",
       "venue": "AFI Silver",
       "date": "2026-06-06",
@@ -682,6 +770,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005209"
     },
     {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "13:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Museum of the Night (2014)",
       "venue": "National Gallery of Art",
       "date": "2026-06-07",
@@ -698,12 +802,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005561"
     },
     {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "15:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "15:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Miss Jobson (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005560?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005560"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "Queen of Soca (2025)",
@@ -738,12 +866,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005566"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-07",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Trainspotting (1996)",
       "venue": "AFI Silver",
       "date": "2026-06-07",
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000835?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "The Price of Love: Cheddi Jagan",
@@ -754,12 +922,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005566"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "The Fall of Otrar (1991)",
       "venue": "AFI Silver",
       "date": "2026-06-08",
       "time": "18:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005507?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005507"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "Reggae Girlz (2025)",
@@ -770,12 +954,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005568"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Esta Isla (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-08",
       "time": "21:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005209?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005209"
+    },
+    {
+      "title": "Blue Velvet (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-06-08",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000087?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000087"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
       "title": "Trainspotting (1996)",
@@ -786,6 +1002,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
     {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "POSSIBLE LANDSCAPES with MADULU, THE SEAMAN",
       "venue": "AFI Silver",
       "date": "2026-06-09",
@@ -794,12 +1026,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005569"
     },
     {
+      "title": "Mulholland Drive (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "A Caribbean Story",
       "venue": "AFI Silver",
       "date": "2026-06-09",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005563?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005563"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "Zion (2011)",
@@ -834,12 +1090,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005575"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-09",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "El Regresado (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-09",
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005565?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005565"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
     },
     {
       "title": "Carnival: They Can'T Steal Our Joy",
@@ -850,12 +1138,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005570"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Queen of Soca (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-10",
       "time": "16:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005567?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005567"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "POSSIBLE LANDSCAPES with MADULU, THE SEAMAN",
@@ -890,6 +1202,14 @@
       "ticketLink": "https://sunscinema.com/movies/la-maison-des-bois-ep-1-3/"
     },
     {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-10",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "The Serpent'S Skin (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-10",
@@ -914,6 +1234,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005507"
     },
     {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "13:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Bankie Banx: King of the Dune",
       "venue": "AFI Silver",
       "date": "2026-06-11",
@@ -922,12 +1266,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005559"
     },
     {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "16:05",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
       "title": "Dual Citizen",
       "venue": "AFI Silver",
       "date": "2026-06-11",
       "time": "17:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005562?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005562"
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
+    },
+    {
+      "title": "With Hasan in Gaza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "18:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005581?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005581"
     },
     {
       "title": "Carnival: They Can'T Steal Our Joy",
@@ -960,6 +1336,22 @@
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005568?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005568"
+    },
+    {
+      "title": "I Love Boosters (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "Blue Velvet (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-06-11",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000087?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000087"
     },
     {
       "title": "Grave of the Fireflies (2005)",
