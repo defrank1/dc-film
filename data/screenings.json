@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-03T03:57:27.635Z",
+  "lastUpdated": "2026-06-03T10:55:49.684Z",
   "screenings": [
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
     {
       "title": "I Love Boosters (2026)",
       "venue": "AFI Silver",
@@ -16,6 +24,14 @@
       "time": "11:45",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "THE MANDALORIAN AND GROGU (2026)",
@@ -42,12 +58,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005341"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "I Love Boosters (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-03",
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "14:20",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
@@ -106,12 +138,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005545"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "I LOVE BOOSTERS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-03",
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-03",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "THE MANDALORIAN AND GROGU (2026)",
@@ -154,20 +202,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
-      "title": "RAISING ARIZONA (1987)",
-      "venue": "Suns Cinema",
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-06-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/01/26161227/m5Zp4K4hKdPhsBl3E0p8I7QomlT1.jpg",
-      "ticketLink": "https://sunscinema.com/movies/raising-arizona-2/"
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
-      "title": "MY OWN PRIVATE IDAHO (1991)",
-      "venue": "Suns Cinema",
+      "title": "The Choral (2025)",
+      "venue": "Avalon Theater",
       "date": "2026-06-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/05/24162348/hiFGxsq7Mzss536Rc1cahaNWCJe.jpg",
-      "ticketLink": "https://sunscinema.com/movies/my-own-private-idaho/"
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-choral/"
     },
     {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
@@ -506,6 +554,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
+      "title": "1776 (1972)",
+      "venue": "Miracle Theater",
+      "date": "2026-06-06",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/o50REDExdajGxTWczsmC3qcawGr.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/1776-3/"
+    },
+    {
       "title": "Dual Citizen",
       "venue": "AFI Silver",
       "date": "2026-06-06",
@@ -624,14 +680,6 @@
       "time": "13:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005571?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
-    },
-    {
-      "title": "1776 (1972)",
-      "venue": "Miracle Theater",
-      "date": "2026-06-07",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/o50REDExdajGxTWczsmC3qcawGr.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/1776-2/"
     },
     {
       "title": "Museum of the Night (2014)",
