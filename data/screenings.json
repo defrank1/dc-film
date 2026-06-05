@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-05T03:37:07.494Z",
+  "lastUpdated": "2026-06-05T09:44:15.918Z",
   "screenings": [
-    {
-      "title": "Trail Running Film Festival (2023)",
-      "venue": "Miracle Theater",
-      "date": "2026-06-04",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/wm7W8VMysgHdUUtS49gLabKlBw9.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/trail-running-film-festival-2/"
-    },
     {
       "title": "The Devil Wears Prada 2 (2026)",
       "venue": "Avalon Theater",
@@ -138,6 +130,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005571"
     },
     {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-05",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+    },
+    {
       "title": "Miss Jobson (2025)",
       "venue": "AFI Silver",
       "date": "2026-06-05",
@@ -202,28 +202,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
     {
-      "title": "ROBOCOP (1987)",
-      "venue": "Suns Cinema",
-      "date": "2026-06-05",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/06/21120049/hHtOgGb3NihlyRATHlKPaFApbrd-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/robocop/"
-    },
-    {
-      "title": "STARSHIP TROOPERS (1997)",
-      "venue": "Suns Cinema",
-      "date": "2026-06-05",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/05/23135106/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
-      "ticketLink": "https://sunscinema.com/movies/starship-troopers/"
-    },
-    {
       "title": "1776 (1972)",
       "venue": "Miracle Theater",
       "date": "2026-06-05",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/o50REDExdajGxTWczsmC3qcawGr.jpg",
       "ticketLink": "https://themiracletheatre.com/events/1776/"
+    },
+    {
+      "title": "The Devil Wears Prada 2 (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-05",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
       "title": "OBSESSION (2026)",
@@ -248,14 +240,6 @@
       "time": "19:45",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-05",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
       "title": "Mulholland Drive (2001)",
@@ -2082,7 +2066,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003729"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-06-26",
       "time": "11:40",
@@ -2130,7 +2114,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005490"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-06-27",
       "time": "13:15",
@@ -2186,7 +2170,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001160"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-06-28",
       "time": "11:30",
@@ -2258,7 +2242,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005518"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-06-29",
       "time": "14:15",
@@ -2298,7 +2282,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000503"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-06-30",
       "time": "14:00",
@@ -2346,7 +2330,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005546"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-07-01",
       "time": "12:00",
@@ -2378,7 +2362,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004252"
     },
     {
-      "title": "An Autumn Afternoon (1962)",
+      "title": "An Autumn Afternoon (2016)",
       "venue": "AFI Silver",
       "date": "2026-07-02",
       "time": "12:30",
