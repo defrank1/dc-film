@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T14:55:38.421Z",
+  "lastUpdated": "2026-06-12T20:08:53.114Z",
   "screenings": [
-    {
-      "title": "Jinsei (1964)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005580?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005580"
-    },
-    {
-      "title": "Jinsei (1964)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "11:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005580?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005580"
-    },
-    {
-      "title": "BACKROOMS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "11:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Grave of the Fireflies (2005)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003406?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003406"
-    },
-    {
-      "title": "Grave of the Fireflies (2005)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003406?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003406"
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
-    },
     {
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
@@ -56,14 +8,6 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "DISCLOSURE DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "ticketLink": null
     },
     {
       "title": "Disclosure Day (2026)",
@@ -74,84 +18,12 @@
       "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
-      "title": "The Last One for the Road (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "13:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005579?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005579"
-    },
-    {
-      "title": "The Last One for the Road (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "13:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005579?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005579"
-    },
-    {
-      "title": "Korczak (1990)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005516?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005516"
-    },
-    {
-      "title": "Korczak (1990)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005516?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005516"
-    },
-    {
-      "title": "Jinsei (1964)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005580?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005580"
-    },
-    {
-      "title": "Jinsei (1964)",
-      "venue": "AFI Silver",
-      "date": "2026-06-12",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005580?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005580"
-    },
-    {
-      "title": "BACKROOMS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "14:20",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-12",
       "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "DISCLOSURE DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-12",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "ticketLink": null
     },
     {
       "title": "Mulholland Drive (2001)",
@@ -466,6 +338,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000551"
     },
     {
+      "title": "Robert Wilson and the Civil Wars (1987)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-13",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/8BDN6ZDAJDUkKgO88ib33cKLaQx.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Trainspotting (1996)",
       "venue": "AFI Silver",
       "date": "2026-06-13",
@@ -618,6 +498,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004515"
     },
     {
+      "title": "Every Contact Leaves a Trace with Grazing on Images",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-14",
+      "time": "11:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Grave of the Fireflies (2005)",
       "venue": "AFI Silver",
       "date": "2026-06-14",
@@ -688,6 +576,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
       "ticketLink": "https://themiracletheatre.com/events/a-great-awakening/"
+    },
+    {
+      "title": "Barbara Forever! (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Breaking the Waves (1996)",
@@ -1962,6 +1858,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005576"
     },
     {
+      "title": "Truman and Tennessee: An Intimate Conversation (2021)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/yBLui5HtiyAFWQqVXjqSdJeRLdv.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Young Soul Rebels - Director'S Cut",
       "venue": "AFI Silver",
       "date": "2026-06-20",
@@ -2128,6 +2032,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
       "ticketLink": "https://themiracletheatre.com/events/black-panther-2/"
+    },
+    {
+      "title": "Singin’ in the Rain (1952)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Time and Water (2026)",
@@ -3002,6 +2914,14 @@
       "ticketLink": "https://themiracletheatre.com/events/the-lego-batman-movie/"
     },
     {
+      "title": "Oklahoma! (1955)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-27",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Taxi Driver (1976)",
       "venue": "AFI Silver",
       "date": "2026-06-27",
@@ -3104,6 +3024,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-lego-batman-movie-2/"
+    },
+    {
+      "title": "Yankee Doodle Dandy (1942)",
+      "venue": "National Gallery of Art",
+      "date": "2026-06-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "The Wolf of Wall Street (2013)",
@@ -3858,6 +3786,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005591"
     },
     {
+      "title": "Stormy Weather with The Black Network",
+      "venue": "National Gallery of Art",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Seven Samurai (1954)",
       "venue": "AFI Silver",
       "date": "2026-07-11",
@@ -4154,6 +4090,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004353"
     },
     {
+      "title": "An American in Paris (1997)",
+      "venue": "National Gallery of Art",
+      "date": "2026-07-18",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1NUOprbP7LLfKPArLJY7wziUiHT.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Human Condition Part I: No Greater Love",
       "venue": "AFI Silver",
       "date": "2026-07-18",
@@ -4200,6 +4144,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "High Society (2018)",
+      "venue": "National Gallery of Art",
+      "date": "2026-07-19",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/jiNYN0LDfBllYAYOkT4NJPaOvuH.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Trading Places (1983)",
