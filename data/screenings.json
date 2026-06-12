@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T03:47:58.496Z",
+  "lastUpdated": "2026-06-12T10:09:34.393Z",
   "screenings": [
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-12",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
-    },
     {
       "title": "Jinsei (1964)",
       "venue": "AFI Silver",
@@ -24,14 +16,6 @@
       "time": "11:45",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-12",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "Grave of the Fireflies (2005)",
@@ -50,6 +34,14 @@
       "ticketLink": null
     },
     {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-12",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
+    },
+    {
       "title": "DISCLOSURE DAY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-12",
@@ -58,12 +50,12 @@
       "ticketLink": null
     },
     {
-      "title": "The Devil Wears Prada 2 (2026)",
+      "title": "Disclosure Day (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-12",
-      "time": "13:45",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
       "title": "The Last One for the Road (2025)",
@@ -101,7 +93,7 @@
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-12",
-      "time": "14:20",
+      "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
@@ -130,6 +122,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
     },
     {
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-12",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
+    },
+    {
       "title": "I Love Boosters (2026)",
       "venue": "AFI Silver",
       "date": "2026-06-12",
@@ -144,14 +144,6 @@
       "time": "16:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005531?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005531"
-    },
-    {
-      "title": "The Devil Wears Prada 2 (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-12",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
     },
     {
       "title": "BACKROOMS (2026)",
@@ -210,14 +202,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000835"
     },
     {
-      "title": "REVELATIONS OF DIVINE LOVE (2026)",
-      "venue": "Suns Cinema",
-      "date": "2026-06-12",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/05/22124836/q8YNdWmEGP6kwNVADATDV2ll9yA-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/revelations-of-divine-love/"
-    },
-    {
       "title": "BLUE HERON (2026)",
       "venue": "Suns Cinema",
       "date": "2026-06-12",
@@ -226,12 +210,12 @@
       "ticketLink": "https://sunscinema.com/movies/blue-heron/"
     },
     {
-      "title": "The Devil Wears Prada 2 (2026)",
+      "title": "Disclosure Day (2026)",
       "venue": "Avalon Theater",
       "date": "2026-06-12",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-devil-wears-prada-2/"
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
       "title": "BACKROOMS (2026)",
