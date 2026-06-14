@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T09:31:31.846Z",
+  "lastUpdated": "2026-06-14T13:59:46.035Z",
   "screenings": [
     {
       "title": "BACKROOMS (2026)",
@@ -408,6 +408,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/05/02113355/rkzz3kduJUkfLDIlhyZ8yPVsfHF.jpg",
       "ticketLink": "https://sunscinema.com/movies/show-me-love/"
+    },
+    {
+      "title": "Young Washington (2026)",
+      "venue": "Miracle Theater",
+      "date": "2026-07-03",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/young-washington-2/"
     }
   ]
 }
