@@ -1,69 +1,37 @@
 {
-  "lastUpdated": "2026-06-16T16:48:54.107Z",
+  "lastUpdated": "2026-06-16T20:48:58.421Z",
   "screenings": [
     {
-      "title": "Grave of the Fireflies (2005)",
-      "venue": "AFI Silver",
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-06-16",
       "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003406?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003406"
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
-      "title": "The Last One for the Road (2025)",
-      "venue": "AFI Silver",
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-06-16",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005579?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005579"
+      "time": "12:45",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
-      "title": "Au Hasard Balthazar (1966)",
-      "venue": "AFI Silver",
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-06-16",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003821?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003821"
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
-      "title": "Jinsei (1964)",
-      "venue": "AFI Silver",
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-06-16",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005580?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005580"
-    },
-    {
-      "title": "BACKROOMS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-16",
-      "time": "14:20",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-16",
-      "time": "14:35",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Mulholland Drive (2001)",
-      "venue": "AFI Silver",
-      "date": "2026-06-16",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001309?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001309"
-    },
-    {
-      "title": "DISCLOSURE DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-06-16",
-      "time": "15:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
       "title": "Come and See (1985)",
@@ -90,11 +58,19 @@
       "ticketLink": null
     },
     {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-16",
+      "time": "17:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
+    },
+    {
       "title": "OBSESSION (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
       "time": "17:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "ticketLink": null
     },
     {
@@ -110,7 +86,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
       "time": "18:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "ticketLink": null
     },
     {
@@ -130,6 +106,14 @@
       "ticketLink": "https://themiracletheatre.com/events/a-great-awakening-2/"
     },
     {
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-16",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
+    },
+    {
       "title": "BACKROOMS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
@@ -142,8 +126,16 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
       "time": "19:35",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Tuner (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-16",
+      "time": "19:35",
+      "poster": "https://image.tmdb.org/t/p/w500/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "Jinsei (1964)",
@@ -174,7 +166,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
       "time": "21:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "ticketLink": null
     },
     {
@@ -190,7 +182,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-06-16",
       "time": "22:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "ticketLink": null
     },
     {
@@ -1896,6 +1888,14 @@
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005488?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005488"
+    },
+    {
+      "title": "The Patriot (2000)",
+      "venue": "Miracle Theater",
+      "date": "2026-07-04",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/the-patriot-2/"
     },
     {
       "title": "Jaws (1995)",
