@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-18T03:46:14.766Z",
+  "lastUpdated": "2026-06-18T10:18:17.521Z",
   "screenings": [
+    {
+      "title": "Steal This Story, Please! (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-06-18",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/d7SqbT4URKiw1zmmZBSy0aTzD50.jpg",
+      "ticketLink": "https://www.theavalon.org/films/steal-this-story-please/"
+    },
     {
       "title": "SáTáNtangó (1994)",
       "venue": "AFI Silver",
@@ -242,22 +250,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005542"
     },
     {
-      "title": "THE WILD GOOSE LAKE (2019)",
-      "venue": "Suns Cinema",
-      "date": "2026-06-18",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/07/29140210/the-wild-goose-lake-md-web.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-wild-goose-lake/"
-    },
-    {
-      "title": "MADE IN HONG KONG (1997)",
-      "venue": "Suns Cinema",
-      "date": "2026-06-18",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/07/29140348/gWuB0NcEyZu2oz1ppdIwNGUpZJe.jpg",
-      "ticketLink": "https://sunscinema.com/movies/made-in-hong-kong/"
-    },
-    {
       "title": "Trouble Every Day (2001)",
       "venue": "AFI Silver",
       "date": "2026-06-18",
@@ -296,14 +288,6 @@
       "time": "20:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "Two Women (1960)",
-      "venue": "Avalon Theater",
-      "date": "2026-06-18",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/biWDAUQD58enMEcyO2BqIVSycF4.jpg",
-      "ticketLink": "https://www.theavalon.org/films/two-women/"
     },
     {
       "title": "Mulholland Drive (2001)",
@@ -2776,6 +2760,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000495?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000495"
+    },
+    {
+      "title": "Kung Fu Panda (2008)",
+      "venue": "Miracle Theater",
+      "date": "2026-07-05",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/kung-fu-panda-2/"
     },
     {
       "title": "Jaws (1995)",
