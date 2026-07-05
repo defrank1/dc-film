@@ -1,45 +1,29 @@
 {
-  "lastUpdated": "2026-07-05T02:55:19.191Z",
+  "lastUpdated": "2026-07-05T08:50:40.882Z",
   "screenings": [
     {
-      "title": "The Patriot (2000)",
-      "venue": "Miracle Theater",
-      "date": "2026-07-04",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-patriot-2/"
-    },
-    {
-      "title": "Young Washington (2026)",
-      "venue": "Miracle Theater",
-      "date": "2026-07-04",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/young-washington/"
-    },
-    {
-      "title": "The Muppet Movie (1979)",
-      "venue": "AFI Silver",
-      "date": "2026-07-05",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001211?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001211"
-    },
-    {
-      "title": "The Muppet Movie (1979)",
-      "venue": "AFI Silver",
-      "date": "2026-07-05",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001211?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001211"
-    },
-    {
-      "title": "Tuner (2026)",
+      "title": "Les Liaisons Dangereuses (2022)",
       "venue": "Avalon Theater",
       "date": "2026-07-05",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "ticketLink": "https://www.theavalon.org/films/les-liaisons-dangereuses/"
+    },
+    {
+      "title": "The Muppet Movie (1979)",
+      "venue": "AFI Silver",
+      "date": "2026-07-05",
       "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001211?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001211"
+    },
+    {
+      "title": "The Muppet Movie (1979)",
+      "venue": "AFI Silver",
+      "date": "2026-07-05",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001211?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001211"
     },
     {
       "title": "OBSESSION (2026)",
