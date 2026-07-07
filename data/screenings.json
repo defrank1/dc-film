@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-07-07T02:55:51.915Z",
+  "lastUpdated": "2026-07-07T09:37:55.874Z",
   "screenings": [
     {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-07",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
-    },
-    {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-07",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
-    },
-    {
-      "title": "Tuner (2026)",
+      "title": "Les Liaisons Dangereuses (2022)",
       "venue": "Avalon Theater",
       "date": "2026-07-07",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "ticketLink": "https://www.theavalon.org/films/les-liaisons-dangereuses/"
+    },
+    {
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-07",
       "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+    },
+    {
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-07",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
     },
     {
       "title": "Rose of Nevada (2026)",
@@ -40,22 +40,6 @@
       "time": "11:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005574?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005574"
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "12:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Disclosure Day (2026)",
@@ -80,14 +64,6 @@
       "time": "13:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005488?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005488"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "13:15",
-      "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "ticketLink": null
     },
     {
       "title": "Maddie'S Secret (2026)",
@@ -130,14 +106,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005574"
     },
     {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "A Few Good Men (1992)",
       "venue": "AFI Silver",
       "date": "2026-07-07",
@@ -152,22 +120,6 @@
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005487?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005487"
-    },
-    {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "15:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "ticketLink": null
     },
     {
       "title": "Disclosure Day (2026)",
@@ -208,14 +160,6 @@
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001211?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001211"
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
     },
     {
       "title": "Tuner (2026)",
@@ -258,14 +202,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000773"
     },
     {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "18:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "The Bad News Bears (1976)",
       "venue": "AFI Silver",
       "date": "2026-07-07",
@@ -280,30 +216,6 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000528?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000528"
-    },
-    {
-      "title": "THE TRAVELER (2010)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24213712/l90dkEYuJIx7443zzmtVNsFlf0M.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-traveler/"
-    },
-    {
-      "title": "OFFSIDE (2015)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-07",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/27134836/xlsnJb2XkhjEtbfzl8EZvEwxu6i.jpg",
-      "ticketLink": "https://sunscinema.com/movies/offside/"
-    },
-    {
-      "title": "THE DEVIL WEARS PRADA 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-      "ticketLink": null
     },
     {
       "title": "Disclosure Day (2026)",
@@ -312,14 +224,6 @@
       "time": "19:15",
       "poster": "https://image.tmdb.org/t/p/w500/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
       "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
     },
     {
       "title": "Colors of Time",
@@ -376,30 +280,6 @@
       "time": "21:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002056?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002056"
-    },
-    {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "21:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "MICHAEL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "OBSESSION (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-07",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "ticketLink": null
     },
     {
       "title": "Romería (2025)",
@@ -4242,14 +4122,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000059"
     },
     {
-      "title": "Forrest Gump (1994)",
-      "venue": "Miracle Theater",
-      "date": "2026-08-09",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/forrest-gump-2/"
-    },
-    {
       "title": "Sanjuro (1962)",
       "venue": "AFI Silver",
       "date": "2026-08-09",
@@ -4784,14 +4656,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001308?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001308"
-    },
-    {
-      "title": "Wonder Woman (2017)",
-      "venue": "Miracle Theater",
-      "date": "2026-08-21",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/wonder-woman-2/"
     },
     {
       "title": "THE SWORD OF DOOM in 35mm",
