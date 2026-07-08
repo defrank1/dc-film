@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-07-08T02:32:19.585Z",
+  "lastUpdated": "2026-07-08T08:25:07.323Z",
   "screenings": [
     {
-      "title": "Les Liaisons Dangereuses (2022)",
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-08",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+    },
+    {
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-08",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+    },
+    {
+      "title": "Tuner (2026)",
       "venue": "Avalon Theater",
       "date": "2026-07-08",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
-      "ticketLink": "https://www.theavalon.org/films/les-liaisons-dangereuses/"
-    },
-    {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-08",
       "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
-    },
-    {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-08",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "Maddie'S Secret (2026)",
@@ -282,22 +282,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
     },
     {
-      "title": "TRAS-OS-MONTES (1976)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-08",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24220107/1SpExnhCADsKa5q6y4GeCojP4kH1.jpg",
-      "ticketLink": "https://sunscinema.com/movies/tras-os-montes/"
-    },
-    {
-      "title": "DIAMANTINO (2018)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-08",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/10/25174620/mjOvGWYeQuaUUkEMKvL1gqIjeAz-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/diamantino/"
-    },
-    {
       "title": "WHEN MARNIE WAS THERE (2014)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-07-08",
@@ -322,12 +306,12 @@
       "ticketLink": null
     },
     {
-      "title": "Colors of Time",
+      "title": "Franz (2025)",
       "venue": "Avalon Theater",
       "date": "2026-07-08",
-      "time": "19:35",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",
+      "ticketLink": "https://www.theavalon.org/films/franz/"
     },
     {
       "title": "Maddie'S Secret (2026)",
