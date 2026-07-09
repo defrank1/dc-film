@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T02:50:01.286Z",
+  "lastUpdated": "2026-07-09T09:36:00.664Z",
   "screenings": [
     {
       "title": "WHEN MARNIE WAS THERE (2014)",
@@ -178,14 +178,6 @@
       "ticketLink": null
     },
     {
-      "title": "Disclosure Day (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-09",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
-      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
-    },
-    {
       "title": "Maddie'S Secret (2026)",
       "venue": "AFI Silver",
       "date": "2026-07-09",
@@ -274,22 +266,6 @@
       "ticketLink": null
     },
     {
-      "title": "GREGORY’S GIRL (1980)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24222308/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
-      "ticketLink": "https://sunscinema.com/movies/gregorys-girl/"
-    },
-    {
-      "title": "BEND IT LIKE BECKHAM (2002)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/10/25174820/2dzSBmFWWqt8NbnubJKIWU21Y861.jpg",
-      "ticketLink": "https://sunscinema.com/movies/bend-it-like-beckham-2/"
-    },
-    {
       "title": "THE DEVIL WEARS PRADA 2 (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-07-09",
@@ -314,12 +290,12 @@
       "ticketLink": null
     },
     {
-      "title": "Franz (2025)",
+      "title": "Colors of Time",
       "venue": "Avalon Theater",
       "date": "2026-07-09",
       "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",
-      "ticketLink": "https://www.theavalon.org/films/franz/"
+      "poster": null,
+      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
     },
     {
       "title": "Maddie'S Secret (2026)",
