@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T02:30:18.290Z",
+  "lastUpdated": "2026-07-11T07:52:51.453Z",
   "screenings": [
-    {
-      "title": "PERSEPOLIS (2007)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/26124641/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
-      "ticketLink": "https://sunscinema.com/movies/persepolis/"
-    },
     {
       "title": "A Bug'S Life (1998)",
       "venue": "AFI Silver",
@@ -304,22 +296,6 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000071?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000071"
-    },
-    {
-      "title": "INSIANG (1976)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24221804/v8ABYJ28OXvzEceox2NrN9Vgycr.jpg",
-      "ticketLink": "https://sunscinema.com/movies/insiang/"
-    },
-    {
-      "title": "MACHO DANCER (2021)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/22135000/tWzOX9t5WuKz9Fe3sqOoHemFJAN.jpg",
-      "ticketLink": "https://sunscinema.com/movies/macho-dancer/"
     },
     {
       "title": "THE INVITE (2026)",
@@ -922,14 +898,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
-      "title": "MACHO DANCER (2021)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/22135000/tWzOX9t5WuKz9Fe3sqOoHemFJAN.jpg",
-      "ticketLink": "https://sunscinema.com/movies/macho-dancer/"
-    },
-    {
       "title": "LAW OF DESIRE (1997)",
       "venue": "Suns Cinema",
       "date": "2026-07-14",
@@ -1514,20 +1482,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002286"
     },
     {
-      "title": "PERSEPOLIS (2007)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-17",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/26124641/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
-      "ticketLink": "https://sunscinema.com/movies/persepolis/"
-    },
-    {
       "title": "THREE COLORS: WHITE (1994)",
       "venue": "Suns Cinema",
       "date": "2026-07-17",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/12/20104204/fdIet3NSa27gobMbaUml66oCQNT.jpg",
       "ticketLink": "https://sunscinema.com/movies/three-colors-white/"
+    },
+    {
+      "title": "PERSEPOLIS (2007)",
+      "venue": "Suns Cinema",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/10/26124641/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+      "ticketLink": "https://sunscinema.com/movies/persepolis/"
     },
     {
       "title": "THE ODYSSEY in 70mm",
