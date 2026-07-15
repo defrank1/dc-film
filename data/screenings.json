@@ -1,365 +1,269 @@
 {
-  "lastUpdated": "2026-07-14T19:16:47.882Z",
+  "lastUpdated": "2026-07-15T02:14:30.859Z",
   "screenings": [
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-14",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-14",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "Maddie'S Secret (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-14",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
+    },
+    {
+      "title": "Maddie'S Secret (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-14",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
+    },
     {
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
+      "title": "A League of Their Own (1992)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004545?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004545"
+    },
+    {
+      "title": "A League of Their Own (1992)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004545?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004545"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "11:50",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Disclosure Day (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "12:45",
       "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
       "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
     },
     {
+      "title": "YOUNG WASHINGTON (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "13:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+    },
+    {
+      "title": "Romería (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
+    },
+    {
       "title": "Colors of Time",
       "venue": "Avalon Theater",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "14:05",
       "poster": null,
       "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
     },
     {
-      "title": "Rose of Nevada (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "15:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005574?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005574"
-    },
-    {
-      "title": "Rose of Nevada (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "15:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005574?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005574"
-    },
-    {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Disclosure Day (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-14",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
-      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
-    },
-    {
       "title": "The Invite (2026)",
       "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "16:35",
+      "date": "2026-07-15",
+      "time": "14:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "The Invite (2026)",
       "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "16:35",
+      "date": "2026-07-15",
+      "time": "14:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "THE INVITE (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "date": "2026-07-15",
+      "time": "14:20",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Violent Saturday (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001622?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001622"
+    },
+    {
+      "title": "Violent Saturday (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001622?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001622"
     },
     {
       "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "17:00",
+      "date": "2026-07-15",
+      "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Maddie'S Secret (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
+    },
+    {
+      "title": "Maddie'S Secret (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
+    },
+    {
+      "title": "YOUNG WASHINGTON (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
+    },
+    {
+      "title": "Looney Tunes All Stars Part 1",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005631?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005631"
+    },
+    {
+      "title": "Looney Tunes All Stars Part 1",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005631?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005631"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-15",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "16:50",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
       "title": "Tuner (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "ticketLink": "https://www.theavalon.org/films/tuner/"
-    },
-    {
-      "title": "YOJIMBO in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003585?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003585"
-    },
-    {
-      "title": "YOJIMBO in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003585?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003585"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Disclosure Day (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-14",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
-      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
-    },
-    {
-      "title": "THE INVITE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "19:20",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Colors of Time",
-      "venue": "Avalon Theater",
-      "date": "2026-07-14",
-      "time": "19:35",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
-    },
-    {
-      "title": "HARAKIRI in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005613?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005613"
-    },
-    {
-      "title": "HARAKIRI in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005613?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005613"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "YOUNG WASHINGTON (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "21:20",
-      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Maddie'S Secret (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
-    },
-    {
-      "title": "Maddie'S Secret (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-14",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
-    },
-    {
-      "title": "THE INVITE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-14",
-      "time": "21:45",
-      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A League of Their Own (1992)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004545?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004545"
-    },
-    {
-      "title": "A League of Their Own (1992)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004545?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004545"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "11:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "11:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
-    },
-    {
-      "title": "Romería (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005366?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005366"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "14:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "14:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Violent Saturday (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001622?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001622"
-    },
-    {
-      "title": "Violent Saturday (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001622?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001622"
-    },
-    {
-      "title": "Maddie'S Secret (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
-    },
-    {
-      "title": "Maddie'S Secret (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005625?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005625"
-    },
-    {
-      "title": "Looney Tunes All Stars Part 1",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005631?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005631"
-    },
-    {
-      "title": "Looney Tunes All Stars Part 1",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005631?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005631"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-15",
-      "time": "16:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "RAIDERS OF THE LOST ARK in 35mm",
@@ -410,6 +314,46 @@
       "ticketLink": "https://sunscinema.com/movies/the-green-years/"
     },
     {
+      "title": "CASTLE IN THE SKY (1986)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "19:10",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Disclosure Day (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-15",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "ticketLink": "https://www.theavalon.org/films/disclosure-day/"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "19:25",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Colors of Time",
+      "venue": "Avalon Theater",
+      "date": "2026-07-15",
+      "time": "19:35",
+      "poster": null,
+      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
+    },
+    {
       "title": "YOJIMBO in 35mm",
       "venue": "AFI Silver",
       "date": "2026-07-15",
@@ -456,6 +400,30 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000680?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000680"
+    },
+    {
+      "title": "YOUNG WASHINGTON (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "21:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "21:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "GAIL DAUGHTRY AND THE CELEBRITY SEX PASS (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-15",
+      "time": "21:50",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Invite (2026)",
