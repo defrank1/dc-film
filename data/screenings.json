@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T02:47:45.154Z",
+  "lastUpdated": "2026-07-20T08:54:57.724Z",
   "screenings": [
-    {
-      "title": "Who Framed Roger Rabbit (1988)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
-      "ticketLink": "https://www.theavalon.org/films/who-framed-roger-rabbit/"
-    },
     {
       "title": "THE ODYSSEY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -184,14 +176,6 @@
       "time": "16:00",
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Tuner (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "ticketLink": "https://www.theavalon.org/films/tuner/"
     },
     {
       "title": "The Invite (2026)",
@@ -1144,6 +1128,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Sound of Music (1965)",
+      "venue": "National Gallery of Art",
+      "date": "2026-07-25",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Seven Brides for Seven Brothers (1954)",
@@ -2106,6 +2098,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004354"
     },
     {
+      "title": "Best of Thomas Edison Film Festival 2026",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-01",
+      "time": "12:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Rebel Without a Cause (1955)",
       "venue": "AFI Silver",
       "date": "2026-08-01",
@@ -2426,6 +2426,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
     },
     {
+      "title": "Giant (1956)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-08",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "CatVideoFest 2026 (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-08",
@@ -2504,6 +2512,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
       "ticketLink": "https://themiracletheatre.com/events/forrest-gump-2/"
+    },
+    {
+      "title": "Kameradschaft and Oil: A Symphony in Motion",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sanjuro (1962)",
@@ -2762,6 +2778,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005595"
     },
     {
+      "title": "Harlan County, USA (1977)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "How to Marry a Millionaire (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-15",
@@ -2808,6 +2832,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
+    },
+    {
+      "title": "The Miners' Hymns and Louisiana Story",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "High Anxiety (1977)",
