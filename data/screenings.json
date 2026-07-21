@@ -1,179 +1,19 @@
 {
-  "lastUpdated": "2026-07-20T19:41:44.972Z",
+  "lastUpdated": "2026-07-21T02:30:47.445Z",
   "screenings": [
     {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "Colors of Time",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "13:00",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
-    },
-    {
-      "title": "The Thing (1982)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001039?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001039"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
       "title": "THE ODYSSEY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "15:40",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE INVITE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "16:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Monsters, Inc. (2001)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005604?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005604"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "date": "2026-07-21",
+      "time": "11:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
     },
     {
       "title": "THE INVITE (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Carmen Jones (1954)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004353?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004353"
-    },
-    {
-      "title": "THE MAN WHO SHOT LIBERTY VALANCE (1962)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Colors of Time",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "19:00",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-20",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "20:50",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Trading Places (1983)",
-      "venue": "AFI Silver",
-      "date": "2026-07-20",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002286?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002286"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "21:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE INVITE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-20",
-      "time": "21:45",
+      "date": "2026-07-21",
+      "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "ticketLink": null
     },
@@ -194,12 +34,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001225"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-21",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
+      "title": "Colors of Time",
+      "venue": "Avalon Theater",
+      "date": "2026-07-21",
+      "time": "13:00",
+      "poster": null,
+      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Invite (2026)",
       "venue": "AFI Silver",
       "date": "2026-07-21",
       "time": "14:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "14:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "The Human Condition Part I: No Greater Love",
@@ -218,6 +98,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "15:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-21",
+      "time": "15:45",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Invite (2026)",
       "venue": "AFI Silver",
       "date": "2026-07-21",
@@ -226,12 +130,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "18:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Trading Places (1983)",
       "venue": "AFI Silver",
       "date": "2026-07-21",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002286?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002286"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Invite (2026)",
@@ -258,12 +178,36 @@
       "ticketLink": "https://sunscinema.com/movies/shoot-the-people/"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "19:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Colors of Time",
+      "venue": "Avalon Theater",
+      "date": "2026-07-21",
+      "time": "19:00",
+      "poster": null,
+      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-21",
       "time": "19:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "The Invite (2026)",
@@ -280,6 +224,22 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001039?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001039"
+    },
+    {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-21",
+      "time": "21:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -498,12 +458,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-24",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Lady and the Tramp (1955)",
       "venue": "AFI Silver",
       "date": "2026-07-24",
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005593?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005593"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-24",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "THE PRODUCERS (1967) w/ THE CRITIC (1963)",
@@ -530,12 +506,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001626"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-24",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Beverly Hills Cop (1984)",
       "venue": "AFI Silver",
       "date": "2026-07-24",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004558?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004558"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-24",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "THREE COLORS: RED (1994)",
@@ -560,6 +552,14 @@
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000074?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000074"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-24",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Finding Nemo (2003)",
@@ -602,6 +602,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004360"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-25",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-25",
@@ -616,6 +624,22 @@
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005615?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005615"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-25",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Blade Runner - the Final Cut (1982)",
@@ -650,6 +674,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Beverly Hills Cop (1984)",
       "venue": "AFI Silver",
       "date": "2026-07-25",
@@ -682,12 +714,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-26",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE PRODUCERS (1967) w/ THE CRITIC (1963)",
       "venue": "AFI Silver",
       "date": "2026-07-26",
       "time": "14:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002058?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002058"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "The Man From Laramie (1955)",
@@ -704,6 +752,14 @@
       "time": "17:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-26",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "The Asphalt Jungle (1950)",
@@ -730,6 +786,14 @@
       "ticketLink": "https://sunscinema.com/movies/the-devil-queen/"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-26",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE ODYSSEY (Digital)",
       "venue": "AFI Silver",
       "date": "2026-07-26",
@@ -754,12 +818,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-27",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE PRODUCERS (1967) w/ THE CRITIC (1963)",
       "venue": "AFI Silver",
       "date": "2026-07-27",
       "time": "12:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002058?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002058"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-27",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "The Asphalt Jungle (1950)",
@@ -778,12 +858,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-27",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Finding Nemo (2003)",
       "venue": "AFI Silver",
       "date": "2026-07-27",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005605?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005605"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-27",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Seven Brides for Seven Brothers (1954)",
@@ -802,6 +898,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-27",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Beverly Hills Cop (1984)",
       "venue": "AFI Silver",
       "date": "2026-07-27",
@@ -816,6 +920,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-28",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Lady and the Tramp (1955)",
@@ -834,6 +946,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005633"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-28",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-28",
@@ -848,6 +968,14 @@
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005615?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005615"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-28",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "THE PRODUCERS (1967) w/ THE CRITIC (1963)",
@@ -890,6 +1018,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001626"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-28",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-29",
@@ -898,12 +1034,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "The Man From Laramie (1955)",
       "venue": "AFI Silver",
       "date": "2026-07-29",
       "time": "12:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000809?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000809"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Seven Brides for Seven Brothers (1954)",
@@ -922,6 +1074,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Looney Tunes: Chuck Jones (2012)",
       "venue": "AFI Silver",
       "date": "2026-07-29",
@@ -936,6 +1096,14 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001626?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001626"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "HIGHWAY PATROLMAN (1991)",
@@ -962,6 +1130,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Blade Runner - the Final Cut (1982)",
       "venue": "AFI Silver",
       "date": "2026-07-29",
@@ -978,12 +1154,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-30",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
       "title": "Looney Tunes: Chuck Jones (2012)",
       "venue": "AFI Silver",
       "date": "2026-07-30",
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005633?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005633"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-30",
+      "time": "14:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "The Man From Laramie (1955)",
@@ -1000,6 +1192,14 @@
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Invite (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-07-30",
+      "time": "16:35",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
       "title": "Finding Nemo (2003)",
