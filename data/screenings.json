@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T02:29:49.510Z",
+  "lastUpdated": "2026-07-22T08:25:39.401Z",
   "screenings": [
     {
       "title": "THE ODYSSEY (2026)",
@@ -250,36 +250,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
-      "title": "ROSA DE AREIA (1989)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24221008/5hE5vhIxR0COoBAugyXYIMaLKXF.jpg",
-      "ticketLink": "https://sunscinema.com/movies/rosa-de-areia/"
-    },
-    {
-      "title": "O SANGUE (1989)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-22",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/24225039/d36emiQPzuHjwmj4BlFYCaw30j5.jpg",
-      "ticketLink": "https://sunscinema.com/movies/o-sangue/"
-    },
-    {
       "title": "HOWL’S MOVING CASTLE (2004)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-07-22",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Colors of Time",
-      "venue": "Avalon Theater",
-      "date": "2026-07-22",
-      "time": "19:00",
-      "poster": null,
-      "ticketLink": "https://www.theavalon.org/films/colors-of-time/"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -304,6 +280,14 @@
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
+      "title": "The Sheep Detectives (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-22",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-sheep-detectives/"
     },
     {
       "title": "THE ODYSSEY (2026)",
