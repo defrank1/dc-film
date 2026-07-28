@@ -1,197 +1,13 @@
 {
-  "lastUpdated": "2026-07-27T19:24:47.309Z",
+  "lastUpdated": "2026-07-28T02:24:13.288Z",
   "screenings": [
     {
       "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "ASK E. JEAN (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "15:55",
-      "poster": "https://image.tmdb.org/t/p/w500/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "16:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "16:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Finding Nemo (2003)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005605?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005605"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Seven Brides for Seven Brothers (1954)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004360?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004360"
-    },
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE INVITE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-07-27",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "Beverly Hills Cop (1984)",
-      "venue": "AFI Silver",
-      "date": "2026-07-27",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004558?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004558"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "21:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "21:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "ASK E. JEAN (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-27",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
-      "ticketLink": null
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -200,6 +16,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "The Invite (2026)",
@@ -210,12 +34,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Lady and the Tramp (1955)",
       "venue": "AFI Silver",
       "date": "2026-07-28",
       "time": "12:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005593?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005593"
+    },
+    {
+      "title": "ASK E. JEAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "HADESTOWN: THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "13:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Looney Tunes: Chuck Jones (2012)",
@@ -234,12 +82,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "14:20",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-28",
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "The Human Condition Part Ii: Road to Eternity",
@@ -250,12 +122,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005615"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "HADESTOWN: THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "The Invite (2026)",
       "venue": "AFI Silver",
       "date": "2026-07-28",
       "time": "16:35",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "16:50",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
     },
     {
       "title": "THE PRODUCERS (1967) w/ THE CRITIC (1963)",
@@ -282,12 +186,44 @@
       "ticketLink": "https://sunscinema.com/movies/the-celluloid-closet/"
     },
     {
+      "title": "THE INVITE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
+      "title": "HADESTOWN: THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "19:10",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-07-28",
       "time": "19:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-28",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "The Asphalt Jungle (1950)",
@@ -304,6 +240,30 @@
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
+    },
+    {
+      "title": "HADESTOWN: THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "21:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "21:40",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "ASK E. JEAN (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-07-28",
+      "time": "22:10",
+      "poster": "https://image.tmdb.org/t/p/w500/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
+      "ticketLink": null
     },
     {
       "title": "THE ODYSSEY in 70mm",
