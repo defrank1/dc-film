@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:30:47.100Z",
+  "lastUpdated": "2026-07-28T14:02:25.393Z",
   "screenings": [
     {
       "title": "The Odyssey (2026)",
@@ -2984,22 +2984,6 @@
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005597?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005597"
-    },
-    {
-      "title": "The Right Stuff (1983)",
-      "venue": "Miracle Theater",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-right-stuff/"
-    },
-    {
-      "title": "The Right Stuff (1983)",
-      "venue": "Miracle Theater",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-right-stuff-2/"
     }
   ]
 }
