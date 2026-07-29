@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T02:28:30.049Z",
+  "lastUpdated": "2026-07-29T08:37:47.220Z",
   "screenings": [
     {
       "title": "ASK E. JEAN (2026)",
@@ -266,28 +266,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
     },
     {
-      "title": "HIGHWAY PATROLMAN (1991)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/25125216/dRnOQCMEjZWViZvGa5iZqQ5vPXS.jpg",
-      "ticketLink": "https://sunscinema.com/movies/highway-patrolman/"
-    },
-    {
-      "title": "DEAD SOULS (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-07-29",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/06/25125531/cxKQJQhU5jAWa8Q5W1jJlNpWaqD.jpg",
-      "ticketLink": "https://sunscinema.com/movies/dead-souls/"
-    },
-    {
       "title": "PRINCESS MONONOKE (1997)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-07-29",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "ASK E. JEAN (2026)",
@@ -298,28 +290,28 @@
       "ticketLink": null
     },
     {
-      "title": "The Odyssey (2026)",
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-07-29",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
       "venue": "Avalon Theater",
       "date": "2026-07-29",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-29",
       "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-29",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "The Invite (2026)",
