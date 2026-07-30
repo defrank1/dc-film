@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T13:59:06.761Z",
+  "lastUpdated": "2026-07-30T19:22:55.211Z",
   "screenings": [
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-30",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "PRINCESS MONONOKE (1997)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-30",
-      "time": "11:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-      "ticketLink": null
-    },
     {
       "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
@@ -26,76 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-30",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
       "title": "Reading Lolita in Tehran (2024)",
       "venue": "Avalon Theater",
       "date": "2026-07-30",
       "time": "11:45",
       "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
       "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-30",
-      "time": "11:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-30",
-      "time": "12:05",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Looney Tunes: Chuck Jones (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-07-30",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005633?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005633"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-30",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Invite (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-30",
-      "time": "14:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005629?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005629"
-    },
-    {
-      "title": "The Man From Laramie (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-07-30",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000809?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000809"
-    },
-    {
-      "title": "ASK E. JEAN (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-30",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/yFZ40JJcjJM7u5tfZFFb9lrF6Yt.jpg",
-      "ticketLink": null
     },
     {
       "title": "Reading Lolita in Tehran (2024)",
@@ -400,6 +320,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Best of Thomas Edison Film Festival 2026",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-01",
+      "time": "12:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Rebel Without a Cause (1955)",
@@ -986,20 +914,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
     },
     {
-      "title": "JURASSIC PARK (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-06",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/05/22131057/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
-      "ticketLink": "https://sunscinema.com/movies/jurassic-park/"
-    },
-    {
       "title": "POSSESSION (1981)",
       "venue": "Suns Cinema",
       "date": "2026-08-06",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/09/24232137/possession.jpg",
       "ticketLink": "https://sunscinema.com/movies/possession/"
+    },
+    {
+      "title": "JURASSIC PARK (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-06",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/05/22131057/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "ticketLink": "https://sunscinema.com/movies/jurassic-park/"
     },
     {
       "title": "The Human Condition Part Iii: a Soldier'S Prayer",
@@ -1138,6 +1066,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
     },
     {
+      "title": "Giant (1956)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-08",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "CatVideoFest 2026 (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-08",
@@ -1248,6 +1184,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
       "ticketLink": "https://themiracletheatre.com/events/forrest-gump-2/"
+    },
+    {
+      "title": "Kameradschaft and Oil: A Symphony in Motion",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sanjuro (1962)",
@@ -1394,20 +1338,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000806"
     },
     {
-      "title": "THE GREEN RAY (1986)",
+      "title": "MADDIE’S SECRET (2026)",
       "venue": "Suns Cinema",
       "date": "2026-08-11",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27143551/1E3pliSC7lXWw6zJhMvG6ba0UNX.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-green-ray-2/"
-    },
-    {
-      "title": "PAULINE AT THE BEACH (1983)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-11",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27143425/osw9SwpoQEEjQdKh747MC8fT2VM.jpg",
-      "ticketLink": "https://sunscinema.com/movies/pauline-at-the-beach/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/28122838/gtssK2SacGjpj2psN0Ee2TcTgso.jpg",
+      "ticketLink": "https://sunscinema.com/movies/maddies-secret/"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -1472,6 +1408,22 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001130?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001130"
+    },
+    {
+      "title": "PAULINE AT THE BEACH (1983)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27143425/osw9SwpoQEEjQdKh747MC8fT2VM.jpg",
+      "ticketLink": "https://sunscinema.com/movies/pauline-at-the-beach/"
+    },
+    {
+      "title": "THE GREEN RAY (1986)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27143551/1E3pliSC7lXWw6zJhMvG6ba0UNX.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-green-ray-2/"
     },
     {
       "title": "Back to the Future (1985)",
@@ -1586,20 +1538,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005586"
     },
     {
-      "title": "THE HOT SPOT (1990)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150018/iQCP69183K1QZo8bb23nkcLap3W.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-hot-spot/"
-    },
-    {
       "title": "BODY HEAT (1981)",
       "venue": "Suns Cinema",
       "date": "2026-08-14",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27145920/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
       "ticketLink": "https://sunscinema.com/movies/body-heat/"
+    },
+    {
+      "title": "THE HOT SPOT (1990)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150018/iQCP69183K1QZo8bb23nkcLap3W.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-hot-spot/"
     },
     {
       "title": "Big Trouble in Little China (1986)",
@@ -1634,6 +1586,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005595"
     },
     {
+      "title": "Harlan County, USA (1977)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "How to Marry a Millionaire (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-15",
@@ -1658,20 +1618,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000061"
     },
     {
-      "title": "LET THE CORPSES TAN (2017)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150319/5cMx2OkRsGZmEz6OgBhqda34S3z.jpg",
-      "ticketLink": "https://sunscinema.com/movies/let-the-corpses-tan/"
-    },
-    {
       "title": "BRING ME THE HEAD OF ALFREDO GARCIA (1974)",
       "venue": "Suns Cinema",
       "date": "2026-08-15",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150230/gRWVf3InNlIlFT3WB9MnFdOwcYQ-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/bring-me-the-heard-of-alfredo-garcia/"
+    },
+    {
+      "title": "LET THE CORPSES TAN (2017)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150319/5cMx2OkRsGZmEz6OgBhqda34S3z.jpg",
+      "ticketLink": "https://sunscinema.com/movies/let-the-corpses-tan/"
     },
     {
       "title": "Harlem Nights (1989)",
@@ -1696,6 +1656,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
+    },
+    {
+      "title": "The Miners' Hymns and Louisiana Story",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "High Anxiety (1977)",
@@ -1810,6 +1778,14 @@
       "ticketLink": "https://sunscinema.com/movies/two-by-jon-jost-the-bed-you-sleep-in-fall-creek/"
     },
     {
+      "title": "LA CIÉNAGA (2001)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/07/07111235/e12eed471f094d1450111c939094a89f134161dd4cabb9e13c3f9fdbfdd84e5f.jpg",
+      "ticketLink": "https://sunscinema.com/movies/la-cienaga/"
+    },
+    {
       "title": "Bigger Than Life (1956)",
       "venue": "AFI Silver",
       "date": "2026-08-18",
@@ -1850,20 +1826,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005596"
     },
     {
-      "title": "FALLING DOWN (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27151314/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
-      "ticketLink": "https://sunscinema.com/movies/falling-down/"
-    },
-    {
       "title": "THE SWIMMER (1968)",
       "venue": "Suns Cinema",
       "date": "2026-08-19",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27151253/MV5BMTQyNTQzMTQwOV5BMl5BanBnXkFtZTgwMzAwMDA2MjE%40._V1_.jpg",
       "ticketLink": "https://sunscinema.com/movies/the-swimmer/"
+    },
+    {
+      "title": "FALLING DOWN (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27151314/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+      "ticketLink": "https://sunscinema.com/movies/falling-down/"
     },
     {
       "title": "Harlem Nights (1989)",
@@ -1954,20 +1930,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001308"
     },
     {
-      "title": "LOVE JONES (1997)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-21",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27152335/iuwimPkDm7kfptKm5zlK0pIzqXM-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/love-jones/"
-    },
-    {
       "title": "POETIC JUSTICE (1993)",
       "venue": "Suns Cinema",
       "date": "2026-08-21",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/03/28124323/6jE7Vzh3edBQtbbDcF4AC5gMX2g.jpg",
       "ticketLink": "https://sunscinema.com/movies/poetic-justice/"
+    },
+    {
+      "title": "LOVE JONES (1997)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27152335/iuwimPkDm7kfptKm5zlK0pIzqXM-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/love-jones/"
     },
     {
       "title": "Wonder Woman (2017)",
@@ -2050,6 +2026,14 @@
       "ticketLink": "https://sunscinema.com/movies/a-girl-is-a-gun/"
     },
     {
+      "title": "EL TOPO (1970)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/01/26153925/3jVuzt95wjCm6NhwlL3Pong8R3G.jpg",
+      "ticketLink": "https://sunscinema.com/movies/el-topo/"
+    },
+    {
       "title": "Friday the 13th Part Vi: Jason Lives (1986)",
       "venue": "AFI Silver",
       "date": "2026-08-22",
@@ -2072,6 +2056,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005585?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005585"
+    },
+    {
+      "title": "Wonder Woman (2017)",
+      "venue": "Miracle Theater",
+      "date": "2026-08-23",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/wonder-woman/"
     },
     {
       "title": "Heaven Knows, Mr. Allison (1957)",
@@ -2208,6 +2200,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004365?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004365"
+    },
+    {
+      "title": "THE LITTLE SISTER (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/28115507/lI3wYg9pcGmrX1IPjcz4PO9TI09-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-little-sister/"
+    },
+    {
+      "title": "ONDA NOVA (1984)",
+      "venue": "Suns Cinema",
+      "date": "2026-08-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/28115229/eKyAO4Q6RQ1v4Az1Xg4FLSjiwFc-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/onda-nova/"
     },
     {
       "title": "The Elephant Man (1980)",
