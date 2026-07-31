@@ -1,30 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T14:01:09.637Z",
+  "lastUpdated": "2026-07-31T19:21:45.045Z",
   "screenings": [
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "10:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "10:45",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
     {
       "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
@@ -34,76 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
-      "title": "Rebel Without a Cause (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-07-31",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004099?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004099"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-07-31",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
       "title": "Reading Lolita in Tehran (2024)",
       "venue": "Avalon Theater",
       "date": "2026-07-31",
       "time": "11:45",
       "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
       "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "I Want Your Sex (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-31",
-      "time": "11:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005641?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
-    },
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "13:35",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "I Want Your Sex (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-07-31",
-      "time": "13:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005641?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
-    },
-    {
-      "title": "All About Eve (1950)",
-      "venue": "AFI Silver",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004354?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004354"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-07-31",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
     },
     {
       "title": "Reading Lolita in Tehran (2024)",
@@ -280,14 +192,6 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "Best of Thomas Edison Film Festival 2026",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-01",
-      "time": "12:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Rebel Without a Cause (1955)",
@@ -922,6 +826,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-07",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "The Samurai and the Prisoner (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-07",
@@ -944,6 +856,14 @@
       "time": "15:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005594?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-07",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Young Frankenstein (1974)",
@@ -986,6 +906,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-07",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Coming to America (1988)",
       "venue": "AFI Silver",
       "date": "2026-08-07",
@@ -1026,14 +954,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
     },
     {
-      "title": "Giant (1956)",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-08",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "CatVideoFest 2026 (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-08",
@@ -1056,6 +976,14 @@
       "time": "15:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005617?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005617"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-08",
+      "time": "15:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -1096,6 +1024,14 @@
       "time": "19:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-08",
+      "time": "19:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Forbidden Planet (1956)",
@@ -1146,20 +1082,20 @@
       "ticketLink": "https://themiracletheatre.com/events/forrest-gump-2/"
     },
     {
-      "title": "Kameradschaft and Oil: A Symphony in Motion",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-09",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "Sanjuro (1962)",
       "venue": "AFI Silver",
       "date": "2026-08-09",
       "time": "14:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003586?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003586"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-09",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Young Frankenstein (1974)",
@@ -1194,6 +1130,14 @@
       "ticketLink": "https://sunscinema.com/movies/maddies-secret/"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-09",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Coming to America (1988)",
       "venue": "AFI Silver",
       "date": "2026-08-09",
@@ -1210,6 +1154,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000618"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-10",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "The Samurai and the Prisoner (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-10",
@@ -1224,6 +1176,14 @@
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005617?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005617"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-10",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Cars (2006)",
@@ -1250,12 +1210,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003586"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-10",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Back to the Future (1985)",
       "venue": "AFI Silver",
       "date": "2026-08-10",
       "time": "20:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000059?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000059"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-11",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "The Revolt of Mamie Stover (1956)",
@@ -1272,6 +1248,14 @@
       "time": "14:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005583?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005583"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-11",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -1306,6 +1290,14 @@
       "ticketLink": "https://sunscinema.com/movies/maddies-secret/"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-11",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "The Samurai and the Prisoner (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-11",
@@ -1320,6 +1312,14 @@
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003586?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003586"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-12",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Forbidden Planet (1956)",
@@ -1344,6 +1344,14 @@
       "time": "14:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000806?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000806"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-12",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Sanjuro (1962)",
@@ -1386,12 +1394,28 @@
       "ticketLink": "https://sunscinema.com/movies/the-green-ray-2/"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-12",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Back to the Future (1985)",
       "venue": "AFI Silver",
       "date": "2026-08-12",
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000059?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000059"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-13",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Looney Tunes: Friz Freleng",
@@ -1408,6 +1432,14 @@
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005594?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-13",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -1448,6 +1480,14 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/19134032/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
       "ticketLink": "https://sunscinema.com/movies/in-the-mouth-of-madness/"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-13",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -1546,14 +1586,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005595"
     },
     {
-      "title": "Harlan County, USA (1977)",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-15",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
       "title": "How to Marry a Millionaire (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-15",
@@ -1616,14 +1648,6 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
-    },
-    {
-      "title": "The Miners' Hymns and Louisiana Story",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "High Anxiety (1977)",
