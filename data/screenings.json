@@ -1,46 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T13:17:30.666Z",
+  "lastUpdated": "2026-08-01T19:05:26.376Z",
   "screenings": [
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "10:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "10:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Looney Tunes: Fairy Tales",
-      "venue": "AFI Silver",
-      "date": "2026-08-01",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005634?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005634"
-    },
-    {
-      "title": "All About Eve (1950)",
-      "venue": "AFI Silver",
-      "date": "2026-08-01",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004354?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004354"
-    },
     {
       "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
@@ -50,14 +10,6 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-01",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
       "title": "Reading Lolita in Tehran (2024)",
       "venue": "Avalon Theater",
       "date": "2026-08-01",
@@ -66,36 +18,12 @@
       "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
-      "title": "Rebel Without a Cause (1955)",
-      "venue": "AFI Silver",
+      "title": "Best of Thomas Edison Film Festival 2026",
+      "venue": "National Gallery of Art",
       "date": "2026-08-01",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004099?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004099"
-    },
-    {
-      "title": "HADESTOWN: THE MUSICAL (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "13:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "13:35",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-01",
-      "time": "14:15",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
+      "time": "12:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Reading Lolita in Tehran (2024)",
@@ -104,14 +32,6 @@
       "time": "14:15",
       "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
       "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "I Want Your Sex (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-01",
-      "time": "14:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005641?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
     },
     {
       "title": "The Human Condition Part Iii: a Soldier'S Prayer",
@@ -142,7 +62,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-01",
       "time": "16:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
       "ticketLink": null
     },
     {
@@ -198,7 +118,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-01",
       "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
       "ticketLink": null
     },
     {
@@ -938,6 +858,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005594"
     },
     {
+      "title": "Giant (1956)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-08",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "CatVideoFest 2026 (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-08",
@@ -1064,6 +992,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
       "ticketLink": "https://themiracletheatre.com/events/forrest-gump-2/"
+    },
+    {
+      "title": "Kameradschaft and Oil: A Symphony in Motion",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sanjuro (1962)",
@@ -1570,6 +1506,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005595"
     },
     {
+      "title": "Harlan County, USA (1977)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "How to Marry a Millionaire (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-15",
@@ -1632,6 +1576,14 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
+    },
+    {
+      "title": "The Miners' Hymns and Louisiana Story",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "High Anxiety (1977)",
