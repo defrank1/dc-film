@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T02:37:20.411Z",
+  "lastUpdated": "2026-08-01T08:17:08.143Z",
   "screenings": [
     {
       "title": "HADESTOWN: THE MUSICAL (2026)",
@@ -192,14 +192,6 @@
       "time": "18:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005641?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
-    },
-    {
-      "title": "HEAT (1995)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/06/21115018/umSVjVdbVwtx5ryCA2QXL44Durm-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/heat/"
     },
     {
       "title": "HADESTOWN: THE MUSICAL (2026)",
@@ -1640,22 +1632,6 @@
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
-    },
-    {
-      "title": "Uptown Talkies Presents: Bicycle Thieves",
-      "venue": "Miracle Theater",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "poster": null,
-      "ticketLink": "https://themiracletheatre.com/events/bicycle-thieves/"
-    },
-    {
-      "title": "Uptown Talkies Presents: Il Posto",
-      "venue": "Miracle Theater",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "poster": null,
-      "ticketLink": "https://themiracletheatre.com/events/il-posto/"
     },
     {
       "title": "High Anxiety (1977)",
@@ -3224,6 +3200,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005600?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005600"
+    },
+    {
+      "title": "\"Fallen Angels\" by Noël Coward",
+      "venue": "AFI Silver",
+      "date": "2026-10-22",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
+    },
+    {
+      "title": "\"Fallen Angels\" by Noël Coward",
+      "venue": "AFI Silver",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
     }
   ]
 }
