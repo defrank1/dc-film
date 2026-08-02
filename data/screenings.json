@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-02T02:36:10.834Z",
+  "lastUpdated": "2026-08-02T08:21:40.531Z",
   "screenings": [
+    {
+      "title": "The Natural (1984)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-02",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-natural/"
+    },
     {
       "title": "THE ODYSSEY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -34,14 +42,6 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-02",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
       "title": "HADESTOWN: THE MUSICAL (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-02",
@@ -56,6 +56,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-02",
+      "time": "13:15",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "Indiana Jones and the Temple of Doom (1984)",
@@ -93,7 +101,7 @@
       "title": "Reading Lolita in Tehran (2024)",
       "venue": "Avalon Theater",
       "date": "2026-08-02",
-      "time": "14:15",
+      "time": "15:45",
       "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
       "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
@@ -101,7 +109,7 @@
       "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-02",
-      "time": "15:15",
+      "time": "15:45",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
@@ -128,14 +136,6 @@
       "time": "16:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004354?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004354"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-02",
-      "time": "16:50",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
@@ -170,20 +170,20 @@
       "ticketLink": null
     },
     {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-02",
+      "time": "18:30",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+    },
+    {
       "title": "HADESTOWN: THE MUSICAL (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-02",
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/rTEOnoqdHerYj7AJYtYxcJzZ76H.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-02",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "Blazing Saddles (1974)",
@@ -194,12 +194,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001234"
     },
     {
-      "title": "Reading Lolita in Tehran (2024)",
+      "title": "The Odyssey (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-02",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
