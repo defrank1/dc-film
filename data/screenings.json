@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T08:32:31.239Z",
+  "lastUpdated": "2026-08-05T14:04:19.119Z",
   "screenings": [
     {
       "title": "HADESTOWN: THE MUSICAL (2026)",
@@ -1394,12 +1394,20 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "Uptown Talkies Presents: Bicycle Thieves & Il Posto",
+      "title": "Uptown Talkies Presents: Bicycle Thieves",
       "venue": "Miracle Theater",
       "date": "2026-08-16",
       "time": "15:00",
       "poster": null,
-      "ticketLink": "https://themiracletheatre.com/events/double-feature-bicycle-thieves-il-posto/"
+      "ticketLink": "https://themiracletheatre.com/events/bicycle-thieves/"
+    },
+    {
+      "title": "Uptown Talkies Presents: Il Posto",
+      "venue": "Miracle Theater",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "poster": null,
+      "ticketLink": "https://themiracletheatre.com/events/il-posto/"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -2272,14 +2280,6 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005598?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005598"
-    },
-    {
-      "title": "The Incredibles (2004)",
-      "venue": "Miracle Theater",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-incredibles-3/"
     },
     {
       "title": "The Seven Year Itch (1955)",
