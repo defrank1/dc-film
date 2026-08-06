@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T02:25:03.704Z",
+  "lastUpdated": "2026-08-06T08:32:39.464Z",
   "screenings": [
     {
       "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
@@ -186,20 +186,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005641"
     },
     {
-      "title": "POSSESSION (1981)",
-      "venue": "Suns Cinema",
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
       "date": "2026-08-06",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/09/24232137/possession.jpg",
-      "ticketLink": "https://sunscinema.com/movies/possession/"
-    },
-    {
-      "title": "JURASSIC PARK (1993)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-06",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/05/22131057/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
-      "ticketLink": "https://sunscinema.com/movies/jurassic-park/"
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "The Human Condition Part Iii: a Soldier'S Prayer",
@@ -218,14 +210,6 @@
       "ticketLink": null
     },
     {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-06",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-06",
@@ -234,20 +218,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-06",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+    },
+    {
       "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-06",
       "time": "20:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-06",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
     },
     {
       "title": "Manhunter: the Final Cut",
