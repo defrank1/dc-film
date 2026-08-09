@@ -1,174 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T18:34:24.503Z",
+  "lastUpdated": "2026-08-09T01:35:48.144Z",
   "screenings": [
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "12:30",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
-    },
-    {
-      "title": "Giant (1956)",
-      "venue": "National Gallery of Art",
-      "date": "2026-08-08",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
-      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "The Samurai and the Prisoner (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "Odd Obsession (1959)",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005617?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005617"
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "15:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Manhunter: the Final Cut",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005642?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005642"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "CatVideoFest 2026 (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "17:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
-    },
-    {
-      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "17:15",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Back to the Future (1985)",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000059?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000059"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "The Samurai and the Prisoner (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
-    },
-    {
-      "title": "Reading Lolita in Tehran (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-08",
-      "time": "19:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "20:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "Forbidden Planet (1956)",
       "venue": "AFI Silver",
@@ -176,22 +8,6 @@
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000618?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000618"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "21:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-08",
-      "time": "22:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Looney Tunes: Friz Freleng",
@@ -202,12 +18,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005635"
     },
     {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
       "title": "Gentlemen Prefer Blondes (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-09",
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000806?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000806"
+    },
+    {
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -250,12 +82,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003586"
     },
     {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-09",
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "I Want Your Sex (2026)",
@@ -272,6 +120,14 @@
       "time": "16:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001130?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001130"
+    },
+    {
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -298,12 +154,28 @@
       "ticketLink": "https://sunscinema.com/movies/maddies-secret/"
     },
     {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-09",
       "time": "19:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Reading Lolita in Tehran (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-09",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -320,6 +192,22 @@
       "time": "21:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005583?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005583"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-09",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-09",
+      "time": "22:00",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
     },
     {
       "title": "Forbidden Planet (1956)",
