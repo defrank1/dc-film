@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T07:28:31.430Z",
+  "lastUpdated": "2026-08-10T13:02:47.181Z",
   "screenings": [
     {
       "title": "HADESTOWN: THE MUSICAL (2026)",
@@ -690,6 +690,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005595"
     },
     {
+      "title": "Harlan County, USA (1977)",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "How to Marry a Millionaire (1953)",
       "venue": "AFI Silver",
       "date": "2026-08-15",
@@ -792,6 +800,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005645?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005645"
+    },
+    {
+      "title": "The Miners' Hymns and Louisiana Story",
+      "venue": "National Gallery of Art",
+      "date": "2026-08-16",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Uptown Talkies Presents: Bicycle Thieves & Il Posto",
@@ -2288,14 +2304,6 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000214?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000214"
-    },
-    {
-      "title": "The Right Stuff (1983)",
-      "venue": "Miracle Theater",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/the-right-stuff-2/"
     },
     {
       "title": "The Nutty Professor (1996)",
