@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-08-14T01:46:37.014Z",
+  "lastUpdated": "2026-08-14T07:21:13.397Z",
   "screenings": [
     {
-      "title": "Odd Obsession (1959)",
-      "venue": "AFI Silver",
-      "date": "2026-08-13",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005617?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005617"
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "10:00",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "10:35",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Odyssey (2026)",
@@ -37,9 +53,17 @@
       "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-14",
-      "time": "12:30",
+      "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
       "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -50,6 +74,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
     },
     {
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "13:20",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Bigger Than Life (1956)",
       "venue": "AFI Silver",
       "date": "2026-08-14",
@@ -58,12 +90,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
     },
     {
-      "title": "Reading Lolita in Tehran (2024)",
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Hadestown: The Musical (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-14",
-      "time": "14:45",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -90,6 +130,22 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "High Anxiety (1977)",
       "venue": "AFI Silver",
       "date": "2026-08-14",
@@ -104,6 +160,14 @@
       "time": "17:15",
       "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
       "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "18:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
     },
     {
       "title": "Sherman'S March (1986)",
@@ -122,20 +186,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005586"
     },
     {
-      "title": "BODY HEAT (1981)",
-      "venue": "Suns Cinema",
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27145920/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
-      "ticketLink": "https://sunscinema.com/movies/body-heat/"
-    },
-    {
-      "title": "THE HOT SPOT (1990)",
-      "venue": "Suns Cinema",
-      "date": "2026-08-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/07/27150018/iQCP69183K1QZo8bb23nkcLap3W.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-hot-spot/"
+      "time": "18:35",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Odyssey (2026)",
@@ -146,6 +202,14 @@
       "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "19:20",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-14",
@@ -154,12 +218,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
-      "title": "Reading Lolita in Tehran (2024)",
+      "title": "Hadestown: The Musical (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-14",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-      "ticketLink": "https://www.theavalon.org/films/reading-lolita-in-tehran/"
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
     },
     {
       "title": "Big Trouble in Little China (1986)",
@@ -178,11 +242,27 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
     },
     {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "21:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-14",
-      "time": "21:45",
+      "time": "21:30",
       "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-14",
+      "time": "22:15",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
       "ticketLink": null
     },
     {
