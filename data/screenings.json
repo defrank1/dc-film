@@ -1,158 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T18:36:16.450Z",
+  "lastUpdated": "2026-08-18T01:05:58.625Z",
   "screenings": [
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
-    },
-    {
-      "title": "How to Marry a Millionaire (1953)",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005626?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005626"
-    },
-    {
-      "title": "Hadestown: The Musical (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Ratatouille (2007)",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005608?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005608"
-    },
-    {
-      "title": "THE BRINK OF WAR (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "16:20",
-      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "CatVideoFest 2026 (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
-    },
-    {
-      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "17:15",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
-    },
-    {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Sherman'S March (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "18:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005645?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005645"
-    },
-    {
-      "title": "Love Under the Crucifix (1962)",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005618?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005618"
-    },
-    {
-      "title": "HIS GIRL FRIDAY (1940)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Odyssey (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-17",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "Hadestown: The Musical (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-08-17",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
-      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
-    },
     {
       "title": "Harlem Nights (1989)",
       "venue": "AFI Silver",
@@ -170,28 +18,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
     },
     {
-      "title": "THE ODYSSEY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "21:15",
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "21:35",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE BRINK OF WAR (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-17",
-      "time": "22:15",
-      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-      "ticketLink": null
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -200,6 +32,14 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -234,12 +74,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003589"
     },
     {
+      "title": "Hadestown: The Musical (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-18",
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -256,6 +112,14 @@
       "time": "17:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005636?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005636"
+    },
+    {
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
     },
     {
       "title": "Remake (2003)",
@@ -290,12 +154,28 @@
       "ticketLink": "https://sunscinema.com/movies/la-cienaga/"
     },
     {
+      "title": "The Odyssey (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-odyssey/"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-18",
       "time": "19:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Hadestown: The Musical (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-08-18",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -312,6 +192,30 @@
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004361?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004361"
+    },
+    {
+      "title": "THE ODYSSEY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-18",
+      "time": "21:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-18",
+      "time": "21:35",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE BRINK OF WAR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-18",
+      "time": "22:15",
+      "poster": "https://image.tmdb.org/t/p/w500/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+      "ticketLink": null
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -2298,17 +2202,17 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "Robert Drew and Associates: Primary and A Camera That Goes Anywhere",
+      "title": "Stories and Pictures By; For the Left Hand",
       "venue": "National Gallery of Art",
-      "date": "2026-10-10",
+      "date": "2026-10-03",
       "time": "14:00",
       "poster": null,
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "Maysles Films Inc.’s Salesman",
+      "title": "Special Preview: While We Are Here",
       "venue": "National Gallery of Art",
-      "date": "2026-10-17",
+      "date": "2026-10-04",
       "time": "14:00",
       "poster": null,
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
