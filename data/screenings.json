@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T12:42:35.988Z",
+  "lastUpdated": "2026-08-25T18:36:25.130Z",
   "screenings": [
-    {
-      "title": "CatVideoFest 2026 (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-25",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
-    },
     {
       "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
       "venue": "Avalon Theater",
@@ -16,38 +8,6 @@
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
       "ticketLink": "https://www.theavalon.org/films/mary-oliver-saved-by-the-beauty-of-the-world/"
-    },
-    {
-      "title": "The Bridge on the River Kwai (1957)",
-      "venue": "AFI Silver",
-      "date": "2026-08-25",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002072?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002072"
-    },
-    {
-      "title": "TONY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-25",
-      "time": "11:50",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-25",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-25",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "ticketLink": null
     },
     {
       "title": "Late Fame (2026)",
@@ -58,22 +18,6 @@
       "ticketLink": "https://www.theavalon.org/films/late-fame/"
     },
     {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-08-25",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "The Samurai and the Prisoner (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-08-25",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
-    },
-    {
       "title": "Hadestown: The Musical (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-25",
@@ -82,20 +26,20 @@
       "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
     },
     {
-      "title": "TONY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-08-25",
-      "time": "14:20",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-08-25",
       "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Bowfinger (1999)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "15:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005584?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005584"
     },
     {
       "title": "Bowfinger (1999)",
@@ -128,6 +72,22 @@
       "time": "16:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Mulan (1998)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005585?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005585"
     },
     {
       "title": "Mulan (1998)",
@@ -170,12 +130,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005637"
     },
     {
+      "title": "Looney Tunes: Robert McKimson",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "17:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005637?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005637"
+    },
+    {
       "title": "Late Fame (2026)",
       "venue": "Avalon Theater",
       "date": "2026-08-25",
       "time": "17:15",
       "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
       "ticketLink": "https://www.theavalon.org/films/late-fame/"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -194,6 +170,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004365"
     },
     {
+      "title": "Bonjour Tristesse (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004365?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004365"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-25",
@@ -202,12 +186,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
-      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
       "date": "2026-08-25",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "ticketLink": null
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Hadestown: The Musical (2026)",
@@ -216,6 +200,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
       "ticketLink": "https://www.theavalon.org/films/hadestown-the-musical/"
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-08-25",
+      "time": "19:10",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "ticketLink": null
     },
     {
       "title": "TONY (2026)",
@@ -250,12 +242,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001308"
     },
     {
+      "title": "The Elephant Man (1980)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001308?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001308"
+    },
+    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-25",
       "time": "21:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-25",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "CatVideoFest 2026 (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
     },
     {
       "title": "CatVideoFest 2026 (2026)",
@@ -274,12 +290,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Looney Tunes: Robert McKimson",
       "venue": "AFI Silver",
       "date": "2026-08-26",
       "time": "12:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005637?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005637"
+    },
+    {
+      "title": "Looney Tunes: Robert McKimson",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005637?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005637"
+    },
+    {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -298,12 +338,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001875"
     },
     {
+      "title": "River of No Return (1954)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001875?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001875"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-26",
       "time": "15:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -322,12 +386,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005585"
     },
     {
+      "title": "Mulan (1998)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005585?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005585"
+    },
+    {
       "title": "The Bridge on the River Kwai (1957)",
       "venue": "AFI Silver",
       "date": "2026-08-26",
       "time": "18:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002072?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002072"
+    },
+    {
+      "title": "The Bridge on the River Kwai (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002072?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002072"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -362,12 +450,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-26",
       "time": "21:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Friday the 13th Part Vi: Jason Lives (1986)",
+      "venue": "AFI Silver",
+      "date": "2026-08-26",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005630?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005630"
     },
     {
       "title": "Friday the 13th Part Vi: Jason Lives (1986)",
@@ -386,12 +498,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005573"
     },
     {
+      "title": "THE ODYSSEY (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005573?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005573"
+    },
+    {
       "title": "CatVideoFest 2026 (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-27",
       "time": "11:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
+    },
+    {
+      "title": "CatVideoFest 2026 (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005624?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005624"
+    },
+    {
+      "title": "Heaven Knows, Mr. Allison (1957)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001880?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001880"
     },
     {
       "title": "Heaven Knows, Mr. Allison (1957)",
@@ -410,12 +546,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
     },
     {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
       "title": "Bowfinger (1999)",
       "venue": "AFI Silver",
       "date": "2026-08-27",
       "time": "14:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005584?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005584"
+    },
+    {
+      "title": "Bowfinger (1999)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005584?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005584"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -434,6 +594,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Wall-E (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005609?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005609"
+    },
+    {
       "title": "Wall-E (2025)",
       "venue": "AFI Silver",
       "date": "2026-08-27",
@@ -450,12 +626,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005619"
     },
     {
+      "title": "THE FACE OF ANOTHER in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005619?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005619"
+    },
+    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-27",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "The Elephant Man (1980)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001308?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001308"
     },
     {
       "title": "The Elephant Man (1980)",
@@ -490,6 +690,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "THE SWORD OF DOOM in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000527?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000527"
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade (1989)",
+      "venue": "AFI Silver",
+      "date": "2026-08-27",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005602?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005602"
+    },
+    {
       "title": "THE SWORD OF DOOM in 35mm",
       "venue": "AFI Silver",
       "date": "2026-08-27",
@@ -514,12 +738,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005573"
     },
     {
+      "title": "THE ODYSSEY (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "11:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005573?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005573"
+    },
+    {
       "title": "History of the World: Part I (1981)",
       "venue": "AFI Silver",
       "date": "2026-08-28",
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005623?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005623"
+    },
+    {
+      "title": "History of the World: Part I (1981)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005623?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005623"
+    },
+    {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
     },
     {
       "title": "The Samurai and the Prisoner (2026)",
@@ -538,12 +786,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
     },
     {
+      "title": "The Seven Year Itch (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005627?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-28",
       "time": "14:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -562,12 +834,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000579"
     },
     {
+      "title": "The Guns of Navarone (1961)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000579?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000579"
+    },
+    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-28",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "SAMURAI REBELLION in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003591?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003591"
     },
     {
       "title": "SAMURAI REBELLION in 35mm",
@@ -594,12 +890,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
     },
     {
+      "title": "Harry Potter and the Sorcerer'S Stone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000777?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
+    },
+    {
       "title": "Zatoichi Goes to the Fire Festival (1970)",
       "venue": "AFI Silver",
       "date": "2026-08-28",
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005620?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005620"
+    },
+    {
+      "title": "Zatoichi Goes to the Fire Festival (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005620?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005620"
+    },
+    {
+      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-28",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005657?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005657"
     },
     {
       "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA in 35mm",
@@ -626,6 +946,30 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005638"
     },
     {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
+      "title": "Looney Tunes: That's Show Biz",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005638?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005638"
+    },
+    {
+      "title": "Shrek (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "11:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005588"
+    },
+    {
       "title": "Shrek (2001)",
       "venue": "AFI Silver",
       "date": "2026-08-29",
@@ -642,12 +986,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "Gunman'S Walk (1958)",
       "venue": "AFI Silver",
       "date": "2026-08-29",
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005598?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005598"
+    },
+    {
+      "title": "Gunman'S Walk (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005598?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005598"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "13:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -674,6 +1042,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
     },
     {
+      "title": "The Seven Year Itch (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "15:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005627?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "16:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-29",
@@ -690,12 +1074,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003591"
     },
     {
+      "title": "SAMURAI REBELLION in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003591?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003591"
+    },
+    {
       "title": "Harry Potter and the Sorcerer'S Stone (2001)",
       "venue": "AFI Silver",
       "date": "2026-08-29",
       "time": "17:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000777?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer'S Stone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "17:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000777?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -730,12 +1138,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "House of Usher (1960)",
       "venue": "AFI Silver",
       "date": "2026-08-29",
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005597?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005597"
+    },
+    {
+      "title": "House of Usher (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005597"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-29",
+      "time": "21:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -754,12 +1186,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000579"
     },
     {
+      "title": "The Guns of Navarone (1961)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000579?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000579"
+    },
+    {
       "title": "THE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-08-30",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "13:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -786,12 +1242,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "15:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
       "title": "History of the World: Part I (1981)",
       "venue": "AFI Silver",
       "date": "2026-08-30",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005623?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005623"
+    },
+    {
+      "title": "History of the World: Part I (1981)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005623?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005623"
+    },
+    {
+      "title": "SAMURAI REBELLION in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "17:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003591?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003591"
     },
     {
       "title": "SAMURAI REBELLION in 35mm",
@@ -810,12 +1290,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
     },
     {
+      "title": "Harry Potter and the Sorcerer'S Stone (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000777?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000777"
+    },
+    {
       "title": "The Samurai and the Prisoner (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-30",
       "time": "18:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
+      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "20:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005657?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005657"
     },
     {
       "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA in 35mm",
@@ -834,12 +1338,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
       "title": "Zatoichi Goes to the Fire Festival (1970)",
       "venue": "AFI Silver",
       "date": "2026-08-30",
       "time": "21:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005620?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005620"
+    },
+    {
+      "title": "Zatoichi Goes to the Fire Festival (1970)",
+      "venue": "AFI Silver",
+      "date": "2026-08-30",
+      "time": "21:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005620?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005620"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -858,6 +1386,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005588"
     },
     {
+      "title": "Shrek (2001)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005588"
+    },
+    {
+      "title": "The Samurai and the Prisoner (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
+    },
+    {
       "title": "The Samurai and the Prisoner (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-31",
@@ -872,6 +1416,22 @@
       "time": "14:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005598?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005598"
+    },
+    {
+      "title": "Gunman'S Walk (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005598?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005598"
+    },
+    {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "THE ODYSSEY in 70mm",
@@ -893,9 +1453,33 @@
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-08-31",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "The Seven Year Itch (1955)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005627?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
     },
     {
       "title": "The Seven Year Itch (1955)",
@@ -914,12 +1498,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
+      "title": "THE ODYSSEY in 70mm",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "19:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
+    },
+    {
       "title": "House of Usher (1960)",
       "venue": "AFI Silver",
       "date": "2026-08-31",
       "time": "21:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005597?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005597"
+    },
+    {
+      "title": "House of Usher (1960)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005597?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005597"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-08-31",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -1370,6 +1978,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001664"
     },
     {
+      "title": "American Doctor (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-05",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
+    },
+    {
       "title": "Oklahoma! (1955)",
       "venue": "National Gallery of Art",
       "date": "2026-09-05",
@@ -1400,6 +2016,22 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005648?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005648"
+    },
+    {
+      "title": "A BRIGHTER SUMMER DAY (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25115346/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-brighter-summer-day/"
+    },
+    {
+      "title": "HAPPYEND (2024)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-05",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25115213/fRN6U0srlhNe0B69dJZ0seuv4GZ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/happyend/"
     },
     {
       "title": "Spaceballs (1987)",
@@ -1594,6 +2226,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005589"
     },
     {
+      "title": "PUMP UP THE VOLUME (1990)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25113616/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+      "ticketLink": "https://sunscinema.com/movies/pump-up-the-volume/"
+    },
+    {
+      "title": "OVER THE EDGE (1979)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25113317/aFJJF4GLQTEcg9qwW0deRJFhskU.jpg",
+      "ticketLink": "https://sunscinema.com/movies/over-the-edge/"
+    },
+    {
       "title": "Spaceballs (1987)",
       "venue": "AFI Silver",
       "date": "2026-09-08",
@@ -1640,6 +2288,22 @@
       "time": "18:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005599?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005599"
+    },
+    {
+      "title": "TRAINSPOTTING (1996)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25115633/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/trainspotting/"
+    },
+    {
+      "title": "QUADROPHENIA (1979)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25115515/4sRR3pvrAZMG7GEvnR9XzqyHHfD.jpg",
+      "ticketLink": "https://sunscinema.com/movies/quadrophenia/"
     },
     {
       "title": "The Nutty Professor (1996)",
@@ -1690,6 +2354,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000982"
     },
     {
+      "title": "PIGS AND BATTLESHIPS (1961)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25120707/u7fbMQSE5OMKYKOXbSAp5WOJRBj.jpg",
+      "ticketLink": "https://sunscinema.com/movies/pigs-and-battleships/"
+    },
+    {
+      "title": "CRAZED FRUIT (1956)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25120548/tQIuAQe0E09L8WfVa5hqjMQ7nIU.jpg",
+      "ticketLink": "https://sunscinema.com/movies/crazed-fruit/"
+    },
+    {
       "title": "2001: A SPACE ODYSSEY in 70mm",
       "venue": "AFI Silver",
       "date": "2026-09-10",
@@ -1738,6 +2418,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000072"
     },
     {
+      "title": "SALVADOR ALLENDE (2004)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-11",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/lWYAhfpsQMxiuSQ0FBIL9HkEj6J.jpg",
+      "ticketLink": "https://sunscinema.com/movies/salvador-allende/"
+    },
+    {
       "title": "BATMAN (1989) in 70mm",
       "venue": "AFI Silver",
       "date": "2026-09-11",
@@ -1784,6 +2472,22 @@
       "time": "18:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000064?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000064"
+    },
+    {
+      "title": "MAHJONG (2021)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25121037/mMDogr2D9FTIsA7xleOG3Lps93K.jpg",
+      "ticketLink": "https://sunscinema.com/movies/mahjong/"
+    },
+    {
+      "title": "REBELS OF THE NEON GOD (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/05/24110454/eVNOoFSpRnaCNSJwerAD0KkeibD.jpg",
+      "ticketLink": "https://sunscinema.com/movies/rebels-of-the-neon-god/"
     },
     {
       "title": "BATMAN (1989) in 70mm",
@@ -1882,6 +2586,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002550"
     },
     {
+      "title": "I WANT YOUR SEX (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25124631/pR7SIX3AwqdoD96OI44oLG98e7g-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/i-want-your-sex/"
+    },
+    {
       "title": "Fantastic Voyage (1966)",
       "venue": "AFI Silver",
       "date": "2026-09-15",
@@ -1912,6 +2624,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005658?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005658"
+    },
+    {
+      "title": "LOS GOLFOS (THE DELINQUENTS) (1960)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25125756/1uhk8gQruaf4jY19HTsUVVrcIZv.jpg",
+      "ticketLink": "https://sunscinema.com/movies/los-golfos-the-delinquents/"
+    },
+    {
+      "title": "THE FILMS OF SARAH JACOBSON",
+      "venue": "Suns Cinema",
+      "date": "2026-09-16",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25125640/images-3.jpeg",
+      "ticketLink": "https://sunscinema.com/movies/the-films-of-sarah-jacobson/"
     },
     {
       "title": "Barrio Triste (2026)",
@@ -1968,6 +2696,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005689?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005689"
+    },
+    {
+      "title": "MENACE II SOCIETY (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25130125/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+      "ticketLink": "https://sunscinema.com/movies/menace-ii-society/"
+    },
+    {
+      "title": "BOYZ N THE HOOD (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25130029/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "ticketLink": "https://sunscinema.com/movies/boyz-n-the-hood/"
     },
     {
       "title": "Olmo (2026)",
@@ -2130,6 +2874,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005689"
     },
     {
+      "title": "TALKING TO STRANGERS (1988)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25133747/lnFCQmWxhxutVuyZKNaQ2nz36Sa.jpg",
+      "ticketLink": "https://sunscinema.com/movies/talking-to-strangers/"
+    },
+    {
+      "title": "CHRONOVISOR (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25132945/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "ticketLink": "https://sunscinema.com/movies/chronovisor/"
+    },
+    {
       "title": "LEPERS & SEX a.k.a. SANTO VS. THE RIDERS OF TERROR",
       "venue": "AFI Silver",
       "date": "2026-09-22",
@@ -2176,6 +2936,14 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005696?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005696"
+    },
+    {
+      "title": "MY BROTHER’S WEDDING (1985)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25131316/oYtUp1UDMVTsA4rcIuugF0PDnIO-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/my-brothers-wedding-2/"
     },
     {
       "title": "If We Don'T Burn, How Do We Light up the Night (2025)",
@@ -2248,6 +3016,14 @@
       "time": "18:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005659?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005659"
+    },
+    {
+      "title": "THE WARPED ONES (1960)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-26",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25141006/gK9TCfADR37uN94LP1Ue3xNxh1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-warped-ones/"
     },
     {
       "title": "Donkey Princess (2026)",
@@ -2338,6 +3114,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005698"
     },
     {
+      "title": "TOTALLY F***ED UP (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25135817/qZBtSTEhlXy0aNTZ40umWLpJr2T-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/totally-fed-up/"
+    },
+    {
+      "title": "THE LIVING END (1992)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25135723/4tqdQcKkZGn4qQy9bWWu1fEM6z2.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-living-end/"
+    },
+    {
       "title": "La Perra (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-29",
@@ -2362,60 +3154,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005695"
     },
     {
+      "title": "STREETWISE (1984)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25140553/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
+      "ticketLink": "https://sunscinema.com/movies/streetwise/"
+    },
+    {
+      "title": "HELL’S HIGHWAY: THE TRUE STORY OF HIGHWAY SAFETY FILMS (2003)",
+      "venue": "Suns Cinema",
+      "date": "2026-09-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25140357/jERpn7kbYxv6WIrwXtjqBNganj6-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/hells-highway-the-true-story-of-highway-safety-films/"
+    },
+    {
       "title": "Donkey Princess (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-30",
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005666?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005666"
-    },
-    {
-      "title": "Perros (2000)",
-      "venue": "AFI Silver",
-      "date": "2026-10-01",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005695?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005695"
-    },
-    {
-      "title": "Milly: Queen of Merengue (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-01",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005675?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005675"
-    },
-    {
-      "title": "THE RIVER TRAIN w/ FOR THE OPPONENTS",
-      "venue": "AFI Silver",
-      "date": "2026-10-01",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005661?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005661"
-    },
-    {
-      "title": "Eva (2021)",
-      "venue": "AFI Silver",
-      "date": "2026-10-02",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005681?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005681"
-    },
-    {
-      "title": "Campéon Gabacho (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-02",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005683?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005683"
-    },
-    {
-      "title": "November (2014)",
-      "venue": "AFI Silver",
-      "date": "2026-10-02",
-      "time": "21:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
     },
     {
       "title": "Fire in the East: A Portrait of Robert Frank (1986)",
@@ -2426,228 +3186,12 @@
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
-      "title": "NeuróTica anóNima (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005674?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
-    },
-    {
       "title": "Stories and Pictures By; For the Left Hand",
       "venue": "National Gallery of Art",
       "date": "2026-10-03",
       "time": "14:00",
       "poster": null,
       "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
-    },
-    {
-      "title": "Everything Else Is Noise (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "14:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005684?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005684"
-    },
-    {
-      "title": "The Phantom (1996)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005660?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005660"
-    },
-    {
-      "title": "The Red Hangar (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005669?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005669"
-    },
-    {
-      "title": "Summer of Three (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005692?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005692"
-    },
-    {
-      "title": "Everything Else Is Noise (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-04",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005684?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005684"
-    },
-    {
-      "title": "THAT SHADOW FADING w/ Q-POP",
-      "venue": "AFI Silver",
-      "date": "2026-10-04",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005690?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005690"
-    },
-    {
-      "title": "The Phantom (1996)",
-      "venue": "AFI Silver",
-      "date": "2026-10-04",
-      "time": "17:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005660?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005660"
-    },
-    {
-      "title": "Eva (2021)",
-      "venue": "AFI Silver",
-      "date": "2026-10-04",
-      "time": "19:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005681?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005681"
-    },
-    {
-      "title": "November (2014)",
-      "venue": "AFI Silver",
-      "date": "2026-10-04",
-      "time": "21:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
-    },
-    {
-      "title": "NeuróTica anóNima (2025)",
-      "venue": "AFI Silver",
-      "date": "2026-10-05",
-      "time": "16:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005674?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
-    },
-    {
-      "title": "Ashes (2027)",
-      "venue": "AFI Silver",
-      "date": "2026-10-05",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005682?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005682"
-    },
-    {
-      "title": "Summer of Three (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-05",
-      "time": "21:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005692?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005692"
-    },
-    {
-      "title": "November (2014)",
-      "venue": "AFI Silver",
-      "date": "2026-10-06",
-      "time": "17:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
-    },
-    {
-      "title": "The Meltdown (2006)",
-      "venue": "AFI Silver",
-      "date": "2026-10-06",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005668?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005668"
-    },
-    {
-      "title": "Campéon Gabacho (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-06",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005683?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005683"
-    },
-    {
-      "title": "The Meltdown (2006)",
-      "venue": "AFI Silver",
-      "date": "2026-10-07",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005668?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005668"
-    },
-    {
-      "title": "Queen Budapest (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-10-07",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005656?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005656"
-    },
-    {
-      "title": "Bitter Christmas (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005694?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005694"
-    },
-    {
-      "title": "The Red Hangar (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-07",
-      "time": "21:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005669?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005669"
-    },
-    {
-      "title": "Queen Budapest (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-10-10",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005656?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005656"
-    },
-    {
-      "title": "\"Fallen Angels\" by Noël Coward",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
-    },
-    {
-      "title": "NOSFERATU (1922) w/ THE CAMERAMAN'S REVENGE (1912)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000238?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000238"
-    },
-    {
-      "title": "Count Gore de Vol presents THE EVIL DEAD (1981)",
-      "venue": "AFI Silver",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001446?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001446"
-    },
-    {
-      "title": "The Rocky Horror Picture Show (1975)",
-      "venue": "AFI Silver",
-      "date": "2026-10-24",
-      "time": "22:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000318?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000318"
-    },
-    {
-      "title": "\"Fallen Angels\" by Noël Coward",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
-    },
-    {
-      "title": "Faust (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001026?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001026"
     }
   ]
 }
