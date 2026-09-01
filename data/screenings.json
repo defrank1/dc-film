@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T03:37:01.138Z",
+  "lastUpdated": "2026-09-01T11:06:57.644Z",
   "screenings": [
     {
       "title": "THE ODYSSEY in 70mm",
@@ -170,14 +170,6 @@
       "ticketLink": null
     },
     {
-      "title": "Late Fame (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-01",
-      "time": "17:15",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "ticketLink": "https://www.theavalon.org/films/late-fame/"
-    },
-    {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-01",
@@ -192,22 +184,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005623?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005623"
-    },
-    {
-      "title": "REBEL WITHOUT A CAUSE (1955)",
-      "venue": "Suns Cinema",
-      "date": "2026-09-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/24122652/yHStsC8rRRfIjqRN38BQsLh6S7k-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/rebel-without-a-cause/"
-    },
-    {
-      "title": "RUMBLE FISH (1983)",
-      "venue": "Suns Cinema",
-      "date": "2026-09-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/24122737/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
-      "ticketLink": "https://sunscinema.com/movies/rumble-fish/"
     },
     {
       "title": "The Marching Band (2024)",
@@ -242,20 +218,20 @@
       "ticketLink": null
     },
     {
-      "title": "Late Fame (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-01",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "ticketLink": "https://www.theavalon.org/films/late-fame/"
-    },
-    {
       "title": "TONY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-01",
       "time": "19:40",
       "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Late Fame (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-01",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "ticketLink": "https://www.theavalon.org/films/late-fame/"
     },
     {
       "title": "Gunman'S Walk (1958)",
@@ -674,6 +650,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
     },
     {
+      "title": "Oklahoma! (1955)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-05",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "The Hustler (1961)",
       "venue": "AFI Silver",
       "date": "2026-09-05",
@@ -792,6 +776,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
       "ticketLink": "https://themiracletheatre.com/events/the-right-stuff-2/"
+    },
+    {
+      "title": "Shoot the Piano Player (1960)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-06",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "The Nutty Professor (1996)",
@@ -1426,6 +1418,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005600"
     },
     {
+      "title": "The Dream and the Lie",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-12",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Dreamgirls (2006)",
       "venue": "AFI Silver",
       "date": "2026-09-12",
@@ -1464,6 +1464,14 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000072?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000072"
+    },
+    {
+      "title": "Napoleon (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-13",
+      "time": "10:15",
+      "poster": "https://image.tmdb.org/t/p/w500/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Looney Tunes All Stars: Part 2",
@@ -1698,6 +1706,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005663"
     },
     {
+      "title": "Hoop Dreams (1994)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "On Behalf of My Son (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-19",
@@ -1752,6 +1768,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005676?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005676"
+    },
+    {
+      "title": "Golub: Late Works Are the Catastrophes; Viva la Causa (2004)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-20",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/uhcuBwOwFa5yi0TIiQJOzDvBDW9.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Sad Girlz (2026)",
@@ -1962,6 +1986,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005688"
     },
     {
+      "title": "Chicago Crossings: Bridges and Boundaries and A Good Man",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-26",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "La Perra (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
@@ -2016,6 +2048,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005661?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005661"
+    },
+    {
+      "title": "Life Itself (2018)",
+      "venue": "National Gallery of Art",
+      "date": "2026-09-27",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Projecto Global (2026)",
@@ -2194,12 +2234,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
     },
     {
+      "title": "Fire in the East: A Portrait of Robert Frank (1986)",
+      "venue": "National Gallery of Art",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2omtKyPmcn2AdHqij8FtlQZ1pJ4.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "NeuróTica anóNima (2025)",
       "venue": "AFI Silver",
       "date": "2026-10-03",
       "time": "12:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005674?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
+    },
+    {
+      "title": "Story and Pictures By; For the Left Hand",
+      "venue": "National Gallery of Art",
+      "date": "2026-10-03",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Everything Else Is Noise (2026)",
@@ -2416,6 +2472,70 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001026?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100001026"
+    },
+    {
+      "title": "Coco (2017)",
+      "venue": "AFI Silver",
+      "date": "2026-11-01",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001764?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001764"
+    },
+    {
+      "title": "The Adventures of Prince Achmed (1926)",
+      "venue": "AFI Silver",
+      "date": "2026-11-07",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000264?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000264"
+    },
+    {
+      "title": "The General (1926)",
+      "venue": "AFI Silver",
+      "date": "2026-11-07",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000570?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000570"
+    },
+    {
+      "title": "DANCING LADY (1933) in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-11-12",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005650?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005650"
+    },
+    {
+      "title": "THE PRISONER OF ZENDA (1937) in 35mm",
+      "venue": "AFI Silver",
+      "date": "2026-11-13",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005651?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005651"
+    },
+    {
+      "title": "The Man Who Came Back (1924)",
+      "venue": "AFI Silver",
+      "date": "2026-11-14",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005652?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005652"
+    },
+    {
+      "title": "Hula (1927)",
+      "venue": "AFI Silver",
+      "date": "2026-11-14",
+      "time": "18:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005653?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005653"
+    },
+    {
+      "title": "What Price Glory (1926)",
+      "venue": "AFI Silver",
+      "date": "2026-11-15",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002892?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002892"
     }
   ]
 }
