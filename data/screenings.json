@@ -1,38 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T15:58:54.673Z",
+  "lastUpdated": "2026-09-02T20:31:03.937Z",
   "screenings": [
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-09-02",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
-    },
-    {
-      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "11:50",
-      "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Seven Year Itch (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-09-02",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005627?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005627"
-    },
-    {
-      "title": "FINDING EMILY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "12:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
     {
       "title": "The Marching Band (2024)",
       "venue": "Avalon Theater",
@@ -40,14 +8,6 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
-    },
-    {
-      "title": "TONY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "12:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "Late Fame (2026)",
@@ -58,30 +18,6 @@
       "ticketLink": "https://www.theavalon.org/films/late-fame/"
     },
     {
-      "title": "The Samurai and the Prisoner (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-02",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005643?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005643"
-    },
-    {
-      "title": "The Guns of Navarone (1961)",
-      "venue": "AFI Silver",
-      "date": "2026-09-02",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000579?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000579"
-    },
-    {
-      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "14:20",
-      "poster": "https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "The Marching Band (2024)",
       "venue": "Avalon Theater",
       "date": "2026-09-02",
@@ -90,36 +26,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
     },
     {
-      "title": "FINDING EMILY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "14:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "TONY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-02",
-      "time": "14:40",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
       "title": "Late Fame (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-02",
       "time": "15:00",
       "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
       "ticketLink": "https://www.theavalon.org/films/late-fame/"
-    },
-    {
-      "title": "THE ODYSSEY in 70mm",
-      "venue": "AFI Silver",
-      "date": "2026-09-02",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005572?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005572"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma (2026)",
@@ -150,7 +62,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-02",
       "time": "17:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
       "ticketLink": null
     },
     {
@@ -158,7 +70,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-02",
       "time": "17:10",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "ticketLink": null
     },
     {
@@ -214,7 +126,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-02",
       "time": "19:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
       "ticketLink": null
     },
     {
@@ -230,7 +142,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-02",
       "time": "19:40",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "ticketLink": null
     },
     {
