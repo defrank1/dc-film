@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T03:25:23.463Z",
+  "lastUpdated": "2026-09-14T11:50:02.132Z",
   "screenings": [
-    {
-      "title": "The Marching Band (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-14",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
-    },
     {
       "title": "BY ANY MEANS (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -58,20 +50,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
     },
     {
-      "title": "The Marching Band (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-14",
-      "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
-    },
-    {
       "title": "TONY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-14",
       "time": "14:15",
       "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "The Marching Band (2024)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-14",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
     },
     {
       "title": "PRACTICAL MAGIC 2 (2026)",
