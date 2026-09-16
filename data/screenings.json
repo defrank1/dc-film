@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T03:22:55.439Z",
+  "lastUpdated": "2026-09-16T10:52:01.893Z",
   "screenings": [
     {
       "title": "The Marching Band (2024)",
@@ -126,7 +126,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-16",
       "time": "16:55",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
       "ticketLink": null
     },
     {
@@ -186,36 +186,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005658"
     },
     {
-      "title": "THE FILMS OF SARAH JACOBSON",
-      "venue": "Suns Cinema",
-      "date": "2026-09-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25125640/images-3.jpeg",
-      "ticketLink": "https://sunscinema.com/movies/the-films-of-sarah-jacobson/"
-    },
-    {
-      "title": "LOS GOLFOS (THE DELINQUENTS) (1960)",
-      "venue": "Suns Cinema",
-      "date": "2026-09-16",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25125756/1uhk8gQruaf4jY19HTsUVVrcIZv.jpg",
-      "ticketLink": "https://sunscinema.com/movies/los-golfos-the-delinquents/"
-    },
-    {
       "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-16",
       "time": "19:00",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "The Marching Band (2024)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-16",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
     },
     {
       "title": "PRACTICAL MAGIC 2 (2026)",
@@ -240,6 +216,14 @@
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
       "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "That Summer in Paris (2025)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-16",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",
+      "ticketLink": "https://www.theavalon.org/films/that-summer-in-paris/"
     },
     {
       "title": "Hope (2026)",
@@ -2224,6 +2208,14 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005683?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005683"
+    },
+    {
+      "title": "Glory (1989)",
+      "venue": "Miracle Theater",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "ticketLink": "https://themiracletheatre.com/events/glory-2/"
     },
     {
       "title": "November (2001)",
