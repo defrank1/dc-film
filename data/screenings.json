@@ -1,18 +1,106 @@
 {
-  "lastUpdated": "2026-09-22T20:54:01.333Z",
+  "lastUpdated": "2026-09-23T03:22:36.161Z",
   "screenings": [
     {
       "title": "James McNeill Whistler (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "10:30",
       "poster": "https://image.tmdb.org/t/p/w500/wMVPRZGPL9DhyZHtSJvAkzhcp0E.jpg",
       "ticketLink": "https://www.theavalon.org/films/james-mcneill-whistler/"
     },
     {
+      "title": "Hope (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
+    },
+    {
+      "title": "Hope (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "AMERICAN DOCTOR (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+    },
+    {
+      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+    },
+    {
+      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "14:10",
+      "poster": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "PRACTICAL MAGIC 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "14:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "14:30",
       "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
@@ -20,31 +108,55 @@
     {
       "title": "The Cycle of Love (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "14:35",
       "poster": "https://image.tmdb.org/t/p/w500/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
     },
     {
-      "title": "The Long Cuban Night (2026)",
+      "title": "Hope (2026)",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005673?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005673"
+      "date": "2026-09-23",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
     },
     {
-      "title": "The Long Cuban Night (2026)",
+      "title": "Hope (2026)",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "16:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Mountains of Fire (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
       "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005673?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005673"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005679?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005679"
+    },
+    {
+      "title": "Mountains of Fire (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-23",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005679?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005679"
     },
     {
       "title": "TONY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
       "ticketLink": null
@@ -52,7 +164,7 @@
     {
       "title": "The Marching Band (2024)",
       "venue": "Avalon Theater",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
@@ -60,266 +172,58 @@
     {
       "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "17:00",
       "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
-      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "title": "PRACTICAL MAGIC 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "17:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Akira 4k",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
     },
     {
-      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "title": "Akira 4k",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
     },
     {
-      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
+      "title": "American Doctor (2026)",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
     },
     {
-      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
+      "title": "American Doctor (2026)",
       "venue": "AFI Silver",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
     },
     {
       "title": "THE MUSICAL (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:45",
       "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Narciso (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005689?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005689"
-    },
-    {
-      "title": "Narciso (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005689?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005689"
-    },
-    {
-      "title": "PRACTICAL MAGIC 2 (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-22",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Cycle of Love (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-22",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-22",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "Akira 4k",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
-    },
-    {
-      "title": "Akira 4k",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
-    },
-    {
-      "title": "IF I GO WILL THEY MISS ME (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-09-22",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "LEPERS & SEX a.k.a. SANTO VS. THE RIDERS OF TERROR",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005699?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005699"
-    },
-    {
-      "title": "LEPERS & SEX a.k.a. SANTO VS. THE RIDERS OF TERROR",
-      "venue": "AFI Silver",
-      "date": "2026-09-22",
-      "time": "21:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005699?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005699"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
-    },
-    {
-      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
-    },
-    {
-      "title": "Teenage Sex and Death at Camp Miasma (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
-    },
-    {
-      "title": "Teenage Sex and Death at Camp Miasma (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "Hope (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
-    },
-    {
-      "title": "Mountains of Fire (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005679?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005679"
-    },
-    {
-      "title": "Mountains of Fire (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005679?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005679"
-    },
-    {
-      "title": "Akira 4k",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
-    },
-    {
-      "title": "Akira 4k",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
-    },
-    {
-      "title": "American Doctor (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
-    },
-    {
-      "title": "American Doctor (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-23",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
     },
     {
       "title": "If We Don'T Burn, How Do We Light up the Night (2025)",
@@ -354,6 +258,38 @@
       "ticketLink": "https://sunscinema.com/movies/bring-minyo-back/"
     },
     {
+      "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "The Cycle of Love (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-23",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-23",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "PRACTICAL MAGIC 2 (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "20:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Hope (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-23",
@@ -384,6 +320,14 @@
       "time": "20:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-23",
+      "time": "20:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
     },
     {
       "title": "Under the Same Sun (2013)",
