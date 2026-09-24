@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T03:12:06.679Z",
+  "lastUpdated": "2026-09-24T11:07:53.434Z",
   "screenings": [
+    {
+      "title": "Hope (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
+    },
     {
       "title": "Hope (2026)",
       "venue": "AFI Silver",
@@ -32,6 +40,14 @@
       "time": "12:10",
       "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
+    },
+    {
+      "title": "Akira 4k",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002382?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002382"
     },
     {
       "title": "Akira 4k",
@@ -98,6 +114,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
     },
     {
+      "title": "American Doctor (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "14:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005654?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005654"
+    },
+    {
+      "title": "Hope (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "15:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
+    },
+    {
       "title": "Hope (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-24",
@@ -138,6 +170,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005697"
     },
     {
+      "title": "Olmo (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "17:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005697?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005697"
+    },
+    {
       "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-24",
@@ -160,6 +200,22 @@
       "time": "18:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "18:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005644?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005644"
+    },
+    {
+      "title": "Pulp: What Do You Do for an Encore? (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005718?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005718"
     },
     {
       "title": "Pulp: What Do You Do for an Encore? (2026)",
@@ -186,12 +242,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005696"
     },
     {
-      "title": "MY BROTHER’S WEDDING (1985)",
-      "venue": "Suns Cinema",
+      "title": "Death Has No Master (2027)",
+      "venue": "AFI Silver",
       "date": "2026-09-24",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/25131316/oYtUp1UDMVTsA4rcIuugF0PDnIO-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/my-brothers-wedding-2/"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005696?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005696"
     },
     {
       "title": "The Cycle of Love (2026)",
@@ -202,12 +258,12 @@
       "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
     },
     {
-      "title": "The Oldest Person in the World (2026)",
+      "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-24",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-oldest-person-in-the-world/"
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "PRACTICAL MAGIC 2 (2026)",
@@ -216,6 +272,14 @@
       "time": "19:45",
       "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "ticketLink": null
+    },
+    {
+      "title": "Hope (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005714?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005714"
     },
     {
       "title": "Hope (2026)",
@@ -242,6 +306,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005672"
     },
     {
+      "title": "If We Don'T Burn, How Do We Light up the Night (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005672?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005672"
+    },
+    {
+      "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
+      "venue": "AFI Silver",
+      "date": "2026-09-24",
+      "time": "21:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000054?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000054"
+    },
+    {
       "title": "GHOST IN THE SHELL (1995) - 4K Remaster",
       "venue": "AFI Silver",
       "date": "2026-09-24",
@@ -258,12 +338,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-25",
       "time": "12:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -285,9 +389,33 @@
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-25",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The Ivy (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "16:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005677?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005677"
     },
     {
       "title": "The Ivy (2026)",
@@ -306,12 +434,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-25",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Flies (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005685?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005685"
     },
     {
       "title": "Flies (2026)",
@@ -338,12 +490,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-25",
       "time": "20:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Death Has No Master (2027)",
+      "venue": "AFI Silver",
+      "date": "2026-09-25",
+      "time": "21:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005696?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005696"
     },
     {
       "title": "Death Has No Master (2027)",
@@ -362,12 +538,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
       "time": "12:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "El Viaje De Kokorrdit",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005688?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005688"
     },
     {
       "title": "El Viaje De Kokorrdit",
@@ -386,12 +586,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
       "time": "14:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "La Perra (2023)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "14:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005667?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005667"
     },
     {
       "title": "La Perra (2023)",
@@ -410,6 +634,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
+      "title": "Bajañí (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "16:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005693?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005693"
+    },
+    {
       "title": "Bajañí (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
@@ -426,12 +666,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "Barbara Forever (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
+      "title": "Nothing Between Us (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005659?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005659"
     },
     {
       "title": "Nothing Between Us (2026)",
@@ -469,9 +733,33 @@
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-26",
+      "time": "19:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
       "time": "20:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "20:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Donkey Princess (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005666?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005666"
     },
     {
       "title": "Donkey Princess (2026)",
@@ -490,12 +778,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-26",
+      "time": "21:25",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-27",
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "THE RIVER TRAIN w/ FOR THE OPPONENTS",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005661?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005661"
     },
     {
       "title": "THE RIVER TRAIN w/ FOR THE OPPONENTS",
@@ -514,12 +826,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-27",
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Projecto Global (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005691?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005691"
     },
     {
       "title": "Projecto Global (2026)",
@@ -538,12 +874,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-27",
       "time": "16:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -562,12 +922,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005680"
     },
     {
+      "title": "Nosotros (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "18:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005680?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005680"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-27",
       "time": "18:20",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The Ivy (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "20:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005677?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005677"
     },
     {
       "title": "The Ivy (2026)",
@@ -586,6 +970,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "20:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-27",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-27",
@@ -602,12 +1002,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-28",
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -629,9 +1053,33 @@
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-28",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "NeuróTica anóNima (2025)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "16:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005674?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
     },
     {
       "title": "NeuróTica anóNima (2025)",
@@ -650,6 +1098,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-28",
@@ -664,6 +1128,22 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005678?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005678"
+    },
+    {
+      "title": "Vertices (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005678?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005678"
+    },
+    {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
@@ -690,12 +1170,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005685"
     },
     {
+      "title": "The Condor Daughter (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005662?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005662"
+    },
+    {
+      "title": "Flies (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-28",
+      "time": "21:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005685?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005685"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-29",
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -717,9 +1229,33 @@
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-29",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
       "time": "15:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "15:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Vertices (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "17:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005678?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005678"
     },
     {
       "title": "Vertices (2026)",
@@ -736,6 +1272,22 @@
       "time": "18:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
+      "title": "Idols Behind Altars",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005698?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005698"
     },
     {
       "title": "Idols Behind Altars",
@@ -770,6 +1322,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005667"
     },
     {
+      "title": "La Perra (2023)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005667?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005667"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "20:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-29",
@@ -788,6 +1356,22 @@
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
       "venue": "AFI Silver",
+      "date": "2026-09-29",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "11:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
       "date": "2026-09-30",
       "time": "11:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
@@ -800,6 +1384,22 @@
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -821,9 +1421,33 @@
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-30",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Nosotros (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "17:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005680?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005680"
     },
     {
       "title": "Nosotros (2026)",
@@ -842,12 +1466,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
+      "title": "Barbara Forever (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-30",
       "time": "18:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Perros (2000)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005695?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005695"
     },
     {
       "title": "Perros (2000)",
@@ -882,12 +1530,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
+      "title": "DON'T PLAY WITH FIRE - New Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005724?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-30",
       "time": "20:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Donkey Princess (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-09-30",
+      "time": "21:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005666?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005666"
     },
     {
       "title": "Donkey Princess (2026)",
@@ -2520,206 +3192,6 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000976?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000976"
-    },
-    {
-      "title": "Coco (2017)",
-      "venue": "AFI Silver",
-      "date": "2026-11-01",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001764?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001764"
-    },
-    {
-      "title": "Queen Kelly (1929)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005719?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005719"
-    },
-    {
-      "title": "Queen Kelly (1929)",
-      "venue": "AFI Silver",
-      "date": "2026-11-03",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005719?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005719"
-    },
-    {
-      "title": "Queen Kelly (1929)",
-      "venue": "AFI Silver",
-      "date": "2026-11-04",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005719?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005719"
-    },
-    {
-      "title": "Suspiria (1977)",
-      "venue": "AFI Silver",
-      "date": "2026-11-04",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001639?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001639"
-    },
-    {
-      "title": "Queen Kelly (1929)",
-      "venue": "AFI Silver",
-      "date": "2026-11-05",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005719?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005719"
-    },
-    {
-      "title": "Carrie (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-11-05",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002562?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002562"
-    },
-    {
-      "title": "Ten Nights in a Barroom (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-06",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005721?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005721"
-    },
-    {
-      "title": "Beau Geste (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-06",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005722?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005722"
-    },
-    {
-      "title": "The Adventures of Prince Achmed (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-07",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000264?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000264"
-    },
-    {
-      "title": "The General (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-07",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000570?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000570"
-    },
-    {
-      "title": "FOR HEAVEN'S SAKE in 35mm (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003143?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003143"
-    },
-    {
-      "title": "FLESH AND THE DEVIL in 35mm (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002217?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002217"
-    },
-    {
-      "title": "Ten Nights in a Barroom (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005721?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005721"
-    },
-    {
-      "title": "Ten Nights in a Barroom (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-10",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005721?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005721"
-    },
-    {
-      "title": "Ten Nights in a Barroom (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-11",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005721?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005721"
-    },
-    {
-      "title": "DANCING LADY (1933) in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-12",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005650?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005650"
-    },
-    {
-      "title": "THE PRISONER OF ZENDA (1937) in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-13",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005651?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005651"
-    },
-    {
-      "title": "The Man Who Came Back (1924)",
-      "venue": "AFI Silver",
-      "date": "2026-11-14",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005652?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005652"
-    },
-    {
-      "title": "Hula (1927)",
-      "venue": "AFI Silver",
-      "date": "2026-11-14",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005653?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005653"
-    },
-    {
-      "title": "What Price Glory (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-15",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002892?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002892"
-    },
-    {
-      "title": "CAMERON WINTER AT CARNEGIE HALL in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-27",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
-    },
-    {
-      "title": "CAMERON WINTER AT CARNEGIE HALL in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-28",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
-    },
-    {
-      "title": "CAMERON WINTER AT CARNEGIE HALL in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-29",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
-    },
-    {
-      "title": "CAMERON WINTER AT CARNEGIE HALL in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-11-30",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
     }
   ]
 }
