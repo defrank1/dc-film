@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-25T03:28:57.729Z",
+  "lastUpdated": "2026-09-25T11:10:16.214Z",
   "screenings": [
+    {
+      "title": "Ha-Chan, Shake Your Booty! (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-25",
+      "time": "11:00",
+      "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+      "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-25",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
       "venue": "AFI Silver",
@@ -10,11 +26,11 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005724"
     },
     {
-      "title": "AVENGERS ENDGAME: ENCORE",
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
       "time": "11:50",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxv1FnfZb8oxPRjjEnp2P90mv0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "ticketLink": null
     },
     {
@@ -24,14 +40,6 @@
       "time": "12:00",
       "poster": "https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-25",
-      "time": "12:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "IF I GO WILL THEY MISS ME (2026)",
@@ -50,6 +58,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
+      "title": "Ha-Chan, Shake Your Booty! (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-25",
+      "time": "13:45",
+      "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+      "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
+    },
+    {
       "title": "Barbara Forever (2026)",
       "venue": "AFI Silver",
       "date": "2026-09-25",
@@ -58,12 +74,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
     },
     {
-      "title": "The Cycle of Love (2026)",
+      "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-25",
       "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "IF I GO WILL THEY MISS ME (2026)",
@@ -82,27 +98,19 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-25",
-      "time": "14:30",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
       "title": "THE MUSICAL (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
       "time": "14:35",
-      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
       "ticketLink": null
     },
     {
-      "title": "AVENGERS ENDGAME: ENCORE",
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
       "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxv1FnfZb8oxPRjjEnp2P90mv0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "ticketLink": null
     },
     {
@@ -112,6 +120,14 @@
       "time": "16:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Ha-Chan, Shake Your Booty! (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-25",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+      "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
     },
     {
       "title": "IF I GO WILL THEY MISS ME (2026)",
@@ -130,12 +146,12 @@
       "ticketLink": null
     },
     {
-      "title": "The Marching Band (2024)",
+      "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-25",
       "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-marching-band/"
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "The Ivy (2026)",
@@ -144,14 +160,6 @@
       "time": "16:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005677?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005677"
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-25",
-      "time": "17:00",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "Barbara Forever (2026)",
@@ -178,14 +186,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005685"
     },
     {
-      "title": "BARRIO TRISTE (2026)",
-      "venue": "Suns Cinema",
-      "date": "2026-09-25",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/08/26211914/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
-      "ticketLink": "https://sunscinema.com/movies/barrio-triste/"
-    },
-    {
       "title": "YOU'VE GOT MAIL (1998)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
@@ -194,36 +194,36 @@
       "ticketLink": null
     },
     {
-      "title": "The Cycle of Love (2026)",
+      "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-25",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-cycle-of-love/"
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "THE MUSICAL (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
       "time": "19:25",
-      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
       "ticketLink": null
     },
     {
-      "title": "AVENGERS ENDGAME: ENCORE",
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-25",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/gPxv1FnfZb8oxPRjjEnp2P90mv0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
       "ticketLink": null
     },
     {
-      "title": "Coyote vs. Acme (2026)",
+      "title": "Ha-Chan, Shake Your Booty! (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-25",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+      "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+      "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
     },
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
