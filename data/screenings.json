@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T03:42:32.196Z",
+  "lastUpdated": "2026-09-28T12:56:19.353Z",
   "screenings": [
-    {
-      "title": "The Misanthrope (1974)",
-      "venue": "Avalon Theater",
-      "date": "2026-09-28",
-      "time": "10:30",
-      "poster": "https://image.tmdb.org/t/p/w500/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-misanthrope/"
-    },
     {
       "title": "Ha-Chan, Shake Your Booty! (2026)",
       "venue": "Avalon Theater",
@@ -16,6 +8,14 @@
       "time": "11:00",
       "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
       "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-09-28",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
     },
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
@@ -30,7 +30,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-28",
       "time": "11:50",
-      "poster": "https://image.tmdb.org/t/p/w500/oE6lft2YlRK4wpQVxm2qkOzkFQH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qKw21oq84a9u0xd0TFXvmpWmIbh.jpg",
       "ticketLink": null
     },
     {
@@ -110,7 +110,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-28",
       "time": "15:45",
-      "poster": "https://image.tmdb.org/t/p/w500/oE6lft2YlRK4wpQVxm2qkOzkFQH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qKw21oq84a9u0xd0TFXvmpWmIbh.jpg",
       "ticketLink": null
     },
     {
@@ -214,7 +214,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-09-28",
       "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/oE6lft2YlRK4wpQVxm2qkOzkFQH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qKw21oq84a9u0xd0TFXvmpWmIbh.jpg",
       "ticketLink": null
     },
     {
