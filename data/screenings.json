@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:09:41.172Z",
+  "lastUpdated": "2026-09-29T21:53:02.587Z",
   "screenings": [
     {
       "title": "The Misanthrope (1974)",
@@ -18,22 +18,6 @@
       "ticketLink": "https://www.theavalon.org/films/ha-chan-shake-your-booty/"
     },
     {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-29",
-      "time": "12:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Barbara Forever (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-29",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005723?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005723"
-    },
-    {
       "title": "Ha-Chan, Shake Your Booty! (2026)",
       "venue": "Avalon Theater",
       "date": "2026-09-29",
@@ -48,22 +32,6 @@
       "time": "14:15",
       "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-29",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-09-29",
-      "time": "15:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "Ha-Chan, Shake Your Booty! (2026)",
@@ -104,6 +72,30 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005698?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005698"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE MUSICAL (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-29",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-09-29",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "ticketLink": null
     },
     {
       "title": "Coyote vs. Acme (2026)",
@@ -330,20 +322,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
-      "title": "FINAL DESTINATION BLOODLINES (2025)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/25181635/6WxhEvFsauuACfv8HyoVX6mZKFj-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/final-destination-bloodlines/"
-    },
-    {
       "title": "FINAL DESTINATION (2000)",
       "venue": "Suns Cinema",
       "date": "2026-10-01",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/09/25161726/1mXhlQMnlfvJ2frxTjZSQNnA9Vp-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/final-destination/"
+    },
+    {
+      "title": "FINAL DESTINATION BLOODLINES (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/25181635/6WxhEvFsauuACfv8HyoVX6mZKFj-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/final-destination-bloodlines/"
     },
     {
       "title": "DON'T PLAY WITH FIRE - New Restoration",
@@ -370,12 +362,60 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005661"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "Eva (2021)",
       "venue": "AFI Silver",
       "date": "2026-10-02",
       "time": "17:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005681?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005681"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "CampeóN Gabacho (2026)",
@@ -386,20 +426,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005683"
     },
     {
-      "title": "ALIENS (1986)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-02",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/24223325/aliens1.jpg",
-      "ticketLink": "https://sunscinema.com/movies/aliens/"
-    },
-    {
       "title": "ALIEN (1979)",
       "venue": "Suns Cinema",
       "date": "2026-10-02",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/24223225/alien.jpg",
       "ticketLink": "https://sunscinema.com/movies/alien/"
+    },
+    {
+      "title": "ALIENS (1986)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/24223325/aliens1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/aliens/"
     },
     {
       "title": "Glory (2010)",
@@ -410,12 +450,44 @@
       "ticketLink": "https://themiracletheatre.com/events/glory-2/"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-02",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "November (2001)",
       "venue": "AFI Silver",
       "date": "2026-10-02",
       "time": "21:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
     },
     {
       "title": "NeuróTica anóNima (2025)",
@@ -426,12 +498,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
     },
     {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
       "title": "Everything Else Is Noise (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-03",
       "time": "14:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005684?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005684"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "16:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
     },
     {
       "title": "The Phantom (1996)",
@@ -442,20 +546,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005660"
     },
     {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
       "title": "The Red Hangar (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-03",
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005669?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005669"
-    },
-    {
-      "title": "28 YEARS LATER: THE BONE TEMPLE (2026)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/25185537/kK1BGkG3KAvWB0WMV1DfOx9yTMZ-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/28-years-later-the-bone-temple/"
     },
     {
       "title": "28 DAYS LATER (2002)",
@@ -466,6 +578,30 @@
       "ticketLink": "https://sunscinema.com/movies/28-days-later/"
     },
     {
+      "title": "28 YEARS LATER: THE BONE TEMPLE (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/25185537/kK1BGkG3KAvWB0WMV1DfOx9yTMZ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/28-years-later-the-bone-temple/"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-03",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
       "title": "Summer of Three (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-03",
@@ -474,12 +610,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005692"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
       "title": "Everything Else Is Noise (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005684?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005684"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "Glory (2010)",
@@ -498,12 +658,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005690"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "The Phantom (1996)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "17:40",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005660?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005660"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "Eva (2021)",
@@ -514,12 +706,68 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005681"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "20:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-04",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "November (2001)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "21:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "NeuróTica anóNima (2025)",
@@ -530,12 +778,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005674"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "Ashes (2027)",
       "venue": "AFI Silver",
       "date": "2026-10-05",
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005682?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005682"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-05",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "Summer of Three (2026)",
@@ -546,12 +826,68 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005692"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "15:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
       "title": "November (2001)",
       "venue": "AFI Silver",
       "date": "2026-10-06",
       "time": "17:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005671?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005671"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "The Meltdown (2006)",
@@ -578,6 +914,22 @@
       "ticketLink": "https://sunscinema.com/movies/a-nightmare-on-elm-street/"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-06",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "CampeóN Gabacho (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-06",
@@ -586,12 +938,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005683"
     },
     {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
       "title": "The Meltdown (2006)",
       "venue": "AFI Silver",
       "date": "2026-10-07",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005668?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005668"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "Queen Budapest (2012)",
@@ -618,12 +1010,68 @@
       "ticketLink": "https://sunscinema.com/movies/night-of-the-living-dead/"
     },
     {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "20:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-07",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "The Red Hangar (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-07",
       "time": "21:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005669?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005669"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "12:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
     },
     {
       "title": "Hangover Square (1945)",
@@ -634,12 +1082,36 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000513"
     },
     {
+      "title": "You Had to Be There (2012)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "18:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
       "title": "BLUES IN THE NIGHT (1941) in 35mm",
       "venue": "AFI Silver",
       "date": "2026-10-08",
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005701?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005701"
+    },
+    {
+      "title": "THE EXORCIST III (1990)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/23142440/bl6nSPcyqz6xD2Igd2VQvz8qWo0.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-exorcist-iii/"
     },
     {
       "title": "HELLRAISER III: HELL ON EARTH (1992)",
@@ -650,12 +1122,20 @@
       "ticketLink": "https://sunscinema.com/movies/hellraiser-iii-hell-on-earth/"
     },
     {
-      "title": "THE EXORCIST III (1990)",
-      "venue": "Suns Cinema",
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
       "date": "2026-10-08",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/09/23142440/bl6nSPcyqz6xD2Igd2VQvz8qWo0.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-exorcist-iii/"
+      "time": "20:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-08",
+      "time": "20:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "NOCTURNE (1946) in 35mm",
@@ -910,8 +1390,8 @@
       "venue": "Suns Cinema",
       "date": "2026-10-11",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26151814/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/invasion-of-the-body-snatchers-2/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26151623/8BrMQmgwGzIHSyBjCDOLOdi79fJ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/invasion-of-the-body-snatchers/"
     },
     {
       "title": "Gilda (1946)",
@@ -1194,20 +1674,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
-      "title": "MALPERTUIS (1972)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26153158/iDb2K01wbVSJZAf03VMVRcyRaYI-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/malpertuis/"
-    },
-    {
       "title": "DAUGHTERS OF DARKNESS (1971)",
       "venue": "Suns Cinema",
       "date": "2026-10-14",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/09/24234059/daughters-of-darkness.jpg",
       "ticketLink": "https://sunscinema.com/movies/daughters-of-darkness/"
+    },
+    {
+      "title": "MALPERTUIS (1972)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-14",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26153158/iDb2K01wbVSJZAf03VMVRcyRaYI-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/malpertuis/"
     },
     {
       "title": "BLUES IN THE NIGHT (1941) in 35mm",
@@ -1834,14 +2314,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000238"
     },
     {
-      "title": "THE HAUNTED CASTLE (1966)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26160543/ukJbzYhvMOPyExQENRwY47v9Hqe.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-haunted-castle/"
-    },
-    {
       "title": "HOUSE (2024)",
       "venue": "Suns Cinema",
       "date": "2026-10-23",
@@ -1856,6 +2328,14 @@
       "time": "19:00",
       "poster": "https://image.tmdb.org/t/p/w500/43LZYSBRMZoi9QdYntkGXhLSMeI.jpg",
       "ticketLink": "https://sunscinema.com/movies/kuroneko/"
+    },
+    {
+      "title": "THE HAUNTED CASTLE (1966)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-23",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26160543/ukJbzYhvMOPyExQENRwY47v9Hqe.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-haunted-castle/"
     },
     {
       "title": "Carrie (1976)",
@@ -1898,12 +2378,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100001446"
     },
     {
-      "title": "MURDEROCK (1984)",
+      "title": "DEATH SPA (1988)",
       "venue": "Suns Cinema",
       "date": "2026-10-24",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26161415/e8pH1u0P8t2FIkBgiXZS9oJ20yj-1-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/murderock/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26160958/5MgYDkLLOLf3y03s2lyxpjIGXe2.jpg",
+      "ticketLink": "https://sunscinema.com/movies/death-spa/"
     },
     {
       "title": "KILLER WORKOUT (2020)",
@@ -1914,12 +2394,12 @@
       "ticketLink": "https://sunscinema.com/movies/killer-workout/"
     },
     {
-      "title": "DEATH SPA (1988)",
+      "title": "MURDEROCK (1984)",
       "venue": "Suns Cinema",
       "date": "2026-10-24",
       "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26160958/5MgYDkLLOLf3y03s2lyxpjIGXe2.jpg",
-      "ticketLink": "https://sunscinema.com/movies/death-spa/"
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26161415/e8pH1u0P8t2FIkBgiXZS9oJ20yj-1-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/murderock/"
     },
     {
       "title": "Train to Busan (2016)",
@@ -2114,20 +2594,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
     },
     {
-      "title": "HELLO MARY LOU: PROM NIGHT II (1987)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26171358/RCjdqmiz0yT3X16uWfuizg0qHQ.jpg",
-      "ticketLink": "https://sunscinema.com/movies/hello-mary-lou-prom-night-ii/"
-    },
-    {
       "title": "MANIAC COP 2 (1990)",
       "venue": "Suns Cinema",
       "date": "2026-10-28",
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26171252/NWeLUBpxn7lcMpCPvnTGmtHwmj-scaled.jpg",
       "ticketLink": "https://sunscinema.com/movies/maniac-cop-2/"
+    },
+    {
+      "title": "HELLO MARY LOU: PROM NIGHT II (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-10-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26171358/RCjdqmiz0yT3X16uWfuizg0qHQ.jpg",
+      "ticketLink": "https://sunscinema.com/movies/hello-mary-lou-prom-night-ii/"
     },
     {
       "title": "The Omen (1976)",
