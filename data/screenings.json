@@ -1,196 +1,20 @@
 {
-  "lastUpdated": "2026-10-03T20:36:27.276Z",
+  "lastUpdated": "2026-10-04T04:21:48.059Z",
   "screenings": [
     {
       "title": "Digger (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "time": "10:45",
       "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
       "ticketLink": "https://www.theavalon.org/films/digger/"
     },
     {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "Digger (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "13:35",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": "https://www.theavalon.org/films/digger/"
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "16:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "The Phantom (1996)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "16:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005660?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005660"
-    },
-    {
-      "title": "Digger (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": "https://www.theavalon.org/films/digger/"
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "IF I GO WILL THEY MISS ME (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "17:40",
-      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "AVENGERS ENDGAME: ENCORE (2019)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "18:15",
+      "date": "2026-10-04",
+      "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "18:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "You Had to Be There (2012)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005732?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
-    },
-    {
-      "title": "The Red Hangar (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005669?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005669"
-    },
-    {
-      "title": "DIGGER (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "Digger (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-03",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": "https://www.theavalon.org/films/digger/"
-    },
-    {
-      "title": "IF I GO WILL THEY MISS ME (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "19:50",
-      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "Summer of Three (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-03",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005692?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005692"
-    },
-    {
-      "title": "DIGGER (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "21:55",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "AVENGERS ENDGAME: ENCORE (2019)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "22:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "IF I GO WILL THEY MISS ME (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-03",
-      "time": "22:10",
-      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
       "ticketLink": null
     },
     {
@@ -200,6 +24,30 @@
       "time": "11:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": null
     },
     {
       "title": "Everything Else Is Noise (2026)",
@@ -218,6 +66,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005732"
     },
     {
+      "title": "Digger (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "13:35",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": "https://www.theavalon.org/films/digger/"
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
@@ -234,12 +90,36 @@
       "ticketLink": "https://themiracletheatre.com/events/glory-3/"
     },
     {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "THAT SHADOW FADING w/ Q-POP",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "15:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005690?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005690"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
     },
     {
       "title": "Coyote Vs. Acme (2026)",
@@ -250,12 +130,44 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
     },
     {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "16:10",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Digger (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": "https://www.theavalon.org/films/digger/"
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "17:30",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Phantom (1996)",
@@ -282,12 +194,52 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
+      "title": "AVENGERS ENDGAME: ENCORE (2019)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "18:45",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "Digger (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-04",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": "https://www.theavalon.org/films/digger/"
+    },
+    {
       "title": "Eva (2021)",
       "venue": "AFI Silver",
       "date": "2026-10-04",
       "time": "19:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005681?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005681"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-04",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
     },
     {
       "title": "Coyote Vs. Acme (2026)",
