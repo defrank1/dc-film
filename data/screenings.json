@@ -1,10 +1,26 @@
 {
-  "lastUpdated": "2026-10-11T21:29:25.913Z",
+  "lastUpdated": "2026-10-12T04:23:11.460Z",
   "screenings": [
+    {
+      "title": "Atanarjuat: the Fast Runner (2002)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005729?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005729"
+    },
+    {
+      "title": "Atanarjuat: the Fast Runner (2002)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005729?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005729"
+    },
     {
       "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
@@ -12,402 +28,338 @@
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
-      "title": "Digger (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "13:35",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": "https://www.theavalon.org/films/digger/"
-    },
-    {
-      "title": "The Social Reckoning (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "14:05",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
-    },
-    {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
-      "title": "The Social Reckoning (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
-    },
-    {
-      "title": "Naza (2026)",
+      "title": "To Have and Have Not (1944)",
       "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+      "date": "2026-10-12",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003985?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003985"
     },
     {
-      "title": "Naza (2026)",
+      "title": "To Have and Have Not (1944)",
       "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "The Man I Love (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005703?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005703"
-    },
-    {
-      "title": "The Man I Love (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005703?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005703"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Digger (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "ticketLink": "https://www.theavalon.org/films/digger/"
-    },
-    {
-      "title": "NAZA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-11",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "The Social Reckoning (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-11",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+      "date": "2026-10-12",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003985?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100003985"
     },
     {
       "title": "DIGGER (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-11",
-      "time": "19:35",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "date": "2026-10-12",
+      "time": "11:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "12:10",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
       "ticketLink": null
     },
     {
       "title": "THE SOCIAL RECKONING (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "13:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "13:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Digger (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "13:35",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": "https://www.theavalon.org/films/digger/"
+    },
+    {
+      "title": "Black Angel (1946)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000258?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000258"
+    },
+    {
+      "title": "Black Angel (1946)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000258?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000258"
+    },
+    {
+      "title": "The Social Reckoning (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "14:05",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "Coyote Vs. Acme (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "14:30",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "14:40",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "14:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Gilda (1946)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
+    },
+    {
+      "title": "Gilda (1946)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "16:20",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "16:25",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Coyote vs. Acme (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "16:30",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "16:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "The Social Reckoning (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "17:15",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "All Night Long (1962)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000619?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000619"
+    },
+    {
+      "title": "All Night Long (1962)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000619?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000619"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "18:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "BRAM STOKER'S DRACULA (1992)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/wpRrdm6g8zWtJnzVqME5QwSKkn7.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Digger (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": "https://www.theavalon.org/films/digger/"
+    },
+    {
+      "title": "The Social Reckoning (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-12",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
       "time": "19:45",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": null
     },
     {
-      "title": "Gilda (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-12",
       "time": "20:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
-    },
-    {
-      "title": "Gilda (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "20:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "20:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-11",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "Atanarjuat: the Fast Runner (2002)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005729?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005729"
-    },
-    {
-      "title": "Atanarjuat: the Fast Runner (2002)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005729?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005729"
-    },
-    {
-      "title": "To Have and Have Not (1944)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003985?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003985"
-    },
-    {
-      "title": "To Have and Have Not (1944)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003985?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003985"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Black Angel (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000258?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000258"
-    },
-    {
-      "title": "Black Angel (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000258?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000258"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "Coyote Vs. Acme (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005745?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005745"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "14:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Gilda (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
-    },
-    {
-      "title": "Gilda (1946)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000995?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000995"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "All Night Long (1962)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000619?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000619"
-    },
-    {
-      "title": "All Night Long (1962)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000619?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000619"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "18:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "ONLY LOVERS LEFT ALIVE (2013)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26191728/kffoWJ7FfPRlFFBGixOMbq3blQp-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/only-lovers-left-alive/"
-    },
-    {
-      "title": "A GIRL WALKS HOME ALONE AT NIGHT (2014)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26191608/4ririIPMbOnbnZlQGnTYgDIcbxa.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-girl-walks-home-alone-at-night/"
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Man Called Adam (1966)",
