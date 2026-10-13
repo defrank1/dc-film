@@ -1,54 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T00:09:14.978Z",
+  "lastUpdated": "2026-10-13T13:35:42.554Z",
   "screenings": [
-    {
-      "title": "A Man Called Adam (1966)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005704?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005704"
-    },
-    {
-      "title": "A Man Called Adam (1966)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005704?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005704"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-12",
-      "time": "20:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
     {
       "title": "Coyote vs. Acme (2026)",
       "venue": "Avalon Theater",
@@ -96,6 +48,30 @@
       "time": "12:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000513?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000513"
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "12:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "12:10",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
+      "ticketLink": null
     },
     {
       "title": "Naza (2026)",
@@ -162,6 +138,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "14:35",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "Naza (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-13",
@@ -176,6 +168,22 @@
       "time": "14:50",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "15:00",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
+      "ticketLink": null
     },
     {
       "title": "The History of Concrete (2026)",
@@ -242,6 +250,30 @@
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "17:10",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "IF I GO WILL THEY MISS ME (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "17:20",
+      "poster": "https://image.tmdb.org/t/p/w500/v8Bcs5kC5EtKmFMomBv5BAB5SRi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "18:15",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The History of Concrete (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-13",
@@ -288,22 +320,6 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003985?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003985"
-    },
-    {
-      "title": "WE’RE ALL GOING TO THE WORLD’S FAIR (2022)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
-      "ticketLink": "https://sunscinema.com/movies/were-all-going-to-the-worlds-fair/"
-    },
-    {
-      "title": "I SAW THE TV GLOW (2024)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/12/22143609/hS4GYkYpN1rfl4GIxyc02sCyfAj-scaled.jpg",
-      "ticketLink": "https://sunscinema.com/movies/i-saw-the-tv-glow/"
     },
     {
       "title": "Digger (2026)",
@@ -322,11 +338,27 @@
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
+      "title": "DIGGER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "19:35",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-13",
+      "time": "19:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "NAZA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-10-13",
       "time": "20:15",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/62ghIJX6ByPRSfV81WP1YmeV35G.jpg",
       "ticketLink": null
     },
     {
