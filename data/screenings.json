@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-15T03:14:56.504Z",
+  "lastUpdated": "2026-10-15T10:52:38.079Z",
   "screenings": [
+    {
+      "title": "The Social Reckoning (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-15",
+      "time": "10:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+    },
     {
       "title": "DIGGER (2026)",
       "venue": "Angelika Pop-Up at Union Market",
@@ -24,14 +32,6 @@
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "The Social Reckoning (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-15",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
       "title": "Black Angel (1946)",
@@ -226,14 +226,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
-      "title": "Coyote vs. Acme (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-15",
-      "time": "16:30",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "ticketLink": "https://www.theavalon.org/films/coyote-vs-acme/"
-    },
-    {
       "title": "Naza (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-15",
@@ -322,22 +314,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005715"
     },
     {
-      "title": "THE SNOW WOMAN (1968)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/26153430/4vFYCaNLBvHiZ210HuP4spnWWeB.jpg",
-      "ticketLink": "https://sunscinema.com/movies/the-snow-woman/"
-    },
-    {
-      "title": "WILD ZERO (1999)",
-      "venue": "Suns Cinema",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/09/07114040/MV5BNzFlZDIzNzAtNjllOS00MTFiLWFkYjAtM2Q4MDBhNmVlNTQxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
-      "ticketLink": "https://sunscinema.com/movies/wild-zero/"
-    },
-    {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
       "date": "2026-10-15",
@@ -352,14 +328,6 @@
       "time": "20:00",
       "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Filipiñana (2020)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-15",
-      "time": "20:00",
-      "poster": "https://image.tmdb.org/t/p/w500/d9bovHgEC90yTgqLsoarQWnh6JW.jpg",
-      "ticketLink": "https://www.theavalon.org/films/filipinana/"
     },
     {
       "title": "NAZA (2026)",
