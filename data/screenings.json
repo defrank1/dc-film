@@ -1,453 +1,357 @@
 {
-  "lastUpdated": "2026-10-18T20:06:41.501Z",
+  "lastUpdated": "2026-10-19T03:18:00.250Z",
   "screenings": [
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "11:10",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "11:15",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "11:20",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "11:20",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "The Yellow Canary (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005711?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005711"
+    },
+    {
+      "title": "The Yellow Canary (1963)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005711?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005711"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "THE LIGHTHOUSE (2019)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "13:10",
+      "poster": "https://image.tmdb.org/t/p/w500/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "13:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "13:55",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
-      "title": "Naza (2026)",
+      "title": "Sweet Smell of Success (1957)",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "15:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+      "date": "2026-10-19",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002515?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002515"
     },
     {
-      "title": "Naza (2026)",
+      "title": "Sweet Smell of Success (1957)",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "15:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+      "date": "2026-10-19",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002515?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100002515"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "14:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+    },
+    {
+      "title": "The History of Concrete (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "14:40",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
     },
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "Pete Kelly'S Blues (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005706?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005706"
-    },
-    {
-      "title": "Pete Kelly'S Blues (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005706?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005706"
-    },
-    {
-      "title": "NAZA (2026)",
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-18",
-      "time": "16:25",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "THE SOCIAL RECKONING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "16:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
+    },
+    {
+      "title": "Thunder Road (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001881?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001881"
+    },
+    {
+      "title": "Thunder Road (1958)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001881?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001881"
+    },
+    {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "16:35",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "ticketLink": null
     },
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
-      "title": "The History of Concrete (2026)",
+      "title": "Naza (2026)",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+      "date": "2026-10-19",
+      "time": "16:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
-      "title": "The History of Concrete (2026)",
+      "title": "Naza (2026)",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
+      "date": "2026-10-19",
+      "time": "16:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Young Man With a Horn (1950)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001013?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001013"
+    },
+    {
+      "title": "Young Man With a Horn (1950)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001013?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001013"
     },
     {
       "title": "NAZA (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-18",
-      "time": "18:20",
+      "date": "2026-10-19",
+      "time": "18:30",
       "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
       "ticketLink": null
     },
     {
-      "title": "Round Midnight (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005710?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005710"
-    },
-    {
-      "title": "Round Midnight (1986)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005710?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005710"
-    },
-    {
-      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-18",
-      "time": "18:30",
-      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "KEN RUSSELL'S THE DEVILS in 35mm",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "19:00",
+      "date": "2026-10-19",
+      "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
     },
     {
       "title": "KEN RUSSELL'S THE DEVILS in 35mm",
       "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "19:00",
+      "date": "2026-10-19",
+      "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
     },
     {
-      "title": "SENSE AND SENSIBILITY (2026)",
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-19",
+      "time": "18:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "THE LIGHTHOUSE (2019)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dwXmOYJVM1VIkkSXHY5zYSaLJLC.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "19:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "19:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-19",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
     },
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "time": "19:30",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
     },
     {
-      "title": "NAZA (2026)",
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-18",
-      "time": "20:15",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "date": "2026-10-19",
+      "time": "20:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The Long Goodbye (1973)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000783?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000783"
-    },
-    {
-      "title": "The Long Goodbye (1973)",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000783?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000783"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-18",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "11:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "11:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "The Yellow Canary (1963)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005711?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005711"
-    },
-    {
-      "title": "The Yellow Canary (1963)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005711?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005711"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "Sweet Smell of Success (1957)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002515?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002515"
-    },
-    {
-      "title": "Sweet Smell of Success (1957)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002515?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002515"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "14:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "14:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005726?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
-    },
-    {
-      "title": "Thunder Road (1958)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001881?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001881"
-    },
-    {
-      "title": "Thunder Road (1958)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001881?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001881"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "16:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Young Man With a Horn (1950)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001013?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001013"
-    },
-    {
-      "title": "Young Man With a Horn (1950)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001013?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001013"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-19",
-      "time": "18:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
       "title": "The History of Concrete (2026)",
@@ -1498,6 +1402,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
     },
     {
+      "title": "Eyes on the Prize: The Promised Land (1967–1968) and On the Case",
+      "venue": "National Gallery of Art",
+      "date": "2026-10-24",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "WILDWOOD in 35mm",
       "venue": "AFI Silver",
       "date": "2026-10-24",
@@ -1680,6 +1592,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005727?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005727"
+    },
+    {
+      "title": "TCB - The Toni Cade Bambara School of Organizing (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/2KQCYAYLnYfus6qvFu3mqQ4GxKF.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Kwaidan (1965)",
@@ -2802,6 +2722,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005720"
     },
     {
+      "title": "Frederick Wiseman’s Titicut Follies and A Couple",
+      "venue": "National Gallery of Art",
+      "date": "2026-10-31",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Fatherland (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-31",
@@ -2928,6 +2856,14 @@
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
+    },
+    {
+      "title": "Powwow People (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mSg1slgGPe3xTBntfAWxpvTEOrT.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Fatherland (2026)",
@@ -3386,12 +3322,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
     },
     {
-      "title": "Selma (2014)",
-      "venue": "Miracle Theater",
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "National Gallery of Art",
       "date": "2026-11-07",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
-      "ticketLink": "https://themiracletheatre.com/events/selma-2/"
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "La Bola Negra (2026)",
@@ -3978,14 +3914,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005737"
     },
     {
-      "title": "More Pre-Code Cartoons",
-      "venue": "AFI Silver",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005738?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005738"
-    },
-    {
       "title": "Wallace & Gromit: the Classic Shorts",
       "venue": "AFI Silver",
       "date": "2026-11-14",
@@ -3994,12 +3922,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005747"
     },
     {
+      "title": "More Pre-Code Cartoons",
+      "venue": "AFI Silver",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005738?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005738"
+    },
+    {
       "title": "The Man Who Came Back (1924)",
       "venue": "AFI Silver",
       "date": "2026-11-14",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005652?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005652"
+    },
+    {
+      "title": "Pan Tadeusz: The Last Foray in Lithuania (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kWomf1J9CNZmD0P9IntFEGlAe12.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "EIGHT GIRLS IN A BOAT (1934) in 35mm",
@@ -4048,6 +3992,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003971?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003971"
+    },
+    {
+      "title": "The Promised Land (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Daughter of the Dragon (1931)",
@@ -4298,6 +4250,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000978"
     },
     {
+      "title": "The Wedding (2015)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ciR2suRkfJen9lQvfz22lgCj7g7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Fast (2023)",
       "venue": "AFI Silver",
       "date": "2026-11-21",
@@ -4352,6 +4312,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003417?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003417"
+    },
+    {
+      "title": "The Shadow Line (1985)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/u4DU5CQ5xZ2Zi46q2U6uYvYT56P.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Alice in Wonderland (1951)",
@@ -4656,6 +4624,14 @@
       "time": "13:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003481?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003481"
+    },
+    {
+      "title": "Danton (1983)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/az5XParmpea0fxAjwEgHpUrXzw0.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "THE THIRD MAN in 35mm",
