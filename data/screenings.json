@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:01:30.700Z",
+  "lastUpdated": "2026-10-23T16:28:46.535Z",
   "screenings": [
     {
       "title": "You Can See Everything (2026)",
@@ -10,44 +10,12 @@
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "NAZA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-23",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
       "date": "2026-10-23",
       "time": "11:45",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-23",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": null
     },
     {
       "title": "SENSE AND SENSIBILITY (2026)",
@@ -2546,6 +2514,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003143"
     },
     {
+      "title": "THE 9 LIVES OF BARBARA DANE FILM & CRYS MATTHEWS MUSIC LIVE",
+      "venue": "Miracle Theater",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.eventbrite.com/e/the-9-lives-of-barbara-dane-film-crys-matthews-music-live-tickets-2003435520573"
+    },
+    {
       "title": "La Bola Negra (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-08",
@@ -3602,20 +3578,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000326"
     },
     {
-      "title": "Alice in Wonderland (1951)",
-      "venue": "AFI Silver",
-      "date": "2026-11-26",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005757"
-    },
-    {
       "title": "The Piano (1993)",
       "venue": "AFI Silver",
       "date": "2026-11-26",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005751"
+    },
+    {
+      "title": "Alice in Wonderland (1951)",
+      "venue": "AFI Silver",
+      "date": "2026-11-26",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005757"
     },
     {
       "title": "Wild at Heart - Unrated",
