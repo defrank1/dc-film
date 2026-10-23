@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-22T21:12:19.006Z",
+  "lastUpdated": "2026-10-23T03:25:11.592Z",
   "screenings": [
     {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
@@ -12,15 +12,95 @@
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
+      "title": "Dracula (1931)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
+    },
+    {
+      "title": "Dracula (1931)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "11:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "12:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "12:30",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "12:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "The Omen (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
+    },
+    {
+      "title": "The Omen (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "13:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "13:55",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
@@ -28,15 +108,71 @@
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "15:15",
       "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "15:30",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "15:45",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "15:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-23",
+      "time": "15:50",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "16:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "The Social Reckoning (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
       "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
@@ -44,274 +180,42 @@
     {
       "title": "Naza (2026)",
       "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "16:50",
+      "date": "2026-10-23",
+      "time": "17:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
       "title": "Naza (2026)",
       "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "16:50",
+      "date": "2026-10-23",
+      "time": "17:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
     },
     {
-      "title": "Anatomy of a Murder (1959)",
+      "title": "WILDWOOD (Digital)",
       "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004378?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004378"
+      "date": "2026-10-23",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
     },
     {
-      "title": "Anatomy of a Murder (1959)",
+      "title": "WILDWOOD (Digital)",
       "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "18:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004378?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004378"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "18:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "NAZA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-22",
-      "time": "18:45",
-      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "\"Fallen Angels\" by Noël Coward",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
-    },
-    {
-      "title": "\"Fallen Angels\" by Noël Coward",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005647?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005647"
+      "date": "2026-10-23",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
     },
     {
       "title": "SENSE AND SENSIBILITY (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-22",
-      "time": "19:00",
+      "date": "2026-10-23",
+      "time": "18:30",
       "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "ticketLink": null
-    },
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-22",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
-    },
-    {
-      "title": "The Social Reckoning (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-22",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-22",
-      "time": "19:40",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "THE SOCIAL RECKONING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-22",
-      "time": "20:45",
-      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "KEN RUSSELL'S THE DEVILS in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005725?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005725"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The History of Concrete (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005713?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005713"
-    },
-    {
-      "title": "The Man With the Golden Arm (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002519?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002519"
-    },
-    {
-      "title": "The Man With the Golden Arm (1955)",
-      "venue": "AFI Silver",
-      "date": "2026-10-22",
-      "time": "21:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002519?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002519"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "11:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "12:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "The Omen (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
-    },
-    {
-      "title": "The Omen (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "13:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "15:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "15:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "17:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-23",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
     },
     {
       "title": "Fjord (2026)",
@@ -370,6 +274,30 @@
       "ticketLink": "https://sunscinema.com/movies/house/"
     },
     {
+      "title": "You Can See Everything (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-23",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "The Social Reckoning (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-23",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
+      "ticketLink": "https://www.theavalon.org/films/the-social-reckoning/"
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Sleeping Dogs (1977)",
       "venue": "AFI Silver",
       "date": "2026-10-23",
@@ -402,6 +330,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005726"
     },
     {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
+    },
+    {
       "title": "Carrie (1976)",
       "venue": "AFI Silver",
       "date": "2026-10-23",
@@ -416,6 +352,14 @@
       "time": "21:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002562?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100002562"
+    },
+    {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-23",
+      "time": "22:00",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
     },
     {
       "title": "Dracula (1931)",
@@ -682,7 +626,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000318"
     },
     {
-      "title": "\"Fallen Angels\" by Noël Coward",
+      "title": "\"Fallen Angels\" by Noël Coward (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-25",
       "time": "13:30",
@@ -698,7 +642,7 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005727"
     },
     {
-      "title": "\"Fallen Angels\" by Noël Coward",
+      "title": "\"Fallen Angels\" by Noël Coward (2026)",
       "venue": "AFI Silver",
       "date": "2026-10-25",
       "time": "13:30",
