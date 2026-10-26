@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-25T20:23:14.024Z",
+  "lastUpdated": "2026-10-26T03:15:47.166Z",
   "screenings": [
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "11:30",
       "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
@@ -12,298 +12,258 @@
     {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "11:45",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "12:00",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "12:10",
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "Dracula (1931)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
+    },
+    {
+      "title": "Dracula (1931)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "12:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "12:30",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Suspiria (1977)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001639?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001639"
+    },
+    {
+      "title": "Suspiria (1977)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "14:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001639?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100001639"
+    },
+    {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "14:15",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
+      "title": "NAZA (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "14:45",
+      "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "15:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "WILDWOOD (Digital)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "15:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "15:00",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "ticketLink": null
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "Fjord (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "15:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "15:15",
       "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
-      "title": "WILDWOOD in 35mm",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005727?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005727"
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "16:15",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
     },
     {
-      "title": "WILDWOOD in 35mm",
+      "title": "Beetlejuice (2024)",
       "venue": "AFI Silver",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005727?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005727"
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
+    },
+    {
+      "title": "Beetlejuice (2024)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "16:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
+    },
+    {
+      "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB (1964)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "ticketLink": null
     },
     {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
-      "title": "Phantasm: Remastered (1979)",
+      "title": "WILDWOOD (Digital)",
       "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000976?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000976"
+      "date": "2026-10-26",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
     },
     {
-      "title": "Phantasm: Remastered (1979)",
+      "title": "WILDWOOD (Digital)",
       "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "19:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000976?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000976"
+      "date": "2026-10-26",
+      "time": "18:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
     },
     {
-      "title": "SENSE AND SENSIBILITY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-25",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "ticketLink": null
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "18:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "Naza (2026)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "18:10",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
+    },
+    {
+      "title": "The Omen (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
+    },
+    {
+      "title": "The Omen (1976)",
+      "venue": "AFI Silver",
+      "date": "2026-10-26",
+      "time": "18:30",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
     },
     {
       "title": "YOU CAN SEE EVERYTHING (2026)",
       "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-25",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "date": "2026-10-26",
+      "time": "18:45",
+      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
       "ticketLink": null
-    },
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-25",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Talent for Murder (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "The Ring (2002)",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005716?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005716"
-    },
-    {
-      "title": "The Ring (2002)",
-      "venue": "AFI Silver",
-      "date": "2026-10-25",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005716?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005716"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Suspiria (1977)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001639?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001639"
-    },
-    {
-      "title": "Suspiria (1977)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001639?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100001639"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Beetlejuice (2024)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
-    },
-    {
-      "title": "Beetlejuice (2024)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "16:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "The Omen (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
-    },
-    {
-      "title": "The Omen (1976)",
-      "venue": "AFI Silver",
-      "date": "2026-10-26",
-      "time": "18:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000588?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000588"
     },
     {
       "title": "BEGOTTEN (1991)",
@@ -328,6 +288,38 @@
       "time": "19:00",
       "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/09/28124455/w2We4S0SmRP72BKpvtOfyu9cF6H.jpg",
       "ticketLink": "https://sunscinema.com/movies/tetsuo-ii-body-hammer/"
+    },
+    {
+      "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB (1964)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "19:00",
+      "poster": "https://image.tmdb.org/t/p/w500/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "SENSE AND SENSIBILITY (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-10-26",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "ticketLink": null
+    },
+    {
+      "title": "You Can See Everything (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-26",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "A Talent for Murder (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-10-26",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
       "title": "Fjord (2026)",
@@ -2458,20 +2450,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005737"
     },
     {
-      "title": "More Pre-Code Cartoons",
-      "venue": "AFI Silver",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005738?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005738"
-    },
-    {
       "title": "Wallace & Gromit: the Classic Shorts",
       "venue": "AFI Silver",
       "date": "2026-11-14",
       "time": "11:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005747?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005747"
+    },
+    {
+      "title": "More Pre-Code Cartoons",
+      "venue": "AFI Silver",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005738?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005738"
     },
     {
       "title": "The Man Who Came Back (1924)",
@@ -3018,20 +3010,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000326"
     },
     {
-      "title": "The Piano (1993)",
-      "venue": "AFI Silver",
-      "date": "2026-11-26",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005751"
-    },
-    {
       "title": "Alice in Wonderland (1951)",
       "venue": "AFI Silver",
       "date": "2026-11-26",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005757"
+    },
+    {
+      "title": "The Piano (1993)",
+      "venue": "AFI Silver",
+      "date": "2026-11-26",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005751"
     },
     {
       "title": "Wild at Heart - Unrated",
