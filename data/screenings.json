@@ -1,38 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T12:18:35.238Z",
+  "lastUpdated": "2026-10-29T22:26:47.920Z",
   "screenings": [
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Dracula (1931)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "11:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000351?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000351"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "11:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
     {
       "title": "You Can See Everything (2026)",
       "venue": "Avalon Theater",
@@ -50,116 +18,12 @@
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
-      "title": "SENSE AND SENSIBILITY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "12:15",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "12:30",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Beetlejuice (2024)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Beetlejuice (2024)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004123?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100004123"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "NAZA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "13:20",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
       "date": "2026-10-29",
       "time": "14:15",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "Kwaidan (1965)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005717?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005717"
-    },
-    {
-      "title": "Kwaidan (1965)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005717?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005717"
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "EVEREST: THE OTHER SIDE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "15:05",
-      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
-      "ticketLink": null
     },
     {
       "title": "You Can See Everything (2026)",
@@ -170,60 +34,12 @@
       "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "WILDWOOD (Digital)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005728?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005728"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-10-29",
-      "time": "16:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "SENSE AND SENSIBILITY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "ticketLink": null
-    },
-    {
       "title": "A Talent for Murder (2026)",
       "venue": "Avalon Theater",
       "date": "2026-10-29",
       "time": "16:45",
       "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
       "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "YOUR MOTHER YOUR MOTHER YOUR MOTHER (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-10-29",
-      "time": "17:30",
-      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-      "ticketLink": null
     },
     {
       "title": "The Ring (2002)",
@@ -262,7 +78,7 @@
       "venue": "Angelika Pop-Up at Union Market",
       "date": "2026-10-29",
       "time": "18:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "ticketLink": null
     },
     {
@@ -1498,6 +1314,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005722"
     },
     {
+      "title": "A.S. HAMRAH PRESENTS: A BAY OF BLOOD",
+      "venue": "Suns Cinema",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29122528/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-s-hamrah-presents-a-bay-of-blood/"
+    },
+    {
       "title": "Selma (2014)",
       "venue": "Miracle Theater",
       "date": "2026-11-06",
@@ -1722,6 +1546,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
     },
     {
+      "title": "SATANIC PANIC (2009)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29133454/qnxAGrRwBynkQXCs4Dh6zpEVajN-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/satanic-panic/"
+    },
+    {
+      "title": "CASTRATION MOVIE Chapter iii Junior Ghosts—Premorphic Drift; a fragmentary passage (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-08",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29132641/yrtTSMW3qP84MEMQiYI8GJkTOAE-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/castration-movie-chapter-iii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
+    },
+    {
       "title": "La Bola Negra (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-08",
@@ -1928,6 +1768,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004813?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004813"
+    },
+    {
+      "title": "GANGSTERISM (2025)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29125223/yaLUKYS4UQBPRGKiakODQBSlMgr.jpg",
+      "ticketLink": "https://sunscinema.com/movies/gangsterism/"
+    },
+    {
+      "title": "THE LAST SCREENING (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29124958/yIhvRlnCrw6AC1KDNPj1PBIF2JH-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-last-screening/"
     },
     {
       "title": "La Bola Negra (2026)",
@@ -2354,6 +2210,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002892"
     },
     {
+      "title": "BARBARA FOREVER (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-15",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29130722/kYjCmL8sg17zoKtm5Pb6Cn4H0nB-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/barbara-forever/"
+    },
+    {
       "title": "Letty Lynton (1932)",
       "venue": "AFI Silver",
       "date": "2026-11-15",
@@ -2472,6 +2336,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000682?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100000682"
+    },
+    {
+      "title": "SYMBIOPSYCHOTAXIPLASM: TAKE ONE (1968)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29150219/wMRtQ3A4pOmG2dXKOxx9tTerFi6-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/symbiopsychotaxiplasm-take-one/"
+    },
+    {
+      "title": "AMERICAN DOCTOR (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143912/sOSrlaXvItVdwU1P5Qpttcl12sd-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/american-doctor/"
     },
     {
       "title": "Begotten (1991)",
@@ -2602,6 +2482,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005766"
     },
     {
+      "title": "PRISON ON FIRE II (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134645/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+      "ticketLink": "https://sunscinema.com/movies/prison-on-fire-ii/"
+    },
+    {
+      "title": "PRISON ON FIRE (1987)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-21",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134608/59o7OyB8J37GwOAod9mhgJjhgH2.jpg",
+      "ticketLink": "https://sunscinema.com/movies/prison-on-fire/"
+    },
+    {
       "title": "Pan'S Labyrinth (2006)",
       "venue": "AFI Silver",
       "date": "2026-11-21",
@@ -2656,6 +2552,22 @@
       "time": "18:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005756"
+    },
+    {
+      "title": "A SAD AND BEAUTIFUL WORLD (2026)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29144504/gW3j8B4VPCnVTELgiZee9Xct49J.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-sad-and-beautiful-world/"
+    },
+    {
+      "title": "PHANTOM BEIRUT (1998)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143752/t3Als0ITZfWeVRTc9tfYb5mKzF1.jpg",
+      "ticketLink": "https://sunscinema.com/movies/phantom-beirut/"
     },
     {
       "title": "Welcome Ii the Terrordome (1995)",
@@ -2754,6 +2666,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003417"
     },
     {
+      "title": "THE GARDEN (2020)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29142739/sDeEZAdPFwzTUEp8Ba9M8Naw2dG-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-garden/"
+    },
+    {
+      "title": "EDWARD II (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29142659/sB3ktIeyCoudoRMJgzo9goA9k1v.jpg",
+      "ticketLink": "https://sunscinema.com/movies/edward-ii/"
+    },
+    {
       "title": "Welcome Ii the Terrordome (1995)",
       "venue": "AFI Silver",
       "date": "2026-11-24",
@@ -2794,6 +2722,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100002575"
     },
     {
+      "title": "FULL CONTACT (1992)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134459/qbSgjlhn9x2GVcNrYWhCsJjzvSV.jpg",
+      "ticketLink": "https://sunscinema.com/movies/full-contact/"
+    },
+    {
+      "title": "ONCE A THIEF (1991)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134348/xCm4qIID3oyhBxRNKsYo3TpDivF.jpg",
+      "ticketLink": "https://sunscinema.com/movies/once-a-thief/"
+    },
+    {
       "title": "Pan'S Labyrinth (2006)",
       "venue": "AFI Silver",
       "date": "2026-11-25",
@@ -2818,20 +2762,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000326"
     },
     {
-      "title": "Alice in Wonderland (1951)",
-      "venue": "AFI Silver",
-      "date": "2026-11-26",
-      "time": "13:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005757"
-    },
-    {
       "title": "The Piano (1993)",
       "venue": "AFI Silver",
       "date": "2026-11-26",
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005751"
+    },
+    {
+      "title": "Alice in Wonderland (1951)",
+      "venue": "AFI Silver",
+      "date": "2026-11-26",
+      "time": "13:15",
+      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "ticketLink": "https://silver.afi.com/movies/detail/0100005757"
     },
     {
       "title": "Wild at Heart - Unrated",
@@ -2906,6 +2850,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
     },
     {
+      "title": "YI YI (2000)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-27",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
+      "ticketLink": "https://sunscinema.com/movies/yi-yi/"
+    },
+    {
       "title": "LOTR: THE FELLOWSHIP OF THE RING in 35mm",
       "venue": "AFI Silver",
       "date": "2026-11-27",
@@ -2962,6 +2914,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003992"
     },
     {
+      "title": "THAT DAY, ON THE BEACH (1983)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29140010/83GRYRWEXWkfGbDBIpEhXdEhONA-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/that-day-on-the-beach/"
+    },
+    {
+      "title": "A CONFUCIAN CONFUSION (1994)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg",
+      "ticketLink": "https://sunscinema.com/movies/a-confucian-confusion/"
+    },
+    {
       "title": "LOTR: THE TWO TOWERS in 35mm",
       "venue": "AFI Silver",
       "date": "2026-11-28",
@@ -2992,6 +2960,22 @@
       "time": "17:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005759?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005759"
+    },
+    {
+      "title": "THE BEIRUT TRILOGY",
+      "venue": "Suns Cinema",
+      "date": "2026-11-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143513/Beirut-My-City.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-beirut-trilogy/"
+    },
+    {
+      "title": "THE RAZOR’S EDGE",
+      "venue": "Suns Cinema",
+      "date": "2026-11-29",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143007/o52ss4RsQ63O245mzkTyZnXnxSI-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/the-razors-edge/"
     },
     {
       "title": "CAMERON WINTER AT CARNEGIE HALL in 35mm",
@@ -3048,6 +3032,22 @@
       "time": "18:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005700"
+    },
+    {
+      "title": "SWORDSMAN II (1993)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134946/nHDvrm1tpaZIE3g5ZENIW7Kfe1E-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/swordsman-ii/"
+    },
+    {
+      "title": "SWORDSMAN (1990)",
+      "venue": "Suns Cinema",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134910/tnbQngk3fKAqwqyVmqxBXvoD3DZ-scaled.jpg",
+      "ticketLink": "https://sunscinema.com/movies/swordsman/"
     },
     {
       "title": "THE THIRD MAN in 35mm",
