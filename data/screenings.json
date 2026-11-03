@@ -1,174 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T14:46:53.041Z",
+  "lastUpdated": "2026-11-03T00:30:45.753Z",
   "screenings": [
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
-    },
-    {
-      "title": "A Talent for Murder (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "11:45",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "12:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "My Brilliant Career (1979)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "12:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002154?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002154"
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "12:45",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
-    },
-    {
-      "title": "Fatherland (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "12:50",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
-    },
-    {
-      "title": "EVEREST: THE OTHER SIDE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "13:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "NAZA (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "13:30",
-      "poster": "https://image.tmdb.org/t/p/w500/cbxiZ1l21KUATu2KKQQ8J8fJhpe.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "A Talent for Murder (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "14:15",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "Fatherland (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
-    },
-    {
-      "title": "Wallace & Gromit: the Curse of the Were-Rabbit (2005)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "14:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000325?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100000325"
-    },
-    {
-      "title": "Fjord (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "15:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "15:15",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
-    },
-    {
-      "title": "EVEREST: THE OTHER SIDE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "15:30",
-      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "MEET ME IN ST. LOUIS (1944)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "16:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "SENSE AND SENSIBILITY (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "16:15",
-      "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Fatherland (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
-    },
-    {
-      "title": "Queen Kelly (1929)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "16:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005719?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005719"
-    },
-    {
-      "title": "A Talent for Murder (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "16:45",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
-      "title": "EVEREST: THE OTHER SIDE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "18:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "Naza (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-02",
-      "time": "18:10",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005731?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005731"
-    },
     {
       "title": "Fatherland (2026)",
       "venue": "AFI Silver",
@@ -186,52 +18,12 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004615"
     },
     {
-      "title": "MEET ME IN ST. LOUIS (1944)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg",
-      "ticketLink": null
-    },
-    {
-      "title": "TOP SECRET CINEMA: NOVEMBER 2",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "19:15",
-      "poster": null,
-      "ticketLink": null
-    },
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "19:15",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
-    },
-    {
-      "title": "A Talent for Murder (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-02",
-      "time": "19:30",
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
-    },
-    {
       "title": "Fjord (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-02",
       "time": "20:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
-    },
-    {
-      "title": "YOU CAN SEE EVERYTHING (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "20:25",
-      "poster": "https://d35zcch9f9it10.cloudfront.net/assets/images/afc/scroll_arrow_up.svg",
-      "ticketLink": null
     },
     {
       "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
@@ -250,12 +42,20 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000022"
     },
     {
-      "title": "EVEREST: THE OTHER SIDE (2026)",
-      "venue": "Angelika Pop-Up at Union Market",
-      "date": "2026-11-02",
-      "time": "21:30",
-      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
-      "ticketLink": null
+      "title": "You Can See Everything (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "11:30",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "A Talent for Murder (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "11:45",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
       "title": "Jurassic Park (1993)",
@@ -282,6 +82,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
     },
     {
+      "title": "A Talent for Murder (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "14:15",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
+    },
+    {
       "title": "Fatherland (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-03",
@@ -306,12 +114,28 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
     },
     {
+      "title": "You Can See Everything (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "15:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
       "title": "Fatherland (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-03",
       "time": "16:45",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005712"
+    },
+    {
+      "title": "A Talent for Murder (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "16:45",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
     },
     {
       "title": "Wallace & Gromit: the Curse of the Were-Rabbit (2005)",
@@ -354,12 +178,36 @@
       "ticketLink": "https://sunscinema.com/movies/the-drama/"
     },
     {
+      "title": "You Can See Everything (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "19:15",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
+    },
+    {
+      "title": "A Talent for Murder (2026)",
+      "venue": "Avalon Theater",
+      "date": "2026-11-03",
+      "time": "19:30",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "ticketLink": "https://www.theavalon.org/films/a-talent-for-murder/"
+    },
+    {
       "title": "Fjord (2026)",
       "venue": "AFI Silver",
       "date": "2026-11-03",
       "time": "20:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005765?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005765"
+    },
+    {
+      "title": "YOU CAN SEE EVERYTHING (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-11-03",
+      "time": "20:25",
+      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "ticketLink": null
     },
     {
       "title": "KEN RUSSELL'S THE DEVILS - New 4K Restoration",
@@ -376,6 +224,14 @@
       "time": "21:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004615?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100004615"
+    },
+    {
+      "title": "EVEREST: THE OTHER SIDE (2026)",
+      "venue": "Angelika Pop-Up at Union Market",
+      "date": "2026-11-03",
+      "time": "21:30",
+      "poster": "https://image.tmdb.org/t/p/w500/2m9ts8LfjG8d4xcUtx66aApngJL.jpg",
+      "ticketLink": null
     },
     {
       "title": "Naza (2026)",
@@ -714,11 +570,11 @@
       "ticketLink": "https://sunscinema.com/movies/a-s-hamrah-presents-a-bay-of-blood/"
     },
     {
-      "title": "Selma (2014)",
+      "title": "Selma (2026)",
       "venue": "Miracle Theater",
       "date": "2026-11-06",
       "time": "19:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mvpEfkdFzI4mycVkz5EEIfCO1VQ.jpg",
       "ticketLink": "https://themiracletheatre.com/events/selma-3/"
     },
     {
@@ -778,11 +634,11 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
     },
     {
-      "title": "Selma (2014)",
+      "title": "Selma (2026)",
       "venue": "Miracle Theater",
       "date": "2026-11-07",
       "time": "14:00",
-      "poster": "https://image.tmdb.org/t/p/w500/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mvpEfkdFzI4mycVkz5EEIfCO1VQ.jpg",
       "ticketLink": "https://themiracletheatre.com/events/selma-2/"
     },
     {
