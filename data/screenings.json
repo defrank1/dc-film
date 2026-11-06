@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T05:09:07.942Z",
+  "lastUpdated": "2026-11-06T13:45:09.074Z",
   "screenings": [
     {
       "title": "Wild Horse Nine (2026)",
@@ -178,14 +178,6 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005722"
     },
     {
-      "title": "A.S. HAMRAH PRESENTS: A BAY OF BLOOD",
-      "venue": "Suns Cinema",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29122528/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
-      "ticketLink": "https://sunscinema.com/movies/a-s-hamrah-presents-a-bay-of-blood/"
-    },
-    {
       "title": "Selma (2026)",
       "venue": "Miracle Theater",
       "date": "2026-11-06",
@@ -296,6 +288,14 @@
       "time": "14:00",
       "poster": "https://image.tmdb.org/t/p/w500/mvpEfkdFzI4mycVkz5EEIfCO1VQ.jpg",
       "ticketLink": "https://themiracletheatre.com/events/selma-2/"
+    },
+    {
+      "title": "Mary Oliver: Saved by the Beauty of the World (2026)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-07",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "La Bola Negra (2026)",
@@ -586,7 +586,7 @@
       "ticketLink": "https://sunscinema.com/movies/f-for-fake/"
     },
     {
-      "title": "CLOSE-UP (2026)",
+      "title": "CLOSE-UP (1990)",
       "venue": "Suns Cinema",
       "date": "2026-11-09",
       "time": "19:00",
@@ -1066,6 +1066,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100005652"
     },
     {
+      "title": "Pan Tadeusz: The Last Foray in Lithuania (1999)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/kWomf1J9CNZmD0P9IntFEGlAe12.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "EIGHT GIRLS IN A BOAT (1934) in 35mm",
       "venue": "AFI Silver",
       "date": "2026-11-14",
@@ -1128,6 +1136,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003971?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003971"
+    },
+    {
+      "title": "The Promised Land (2023)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-15",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Daughter of the Dragon (1931)",
@@ -1418,6 +1434,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100000978"
     },
     {
+      "title": "The Wedding (2015)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/ciR2suRkfJen9lQvfz22lgCj7g7.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "Fast (2023)",
       "venue": "AFI Silver",
       "date": "2026-11-21",
@@ -1488,6 +1512,14 @@
       "time": "13:15",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003417?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100003417"
+    },
+    {
+      "title": "The Shadow Line (1985)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/u4DU5CQ5xZ2Zi46q2U6uYvYT56P.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "Alice in Wonderland (1951)",
@@ -1874,6 +1906,14 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100003481"
     },
     {
+      "title": "Danton (1921)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-28",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/4kBRaJnnLZbXn53aDlZKorZ46aG.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "THE THIRD MAN in 35mm",
       "venue": "AFI Silver",
       "date": "2026-11-28",
@@ -1936,6 +1976,14 @@
       "time": "13:30",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005762?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005762"
+    },
+    {
+      "title": "Powwow People (2025)",
+      "venue": "National Gallery of Art",
+      "date": "2026-11-29",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/mSg1slgGPe3xTBntfAWxpvTEOrT.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "THE HOLE (1998) in 35mm",
@@ -2146,6 +2194,22 @@
       "ticketLink": "https://silver.afi.com/movies/detail/0100004096"
     },
     {
+      "title": "Daisies (1966)",
+      "venue": "National Gallery of Art",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "poster": "https://image.tmdb.org/t/p/w500/8sxMhdn3i1Pn8OlGCBBjr9rjP1y.jpg",
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
+      "title": "Cine-concert: Berlin, Symphony of a Great City",
+      "venue": "National Gallery of Art",
+      "date": "2026-12-13",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
+    },
+    {
       "title": "DUNE: PART THREE in 70mm",
       "venue": "AFI Silver",
       "date": "2026-12-15",
@@ -2192,6 +2256,14 @@
       "time": "14:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005655"
+    },
+    {
+      "title": "Peter Hutton Behind the Camera: No Picnic",
+      "venue": "National Gallery of Art",
+      "date": "2026-12-19",
+      "time": "14:00",
+      "poster": null,
+      "ticketLink": "https://www.nga.gov/calendar?type%5B103026%5D=103026"
     },
     {
       "title": "DUNE: PART THREE in 70mm",
