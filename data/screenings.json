@@ -1,94 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T04:42:19.867Z",
+  "lastUpdated": "2026-11-09T15:12:33.583Z",
   "screenings": [
-    {
-      "title": "La Bola Negra (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005730"
-    },
-    {
-      "title": "Wild Horse Nine (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "13:40",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
-    },
-    {
-      "title": "FOR HEAVEN'S SAKE in 35mm (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "13:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003143?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100003143"
-    },
-    {
-      "title": "THE 9 LIVES OF BARBARA DANE FILM & CRYS MATTHEWS MUSIC LIVE",
-      "venue": "Miracle Theater",
-      "date": "2026-11-08",
-      "time": "14:00",
-      "poster": null,
-      "ticketLink": "https://www.eventbrite.com/e/the-9-lives-of-barbara-dane-film-crys-matthews-music-live-tickets-2003435520573"
-    },
-    {
-      "title": "La Bola Negra (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "14:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005730"
-    },
-    {
-      "title": "FLESH AND THE DEVIL in 35mm (1926)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "15:45",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002217?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100002217"
-    },
-    {
-      "title": "Wild Horse Nine (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "16:05",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
-    },
-    {
-      "title": "The Hunt for Red October (1990)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "17:30",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005750?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005750"
-    },
-    {
-      "title": "Wild Horse Nine (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "18:35",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
-    },
-    {
-      "title": "La Bola Negra (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "20:15",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005730"
-    },
-    {
-      "title": "Wild Horse Nine (2026)",
-      "venue": "AFI Silver",
-      "date": "2026-11-08",
-      "time": "21:00",
-      "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "ticketLink": "https://silver.afi.com/movies/detail/0100005767"
-    },
     {
       "title": "Wild Horse Nine (2026)",
       "venue": "AFI Silver",
@@ -104,14 +16,6 @@
       "time": "11:15",
       "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
       "ticketLink": "https://www.theavalon.org/films/wild-horse-nine/"
-    },
-    {
-      "title": "You Can See Everything (2026)",
-      "venue": "Avalon Theater",
-      "date": "2026-11-09",
-      "time": "11:30",
-      "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "ticketLink": "https://www.theavalon.org/films/you-can-see-everything/"
     },
     {
       "title": "La Bola Negra (2026)",
@@ -256,22 +160,6 @@
       "time": "19:00",
       "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005721?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "ticketLink": "https://silver.afi.com/movies/detail/0100005721"
-    },
-    {
-      "title": "F FOR FAKE (1973)",
-      "venue": "Suns Cinema",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28154410/fVeIDxS73CrosoeVOaefQuCUGZg.jpg",
-      "ticketLink": "https://sunscinema.com/movies/f-for-fake/"
-    },
-    {
-      "title": "CLOSE-UP (1990)",
-      "venue": "Suns Cinema",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/07/28113403/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
-      "ticketLink": "https://sunscinema.com/movies/close-up/"
     },
     {
       "title": "INTERSTELLAR (2014)",
@@ -1426,7 +1314,7 @@
       "ticketLink": "https://sunscinema.com/movies/once-a-thief/"
     },
     {
-      "title": "FULL CONTACT (1992)",
+      "title": "FULL CONTACT (2015)",
       "venue": "Suns Cinema",
       "date": "2026-11-25",
       "time": "19:00",
