@@ -1,180 +1,82 @@
-# DC Film Screenings
+# 7:30 Showtimes
 
-A simple, automatically-updating website that shows all independent film screenings in the DC area.
+Every showtime at Washington, DC's independent and repertory movie screens, on one page.
 
-## Features
+- **Live site:** https://defrank1.github.io/dc-film/
+- **Stack:** plain HTML, CSS and JavaScript (no build step) + a Node.js scraper
+- **Hosting:** GitHub Pages; GitHub Actions re-scrapes every 6 hours
 
-- Clean, minimalist design
-- Mobile-responsive layout
-- Organized by date and time
-- Automatic updates every 6 hours via GitHub Actions
-- Shows screenings from:
-  - AFI Silver Theatre
-  - Suns Cinema
-  - Angelika Pop Up at Union Market
-  - Miracle Theater
-  - Avalon Theater
+## Theaters
 
-## Setup Instructions
+| Theater | How it is read | Notes |
+|---|---|---|
+| AFI Silver Theatre | Calendar HTML + the site's own month endpoint | Detail pages are read once per film for year/director |
+| Avalon Theatre | Per-day listing pages | Times have no AM/PM on the site; see `scrapers/avalon.js` |
+| Suns Cinema | "Coming Soon" page HTML | |
+| Angelika Pop-Up at Union Market | The site's JSON API | |
+| 4EYE Film Center | "What's On" page HTML | |
+| National Gallery of Art | Headless browser (Puppeteer) | Site has a JavaScript check that sometimes refuses automated browsers |
+| Library of Congress | loc.gov JSON API | Main campus only; often nothing scheduled |
+| Miracle Theatre | Events RSS feeds | Mostly live events now; films appear in runs, so it is often empty. The scraper identifies itself by name (the site challenges clients that pose as a browser). |
 
-### 1. Create GitHub Repository
+Link-only venues (no scraper) are listed under `more` in `data/venues.json`.
 
-1. Go to [GitHub](https://github.com) and create a new repository
-2. Name it `dc-film` (or whatever you prefer)
-3. Make it **public** (required for free GitHub Pages)
-4. Don't initialize with README (we already have one)
+## How it works
 
-### 2. Push Your Code to GitHub
-
-Open Terminal and run these commands from your project folder:
-
-```bash
-cd /Users/andrewdefrank/Desktop/dc-film
-
-# Initialize git repository
-git init
-
-# Add all files
-git add .
-
-# Create first commit
-git commit -m "Initial commit: DC Film Screenings website"
-
-# Connect to GitHub (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/dc-film.git
-
-# Push to GitHub
-git branch -M main
-git push -u origin main
+```
+scrapers/<venue>.js  ─┐
+                      ├─>  scraper.js  ─>  data/screenings.json  ─>  js/app.js (the site)
+scrapers/tmdb.js     ─┘                    data/status.json
 ```
 
-### 3. Enable GitHub Pages
+1. `scraper.js` runs each venue scraper, cleans up titles ("DANCING LADY (1933) in 35mm" becomes title, year and a "35mm" tag), groups the same film across theaters and looks it up on TMDB for a poster, director and synopsis.
+2. It writes `data/screenings.json` (films + showtimes) and `data/status.json` (did each theater scrape work).
+3. The site is static. `js/app.js` reads `data/venues.json`, `data/screenings.json` and `data/status.json` and draws everything.
 
-1. Go to your repository on GitHub
-2. Click **Settings** (top menu)
-3. Click **Pages** (left sidebar)
-4. Under "Source", select **main** branch
-5. Click **Save**
-6. Your site will be live at: `https://YOUR_USERNAME.github.io/dc-film/homepage.html`
+**When a scraper breaks:** the theater's last good listings stay on the site for up to 7 days, `data/status.json` records the failure, the Theaters page says so, and the Actions run shows a warning with a status table. Each scraper file starts with a comment describing the page structure it expects, which is the first place to look.
 
-### 4. Enable GitHub Actions
-
-GitHub Actions should work automatically, but verify:
-
-1. Go to **Settings** > **Actions** > **General**
-2. Under "Workflow permissions", select **Read and write permissions**
-3. Check **Allow GitHub Actions to create and approve pull requests**
-4. Click **Save**
-
-### 5. Set Up the Scraper
-
-The scraper is created but needs to be configured for each theater's website structure.
-
-**To develop the scraper locally:**
+## Running it locally
 
 ```bash
-# Install dependencies
 npm install
-
-# Run the scraper
-npm run scrape
+npm run scrape            # all theaters (about 2 minutes the first time)
+node scraper.js afi suns  # just some theaters; the rest keep their data
+npm run scrape:dry        # scrape but write nothing
+npm run serve             # then open http://localhost:8000
 ```
 
-**Current Status:**
-- The scraper framework is ready
-- Each theater function needs HTML structure inspection
-- See [scraper.js](scraper.js) for TODO comments
-
-### 6. Customize the Scraper
-
-Each theater website has a different HTML structure. To make the scraper work:
-
-1. Open [scraper.js](scraper.js)
-2. For each theater, inspect their website's HTML (right-click > Inspect in browser)
-3. Find the CSS selectors for movie titles, dates, times, etc.
-4. Update the scraper functions with the correct selectors
-
-**Example for AFI Silver:**
-```javascript
-async function scrapeAFISilver() {
-  const response = await axios.get(THEATERS.AFI_SILVER);
-  const $ = cheerio.load(response.data);
-  const screenings = [];
-
-  $('.film-item').each((i, elem) => {
-    screenings.push({
-      title: $(elem).find('.film-title').text().trim(),
-      venue: 'AFI Silver',
-      date: formatDate($(elem).find('.date').text()),
-      time: $(elem).find('.time').text().trim(),
-      poster: $(elem).find('img').attr('src'),
-      ticketLink: $(elem).find('a').attr('href')
-    });
-  });
-
-  return screenings;
-}
-```
-
-## How It Works
-
-1. **GitHub Actions** runs [scraper.js](scraper.js) every 6 hours
-2. The scraper fetches data from each theater's website
-3. It updates [data/screenings.json](data/screenings.json)
-4. GitHub automatically commits and pushes the changes
-5. GitHub Pages serves the updated website
-
-## File Structure
+## Files
 
 ```
-dc-film/
-├── homepage.html          # Main HTML file
-├── css/
-│   └── style.css          # Styles
-├── js/
-│   └── main.js            # Frontend JavaScript
-├── data/
-│   └── screenings.json    # Theater data (auto-updated)
-├── scraper.js             # Web scraper
-├── package.json           # Node.js dependencies
-├── .github/
-│   └── workflows/
-│       └── scrape-screenings.yml  # GitHub Actions config
-└── README.md              # This file
+index.html               the whole site (views are switched in JS)
+calendar.html            redirect kept for old links
+css/style.css            design tokens at the top; "house lights" = light mode
+js/app.js                rendering, filters, URL state
+data/venues.json         hand-maintained theater list (names, addresses, blurbs)
+data/screenings.json     generated
+data/status.json         generated
+data/tmdb-cache.json     generated; TMDB answers, so each film is looked up once
+data/venue-meta-cache.json  generated; per-film details read from theater sites
+scraper.js               orchestrator
+scrapers/                one file per theater + shared helpers
+.github/workflows/       the 6-hourly scrape
 ```
 
-## Manual Updates
+## Adding a theater
 
-To manually update the screenings:
+1. Add an entry to `tracked` in `data/venues.json` with a `scraper` name.
+2. Create `scrapers/<name>.js` exporting an async function that returns
+   `[{ title, date: 'YYYY-MM-DD', time: 'HH:MM', ticketLink, ...optional }]` (24-hour Eastern time).
+   Optional fields: `year`, `director`, `runtime`, `imdbId`, `poster`, `note`, `series`, `soldOut`.
+3. `node scraper.js <id> --dry` to test.
 
-1. Edit [data/screenings.json](data/screenings.json)
-2. Follow the existing format:
-```json
-{
-  "title": "Movie Title",
-  "venue": "Theater Name",
-  "date": "2025-11-20",
-  "time": "19:00",
-  "poster": "https://image.tmdb.org/t/p/w300/poster.jpg",
-  "ticketLink": "https://theater-website.com"
-}
-```
-3. Commit and push changes
+## Design
 
-## Next Steps
+The look is derived from 730DC (one red, hairline grid, Space Mono, wide uppercase labels) on a dark ground. Colors and fonts are CSS variables at the top of `css/style.css`. The label face is Archivo Expanded from Google Fonts.
 
-1. ✅ Basic website structure
-2. ✅ GitHub Actions automation
-3. ⏳ Configure scraper for each theater
-4. ⏳ Add TMDB API for automatic movie posters
-5. ⏳ Add filtering and search features
+## Credits
 
-## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Scraper:** Node.js, Axios, Cheerio
-- **Automation:** GitHub Actions
-- **Hosting:** GitHub Pages
+Film data from [TMDB](https://www.themoviedb.org/). This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## License
 

@@ -1,44 +1,154 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DC Film Screenings!</title>
-    <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>7:30 Showtimes — every indie and repertory screening in DC</title>
+  <meta name="description" content="Every showtime at Washington, DC's independent and repertory movie screens — AFI Silver, the Avalon, Suns Cinema, Angelika Pop-Up, 4EYE Film Center, the National Gallery and more — on one page, updated through the day.">
+  <meta property="og:title" content="7:30 Showtimes">
+  <meta property="og:description" content="Every showtime at DC's independent and repertory screens, in one place.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://defrank1.github.io/dc-film/">
+  <meta property="og:image" content="https://defrank1.github.io/dc-film/assets/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#150c0b">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,500;125,700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // Apply the saved "house lights" choice before first paint.
+    try { if (localStorage.getItem('lights') === 'up') document.documentElement.dataset.lights = 'up'; } catch (e) {}
+  </script>
 </head>
-
 <body>
-    <header>
-        <h1>DC Film Screenings</h1>
-        <p class="subtitle">Independent film screenings in the DC area</p>
-        <nav class="view-toggle">
-            <a href="index.html" class="active">List View</a>
-            <a href="calendar.html">Calendar View</a>
-        </nav>
-        <div class="filter-controls">
-            <label for="theater-filter">Filter by Theater:</label>
-            <select id="theater-filter">
-                <option value="all">All Theaters</option>
-            </select>
-        </div>
+  <a class="skip" href="#main">Skip to showtimes</a>
+
+  <div class="frame">
+    <header class="masthead">
+      <a class="wordmark" href="#" data-view="showtimes" aria-label="7:30 Showtimes, home">
+        <span class="wordmark__time">7<span class="wordmark__colon" aria-hidden="true">:</span>30</span>
+        <span class="wordmark__word">Showtimes</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#" data-view="showtimes">Showtimes</a>
+        <a href="#view=calendar" data-view="calendar">Calendar</a>
+        <a href="#view=theaters" data-view="theaters">Theaters</a>
+        <a href="#view=about" data-view="about">About</a>
+      </nav>
     </header>
 
-    <main id="screenings-container">
-        <div class="loading">Loading screenings...</div>
+    <main id="main">
+      <!-- ============ SHOWTIMES ============ -->
+      <section id="view-showtimes" class="view">
+        <div class="hero">
+          <div class="hero__pitch">
+            <p class="label">Lights down in Washington</p>
+            <h1>Every showtime at DC’s independent and repertory screens, in one place.</h1>
+            <p class="hero__stats" id="stats" aria-live="polite">Loading showtimes…</p>
+          </div>
+          <div class="hero__seven" id="seven-thirty" aria-labelledby="seven-thirty-title">
+            <p class="label" id="seven-thirty-title">Tonight around 7:30</p>
+            <ol class="seven-list" id="seven-list"></ol>
+          </div>
+        </div>
+
+        <div class="controls" id="controls">
+          <div class="daystrip-wrap">
+            <button class="daystrip__arrow" id="days-prev" aria-label="Earlier dates">←</button>
+            <div class="daystrip" id="daystrip" role="tablist" aria-label="Pick a day"></div>
+            <button class="daystrip__arrow" id="days-next" aria-label="Later dates">→</button>
+          </div>
+
+          <div class="filters">
+            <div class="filters__group filters__venues" id="venue-chips" role="group" aria-label="Filter by theater"></div>
+            <div class="filters__group filters__tools">
+              <button class="chip" id="rep-toggle" aria-pressed="false" title="Only films released two or more years ago">Rep &amp; classics only</button>
+              <div class="seg" role="group" aria-label="Arrange listings">
+                <button class="seg__btn" data-mode="film" aria-pressed="true">By film</button>
+                <button class="seg__btn" data-mode="time" aria-pressed="false">By time</button>
+              </div>
+              <label class="search">
+                <span class="visually-hidden">Search films</span>
+                <input type="search" id="search" placeholder="Search title or director" autocomplete="off">
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div id="listing" class="listing" aria-live="polite"></div>
+      </section>
+
+      <!-- ============ CALENDAR ============ -->
+      <section id="view-calendar" class="view" hidden>
+        <div class="pagehead">
+          <p class="label">Calendar</p>
+          <div class="calnav">
+            <button class="chip" id="cal-prev" aria-label="Previous month">←</button>
+            <h1 id="cal-title"></h1>
+            <button class="chip" id="cal-next" aria-label="Next month">→</button>
+          </div>
+          <p class="pagehead__note">Pick a day to see its full lineup. Theater and “rep only” filters from the Showtimes page apply here too.</p>
+        </div>
+        <div id="calendar" class="calendar"></div>
+      </section>
+
+      <!-- ============ THEATERS ============ -->
+      <section id="view-theaters" class="view" hidden>
+        <div class="pagehead">
+          <p class="label">Theaters</p>
+          <h1>The screens we track</h1>
+        </div>
+        <div id="theaters" class="theaters"></div>
+        <div class="pagehead pagehead--sub">
+          <p class="label">Also showing</p>
+          <h2>More screens worth checking</h2>
+          <p class="pagehead__note">Not in the listings yet. Their sites are a click away.</p>
+        </div>
+        <ul id="more-screens" class="more"></ul>
+      </section>
+
+      <!-- ============ ABOUT ============ -->
+      <section id="view-about" class="view" hidden>
+        <div class="pagehead">
+          <p class="label">About</p>
+          <h1>One page for DC’s other movie theaters</h1>
+        </div>
+        <div class="about">
+          <div class="about__col">
+            <h2 class="label">What this is</h2>
+            <p>Washington has a handful of independent, nonprofit and museum screens showing old movies, second-run movies and films that never reach the multiplex. Each one keeps its own calendar on its own website.</p>
+            <p>7:30 Showtimes reads those calendars and puts every screening on one schedule, so you can see what is playing tonight without opening eight tabs.</p>
+          </div>
+          <div class="about__col">
+            <h2 class="label">How it works</h2>
+            <p>A script checks each theater’s public listings every six hours and rebuilds this page. Times are Eastern. Ticket links go straight to the theater.</p>
+            <p>Theaters change their schedules, and their websites, without warning. If a time here disagrees with the theater, the theater is right. The Theaters page shows when each one was last read successfully.</p>
+          </div>
+          <div class="about__col">
+            <h2 class="label">Credits</h2>
+            <p>Posters, years and synopses come from <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a>. This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+            <p>The code is open: <a href="https://github.com/defrank1/dc-film" target="_blank" rel="noopener">github.com/defrank1/dc-film</a>. Spotted a wrong time or a missing theater? <a href="https://github.com/defrank1/dc-film/issues" target="_blank" rel="noopener">Open an issue</a>.</p>
+          </div>
+        </div>
+      </section>
     </main>
 
-    <footer>
-        <p>Currently showing: AFI Silver | Suns Cinema | Miracle Theater | Library of Congress | Angelika Pop-Up | Avalon Theater | National Gallery of Art</p>
-        <p style="font-size: 0.8rem; color: #999; margin-top: 5px;">
-            Additional venues (not auto-updated):
-            <a href="https://drafthouse.com/dc" target="_blank" rel="noopener" style="color: #666;">Alamo Drafthouse Bryant St</a>
-        </p>
-        <p class="last-updated">Last updated: <span id="last-update-time"></span></p>
+    <footer class="footer">
+      <p class="footer__cell"><span class="label">Updated</span> <span id="updated">—</span></p>
+      <p class="footer__cell footer__cell--grow">Times are Eastern and come from each theater’s own site. Check with the theater before you go.</p>
+      <button class="footer__cell footer__lights" id="lights" aria-pressed="false">
+        <span class="label">House lights</span> <span id="lights-state">Down</span>
+      </button>
     </footer>
+  </div>
 
-    <script src="js/main.js"></script>
+  <dialog id="film-dialog" class="dialog" aria-labelledby="film-dialog-title">
+    <div class="dialog__inner" id="film-dialog-body"></div>
+  </dialog>
+
+  <noscript><p style="padding:2rem;font-family:monospace">7:30 Showtimes needs JavaScript to load the listings.</p></noscript>
+  <script src="js/app.js"></script>
 </body>
-
 </html>

@@ -1,1145 +1,358 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const ical = require('node-ical');
-const fs = require('fs').promises;
-const path = require('path');
-const puppeteer = require('puppeteer');
-
+#!/usr/bin/env node
 /**
- * DC Film Screenings Scraper
- * Fetches screening data from DC independent theaters and updates screenings.json
+ * 7:30 Showtimes scraper
+ *
+ * Runs every venue scraper in scrapers/, cleans and merges the results,
+ * looks films up on TMDB, and writes:
+ *   data/screenings.json   what the site displays
+ *   data/status.json       per-venue health (ok / stale / blocked / error)
+ *   data/tmdb-cache.json   TMDB lookups, so we only ask once per film
+ *
+ * Usage:
+ *   npm run scrape                 all venues
+ *   node scraper.js afi suns       only these venues (others keep their
+ *                                  existing data)
+ *   node scraper.js --dry          run everything but write nothing
+ *
+ * Safety net: if a venue's scraper throws, is blocked, or suddenly returns
+ * nothing, we keep that venue's previously scraped future showtimes (marked
+ * "stale" in status.json) for up to STALE_DAYS days instead of silently
+ * dropping the theater from the site.
  */
+const fs = require('fs');
+const path = require('path');
+const { todayET } = require('./scrapers/lib');
+const { parseTitle, normKey } = require('./scrapers/titles');
+const { enrich } = require('./scrapers/tmdb');
 
-// Theater websites
-const THEATERS = {
-  AFI_SILVER: 'https://silver.afi.com/calendar/',
-  SUNS_CINEMA: 'https://sunscinema.com/',
-  ANGELIKA: 'https://angelikafilmcenter.com/dc/showtimes-and-tickets/now-playing',
-  MIRACLE: 'https://themiracletheatre.com/',
-  AVALON: 'https://www.theavalon.org/'
+const DATA = path.join(__dirname, 'data');
+const OUT = path.join(DATA, 'screenings.json');
+const STATUS = path.join(DATA, 'status.json');
+const VENUES = JSON.parse(fs.readFileSync(path.join(DATA, 'venues.json'), 'utf8')).tracked;
+const TMDB_API_KEY = process.env.TMDB_API_KEY || require('./package.json').tmdbApiKey;
+
+const STALE_DAYS = 7; // how long to keep showing old data for a broken venue
+const HORIZON_DAYS = 75; // ignore anything further out than this
+const VENUE_TIMEOUT_MS = 4 * 60 * 1000;
+
+const args = process.argv.slice(2);
+const DRY = args.includes('--dry');
+const only = args.filter((a) => !a.startsWith('--'));
+
+const readJSON = (file, fallback) => {
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch (e) {
+    return fallback;
+  }
 };
 
-// Load TMDB API key from package.json
-const packageJson = require('./package.json');
-const TMDB_API_KEY = packageJson.tmdbApiKey;
-
-// Configure axios with timeout
-axios.defaults.timeout = 15000; // 15 second timeout
-axios.defaults.headers.common['User-Agent'] = 'Mozilla/5.0 (compatible; DCFilmScraper/1.0)';
-
-/**
- * TMDB API Helper Functions
- */
-
-/**
- * Extract year from title if it's in format "TITLE (YYYY)"
- */
-function extractYearFromTitle(title) {
-  const match = title.match(/\((\d{4})\)\s*$/);
-  return match ? match[1] : null;
-}
-
-/**
- * Clean title for TMDB search by removing year and extra formatting
- */
-function cleanTitleForSearch(title) {
-  // Remove year in parentheses at the end
-  let cleanTitle = title.replace(/\s*\((\d{4})\)\s*$/, '');
-  // Remove extra whitespace
-  cleanTitle = cleanTitle.trim();
-  return cleanTitle;
-}
-
-/**
- * Fetch movie data from TMDB API
- */
-async function fetchMovieFromTMDB(title, existingYear = null) {
-  // Skip if no API key configured
-  if (!TMDB_API_KEY || TMDB_API_KEY === 'TMDB_API_KEY_PLACEHOLDER') {
-    return null;
-  }
-
-  try {
-    const cleanTitle = cleanTitleForSearch(title);
-
-    // Search for the movie
-    let searchUrl = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(cleanTitle)}`;
-    if (existingYear) {
-      searchUrl += `&year=${existingYear}`;
-    }
-
-    const response = await axios.get(searchUrl, { timeout: 5000 });
-
-    if (response.data.results && response.data.results.length > 0) {
-      const movie = response.data.results[0];
-      return {
-        year: movie.release_date ? movie.release_date.substring(0, 4) : null,
-        poster: movie.poster_path ? `https://image.tmdb.org/t/p/w500${movie.poster_path}` : null
-      };
-    }
-  } catch (error) {
-    console.error(`TMDB lookup failed for "${title}":`, error.message);
-  }
-
-  return null;
-}
-
-/**
- * Enrich screening with TMDB data (poster and year)
- */
-async function enrichMovieData(screening) {
-  const existingYear = extractYearFromTitle(screening.title);
-  const tmdbData = await fetchMovieFromTMDB(screening.title, existingYear);
-
-  if (tmdbData) {
-    // Add poster if we don't have one
-    if (!screening.poster && tmdbData.poster) {
-      screening.poster = tmdbData.poster;
-    }
-
-    // Add year to title if not already present
-    if (tmdbData.year && !existingYear) {
-      screening.title = `${screening.title} (${tmdbData.year})`;
-    }
-  }
-
-  return screening;
-}
-
-/**
- * Scrape AFI Silver Theatre using Puppeteer
- * Two-layer extraction: embedded script data (primary) → DOM link parsing (fallback)
- */
-async function scrapeAFISilver() {
-  console.log('Scraping AFI Silver with Puppeteer...');
-
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--disable-gpu'
-    ]
+function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms / 1000}s`)), ms);
   });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
 
-  try {
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+function addDays(iso, n) {
+  const d = new Date(`${iso}T12:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+}
 
-    await page.goto(THEATERS.AFI_SILVER, {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
+/** Map a venue name from an older screenings.json to a venue id. */
+function venueIdFor(s) {
+  if (s.venueId) return s.venueId;
+  const v = VENUES.find((x) => x.name === s.venue || (x.aliases || []).includes(s.venue));
+  return v ? v.id : null;
+}
 
-    await new Promise(resolve => setTimeout(resolve, 2000));
+async function main() {
+  const today = todayET();
+  const horizon = addDays(today, HORIZON_DAYS);
+  const previous = readJSON(OUT, { screenings: [], films: {} });
+  const prevStatus = readJSON(STATUS, { venues: {} });
+  const prevByVenue = {};
+  for (const s of previous.screenings || []) {
+    const id = venueIdFor(s);
+    if (!id) continue;
+    (prevByVenue[id] = prevByVenue[id] || []).push(s);
+  }
 
-    const allScreenings = [];
-    const MONTHS_TO_SCRAPE = 3;
+  console.log(`7:30 Showtimes scraper — ${today} (Eastern)\n`);
 
-    for (let monthIndex = 0; monthIndex < MONTHS_TO_SCRAPE; monthIndex++) {
+  /* ---- 1. scrape every venue ---- */
+  const status = {};
+  const rawByVenue = {};
+
+  await Promise.all(
+    VENUES.map(async (venue) => {
+      const prev = prevStatus.venues[venue.id] || {};
+      if (only.length && !only.includes(venue.id) && !only.includes(venue.scraper)) {
+        rawByVenue[venue.id] = null; // keep existing
+        status[venue.id] = { ...prev, skipped: true };
+        return;
+      }
+      const started = Date.now();
       try {
-        const monthScreenings = await page.evaluate(() => {
-          // Helpers inlined for browser context
-
-          function parseTimeText(text) {
-            if (!text) return null;
-            const match = text.match(/(\d{1,2}):(\d{2})\s*([ap])\.m\./i);
-            if (!match) return null;
-            let hours = parseInt(match[1]);
-            const minutes = match[2];
-            const period = match[3].toLowerCase();
-            if (period === 'p' && hours !== 12) hours += 12;
-            if (period === 'a' && hours === 12) hours = 0;
-            return `${String(hours).padStart(2, '0')}:${minutes}`;
-          }
-
-          function parseDateText(text) {
-            if (!text) return null;
-            // Pattern: "3/1", "3/1/2026", "03/01/2026"
-            const numericMatch = text.match(/\b(\d{1,2})\/(\d{1,2})(?:\/(\d{4}))?\b/);
-            if (numericMatch) {
-              const m = String(parseInt(numericMatch[1])).padStart(2, '0');
-              const d = String(parseInt(numericMatch[2])).padStart(2, '0');
-              const y = numericMatch[3] || String(new Date().getFullYear());
-              return `${y}-${m}-${d}`;
-            }
-            // Pattern: "March 1", "March 1, 2026"
-            const MONTHS = {
-              January: '01', February: '02', March: '03', April: '04', May: '05', June: '06',
-              July: '07', August: '08', September: '09', October: '10', November: '11', December: '12'
-            };
-            const namedMatch = text.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:,?\s*(\d{4}))?\b/);
-            if (namedMatch) {
-              const m = MONTHS[namedMatch[1]];
-              const d = namedMatch[2].padStart(2, '0');
-              const y = namedMatch[3] || String(new Date().getFullYear());
-              return `${y}-${m}-${d}`;
-            }
-            return null;
-          }
-
-          const TIME_RE = /^\d{1,2}:\d{2}\s*[ap]\.m\.$/i;
-          const results = [];
-          const seen = new Set();
-
-          // === Layer 1: Extract embedded script data ===
-          // The AFI calendar embeds show/movie data in inline <script> tags.
-          // Try the known console.log pattern plus common variations.
-          let showData = null;
-          let movieData = null;
-
-          for (const script of document.querySelectorAll('script:not([src])')) {
-            const text = script.textContent;
-            if (!showData) {
-              for (const re of [
-                /console\.log\(["']show_array["'],?\s*({[\s\S]*?})\s*\);/,
-                /var\s+show_array\s*=\s*({[\s\S]*?});/,
-              ]) {
-                const m = text.match(re);
-                if (m) { try { showData = JSON.parse(m[1]); } catch (e) {} if (showData) break; }
-              }
-            }
-            if (!movieData) {
-              for (const re of [
-                /console\.log\(["']movie_array["'],?\s*(\[[\s\S]*?\])\s*\);/,
-                /var\s+movie_array\s*=\s*(\[[\s\S]*?\]);/,
-              ]) {
-                const m = text.match(re);
-                if (m) { try { movieData = JSON.parse(m[1]); } catch (e) {} if (movieData) break; }
-              }
-            }
-            if (showData && movieData) break;
-          }
-
-          if (showData && movieData) {
-            const movieMap = {};
-            movieData.forEach(movie => { movieMap[movie.ID] = movie.Title; });
-
-            Object.entries(showData).forEach(([date, movies]) => {
-              Object.entries(movies).forEach(([movieId, showtimes]) => {
-                const title = movieMap[movieId];
-                if (!title) return;
-                showtimes.forEach(showtime => {
-                  const time = parseTimeText(showtime.time);
-                  if (!time) return;
-                  const key = `${title}-${date}-${time}`;
-                  if (seen.has(key)) return;
-                  seen.add(key);
-                  results.push({
-                    title,
-                    date,
-                    time,
-                    poster: `https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-${movieId}?referenceScheme=HeadOffice&allowPlaceHolder=true`,
-                    ticketLink: `https://silver.afi.com/movies/detail/${movieId}`,
-                    _method: 'script'
-                  });
-                });
-              });
-            });
-
-            if (results.length > 0) return results;
-          }
-
-          // === Layer 2: DOM fallback ===
-          // Film titles and showtimes both link to /movies/detail/[ID].
-          // Time links are distinguished by their text matching a time pattern.
-          const timeLinks = Array.from(document.querySelectorAll('a[href*="/movies/detail/"]'))
-            .filter(el => TIME_RE.test(el.textContent.trim()));
-
-          timeLinks.forEach(timeLink => {
-            const time = parseTimeText(timeLink.textContent.trim());
-            if (!time) return;
-
-            const href = timeLink.getAttribute('href') || '';
-            const filmIdMatch = href.match(/\/movies\/detail\/(\w+)/);
-            if (!filmIdMatch) return;
-            const filmId = filmIdMatch[1];
-
-            // Find title: same film ID, non-time text, within a nearby ancestor
-            let title = null;
-            let node = timeLink.parentElement;
-            for (let depth = 0; depth < 10 && node && !title; depth++) {
-              for (const el of node.querySelectorAll(`a[href*="/movies/detail/${filmId}"]`)) {
-                const t = el.textContent.trim();
-                if (!TIME_RE.test(t) && t.length > 2) { title = t; break; }
-              }
-              node = node.parentElement;
-            }
-            if (!title) return;
-
-            // Find date: walk up ancestors looking for short date-like text in child nodes
-            let date = null;
-            node = timeLink.parentElement;
-            for (let depth = 0; depth < 20 && node && !date; depth++) {
-              for (const child of node.childNodes) {
-                const t = (child.textContent || '').trim();
-                if (t.length > 0 && t.length < 30) {
-                  const parsed = parseDateText(t);
-                  if (parsed) { date = parsed; break; }
-                }
-              }
-              node = node.parentElement;
-            }
-
-            if (!date) {
-              const now = new Date();
-              date = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
-            }
-
-            const key = `${title}-${date}-${time}`;
-            if (seen.has(key)) return;
-            seen.add(key);
-            results.push({
-              title,
-              date,
-              time,
-              poster: `https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-${filmId}?referenceScheme=HeadOffice&allowPlaceHolder=true`,
-              ticketLink: href.startsWith('http') ? href : `https://silver.afi.com${href}`,
-              _method: 'dom'
-            });
-          });
-
-          return results;
-        });
-
-        if (monthScreenings && monthScreenings.length > 0) {
-          const method = monthScreenings[0]?._method || 'unknown';
-          console.log(`  Month ${monthIndex + 1}: ${monthScreenings.length} screenings (via ${method})`);
-          allScreenings.push(...monthScreenings);
-        }
-
-        // Navigate to next month
-        if (monthIndex < MONTHS_TO_SCRAPE - 1) {
-          const navigated = await page.evaluate(() => {
-            // Try progressively broader selectors for the next-month button
-            const btn =
-              document.querySelector('[aria-label*="next" i]') ||
-              document.querySelector('[title*="next month" i]') ||
-              document.querySelector('.next-month') ||
-              document.querySelector('.nav-next') ||
-              document.querySelector('.fc-next-button') ||
-              Array.from(document.querySelectorAll('a, button, span')).find(
-                el => el.children.length === 0 && el.textContent?.trim() === '>'
-              );
-            if (btn) { btn.click(); return true; }
-            return false;
-          });
-
-          if (!navigated) {
-            console.log(`  Could not find next-month button at month ${monthIndex + 1}, stopping`);
-            break;
-          }
-
-          await new Promise(resolve => setTimeout(resolve, 3000));
+        const fn = require(`./scrapers/${venue.scraper}`);
+        const rows = await withTimeout(fn(), VENUE_TIMEOUT_MS, venue.short);
+        const valid = (rows || []).filter(
+          (r) =>
+            r &&
+            r.title &&
+            /^\d{4}-\d{2}-\d{2}$/.test(r.date || '') &&
+            /^\d{2}:\d{2}$/.test(r.time || '') &&
+            r.date >= today &&
+            r.date <= horizon
+        );
+        rawByVenue[venue.id] = valid;
+        status[venue.id] = {
+          status: 'ok',
+          count: valid.length,
+          lastSuccess: new Date().toISOString(),
+          seconds: +((Date.now() - started) / 1000).toFixed(1),
+        };
+        // A venue that had a full schedule yesterday and nothing today is far
+        // more likely a broken selector than an empty calendar.
+        const prevFuture = (prevByVenue[venue.id] || []).filter((s) => s.date >= today).length;
+        if (!valid.length && prevFuture >= 5 && prev.status !== 'empty') {
+          status[venue.id] = {
+            status: 'stale',
+            count: 0,
+            lastSuccess: prev.lastSuccess || null,
+            message: 'scraper returned nothing where there used to be listings — the page layout may have changed',
+          };
+          rawByVenue[venue.id] = null;
+        } else if (!valid.length) {
+          status[venue.id].status = 'empty';
+          status[venue.id].message = 'no upcoming screenings listed';
         }
       } catch (err) {
-        console.error(`  Error scraping AFI month ${monthIndex + 1}:`, err.message);
+        rawByVenue[venue.id] = null;
+        status[venue.id] = {
+          status: err.blocked ? 'blocked' : 'error',
+          count: 0,
+          lastSuccess: prev.lastSuccess || null,
+          message: String(err.message || err).slice(0, 300),
+        };
+      }
+      const st = status[venue.id];
+      console.log(
+        `  ${venue.short.padEnd(20)} ${st.status.padEnd(8)} ${String(st.count).padStart(4)} screenings` +
+          (st.message ? `  (${st.message})` : '')
+      );
+    })
+  );
+
+  /* ---- 2. normalise ---- */
+  const rows = [];
+  for (const venue of VENUES) {
+    const raw = rawByVenue[venue.id];
+    if (raw) {
+      for (const r of raw) {
+        const p = parseTitle(r.title);
+        const notes = [...p.notes];
+        if (r.note) notes.push(r.note);
+        rows.push({
+          venueId: venue.id,
+          venue: venue.name,
+          base: normKey(p.title),
+          title: p.title,
+          year: r.year || p.year || null,
+          date: r.date,
+          time: r.time,
+          ticketLink: r.ticketLink,
+          infoLink: r.infoLink || null,
+          poster: r.poster || null,
+          still: r.still || null,
+          director: r.director || null,
+          runtime: r.runtime || null,
+          imdbId: r.imdbId || null,
+          // A year-less listing billed as a filmmaker event is usually a new,
+          // small film; a same-named older title on TMDB is the wrong one.
+          noGuess: !!r.noGuess || (p.event && !(r.year || p.year) && !r.director && !r.imdbId),
+          series: r.series || null,
+          note: [...new Set(notes)].join(' · ') || null,
+          soldOut: !!r.soldOut,
+        });
+      }
+    } else {
+      // Fall back to what we had, if it is recent enough.
+      const st = status[venue.id];
+      const last = st.lastSuccess || previous.lastUpdated;
+      const ageDays = last ? (Date.now() - new Date(last).getTime()) / 86400000 : Infinity;
+      const kept = ageDays <= STALE_DAYS || st.skipped
+        ? (prevByVenue[venue.id] || []).filter((s) => s.date >= today && s.date <= horizon)
+        : [];
+      for (const s of kept) {
+        const prevFilm = (previous.films || {})[s.film] || {};
+        const p = s.film ? { title: prevFilm.title || s.title, year: prevFilm.year || null } : parseTitle(s.title);
+        rows.push({
+          venueId: venue.id,
+          venue: venue.name,
+          base: normKey(p.title),
+          title: p.title,
+          year: p.year || null,
+          date: s.date,
+          time: s.time,
+          ticketLink: s.ticketLink,
+          infoLink: s.infoLink || null,
+          poster: s.venuePoster || (s.film ? null : s.poster) || null,
+          still: null,
+          director: null,
+          runtime: null,
+          series: s.series || null,
+          note: s.note || null,
+          soldOut: !!s.soldOut,
+        });
+      }
+      if (!st.skipped) {
+        st.count = kept.length;
+        if (kept.length && st.status !== 'stale') st.keptStale = true;
       }
     }
-
-    const screenings = allScreenings.map(s => ({
-      title: toTitleCase(s.title),
-      venue: 'AFI Silver',
-      date: s.date,
-      time: s.time,
-      poster: s.poster,
-      ticketLink: s.ticketLink
-    }));
-
-    console.log(`Found ${screenings.length} screenings at AFI Silver`);
-    return screenings;
-  } catch (err) {
-    console.error('Error scraping AFI Silver:', err.message);
-    return [];
-  } finally {
-    await browser.close();
   }
-}
 
-/**
- * Scrape Suns Cinema using Puppeteer for the upcoming films page
- */
-async function scrapeSunsCinema() {
-  console.log('Scraping Suns Cinema with Puppeteer...');
+  /* ---- 3. group into films ---- */
+  // Same normalised title = same film, unless venues disagree on the year
+  // (e.g. THE HAUNTING 1963 vs 1999), in which case each year is its own film
+  // and year-less listings stay separate too.
+  const byBase = new Map();
+  for (const r of rows) {
+    if (!byBase.has(r.base)) byBase.set(r.base, []);
+    byBase.get(r.base).push(r);
+  }
+  const groups = new Map(); // groupKey -> { title, year, rows[] }
+  for (const [base, list] of byBase) {
+    const years = [...new Set(list.map((r) => r.year).filter(Boolean))];
+    for (const r of list) {
+      let y = r.year;
+      if (!y && years.length === 1) y = years[0];
+      const gk = `${base}|${y || ''}`;
+      if (!groups.has(gk)) groups.set(gk, { base, title: r.title, year: y || null, rows: [] });
+      const g = groups.get(gk);
+      g.rows.push(r);
+      // Prefer a title that wasn't shouted in caps by the source.
+      if (/[a-z]/.test(r.title) && r.title.length >= g.title.length) g.title = r.title;
+    }
+  }
+
+  /* ---- 4. TMDB ---- */
+  const lookups = new Map();
+  for (const [gk, g] of groups) {
+    const first = (k) => (g.rows.find((r) => r[k]) || {})[k] || null;
+    lookups.set(gk, {
+      title: g.title,
+      year: g.year,
+      director: first('director'),
+      runtime: first('runtime'),
+      imdbId: first('imdbId'),
+      // Only refuse to guess if every venue showing it says so.
+      noGuess: g.rows.every((r) => r.noGuess),
+    });
+  }
+  const tmdb = DRY && !process.env.TMDB_IN_DRY ? new Map() : await enrich(lookups, TMDB_API_KEY);
+
+  /* ---- 5. build output ---- */
+  const films = {};
   const screenings = [];
+  const seen = new Set();
+  const thisYear = +today.slice(0, 4);
 
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
-  });
+  for (const [gk, g] of groups) {
+    const t = tmdb.get(gk) || null;
+    const year = g.year || (t && t.year) || null;
+    const id = `${g.base}${year ? `-${year}` : ''}` || 'untitled';
+    const first = (k) => (g.rows.find((r) => r[k]) || {})[k] || null;
+    const title = t && normKey(t.title) === g.base ? t.title : g.title;
 
-  try {
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36');
+    if (!films[id]) {
+      films[id] = {
+        title,
+        year,
+        director: first('director') || (t && t.director) || null,
+        runtime: (t && t.runtime) || first('runtime') || null,
+        poster: (t && t.poster) || first('poster') || null,
+        still: first('still'),
+        overview: (t && t.overview) || null,
+        genres: (t && t.genres) || [],
+        tmdbId: (t && t.tmdbId) || null,
+        // "Repertory" = at least two calendar years old.
+        rep: year ? year <= thisYear - 2 : false,
+      };
+    }
+    const film = films[id];
 
-    // Scrape the upcoming films page with Puppeteer to handle JavaScript-loaded dates
-    await page.goto('https://sunscinema.com/upcoming-films-3/', {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 2000));
-
-    // Extract all show information
-    const shows = await page.evaluate(() => {
-      const showElements = document.querySelectorAll('.show-details');
-      const results = [];
-
-      showElements.forEach(show => {
-        const titleEl = show.querySelector('.show-title a.title');
-        const title = titleEl ? titleEl.textContent.trim() : null;
-        const link = titleEl ? titleEl.getAttribute('href') : null;
-
-        const posterEl = show.querySelector('.show-poster img');
-        const poster = posterEl ? posterEl.getAttribute('src') : null;
-
-        const dates = [];
-
-        // Get all show dates from .show-date elements (scheduled screenings)
-        const dateElements = show.querySelectorAll('.show-date');
-        dateElements.forEach(dateEl => {
-          const dateText = dateEl.textContent.trim();
-          if (dateText) {
-            dates.push(dateText);
-          }
-        });
-
-        // Also check for "Opens on" date in .no-showtimes-date element (upcoming releases)
-        const noShowtimesEl = show.querySelector('.no-showtimes-date');
-        if (noShowtimesEl) {
-          const opensText = noShowtimesEl.textContent.trim();
-          if (opensText) {
-            dates.push(opensText);
-          }
-        }
-
-        if (title && dates.length > 0) {
-          results.push({ title, link, poster, dates });
-        }
-      });
-
-      return results;
-    });
-
-    // Parse each show and create screening entries
-    shows.forEach(show => {
-      show.dates.forEach(dateText => {
-        const date = parseSunsDate(dateText);
-        if (date) {
-          screenings.push({
-            title: show.title,
-            venue: 'Suns Cinema',
-            date: date,
-            time: '19:00', // Default time
-            poster: show.poster,
-            ticketLink: show.link
-          });
-        }
-      });
-    });
-
-    // Remove duplicates based on title + date
-    const seen = new Set();
-    const uniqueScreenings = screenings.filter(screening => {
-      const key = `${screening.title}-${screening.date}`;
-      if (seen.has(key)) return false;
+    for (const r of g.rows) {
+      const key = `${r.venueId}|${id}|${r.date}|${r.time}`;
+      if (seen.has(key)) continue;
       seen.add(key);
-      return true;
-    });
-
-    console.log(`Found ${uniqueScreenings.length} screenings at Suns Cinema`);
-    return uniqueScreenings;
-  } catch (error) {
-    console.error('Error scraping Suns Cinema:', error.message);
-    return [];
-  } finally {
-    await browser.close();
-  }
-}
-
-/**
- * Scrape Angelika Pop Up
- * Note: Angelika uses JavaScript-rendered content, may need additional processing
- */
-async function scrapeAngelika() {
-  console.log('Scraping Angelika Pop-Up with Puppeteer...');
-
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--disable-gpu'
-    ]
-  });
-
-  try {
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-
-    // Navigate to DC homepage first, then to now-playing
-    await page.goto('https://angelikafilmcenter.com/dc', {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 2000));
-
-    await page.goto('https://angelikafilmcenter.com/dc/now-playing', {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
-
-    // Scroll to load all content
-    await page.evaluate(async () => {
-      await new Promise((resolve) => {
-        let totalHeight = 0;
-        const distance = 500;
-        const timer = setInterval(() => {
-          const scrollHeight = document.body.scrollHeight;
-          window.scrollBy(0, distance);
-          totalHeight += distance;
-
-          if(totalHeight >= scrollHeight){
-            clearInterval(timer);
-            resolve();
-          }
-        }, 100);
-      });
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 2000));
-
-    // Extract screenings
-    const screenings = await page.evaluate(() => {
-      const results = [];
-      const seen = new Set(); // Track duplicates
-
-      // Find all time buttons/links
-      const timeElements = Array.from(document.querySelectorAll('a, button, div')).filter(el => {
-        const text = el.textContent?.trim() || '';
-        return text.match(/^\d{1,2}:\d{2}\s*(AM|PM)$/i);
-      });
-
-      timeElements.forEach(timeEl => {
-        const time = timeEl.textContent?.trim();
-        if (!time) return;
-
-        // Find the movie container (go up the DOM tree)
-        let movieContainer = timeEl.closest('[class*="movie-details"]') ||
-                           timeEl.closest('.movie-item') ||
-                           timeEl.closest('[class*="film"]');
-
-        if (!movieContainer) return;
-
-        // Extract movie title
-        const titleEl = movieContainer.querySelector('h1, h2, h3, h4, [class*="title"]');
-        if (!titleEl) return;
-
-        const title = titleEl.textContent?.trim();
-        if (!title || title.length > 100) return;
-
-        // Extract date
-        let date = null;
-        const dateEl = movieContainer.querySelector('[class*="date"]') ||
-                      document.querySelector('[class*="selected-date"]');
-        if (dateEl) {
-          const dateText = dateEl.textContent?.trim();
-          const dateMatch = dateText?.match(/(\w+)\s+(\d{1,2}),\s+(\d{4})/);
-          if (dateMatch) {
-            // Convert "December 22, 2025" to "2025-12-22"
-            const months = {Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06',
-                          Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12',
-                          January: '01', February: '02', March: '03', April: '04', May: '05', June: '06',
-                          July: '07', August: '08', September: '09', October: '10', November: '11', December: '12'};
-            const month = months[dateMatch[1]];
-            const day = dateMatch[2].padStart(2, '0');
-            const year = dateMatch[3];
-            if (month) {
-              date = `${year}-${month}-${day}`;
-            }
-          }
-        }
-
-        // If no date found, use today's date
-        if (!date) {
-          const today = new Date();
-          const year = today.getFullYear();
-          const month = String(today.getMonth() + 1).padStart(2, '0');
-          const day = String(today.getDate()).padStart(2, '0');
-          date = `${year}-${month}-${day}`;
-        }
-
-        // Extract ticket link
-        const ticketLink = timeEl.href || timeEl.closest('a')?.href || null;
-
-        // Extract poster
-        const posterImg = movieContainer.querySelector('img');
-        const poster = posterImg?.src || posterImg?.getAttribute('data-src') || null;
-
-        // Create unique key to avoid duplicates
-        const key = `${title}-${date}-${time}`;
-        if (seen.has(key)) return;
-        seen.add(key);
-
-        // Convert time to 24-hour format
-        const timeMatch = time.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
-        if (timeMatch) {
-          let hours = parseInt(timeMatch[1]);
-          const minutes = timeMatch[2];
-          const period = timeMatch[3].toUpperCase();
-
-          if (period === 'PM' && hours !== 12) hours += 12;
-          if (period === 'AM' && hours === 12) hours = 0;
-
-          const time24 = `${String(hours).padStart(2, '0')}:${minutes}`;
-
-          results.push({
-            title,
-            venue: 'Angelika Pop-Up at Union Market',
-            date,
-            time: time24,
-            poster,
-            ticketLink
-          });
-        }
-      });
-
-      return results;
-    });
-
-    console.log(`Found ${screenings.length} screenings at Angelika Pop-Up`);
-    return screenings;
-
-  } catch (error) {
-    console.error('Error scraping Angelika:', error.message);
-    return [];
-  } finally {
-    await browser.close();
-  }
-}
-
-/**
- * Scrape Miracle Theater
- * Uses RSS feed with Modern Events Calendar data
- */
-async function scrapeMiracleTheater() {
-  console.log('Scraping Miracle Theater...');
-  try {
-    const response = await axios.get('https://themiracletheatre.com/events/feed/', {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
-    });
-    const $ = cheerio.load(response.data, { xmlMode: true });
-    const screenings = [];
-
-    $('item').each((i, item) => {
-      const $item = $(item);
-      const title = $item.find('title').text().trim();
-      const link = $item.find('link').text().trim();
-      const startDate = $item.find('mec\\:startDate, startDate').text().trim(); // 2025-12-22
-      const startHour = $item.find('mec\\:startHour, startHour').text().trim(); // "4:30 pm"
-      const category = $item.find('mec\\:category, category').text().trim();
-      const imageUrl = $item.find('description img').attr('src');
-
-      // Only include items in the "Movies" category
-      if (category && category.toLowerCase().includes('movies') && startDate && title) {
-        const time = parseTime(startHour);
-
-        screenings.push({
-          title: title,
-          venue: 'Miracle Theater',
-          date: startDate,
-          time: time || '19:30', // Default if parsing fails
-          poster: imageUrl || null,
-          ticketLink: link
-        });
-      }
-    });
-
-    console.log(`Found ${screenings.length} screenings at Miracle Theater`);
-    return screenings;
-  } catch (error) {
-    console.error('Error scraping Miracle Theater:', error.message);
-    return [];
-  }
-}
-
-/**
- * Scrape Avalon Theater using Puppeteer
- * Note: Site blocks requests, requires headless browser
- */
-async function scrapeAvalonTheater() {
-  console.log('Scraping Avalon Theater with Puppeteer...');
-
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--disable-gpu'
-    ]
-  });
-
-  try {
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-
-    await page.goto('https://www.theavalon.org/', {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 2000));
-
-    const screenings = await page.evaluate(() => {
-      const results = [];
-      const showtimeItems = document.querySelectorAll('ul.showtimes li, .showtimes li');
-
-      // Get today's date in YYYY-MM-DD format
-      const today = new Date();
-      const year = today.getFullYear();
-      const month = String(today.getMonth() + 1).padStart(2, '0');
-      const day = String(today.getDate()).padStart(2, '0');
-      const todayDate = `${year}-${month}-${day}`;
-
-      showtimeItems.forEach(item => {
-        const titleLink = item.querySelector('a');
-        const title = titleLink?.textContent?.trim();
-        const link = titleLink?.href;
-
-        const posterImg = item.querySelector('img');
-        const poster = posterImg?.src || null;
-
-        const timeElements = item.querySelectorAll('.times span, .times a');
-        timeElements.forEach(timeEl => {
-          const timeText = timeEl.textContent?.trim();
-
-          if (timeText && timeText.match(/^\d{1,2}:\d{2}$/)) {
-            let time24 = timeText;
-            const parts = timeText.split(':');
-            let hours = parseInt(parts[0]);
-            const minutes = parts[1];
-
-            // Assume PM for times before 10, AM for 10-11
-            if (hours < 10 && hours >= 1) {
-              hours += 12; // PM
-            }
-
-            time24 = `${String(hours).padStart(2, '0')}:${minutes}`;
-
-            results.push({
-              title,
-              venue: 'Avalon Theater',
-              date: todayDate,
-              time: time24,
-              poster,
-              ticketLink: link
-            });
-          }
-        });
-      });
-
-      return results;
-    });
-
-    console.log(`Found ${screenings.length} screenings at Avalon Theater`);
-    return screenings;
-
-  } catch (error) {
-    console.error('Error scraping Avalon Theater:', error.message);
-    return [];
-  } finally {
-    await browser.close();
-  }
-}
-
-/**
- * Scrape Library of Congress
- * Uses LOC Events JSON API
- */
-async function scrapeLibraryOfCongress() {
-  console.log('Scraping Library of Congress...');
-  try {
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-
-    // LOC API - fetch all available future events (no end date limit)
-    const response = await axios.get('https://www.loc.gov/events/?q=film&fo=json', {
-      headers: {
-        'User-Agent': 'Mozilla/5.0'
-      }
-    });
-
-    const events = response.data.content.results;
-    const screenings = [];
-
-    events.forEach(event => {
-      const categories = event.item?.categories || [];
-      const isFilmScreening = categories.includes('film and video screenings');
-      const eventDate = new Date(event.date);
-      const isFuture = eventDate >= today;
-      const campus = event.item?.campus || '';
-      const isMainCampus = campus === 'Main Campus';
-
-      // Only include Main Campus (DC) screenings, exclude Packard Campus (Culpeper, VA)
-      if (isFilmScreening && isFuture && isMainCampus) {
-        const startTime = event.item?.event_start_time_local || '';
-        const time = parseTime(startTime.split('T')[1]?.substring(0, 5) || '19:00');
-
-        screenings.push({
-          title: event.title,
-          venue: 'Library of Congress',
-          date: event.date,
-          time: time || '19:00',
-          poster: event.image_url?.[0] || null,
-          ticketLink: event.url
-        });
-      }
-    });
-
-    console.log(`Found ${screenings.length} screenings at Library of Congress`);
-    return screenings;
-  } catch (error) {
-    console.error('Error scraping Library of Congress:', error.message);
-    return [];
-  }
-}
-
-/**
- * Scrape National Gallery of Art using Puppeteer
- * Note: Site uses Cloudflare protection, requires headless browser
- */
-async function scrapeNationalGallery() {
-  console.log('Scraping National Gallery of Art with Puppeteer...');
-
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--disable-gpu'
-    ]
-  });
-
-  try {
-    const page = await browser.newPage();
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-
-    const today = new Date();
-    const year = today.getFullYear();
-    const month = String(today.getMonth() + 1).padStart(2, '0');
-    const day = String(today.getDate()).padStart(2, '0');
-    const dateParam = `${year}-${month}-${day}`;
-
-    // No end date - fetch all available future screenings
-    const url = `https://www.nga.gov/calendar?type%5B103026%5D=103026&visit_start=${dateParam}&tab=all`;
-
-    await page.goto(url, {
-      waitUntil: 'networkidle2',
-      timeout: 30000
-    });
-
-    await new Promise(resolve => setTimeout(resolve, 3000));
-
-    const screenings = await page.evaluate(() => {
-      const results = [];
-      const seen = new Set();
-
-      const bodyText = document.body.innerText;
-      const lines = bodyText.split('\n');
-
-      let currentDate = null;
-      let currentTitle = null;
-      let currentTime = null;
-
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i].trim();
-
-        const dateMatch = line.match(/^([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})$/);
-        if (dateMatch) {
-          const months = {
-            January: '01', February: '02', March: '03', April: '04', May: '05', June: '06',
-            July: '07', August: '08', September: '09', October: '10', November: '11', December: '12'
-          };
-          const month = months[dateMatch[1]];
-          const day = dateMatch[2].padStart(2, '0');
-          const year = dateMatch[3];
-          if (month) {
-            currentDate = `${year}-${month}-${day}`;
-          }
-          continue;
-        }
-
-        if (line === 'FILMS') {
-          for (let j = i + 1; j < lines.length; j++) {
-            const nextLine = lines[j].trim();
-            if (nextLine && nextLine !== 'FILM SERIES' && !nextLine.includes('Learn More')) {
-              currentTitle = nextLine;
-              i = j;
-              break;
-            }
-          }
-          continue;
-        }
-
-        const timeMatch = line.match(/^(\d{1,2}):(\d{2})\s*(a\.m\.|p\.m\.)/i);
-        if (timeMatch && currentTitle && currentDate) {
-          let hours = parseInt(timeMatch[1]);
-          const minutes = timeMatch[2];
-          const period = timeMatch[3].toLowerCase();
-
-          if (period.startsWith('p') && hours !== 12) hours += 12;
-          if (period.startsWith('a') && hours === 12) hours = 0;
-
-          currentTime = `${String(hours).padStart(2, '0')}:${minutes}`;
-
-          const key = `${currentTitle}-${currentDate}-${currentTime}`;
-          if (!seen.has(key)) {
-            seen.add(key);
-
-            results.push({
-              title: currentTitle,
-              venue: 'National Gallery of Art',
-              date: currentDate,
-              time: currentTime,
-              poster: null,
-              ticketLink: `https://www.nga.gov/calendar?type%5B103026%5D=103026`
-            });
-          }
-
-          currentTitle = null;
-          currentTime = null;
-        }
-      }
-
-      return results;
-    });
-
-    console.log(`Found ${screenings.length} screenings at National Gallery of Art`);
-    return screenings;
-
-  } catch (error) {
-    console.error('Error scraping NGA:', error.message);
-    return [];
-  } finally {
-    await browser.close();
-  }
-}
-
-/**
- * Helper: Format date to YYYY-MM-DD
- */
-function formatDate(dateString) {
-  const date = new Date(dateString);
-  return date.toISOString().split('T')[0];
-}
-
-/**
- * Helper: Format time to HH:MM
- */
-function formatTime(timeString) {
-  // Parse various time formats and return HH:MM
-  // This needs to be adapted based on actual theater formats
-  return timeString;
-}
-
-/**
- * Helper: Parse time from text like "7:00 pm" to "19:00" format
- */
-function parseTime(timeText) {
-  if (!timeText) return null;
-
-  // Match patterns like "7:00 pm", "7:30 PM", etc.
-  const match = timeText.match(/(\d{1,2}):(\d{2})\s*(am|pm)/i);
-  if (!match) return null;
-
-  let hours = parseInt(match[1]);
-  const minutes = match[2];
-  const meridiem = match[3].toLowerCase();
-
-  // Convert to 24-hour format
-  if (meridiem === 'pm' && hours !== 12) {
-    hours += 12;
-  } else if (meridiem === 'am' && hours === 12) {
-    hours = 0;
-  }
-
-  return `${hours.toString().padStart(2, '0')}:${minutes}`;
-}
-
-/**
- * Helper: Convert ALL-CAPS title to Title Case for better TMDB matching
- * Only converts titles that are entirely uppercase (AFI Silver uses all-caps)
- */
-function toTitleCase(title) {
-  if (!title || title !== title.toUpperCase()) return title;
-  const minorWords = new Set(['a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor', 'on', 'at', 'to', 'by', 'in', 'of', 'up']);
-  return title.toLowerCase().replace(/\b\w+/g, (word, offset) => {
-    if (offset === 0 || !minorWords.has(word)) return word.charAt(0).toUpperCase() + word.slice(1);
-    return word;
-  });
-}
-
-/**
- * Helper: Get today's date in YYYY-MM-DD format
- */
-function getTodayDate() {
-  // Get current date in Eastern Time (DC timezone)
-  const options = { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' };
-  const formatter = new Intl.DateTimeFormat('en-US', options);
-  const parts = formatter.formatToParts(new Date());
-  const month = parts.find(p => p.type === 'month').value;
-  const day = parts.find(p => p.type === 'day').value;
-  const year = parts.find(p => p.type === 'year').value;
-  return `${year}-${month}-${day}`;
-}
-
-/**
- * Helper: Parse Suns Cinema date format to YYYY-MM-DD
- * Handles formats: "Nov 22", "Sat, Dec 27", "Opens on January 7"
- */
-function parseSunsDate(dateText) {
-  if (!dateText) return null;
-
-  // Check for "Opens on Month Day" format (e.g., "Opens on January 7")
-  const opensMatch = dateText.match(/Opens on ([A-Z][a-z]+)\s+(\d{1,2})/);
-  if (opensMatch) {
-    const monthStr = opensMatch[1];
-    const day = opensMatch[2].padStart(2, '0');
-
-    // Full month name mapping
-    const fullMonths = {
-      'January': '01', 'February': '02', 'March': '03', 'April': '04',
-      'May': '05', 'June': '06', 'July': '07', 'August': '08',
-      'September': '09', 'October': '10', 'November': '11', 'December': '12'
-    };
-
-    const month = fullMonths[monthStr];
-    if (!month) return null;
-
-    // Determine year
-    const now = new Date();
-    const currentYear = now.getFullYear();
-    const currentMonth = now.getMonth() + 1;
-    const year = parseInt(month) < currentMonth ? currentYear + 1 : currentYear;
-
-    return `${year}-${month}-${day}`;
-  }
-
-  // Match pattern like "Nov 22", "Dec 5", or "Sat, Dec 27"
-  const match = dateText.match(/(?:[A-Z][a-z]+,?\s+)?([A-Z][a-z]+)\s+(\d{1,2})/);
-  if (!match) return null;
-
-  const monthStr = match[1];
-  const day = match[2].padStart(2, '0');
-
-  // Abbreviated month mapping
-  const months = {
-    'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
-    'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',
-    'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'
-  };
-
-  const month = months[monthStr];
-  if (!month) return null;
-
-  // Determine the year (assume current year or next year)
-  const now = new Date();
-  const currentYear = now.getFullYear();
-  const currentMonth = now.getMonth() + 1;
-
-  // If the month is before current month, assume next year
-  const year = parseInt(month) < currentMonth ? currentYear + 1 : currentYear;
-
-  return `${year}-${month}-${day}`;
-}
-
-/**
- * Main scraper function
- */
-async function scrapeAllTheaters() {
-  console.log('Starting scraper...');
-  console.log('===================\n');
-
-  const allScreenings = [];
-
-  // Scrape all theaters
-  const results = await Promise.allSettled([
-    scrapeAFISilver(),
-    scrapeSunsCinema(),
-    scrapeAngelika(),
-    scrapeMiracleTheater(),
-    scrapeAvalonTheater(),
-    scrapeLibraryOfCongress(),
-    scrapeNationalGallery()
-  ]);
-
-  // Collect all successful results
-  results.forEach((result, index) => {
-    if (result.status === 'fulfilled') {
-      allScreenings.push(...result.value);
+      const s = {
+        film: id,
+        title: film.title,
+        venueId: r.venueId,
+        venue: r.venue,
+        date: r.date,
+        time: r.time,
+        ticketLink: r.ticketLink,
+      };
+      if (r.infoLink && r.infoLink !== r.ticketLink) s.infoLink = r.infoLink;
+      if (r.poster && r.poster !== film.poster) s.venuePoster = r.poster;
+      if (r.series) s.series = r.series;
+      if (r.note) s.note = r.note;
+      if (r.soldOut) s.soldOut = true;
+      screenings.push(s);
     }
-  });
-
-  // Filter out only past screenings (keep all future screenings)
-  const today = getTodayDate();
-  const futureScreenings = allScreenings.filter(screening => screening.date >= today);
-  allScreenings.length = 0;
-  allScreenings.push(...futureScreenings);
-
-  console.log(`\nFiltered to ${allScreenings.length} current and upcoming screenings (removed past dates)`);
-
-  // Enrich with TMDB data (posters and years)
-  if (TMDB_API_KEY && TMDB_API_KEY !== 'TMDB_API_KEY_PLACEHOLDER') {
-    console.log('\nEnriching movie data with TMDB...');
-    const enrichedScreenings = [];
-    for (const screening of allScreenings) {
-      const enriched = await enrichMovieData(screening);
-      enrichedScreenings.push(enriched);
-    }
-    allScreenings.length = 0;
-    allScreenings.push(...enrichedScreenings);
-    console.log('TMDB enrichment complete');
-  } else {
-    console.log('\nSkipping TMDB enrichment (no API key configured)');
   }
 
-  // Sort by date and time
-  allScreenings.sort((a, b) => {
-    if (a.date !== b.date) {
-      return a.date.localeCompare(b.date);
+  // Drop empty optional film fields to keep the file small.
+  for (const f of Object.values(films)) {
+    for (const k of Object.keys(f)) {
+      if (f[k] === null || (Array.isArray(f[k]) && !f[k].length) || f[k] === false) delete f[k];
     }
-    return a.time.localeCompare(b.time);
-  });
+  }
 
-  // Create output data
-  const outputData = {
-    lastUpdated: new Date().toISOString(),
-    screenings: allScreenings
-  };
+  screenings.sort(
+    (a, b) =>
+      a.date.localeCompare(b.date) ||
+      a.time.localeCompare(b.time) ||
+      a.title.localeCompare(b.title) ||
+      a.venueId.localeCompare(b.venueId)
+  );
 
-  // Write to file
-  const outputPath = path.join(__dirname, 'data', 'screenings.json');
-  await fs.writeFile(outputPath, JSON.stringify(outputData, null, 2));
+  const sortedFilms = Object.fromEntries(Object.keys(films).sort().map((k) => [k, films[k]]));
+  const output = { lastUpdated: new Date().toISOString(), films: sortedFilms, screenings };
+  for (const v of VENUES) delete status[v.id].skipped;
+  const statusOut = { generatedAt: output.lastUpdated, venues: status };
 
-  console.log('\n===================');
-  console.log(`Scraping complete! Found ${allScreenings.length} total screenings`);
-  console.log(`Data saved to ${outputPath}`);
-  console.log(`Last updated: ${outputData.lastUpdated}`);
+  /* ---- 6. report & write ---- */
+  const counts = {};
+  for (const s of screenings) counts[s.venueId] = (counts[s.venueId] || 0) + 1;
+  console.log('\nIn the output file:');
+  for (const v of VENUES) {
+    const st = status[v.id];
+    console.log(`  ${v.short.padEnd(20)} ${String(counts[v.id] || 0).padStart(4)}  ${st.status}${st.keptStale ? ' (showing last good data)' : ''}`);
+  }
+  console.log(`\n${screenings.length} screenings of ${Object.keys(films).length} films`);
+
+  if (!screenings.length) {
+    console.error('Nothing scraped at all — leaving the existing data file untouched.');
+    process.exitCode = 1;
+    return;
+  }
+  if (DRY) {
+    console.log('(dry run — nothing written)');
+    return;
+  }
+  require('./scrapers/lib').meta.save();
+  fs.writeFileSync(OUT, JSON.stringify(output, null, 1) + '\n');
+  fs.writeFileSync(STATUS, JSON.stringify(statusOut, null, 1) + '\n');
+  console.log(`Wrote ${path.relative(__dirname, OUT)} and ${path.relative(__dirname, STATUS)}`);
 }
 
-// Run the scraper
-scrapeAllTheaters().catch(error => {
-  console.error('Fatal error:', error);
+main().catch((err) => {
+  console.error('Fatal error:', err);
   process.exit(1);
 });

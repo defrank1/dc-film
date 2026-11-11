@@ -1,0 +1,137 @@
+{
+  "_comment": "Hand-maintained venue list. `tracked` venues have a scraper in scrapers/<scraper>.js; `more` venues are link-only. The site and the scraper both read this file.",
+  "tracked": [
+    {
+      "id": "afi",
+      "scraper": "afi",
+      "name": "AFI Silver Theatre",
+      "short": "AFI Silver",
+      "aliases": ["AFI Silver"],
+      "area": "Silver Spring",
+      "address": "8633 Colesville Rd, Silver Spring, MD",
+      "url": "https://silver.afi.com/",
+      "blurb": "Three screens of repertory series, restorations, 35mm prints and new arthouse releases."
+    },
+    {
+      "id": "avalon",
+      "scraper": "avalon",
+      "name": "Avalon Theatre",
+      "short": "Avalon",
+      "aliases": ["Avalon Theater"],
+      "area": "Chevy Chase DC",
+      "address": "5612 Connecticut Ave NW",
+      "url": "https://www.theavalon.org/",
+      "blurb": "Nonprofit neighborhood movie house, open since 1923. New independent releases plus international series."
+    },
+    {
+      "id": "suns",
+      "scraper": "suns",
+      "name": "Suns Cinema",
+      "short": "Suns",
+      "aliases": ["Suns Cinema"],
+      "area": "Mount Pleasant",
+      "address": "3107 Mt Pleasant St NW",
+      "url": "https://sunscinema.com/",
+      "blurb": "Single-screen bar and cinema programming cult, classic and international films. 21+."
+    },
+    {
+      "id": "angelika",
+      "scraper": "angelika",
+      "name": "Angelika Pop-Up at Union Market",
+      "short": "Angelika",
+      "aliases": ["Angelika Pop-Up at Union Market", "Angelika Pop-Up"],
+      "area": "Union Market",
+      "address": "550 Penn St NE",
+      "url": "https://angelikafilmcenter.com/dc",
+      "blurb": "Three small screens: new independent and international releases, plus weekly classics series."
+    },
+    {
+      "id": "4eye",
+      "scraper": "foureye",
+      "name": "4EYE Film Center",
+      "short": "4EYE",
+      "aliases": ["4EYE Film Center", "4Eye Film Center"],
+      "area": "Southwest",
+      "address": "340 Maple Dr SW (Revada Arts Center)",
+      "url": "https://4eyefilmcenter.org/now-playing/",
+      "blurb": "Nonprofit arthouse cinema that opened in October 2026 at the Revada Arts Center. Independent, classic and international film."
+    },
+    {
+      "id": "miracle",
+      "scraper": "miracle",
+      "name": "Miracle Theatre",
+      "short": "Miracle",
+      "aliases": ["Miracle Theater", "Miracle Theatre"],
+      "area": "Barracks Row",
+      "address": "535 8th St SE",
+      "url": "https://themiracletheatre.com/",
+      "blurb": "Historic single-screen house on Capitol Hill. Mostly live shows these days, with second-run and classic films in between."
+    },
+    {
+      "id": "nga",
+      "scraper": "nga",
+      "name": "National Gallery of Art",
+      "short": "National Gallery",
+      "aliases": ["National Gallery of Art"],
+      "area": "National Mall",
+      "address": "East Building, 4th St & Constitution Ave NW",
+      "url": "https://www.nga.gov/calendar?type%5B103026%5D=103026",
+      "blurb": "Free weekend film series in the East Building auditorium: retrospectives, restorations and artists' film."
+    },
+    {
+      "id": "loc",
+      "scraper": "loc",
+      "name": "Library of Congress",
+      "short": "Library of Congress",
+      "aliases": ["Library of Congress"],
+      "area": "Capitol Hill",
+      "address": "101 Independence Ave SE",
+      "url": "https://www.loc.gov/events/",
+      "blurb": "Occasional free screenings drawn from the national film collection."
+    }
+  ],
+  "more": [
+    {
+      "name": "Landmark Atlantic Plumbing Cinema",
+      "area": "Shaw / U Street",
+      "url": "https://www.landmarktheatres.com/",
+      "why": "Landmark's remaining DC theater. New independent and studio releases."
+    },
+    {
+      "name": "Alamo Drafthouse DC",
+      "area": "Bryant Street",
+      "url": "https://drafthouse.com/dc",
+      "why": "Chain multiplex with regular repertory and cult programming."
+    },
+    {
+      "name": "National Museum of Asian Art",
+      "area": "National Mall",
+      "url": "https://asia.si.edu/",
+      "why": "Free Smithsonian film screenings."
+    },
+    {
+      "name": "Edlavitch DCJCC / JxJ",
+      "area": "Dupont Circle",
+      "url": "https://www.edcjcc.org/jxj/",
+      "why": "Film programs and the annual JxJ festival."
+    },
+    {
+      "name": "Greenbelt Cinema",
+      "area": "Greenbelt, MD",
+      "url": "https://www.greenbeltcinema.org/",
+      "why": "Nonprofit art deco movie house (the Old Greenbelt Theatre). New independent releases and classics."
+    },
+    {
+      "name": "Cinema Arts Theatre",
+      "area": "Fairfax, VA",
+      "url": "https://www.cinemaartstheatre.com/",
+      "why": "Independent arthouse multiplex."
+    },
+    {
+      "name": "Arlington Cinema & Drafthouse",
+      "area": "Arlington, VA",
+      "url": "https://arlingtondrafthouse.com/",
+      "why": "Movies with food and drink, between comedy shows."
+    }
+  ]
+}

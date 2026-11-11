@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" fill="#000"/>
-  <text x="50" y="72" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#fff" text-anchor="middle">DC</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#150c0b"/>
+  <rect x="2.5" y="2.5" width="59" height="59" fill="none" stroke="#f72e2a" stroke-width="3"/>
+  <!-- "7:30" drawn as shapes so it renders the same without the web font -->
+  <g fill="#f72e2a">
+    <path d="M9 22h13v5l-6 15h-5.2l6-15H9z"/>
+    <rect x="25.5" y="27" width="4.6" height="4.6"/>
+    <rect x="25.5" y="37.4" width="4.6" height="4.6"/>
+    <path d="M33.5 22h10.5v20H33.5v-4.4h5.9v-3.5h-4.4v-4.2h4.4v-3.5h-5.9z"/>
+    <path d="M47 22h9.5v20H47zm4.3 4.4v11.2h.9V26.4z" fill-rule="evenodd"/>
+  </g>
 </svg>
