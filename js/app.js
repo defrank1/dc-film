@@ -306,10 +306,10 @@
     var venues = {};
     data.screenings.forEach(function (s) { films[s.film] = 1; venues[s.venueId] = 1; });
     $('#stats').innerHTML =
-      '<b>' + data.screenings.length.toLocaleString() + '</b> showtimes · ' +
-      '<b>' + Object.keys(films).length + '</b> films · ' +
-      '<b>' + Object.keys(venues).length + '</b> theaters' +
-      (data.lastUpdated ? ' · updated ' + esc(ago(data.lastUpdated)) : '');
+      data.screenings.length.toLocaleString() + ' showtimes, ' +
+      Object.keys(films).length + ' films, ' +
+      Object.keys(venues).length + ' theaters.' +
+      (data.lastUpdated ? ' Updated ' + esc(ago(data.lastUpdated)) + '.' : '');
   }
 
   /** The namesake: what starts closest to 7:30 tonight. */
@@ -356,15 +356,17 @@
     picks.sort(function (a, b) { return a.time.localeCompare(b.time); });
 
     $('#seven-thirty-title').textContent = label;
-    $('#seven-list').innerHTML = picks.length ? picks.map(function (s) {
+    $('#seven-list').innerHTML = picks.length ? picks.map(function (s, i) {
       var f = data.films[s.film];
       var v = venueById(s.venueId);
+      var wait = day === today ? minutes(s.time) - minutes(now.time) : -1;
+      var soon = i === 0 && wait > 0 && wait <= 90 ? '<span class="soon">starts in ' + wait + ' min</span>' : '';
       return '<li class="seven' + (s.time === '19:30' ? ' seven--dot' : '') + '">' +
         '<a class="seven__time" href="' + esc(safeUrl(s.ticketLink)) + '" target="_blank" rel="noopener" ' +
         'aria-label="' + esc(fmtTime(s.time) + ', ' + f.title + ' at ' + v.name + ' — tickets') + '">' + fmtTimeShort(s.time) + '</a>' +
         '<span class="seven__body"><a class="seven__title" href="' + esc(buildHash({ film: f.id })) + '" data-film="' + esc(f.id) + '">' + esc(f.title) + '</a>' +
-        (f.year ? ' <span class="year">' + f.year + '</span>' : '') +
-        '<span class="seven__venue">' + esc(v.short) + '</span></span></li>';
+        (f.year ? ' <span class="year">' + f.year + '</span>' : '') + soon + '</span>' +
+        '<span class="seven__venue">' + esc(v.short) + '</span></li>';
     }).join('') : '<li class="seven seven--empty">Nothing on the books for the 7:30 slot yet.</li>';
   }
 
@@ -385,7 +387,7 @@
         ' aria-label="' + esc(fmtDate(d, { weekday: 'long', month: 'long', day: 'numeric' }) + ', ' + n + ' showtimes') + '">' +
         '<span class="day__dow">' + esc(rel || fmtDate(d, { weekday: 'short' })) + '</span>' +
         '<span class="day__num">' + (+d.slice(8)) + '</span>' +
-        '<span class="day__meta">' + (first ? esc(fmtDate(d, { month: 'short' })) + ' · ' : '') + (n ? n + (n === 1 ? ' show' : ' shows') : '—') + '</span>' +
+        '<span class="day__meta">' + (first ? esc(fmtDate(d, { month: 'short' })) + ', ' : '') + (n ? n + (n === 1 ? ' show' : ' shows') : 'none') + '</span>' +
         '</button>';
     }).join('');
 
@@ -400,9 +402,15 @@
     var counts = {};
     data.screenings.forEach(function (s) { counts[s.venueId] = (counts[s.venueId] || 0) + 1; });
     var chips = '<button class="chip" data-venue="" aria-pressed="' + (!state.venues.length) + '">All theaters</button>';
-    chips += data.venues.filter(function (v) { return counts[v.id]; }).map(function (v) {
-      return '<button class="chip" data-venue="' + esc(v.id) + '" aria-pressed="' + (state.venues.indexOf(v.id) >= 0) + '">' + esc(v.short) + '</button>';
+    // Every tracked theater gets a chip; ones with nothing listed are dashed.
+    var anyEmpty = false;
+    chips += data.venues.map(function (v) {
+      var none = !counts[v.id];
+      if (none) anyEmpty = true;
+      return '<button class="chip' + (none ? ' chip--none' : '') + '" data-venue="' + esc(v.id) + '" aria-pressed="' + (state.venues.indexOf(v.id) >= 0) + '"' +
+        (none ? ' title="Nothing on its calendar right now"' : '') + '>' + esc(v.short) + '</button>';
     }).join('');
+    if (anyEmpty) chips += '<span class="filters__key">Dashed: nothing on its calendar right now</span>';
     $('#venue-chips').innerHTML = chips;
     $('#rep-toggle').setAttribute('aria-pressed', String(state.rep));
     $$('.seg__btn').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.mode === state.mode)); });
@@ -423,7 +431,7 @@
     if (f.year) bits.push('<span class="year">' + f.year + '</span>');
     if (f.director) bits.push(esc(f.director));
     if (f.runtime) bits.push(f.runtime + ' min');
-    return bits.join(' · ');
+    return bits.join(', ');
   }
 
   function chipHTML(s, now, today) {
@@ -471,7 +479,7 @@
       var next = Object.keys(datesWithShows(list)).sort().filter(function (d) { return d > state.date; })[0];
       el.innerHTML = head + '<div class="empty"><p class="label">Dark tonight</p><p>' +
         (hasFilters ? 'Nothing matches your filters on this day.' : 'No screenings listed for this day.') + '</p><p>' +
-        (next ? '<button class="chip" data-goto="' + next + '">Next match: ' + esc(fmtDate(next, { weekday: 'short', month: 'short', day: 'numeric' })) + ' →</button> ' : '') +
+        (next ? '<button class="chip" data-goto="' + next + '">Next match: ' + esc(fmtDate(next, { weekday: 'short', month: 'short', day: 'numeric' })) + '</button> ' : '') +
         (hasFilters ? '<button class="chip" data-clear="1">Clear filters</button>' : '') + '</p></div>';
       return;
     }
@@ -481,12 +489,12 @@
         var f = data.films[s.film];
         var v = venueById(s.venueId);
         var past = s.date === today && s.time < now.time;
-        var notes = [s.series, s.note].filter(Boolean).join(' · ');
+        var notes = [s.series, s.note].filter(Boolean).join(', ');
         return '<li class="run' + (past ? ' run--past' : '') + (s.soldOut ? ' run--sold' : '') + '">' +
           '<a class="run__time" href="' + esc(safeUrl(s.ticketLink)) + '" target="_blank" rel="noopener" aria-label="' + esc(fmtTime(s.time) + ' — tickets at ' + v.name) + '">' + fmtTimeShort(s.time) + '</a>' +
           '<span class="run__film"><a href="' + esc(buildHash({ film: f.id })) + '" data-film="' + esc(f.id) + '" class="run__title">' + esc(f.title) + '</a>' +
           (f.year ? ' <span class="year">' + f.year + '</span>' : '') +
-          (notes || s.soldOut ? '<span class="run__note">' + (s.soldOut ? 'Sold out' + (notes ? ' · ' : '') : '') + esc(notes) + '</span>' : '') + '</span>' +
+          (notes || s.soldOut ? '<span class="run__note">' + (s.soldOut ? 'Sold out' + (notes ? ', ' : '') : '') + esc(notes) + '</span>' : '') + '</span>' +
           '<span class="run__venue">' + esc(v.short) + '</span></li>';
       }).join('') + '</ol>';
       return;
@@ -606,13 +614,13 @@
         '<p class="theater__blurb">' + esc(v.blurb || '') + '</p>' +
         '<p class="theater__actions">' +
         (n ? '<a class="chip" href="' + esc(buildHash({ view: 'showtimes', venues: [v.id], film: null, date: null })) + '" data-only="' + esc(v.id) + '">' +
-          n + (n === 1 ? ' showtime' : ' showtimes') + ' · ' + Object.keys(films[v.id]).length + ' films →</a>' : '') +
-        '<a class="chip chip--ghost" href="' + esc(safeUrl(v.url)) + '" target="_blank" rel="noopener">Theater site ↗</a></p>' +
+          n + (n === 1 ? ' showtime' : ' showtimes') + ', ' + Object.keys(films[v.id]).length + ' films</a>' : '') +
+        '<a class="chip chip--ghost" href="' + esc(safeUrl(v.url)) + '" target="_blank" rel="noopener">Theater site</a></p>' +
         '<p class="theater__status' + (warn ? ' theater__status--warn' : '') + '">' + statusLine(v) + '</p>' +
         '</article>';
     }).join('');
     $('#more-screens').innerHTML = data.more.map(function (v) {
-      return '<li><a href="' + esc(safeUrl(v.url)) + '" target="_blank" rel="noopener"><span class="more__name">' + esc(v.name) + ' ↗</span>' +
+      return '<li><a href="' + esc(safeUrl(v.url)) + '" target="_blank" rel="noopener"><span class="more__name">' + esc(v.name) + '</span>' +
         '<span class="label">' + esc(v.area || '') + '</span><span class="more__why">' + esc(v.why || '') + '</span></a></li>';
     }).join('');
   }
@@ -624,7 +632,7 @@
     }
     var up = document.documentElement.dataset.lights === 'up';
     $('#lights').setAttribute('aria-pressed', String(up));
-    $('#lights-state').textContent = up ? 'Up' : 'Down';
+    $('#lights-state').textContent = up ? 'Dark mode' : 'Light mode';
   }
 
   /* ---------- film dialog ---------- */
@@ -647,15 +655,15 @@
     var info = shows.map(function (s) { return s.infoLink; }).filter(Boolean)[0];
 
     $('#film-dialog-body').innerHTML =
-      '<button class="dialog__close chip" data-close="1" aria-label="Close">Close ✕</button>' +
+      '<button class="dialog__close chip" data-close="1" aria-label="Close">Close</button>' +
       '<div class="dialog__head">' + posterHTML(f, shows[0], 'poster--lg') +
-      '<div><p class="label">' + (f.rep ? 'Repertory' : 'Now playing') + ((f.genres || []).length ? ' · ' + esc(f.genres.join(' / ')) : '') + '</p>' +
-      '<h2 id="film-dialog-title">' + esc(f.title) + '</h2>' +
+      '<div><h2 id="film-dialog-title">' + esc(f.title) + '</h2>' +
       '<p class="film__meta">' + metaLine(f) + '</p>' +
+      ((f.genres || []).length ? '<p class="film__meta">' + esc(f.genres.join(', ')) + '</p>' : '') +
       (f.overview ? '<p class="dialog__overview">' + esc(f.overview) + '</p>' : '') +
       '<p class="dialog__links">' +
-      (info ? '<a href="' + esc(safeUrl(info)) + '" target="_blank" rel="noopener">Theater’s page ↗</a>' : '') +
-      (f.tmdbId ? '<a href="https://www.themoviedb.org/movie/' + encodeURIComponent(f.tmdbId) + '" target="_blank" rel="noopener">TMDB ↗</a>' : '') +
+      (info ? '<a href="' + esc(safeUrl(info)) + '" target="_blank" rel="noopener">Theater’s page</a>' : '') +
+      (f.tmdbId ? '<a href="https://www.themoviedb.org/movie/' + encodeURIComponent(f.tmdbId) + '" target="_blank" rel="noopener">TMDB</a>' : '') +
       '</p></div></div>' +
       '<div class="dialog__shows"><p class="label">' + shows.length + (shows.length === 1 ? ' upcoming showtime' : ' upcoming showtimes') + '</p>' +
       (shows.length ? dOrder.map(function (d) {

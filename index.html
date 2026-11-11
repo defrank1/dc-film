@@ -15,7 +15,7 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@125,500;125,700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <script>
     // Apply the saved "house lights" choice before first paint.
@@ -42,16 +42,14 @@
     <main id="main">
       <!-- ============ SHOWTIMES ============ -->
       <section id="view-showtimes" class="view">
-        <div class="hero">
-          <div class="hero__pitch">
-            <p class="label">Lights down in Washington</p>
-            <h1>Every showtime at DC’s independent and repertory screens, in one place.</h1>
+        <div class="hero" id="seven-thirty" aria-labelledby="seven-thirty-title">
+          <div class="bulbs" aria-hidden="true"></div>
+          <div class="hero__head">
+            <h1 id="seven-thirty-title">Tonight around 7:30</h1>
             <p class="hero__stats" id="stats" aria-live="polite">Loading showtimes…</p>
           </div>
-          <div class="hero__seven" id="seven-thirty" aria-labelledby="seven-thirty-title">
-            <p class="label" id="seven-thirty-title">Tonight around 7:30</p>
-            <ol class="seven-list" id="seven-list"></ol>
-          </div>
+          <ol class="seven-list" id="seven-list"></ol>
+          <div class="bulbs" aria-hidden="true"></div>
         </div>
 
         <div class="controls" id="controls">
@@ -83,7 +81,6 @@
       <!-- ============ CALENDAR ============ -->
       <section id="view-calendar" class="view" hidden>
         <div class="pagehead">
-          <p class="label">Calendar</p>
           <div class="calnav">
             <button class="chip" id="cal-prev" aria-label="Previous month">←</button>
             <h1 id="cal-title"></h1>
@@ -97,12 +94,10 @@
       <!-- ============ THEATERS ============ -->
       <section id="view-theaters" class="view" hidden>
         <div class="pagehead">
-          <p class="label">Theaters</p>
           <h1>The screens we track</h1>
         </div>
         <div id="theaters" class="theaters"></div>
         <div class="pagehead pagehead--sub">
-          <p class="label">Also showing</p>
           <h2>More screens worth checking</h2>
           <p class="pagehead__note">Not in the listings yet. Their sites are a click away.</p>
         </div>
@@ -112,7 +107,6 @@
       <!-- ============ ABOUT ============ -->
       <section id="view-about" class="view" hidden>
         <div class="pagehead">
-          <p class="label">About</p>
           <h1>One page for DC’s other movie theaters</h1>
         </div>
         <div class="about">
@@ -139,7 +133,7 @@
       <p class="footer__cell"><span class="label">Updated</span> <span id="updated">—</span></p>
       <p class="footer__cell footer__cell--grow">Times are Eastern and come from each theater’s own site. Check with the theater before you go.</p>
       <button class="footer__cell footer__lights" id="lights" aria-pressed="false">
-        <span class="label">House lights</span> <span id="lights-state">Down</span>
+        <span id="lights-state">Light mode</span>
       </button>
     </footer>
   </div>
