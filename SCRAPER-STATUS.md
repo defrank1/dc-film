@@ -9,6 +9,7 @@ The live, per-run status is in `data/status.json` (also shown on the site's Thea
 | Avalon | 67 showtimes | Medium. AM/PM is inferred (see file header). Needs the homepage mini-calendar to keep linking `films/?date=YYYYMMDD`. |
 | Suns Cinema | 33 showtimes | Low. Filmbot markup (`.show-details`, `ol.showtimes li[data-date]`). |
 | 4EYE Film Center | 11 showtimes | Low, but the site is weeks old and may still change. |
+| Landmark Atlantic Plumbing | 135 showtimes, 8 films on the first run (Nov 10, evening, ET) | Medium. Headless browser on a JavaScript page. Depends on the location list, the day strip (`[data-role="card"]`), and the runtime/title lines. Only the roughly 40 days on the strip are read. |
 | National Gallery of Art | 13 showtimes | **High.** Needs a headless browser and the site's JavaScript check let it through on some runs and not others. When refused, the last good listings are kept for 7 days. |
 | Library of Congress | 0 (nothing scheduled on the main campus within 75 days) | Low. Public API. |
 | Miracle Theatre | Feed read fine; 0 films (its "In-Theatre Movies" category was empty and the next events are all live shows) | Medium. The site serves a browser challenge to clients posing as a desktop browser, so this scraper sends a plain self-identifying User-Agent. If the challenge is served anyway it reports "blocked" and does not try to get around it. |

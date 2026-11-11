@@ -6,7 +6,9 @@
       "scraper": "afi",
       "name": "AFI Silver Theatre",
       "short": "AFI Silver",
-      "aliases": ["AFI Silver"],
+      "aliases": [
+        "AFI Silver"
+      ],
       "area": "Silver Spring",
       "address": "8633 Colesville Rd, Silver Spring, MD",
       "url": "https://silver.afi.com/",
@@ -17,7 +19,9 @@
       "scraper": "avalon",
       "name": "Avalon Theatre",
       "short": "Avalon",
-      "aliases": ["Avalon Theater"],
+      "aliases": [
+        "Avalon Theater"
+      ],
       "area": "Chevy Chase DC",
       "address": "5612 Connecticut Ave NW",
       "url": "https://www.theavalon.org/",
@@ -28,7 +32,9 @@
       "scraper": "suns",
       "name": "Suns Cinema",
       "short": "Suns",
-      "aliases": ["Suns Cinema"],
+      "aliases": [
+        "Suns Cinema"
+      ],
       "area": "Mount Pleasant",
       "address": "3107 Mt Pleasant St NW",
       "url": "https://sunscinema.com/",
@@ -39,7 +45,10 @@
       "scraper": "angelika",
       "name": "Angelika Pop-Up at Union Market",
       "short": "Angelika",
-      "aliases": ["Angelika Pop-Up at Union Market", "Angelika Pop-Up"],
+      "aliases": [
+        "Angelika Pop-Up at Union Market",
+        "Angelika Pop-Up"
+      ],
       "area": "Union Market",
       "address": "550 Penn St NE",
       "url": "https://angelikafilmcenter.com/dc",
@@ -50,7 +59,10 @@
       "scraper": "foureye",
       "name": "4EYE Film Center",
       "short": "4EYE",
-      "aliases": ["4EYE Film Center", "4Eye Film Center"],
+      "aliases": [
+        "4EYE Film Center",
+        "4Eye Film Center"
+      ],
       "area": "Southwest",
       "address": "340 Maple Dr SW (Revada Arts Center)",
       "url": "https://4eyefilmcenter.org/now-playing/",
@@ -61,7 +73,10 @@
       "scraper": "miracle",
       "name": "Miracle Theatre",
       "short": "Miracle",
-      "aliases": ["Miracle Theater", "Miracle Theatre"],
+      "aliases": [
+        "Miracle Theater",
+        "Miracle Theatre"
+      ],
       "area": "Barracks Row",
       "address": "535 8th St SE",
       "url": "https://themiracletheatre.com/",
@@ -72,7 +87,9 @@
       "scraper": "nga",
       "name": "National Gallery of Art",
       "short": "National Gallery",
-      "aliases": ["National Gallery of Art"],
+      "aliases": [
+        "National Gallery of Art"
+      ],
       "area": "National Mall",
       "address": "East Building, 4th St & Constitution Ave NW",
       "url": "https://www.nga.gov/calendar?type%5B103026%5D=103026",
@@ -83,20 +100,30 @@
       "scraper": "loc",
       "name": "Library of Congress",
       "short": "Library of Congress",
-      "aliases": ["Library of Congress"],
+      "aliases": [
+        "Library of Congress"
+      ],
       "area": "Capitol Hill",
       "address": "101 Independence Ave SE",
       "url": "https://www.loc.gov/events/",
       "blurb": "Occasional free screenings drawn from the national film collection."
+    },
+    {
+      "id": "landmark",
+      "scraper": "landmark",
+      "name": "Landmark Atlantic Plumbing Cinema",
+      "short": "Landmark",
+      "aliases": [
+        "Landmark Atlantic Plumbing Cinema",
+        "Landmark Atlantic Plumbing"
+      ],
+      "area": "Shaw",
+      "address": "807 V St NW",
+      "url": "https://www.landmarktheatres.com/showtimes/",
+      "blurb": "Landmark's Washington location, near the Shaw–Howard University Metro. New studio and independent releases."
     }
   ],
   "more": [
-    {
-      "name": "Landmark Atlantic Plumbing Cinema",
-      "area": "Shaw / U Street",
-      "url": "https://www.landmarktheatres.com/",
-      "why": "Landmark's remaining DC theater. New independent and studio releases."
-    },
     {
       "name": "Alamo Drafthouse DC",
       "area": "Bryant Street",
