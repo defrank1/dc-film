@@ -1,55 +1,62 @@
 {
- "generatedAt": "2026-11-11T03:19:59.581Z",
+ "generatedAt": "2026-11-11T05:04:05.368Z",
  "venues": {
   "suns": {
    "status": "ok",
    "count": 33,
-   "lastSuccess": "2026-11-11T03:19:05.355Z",
-   "seconds": 0.8
-  },
-  "4eye": {
-   "status": "ok",
-   "count": 11,
-   "lastSuccess": "2026-11-11T03:19:05.433Z",
-   "seconds": 0.9
-  },
-  "loc": {
-   "status": "empty",
-   "count": 0,
-   "lastSuccess": "2026-11-11T03:19:05.616Z",
-   "seconds": 1,
-   "message": "no upcoming screenings listed"
+   "lastSuccess": "2026-11-11T05:03:18.099Z",
+   "seconds": 0.7
   },
   "miracle": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-11T03:19:06.397Z",
-   "seconds": 1.9,
+   "lastSuccess": "2026-11-11T05:03:18.158Z",
+   "seconds": 0.7,
    "message": "no upcoming screenings listed"
+  },
+  "4eye": {
+   "status": "ok",
+   "count": 11,
+   "lastSuccess": "2026-11-11T05:03:18.413Z",
+   "seconds": 1
   },
   "afi": {
    "status": "ok",
    "count": 337,
-   "lastSuccess": "2026-11-11T03:19:11.503Z",
-   "seconds": 7.1
-  },
-  "nga": {
-   "status": "ok",
-   "count": 13,
-   "lastSuccess": "2026-11-11T03:19:13.722Z",
-   "seconds": 9.2
-  },
-  "angelika": {
-   "status": "ok",
-   "count": 226,
-   "lastSuccess": "2026-11-11T03:19:18.232Z",
-   "seconds": 13.7
+   "lastSuccess": "2026-11-11T05:03:24.227Z",
+   "seconds": 7
   },
   "avalon": {
    "status": "ok",
    "count": 67,
-   "lastSuccess": "2026-11-11T03:19:26.866Z",
-   "seconds": 22.3
+   "lastSuccess": "2026-11-11T05:03:31.814Z",
+   "seconds": 14.4
+  },
+  "angelika": {
+   "status": "ok",
+   "count": 226,
+   "lastSuccess": "2026-11-11T05:03:35.905Z",
+   "seconds": 18.5
+  },
+  "nga": {
+   "status": "blocked",
+   "count": 13,
+   "lastSuccess": "2026-11-11T03:19:13.722Z",
+   "message": "nga.gov kept showing its browser check instead of the calendar",
+   "keptStale": true
+  },
+  "landmark": {
+   "status": "ok",
+   "count": 115,
+   "lastSuccess": "2026-11-11T05:03:51.142Z",
+   "seconds": 33.6
+  },
+  "loc": {
+   "status": "empty",
+   "count": 0,
+   "lastSuccess": "2026-11-11T05:04:05.087Z",
+   "seconds": 47.5,
+   "message": "no upcoming screenings listed"
   }
  }
 }

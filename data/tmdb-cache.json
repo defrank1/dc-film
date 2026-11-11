@@ -1199,6 +1199,23 @@
    ]
   }
  },
+ "gentle-monster|": {
+  "at": "2026-11-11",
+  "q": "Gentle Monster",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 1473148,
+   "title": "Gentle Monster",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
+   "director": "Marie Kreutzer",
+   "runtime": 114,
+   "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
+   "genres": [
+    "Drama"
+   ]
+  }
+ },
  "georgia-okeeffe-the-brightness-of-light|": {
   "at": "2026-11-11",
   "q": "Georgia O'Keeffe: The Brightness of Light",
@@ -1268,6 +1285,25 @@
     "Drama",
     "Thriller",
     "Romance"
+   ]
+  }
+ },
+ "godzilla-minus-zero|": {
+  "at": "2026-11-11",
+  "q": "Godzilla Minus Zero",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 1381071,
+   "title": "Godzilla Minus Zero",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+   "director": "Takashi Yamazaki",
+   "runtime": 135,
+   "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+   "genres": [
+    "Science Fiction",
+    "Horror",
+    "Action"
    ]
   }
  },
@@ -3922,6 +3958,25 @@
    "genres": [
     "Crime",
     "Mystery"
+   ]
+  }
+ },
+ "wicker|": {
+  "at": "2026-11-11",
+  "q": "Wicker",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 1195803,
+   "title": "Wicker",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+   "director": "Eleanor Wilson, Alex Huston Fischer",
+   "runtime": 105,
+   "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+   "genres": [
+    "Romance",
+    "Fantasy",
+    "Comedy"
    ]
   }
  },
