@@ -15,11 +15,12 @@ Every showtime at Washington, DC's independent and repertory movie screens, on o
 | Suns Cinema | "Coming Soon" page HTML | |
 | Angelika Pop-Up at Union Market | The site's JSON API | |
 | 4EYE Film Center | "What's On" page HTML | |
+| Landmark Atlantic Plumbing Cinema | Headless browser: picks the DC location on landmarktheatres.com/showtimes, then steps through each enabled day | Days with no showtimes are disabled on the site and are skipped. Times already past are skipped. |
 | National Gallery of Art | Headless browser (Puppeteer) | Site has a JavaScript check that sometimes refuses automated browsers |
 | Library of Congress | loc.gov JSON API | Main campus only; often nothing scheduled |
 | Miracle Theatre | Events RSS feeds | Mostly live events now; films appear in runs, so it is often empty. The scraper identifies itself by name (the site challenges clients that pose as a browser). |
 
-Link-only venues (no scraper) are listed under `more` in `data/venues.json`.
+Link-only venues (no scraper) are listed under `more` in `data/venues.json`. Greenbelt Cinema, Cinema Arts and Arlington Cinema & Drafthouse are link-only.
 
 ## How it works
 
