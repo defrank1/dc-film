@@ -1,11 +1,12 @@
 {
   "name": "dc-film-screenings",
   "version": "1.0.0",
-  "description": "Automated scraper for DC independent film screenings",
+  "description": "7:30 Showtimes: every indie and repertory film screening in DC, scraped from the theaters and published as a static site",
   "main": "scraper.js",
   "scripts": {
     "scrape": "node scraper.js",
-    "test": "node scraper.js"
+    "scrape:dry": "node scraper.js --dry",
+    "serve": "python3 -m http.server 8000"
   },
   "keywords": [
     "film",

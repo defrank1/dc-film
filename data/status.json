@@ -1,0 +1,54 @@
+{
+ "generatedAt": "2026-11-11T02:47:53.537Z",
+ "venues": {
+  "avalon": {
+   "status": "ok",
+   "count": 67,
+   "lastSuccess": "2026-11-11T02:32:41.983Z",
+   "seconds": 71.3
+  },
+  "suns": {
+   "status": "ok",
+   "count": 33,
+   "lastSuccess": "2026-11-11T02:31:31.710Z",
+   "seconds": 1
+  },
+  "angelika": {
+   "status": "ok",
+   "count": 226,
+   "lastSuccess": "2026-11-11T02:31:56.973Z",
+   "seconds": 26.3
+  },
+  "4eye": {
+   "status": "ok",
+   "count": 11,
+   "lastSuccess": "2026-11-11T02:36:11.509Z",
+   "seconds": 0.8
+  },
+  "miracle": {
+   "status": "blocked",
+   "count": 0,
+   "lastSuccess": null,
+   "message": "site requires a human check (bot protection); not scraped"
+  },
+  "nga": {
+   "status": "ok",
+   "count": 13,
+   "lastSuccess": "2026-11-11T02:31:39.079Z",
+   "seconds": 8.4
+  },
+  "loc": {
+   "status": "empty",
+   "count": 0,
+   "lastSuccess": "2026-11-11T02:31:31.374Z",
+   "seconds": 0.6,
+   "message": "no upcoming screenings listed"
+  },
+  "afi": {
+   "status": "ok",
+   "count": 339,
+   "lastSuccess": "2026-11-11T02:47:51.516Z",
+   "seconds": 80.3
+  }
+ }
+}
