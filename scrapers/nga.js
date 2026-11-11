@@ -17,6 +17,16 @@ const { clean, toET, todayET } = require('./lib');
 const BASE = 'https://www.nga.gov';
 const MAX_PAGES = 6;
 
+/** "wajda-100-literary-adaptations-film" -> "Wajda 100 Literary Adaptations" */
+function seriesName(slug) {
+  return slug
+    .replace(/-(film|films|film-series)$/, '')
+    .split('-')
+    .map((w) => (/^(of|the|and|in|a|an|on|at|to|for)$/.test(w) ? w : w.charAt(0).toUpperCase() + w.slice(1)))
+    .join(' ')
+    .replace(/^./, (c) => c.toUpperCase());
+}
+
 module.exports = async function scrapeNGA() {
   return withPage(async (page) => {
     const seen = new Set();
@@ -84,7 +94,7 @@ module.exports = async function scrapeNGA() {
           date: when.date,
           time: when.time,
           ticketLink: link,
-          series: seriesSlug ? seriesSlug.replace(/-/g, ' ') : null,
+          series: seriesSlug ? seriesName(seriesSlug) : null,
           note: notes.join(' · '),
         });
         added++;

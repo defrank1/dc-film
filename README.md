@@ -17,7 +17,7 @@ Every showtime at Washington, DC's independent and repertory movie screens, on o
 | 4EYE Film Center | "What's On" page HTML | |
 | National Gallery of Art | Headless browser (Puppeteer) | Site has a JavaScript check that sometimes refuses automated browsers |
 | Library of Congress | loc.gov JSON API | Main campus only; often nothing scheduled |
-| Miracle Theatre | Events RSS feed | **Currently blocked** by an "I am human" check on the theater's site. Not bypassed. |
+| Miracle Theatre | Events RSS feeds | Mostly live events now; films appear in runs, so it is often empty. The scraper identifies itself by name (the site challenges clients that pose as a browser). |
 
 Link-only venues (no scraper) are listed under `more` in `data/venues.json`.
 

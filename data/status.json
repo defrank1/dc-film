@@ -1,54 +1,56 @@
 {
- "generatedAt": "2026-11-11T02:47:53.537Z",
+ "generatedAt": "2026-11-11T03:10:43.202Z",
  "venues": {
+  "afi": {
+   "status": "ok",
+   "count": 339,
+   "lastSuccess": "2026-11-11T03:04:00.619Z",
+   "seconds": 9.7
+  },
   "avalon": {
    "status": "ok",
    "count": 67,
-   "lastSuccess": "2026-11-11T02:32:41.983Z",
-   "seconds": 71.3
+   "lastSuccess": "2026-11-11T03:04:16.154Z",
+   "seconds": 24.3
   },
   "suns": {
    "status": "ok",
    "count": 33,
-   "lastSuccess": "2026-11-11T02:31:31.710Z",
-   "seconds": 1
+   "lastSuccess": "2026-11-11T03:03:53.642Z",
+   "seconds": 1.8
   },
   "angelika": {
    "status": "ok",
    "count": 226,
-   "lastSuccess": "2026-11-11T02:31:56.973Z",
-   "seconds": 26.3
+   "lastSuccess": "2026-11-11T03:04:17.861Z",
+   "seconds": 26
   },
   "4eye": {
    "status": "ok",
    "count": 11,
-   "lastSuccess": "2026-11-11T02:36:11.509Z",
-   "seconds": 0.8
-  },
-  "miracle": {
-   "status": "blocked",
-   "count": 0,
-   "lastSuccess": null,
-   "message": "site requires a human check (bot protection); not scraped"
-  },
-  "nga": {
-   "status": "ok",
-   "count": 13,
-   "lastSuccess": "2026-11-11T02:31:39.079Z",
-   "seconds": 8.4
+   "lastSuccess": "2026-11-11T03:03:53.461Z",
+   "seconds": 1.6
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-11T02:31:31.374Z",
-   "seconds": 0.6,
+   "lastSuccess": "2026-11-11T03:03:53.151Z",
+   "seconds": 0.4,
    "message": "no upcoming screenings listed"
   },
-  "afi": {
-   "status": "ok",
-   "count": 339,
-   "lastSuccess": "2026-11-11T02:47:51.516Z",
-   "seconds": 80.3
+  "miracle": {
+   "status": "empty",
+   "count": 0,
+   "lastSuccess": "2026-11-11T03:09:12.473Z",
+   "seconds": 1,
+   "message": "no upcoming screenings listed"
+  },
+  "nga": {
+   "status": "blocked",
+   "count": 13,
+   "lastSuccess": "2026-11-11T03:04:01.584Z",
+   "message": "nga.gov kept showing its browser check instead of the calendar",
+   "keptStale": true
   }
  }
 }

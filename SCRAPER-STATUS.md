@@ -11,7 +11,7 @@ The live, per-run status is in `data/status.json` (also shown on the site's Thea
 | 4EYE Film Center | 11 showtimes | Low, but the site is weeks old and may still change. |
 | National Gallery of Art | 13 showtimes | **High.** Needs a headless browser and the site's JavaScript check let it through on some runs and not others. When refused, the last good listings are kept for 7 days. |
 | Library of Congress | 0 (nothing scheduled on the main campus within 75 days) | Low. Public API. |
-| Miracle Theatre | **Blocked** | The theater's site now shows an "I am human" challenge to every automated request, feed included. The scraper does not try to get around it. Options: ask the theater for a feed, or enter its films by hand. |
+| Miracle Theatre | Feed read fine; 0 films (its "In-Theatre Movies" category was empty and the next events are all live shows) | Medium. The site serves a browser challenge to clients posing as a desktop browser, so this scraper sends a plain self-identifying User-Agent. If the challenge is served anyway it reports "blocked" and does not try to get around it. |
 
 Spot checks against the theaters' own pages on 2026-11-10 matched for AFI (Nov 11), Avalon (Nov 14), Angelika (Nov 14), Suns (Nov 13), 4EYE (all) and NGA (Nov 14).
 

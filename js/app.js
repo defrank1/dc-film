@@ -308,7 +308,7 @@
     $('#stats').innerHTML =
       '<b>' + data.screenings.length.toLocaleString() + '</b> showtimes · ' +
       '<b>' + Object.keys(films).length + '</b> films · ' +
-      '<b>' + Object.keys(venues).length + '</b> screens' +
+      '<b>' + Object.keys(venues).length + '</b> theaters' +
       (data.lastUpdated ? ' · updated ' + esc(ago(data.lastUpdated)) : '');
   }
 
@@ -414,7 +414,7 @@
     var src = f.poster || (s && s.venuePoster) || f.still || '';
     var initial = esc((f.title || '?').replace(/^(the|a|an)\s+/i, '').charAt(0).toUpperCase());
     return '<span class="poster ' + (cls || '') + '" data-initial="' + initial + '">' +
-      (src ? '<img src="' + esc(safeUrl(src)) + '" alt="" loading="lazy" decoding="async" onerror="this.remove()">' : '') +
+      (src ? '<img src="' + esc(safeUrl(src)) + '" alt="" loading="lazy" decoding="async" onload="this.classList.add(&quot;is-in&quot;)" onerror="this.remove()">' : '') +
       '</span>';
   }
 
@@ -581,7 +581,8 @@
     var st = data.status[v.id];
     if (!st) return '';
     if (st.status === 'ok') return 'Read ' + esc(ago(st.lastSuccess));
-    if (st.status === 'empty') return 'Nothing on its calendar right now';
+    if (st.status === 'empty') return 'No films on its calendar right now';
+    if (st.status === 'blocked' && st.keptStale && st.lastSuccess) return 'Its site turned our reader away on the last try; showing listings from ' + esc(ago(st.lastSuccess));
     if (st.status === 'blocked') return 'Its site blocks automated readers — check it directly';
     if (st.lastSuccess) return 'Couldn’t be read on the last try; showing listings from ' + esc(ago(st.lastSuccess));
     return 'Couldn’t be read on the last try — check it directly';

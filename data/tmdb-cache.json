@@ -8,7 +8,7 @@
  "adult-supervision|2026": {
   "at": "2026-11-11",
   "q": "Adult Supervision",
-  "sig": "2026|Alex Schulman||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1461432,
    "title": "Adult Supervision",
@@ -26,7 +26,7 @@
  "alice-in-wonderland|1951": {
   "at": "2026-11-11",
   "q": "Alice in Wonderland",
-  "sig": "1951|Clyde Geronimi, Wilfred Jackson, Hamilton Luske||",
+  "sig": "1951|||",
   "data": {
    "tmdbId": 12092,
    "title": "Alice in Wonderland",
@@ -51,7 +51,7 @@
  "all-of-a-sudden|2026": {
   "at": "2026-11-11",
   "q": "All of a Sudden",
-  "sig": "2026|Ryūsuke Hamaguchi||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1476614,
    "title": "All of a Sudden",
@@ -109,7 +109,7 @@
  "aontas|2025": {
   "at": "2026-11-11",
   "q": "Aontas",
-  "sig": "2025|Damian McCann||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1423035,
    "title": "Aontas",
@@ -182,7 +182,7 @@
  "barker|1928": {
   "at": "2026-11-11",
   "q": "The Barker",
-  "sig": "1928|George Fitzmaurice||",
+  "sig": "1928|||",
   "data": {
    "tmdbId": 85634,
    "title": "The Barker",
@@ -218,7 +218,7 @@
  "begotten|1989": {
   "at": "2026-11-11",
   "q": "Begotten",
-  "sig": "1989|E. Elias Merhige||",
+  "sig": "1989|||",
   "data": {
    "tmdbId": 1483,
    "title": "Begotten",
@@ -331,7 +331,7 @@
  "beloved|2026": {
   "at": "2026-11-11",
   "q": "The Beloved",
-  "sig": "2026|Rodrigo Sorogoyen||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1074074,
    "title": "The Beloved",
@@ -347,8 +347,8 @@
  },
  "black-money-for-white-nights|2026": {
   "at": "2026-11-11",
-  "q": "Black Money for White Nights",
-  "sig": "2026|Kristina Grozeva, Petar Valchanov||",
+  "q": "Black Money For White Nights",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1706715,
    "title": "Black Money For White Nights",
@@ -366,7 +366,7 @@
  "blood-countess|2026": {
   "at": "2026-11-11",
   "q": "The Blood Countess",
-  "sig": "2026|Ulrike Ottinger||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1251608,
    "title": "The Blood Countess",
@@ -404,7 +404,7 @@
  "broken-vein|2025": {
   "at": "2026-11-11",
   "q": "Broken Vein",
-  "sig": "2025|Yannis Economides||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1324836,
    "title": "Broken Vein",
@@ -447,7 +447,7 @@
  "bunker|2026": {
   "at": "2026-11-11",
   "q": "Bunker",
-  "sig": "2026|Florian Zeller||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1473784,
    "title": "Bunker",
@@ -466,6 +466,23 @@
   "at": "2026-11-11",
   "q": "Burgundy",
   "sig": "|Michael Dweck, Gregory Kershaw||",
+  "data": {
+   "tmdbId": 1736399,
+   "title": "Burgundy",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/cJkx9TZfcom79ukTnCSSoqwiC1A.jpg",
+   "director": "Michael Dweck, Gregory Kershaw",
+   "runtime": 90,
+   "overview": "The story of Burgundy’s most extraordinary characters and a celebration of the pleasure that defines their lives.",
+   "genres": [
+    "Documentary"
+   ]
+  }
+ },
+ "burgundy|2026": {
+  "at": "2026-11-11",
+  "q": "Burgundy",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1736399,
    "title": "Burgundy",
@@ -553,7 +570,7 @@
  "chicken-run|2000": {
   "at": "2026-11-11",
   "q": "Chicken Run",
-  "sig": "2000|Nick Park, Peter Lord||",
+  "sig": "2000|||",
   "data": {
    "tmdbId": 7443,
    "title": "Chicken Run",
@@ -614,7 +631,7 @@
  "closure|2026": {
   "at": "2026-11-11",
   "q": "Closure",
-  "sig": "2026|Michał Marczak||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1596319,
    "title": "Closure",
@@ -656,7 +673,7 @@
  "coward|2026": {
   "at": "2026-11-11",
   "q": "Coward",
-  "sig": "2026|Lukas Dhont||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1437981,
    "title": "Coward",
@@ -711,7 +728,7 @@
  "dancing-lady|1933": {
   "at": "2026-11-11",
   "q": "Dancing Lady",
-  "sig": "1933|Robert Z. Leonard||",
+  "sig": "1933|||",
   "data": {
    "tmdbId": 43600,
    "title": "Dancing Lady",
@@ -785,7 +802,7 @@
  "daughter-of-the-dragon|1931": {
   "at": "2026-11-11",
   "q": "Daughter of the Dragon",
-  "sig": "1931|Lloyd Corrigan||",
+  "sig": "1931|||",
   "data": {
    "tmdbId": 88213,
    "title": "Daughter of the Dragon",
@@ -803,19 +820,19 @@
  "de-gaulle-part-one-resistance|2026": {
   "at": "2026-11-11",
   "q": "De Gaulle - Part One: Résistance",
-  "sig": "2026|Antonin Baudry||",
+  "sig": "2026|||",
   "data": null
  },
  "de-gaulle-part-two-liberte|2026": {
   "at": "2026-11-11",
   "q": "De Gaulle - Part Two: Liberté",
-  "sig": "2026|Antonin Baudry||",
+  "sig": "2026|||",
   "data": null
  },
  "diary-of-a-chambermaid|2026": {
   "at": "2026-11-11",
   "q": "The Diary of a Chambermaid",
-  "sig": "2026|Radu Jude||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1472813,
    "title": "The Diary of a Chambermaid",
@@ -851,7 +868,7 @@
  "dreamed-adventure|2026": {
   "at": "2026-11-11",
   "q": "The Dreamed Adventure",
-  "sig": "2026|Valeska Grisebach||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1013822,
    "title": "The Dreamed Adventure",
@@ -887,7 +904,7 @@
  "dune-part-three|2026": {
   "at": "2026-11-11",
   "q": "Dune: Part Three",
-  "sig": "2026|Denis Villeneuve||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1170608,
    "title": "Dune: Part Three",
@@ -923,7 +940,7 @@
  "echo-chamber|2026": {
   "at": "2026-11-11",
   "q": "The Echo Chamber",
-  "sig": "2026|Andrea Pallaoro||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1576934,
    "title": "The Echo Chamber",
@@ -960,7 +977,7 @@
  "eight-girls-in-a-boat|1934": {
   "at": "2026-11-11",
   "q": "Eight Girls in a Boat",
-  "sig": "1934|Richard Wallace||",
+  "sig": "1934|||",
   "data": {
    "tmdbId": 421793,
    "title": "Eight Girls in a Boat",
@@ -977,7 +994,7 @@
  "event-horizon|1997": {
   "at": "2026-11-11",
   "q": "Event Horizon",
-  "sig": "1997|Paul W.S. Anderson||",
+  "sig": "1997|||",
   "data": {
    "tmdbId": 8413,
    "title": "Event Horizon",
@@ -1002,7 +1019,7 @@
  "everytime|2026": {
   "at": "2026-11-11",
   "q": "Everytime",
-  "sig": "2026|Sandra Wollner||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1655419,
    "title": "Everytime",
@@ -1019,7 +1036,7 @@
  "fall|2006": {
   "at": "2026-11-11",
   "q": "The Fall",
-  "sig": "2006|Tarsem||",
+  "sig": "2006|||",
   "data": {
    "tmdbId": 14784,
    "title": "The Fall",
@@ -1044,7 +1061,7 @@
  "fantasy|2025": {
   "at": "2026-11-11",
   "q": "Fantasy",
-  "sig": "2025|Kukla||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1318829,
    "title": "Fantasy",
@@ -1067,7 +1084,7 @@
  "fast|2026": {
   "at": "2026-11-11",
   "q": "Fast",
-  "sig": "2026|Rob Tregenza||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1694936,
    "title": "Fast",
@@ -1090,7 +1107,7 @@
  "fatherland|2026": {
   "at": "2026-11-11",
   "q": "Fatherland",
-  "sig": "2026|Paweł Pawlikowski||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1437696,
    "title": "Fatherland",
@@ -1107,8 +1124,8 @@
  },
  "flesh-and-fuel|2026": {
   "at": "2026-11-11",
-  "q": "Flesh and Fuel",
-  "sig": "2026|Pierre Le Gall||",
+  "q": "Flesh & Fuel",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1084814,
    "title": "Flesh & Fuel",
@@ -1131,18 +1148,18 @@
  "flood|2025": {
   "at": "2026-11-11",
   "q": "Flood",
-  "sig": "2025|Martin Gonda||",
+  "sig": "2025|||",
   "data": {
-   "tmdbId": 1567441,
+   "tmdbId": 1464243,
    "title": "Flood",
    "year": 2025,
-   "poster": "https://image.tmdb.org/t/p/w342/qtom3MULMUp4vFA3rEkTwEIfWVe.jpg",
-   "director": "Martin Gonda",
-   "runtime": 102,
-   "overview": "In communist Czechoslovakia in 1980, 15-year-old Mara dreams of leaving her village to study in the city and become a pilot. But her father, a widowed Ruthenian farmer, insists she stay and work the land. When her village faces destruction due to a new dam, their generational conflict intensifies, revealing the struggle between tradition, identity, and the desire for freedom in a context of historical change.",
+   "poster": "https://image.tmdb.org/t/p/w342/hjWtK4Z7Rr51ewGHIxwfBd3QVXi.jpg",
+   "director": "Desi Alexander, Alvin Gray",
+   "runtime": 80,
+   "overview": "After being released from jail, Remi aims to do the right thing until his criminal brother is kidnapped, forcing Remi back into his old ways.",
    "genres": [
-    "Drama",
-    "History"
+    "Crime",
+    "Drama"
    ]
   }
  },
@@ -1238,7 +1255,7 @@
  "god-will-not-help|2025": {
   "at": "2026-11-11",
   "q": "God Will Not Help",
-  "sig": "2025|Hana Jušić||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1457734,
    "title": "God Will Not Help",
@@ -1330,7 +1347,7 @@
  "ground-floor|2026": {
   "at": "2026-11-11",
   "q": "Ground Floor",
-  "sig": "2026|Gábor Reisz||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1735997,
    "title": "Ground Floor",
@@ -1354,7 +1371,7 @@
  "growth-of-the-soil|2026": {
   "at": "2026-11-11",
   "q": "Growth of the Soil",
-  "sig": "2026|Hans Petter Moland||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1729732,
    "title": "Growth of the Soil",
@@ -1371,7 +1388,7 @@
  "guest|2026": {
   "at": "2026-11-11",
   "q": "The Guest",
-  "sig": "2026|Mads Mengel||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1706729,
    "title": "The Guest",
@@ -1411,7 +1428,7 @@
  "heysel-85|2026": {
   "at": "2026-11-11",
   "q": "Heysel 85",
-  "sig": "2026|Teodora Ana Mihai||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1447885,
    "title": "Heysel 85",
@@ -1445,8 +1462,8 @@
  },
  "hold-onto-me|2026": {
   "at": "2026-11-11",
-  "q": "Hold Onto Me",
-  "sig": "2026|Myrsini Aristidou||",
+  "q": "Hold onto Me",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1318824,
    "title": "Hold onto Me",
@@ -1463,7 +1480,7 @@
  "hold-your-man|1933": {
   "at": "2026-11-11",
   "q": "Hold Your Man",
-  "sig": "1933|Sam Wood||",
+  "sig": "1933|||",
   "data": {
    "tmdbId": 90957,
    "title": "Hold Your Man",
@@ -1481,7 +1498,7 @@
  "hole|1998": {
   "at": "2026-11-11",
   "q": "The Hole",
-  "sig": "1998|Tsai Ming-liang||",
+  "sig": "1998|||",
   "data": {
    "tmdbId": 47060,
    "title": "The Hole",
@@ -1517,7 +1534,7 @@
  "how-to-divorce-during-the-war|2026": {
   "at": "2026-11-11",
   "q": "How to Divorce During the War",
-  "sig": "2026|Andrius Blaževičius||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1529024,
    "title": "How to Divorce During the War",
@@ -1570,7 +1587,7 @@
  "hula|1927": {
   "at": "2026-11-11",
   "q": "Hula",
-  "sig": "1927|Victor Fleming||",
+  "sig": "1927|||",
   "data": {
    "tmdbId": 189677,
    "title": "Hula",
@@ -1626,7 +1643,7 @@
  "hunt-for-red-october|1990": {
   "at": "2026-11-11",
   "q": "The Hunt for Red October",
-  "sig": "1990|John McTiernan||",
+  "sig": "1990|||",
   "data": {
    "tmdbId": 1669,
    "title": "The Hunt for Red October",
@@ -1663,7 +1680,7 @@
  "hunt-for-the-wilderpeople|2016": {
   "at": "2026-11-11",
   "q": "Hunt for the Wilderpeople",
-  "sig": "2016|Taika Waititi||",
+  "sig": "2016|||",
   "data": {
    "tmdbId": 371645,
    "title": "Hunt for the Wilderpeople",
@@ -1699,7 +1716,7 @@
  "if-pigeons-turned-to-gold|2026": {
   "at": "2026-11-11",
   "q": "If Pigeons Turned to Gold",
-  "sig": "2026|Pepa Lubojacki||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1616833,
    "title": "If Pigeons Turned to Gold",
@@ -1716,7 +1733,7 @@
  "ill-be-gone-in-june|2026": {
   "at": "2026-11-11",
   "q": "I'll Be Gone in June",
-  "sig": "2026|Katharina Rivilis||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1441105,
    "title": "I'll Be Gone in June",
@@ -1739,7 +1756,7 @@
  "in-the-mouth-of-madness|1995": {
   "at": "2026-11-11",
   "q": "In the Mouth of Madness",
-  "sig": "1995|John Carpenter||",
+  "sig": "1995|||",
   "data": {
    "tmdbId": 2654,
    "title": "In the Mouth of Madness",
@@ -1776,7 +1793,7 @@
  "iron-boy|2026": {
   "at": "2026-11-11",
   "q": "Iron Boy",
-  "sig": "2026|Louis Clichy||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 947493,
    "title": "Iron Boy",
@@ -1795,7 +1812,7 @@
  "ivan-and-hadoum|2026": {
   "at": "2026-11-11",
   "q": "Iván & Hadoum",
-  "sig": "2026|Ian de la Rosa||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1514847,
    "title": "Iván & Hadoum",
@@ -1849,7 +1866,7 @@
  "la-bola-negra|2026": {
   "at": "2026-11-11",
   "q": "La Bola Negra",
-  "sig": "2026|Javier Ambrossi, Javier Calvo||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1422041,
    "title": "La Bola Negra",
@@ -1884,7 +1901,7 @@
  "la-gradiva|2026": {
   "at": "2026-11-11",
   "q": "La Gradiva",
-  "sig": "2026|Marine Atlan||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1154730,
    "title": "La Gradiva",
@@ -1901,7 +1918,7 @@
  "law-and-order|1932": {
   "at": "2026-11-11",
   "q": "Law and Order",
-  "sig": "1932|Edward L. Cahn||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 104458,
    "title": "Law and Order",
@@ -1918,7 +1935,7 @@
  "le-faux-soir|2026": {
   "at": "2026-11-11",
   "q": "Le Faux Soir",
-  "sig": "2026|Michaël R||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1090025,
    "title": "Le Faux Soir",
@@ -1936,7 +1953,7 @@
  "letty-lynton|1932": {
   "at": "2026-11-11",
   "q": "Letty Lynton",
-  "sig": "1932|Clarence Brown||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 162064,
    "title": "Letty Lynton",
@@ -1989,7 +2006,7 @@
  "loneliest-man-in-town|2026": {
   "at": "2026-11-11",
   "q": "The Loneliest Man in Town",
-  "sig": "2026|Tizza Covi||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1426957,
    "title": "The Loneliest Man in Town",
@@ -2026,7 +2043,7 @@
  "lord-of-the-rings-the-fellowship-of-the-ring|2001": {
   "at": "2026-11-11",
   "q": "The Lord of the Rings: The Fellowship of the Ring",
-  "sig": "2001|Peter Jackson||",
+  "sig": "2001|||",
   "data": {
    "tmdbId": 120,
    "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -2045,7 +2062,7 @@
  "lord-of-the-rings-the-return-of-the-king|2003": {
   "at": "2026-11-11",
   "q": "The Lord of the Rings: The Return of the King",
-  "sig": "2003|Peter Jackson||",
+  "sig": "2003|||",
   "data": {
    "tmdbId": 122,
    "title": "The Lord of the Rings: The Return of the King",
@@ -2064,7 +2081,7 @@
  "lord-of-the-rings-the-two-towers|2002": {
   "at": "2026-11-11",
   "q": "The Lord of the Rings: The Two Towers",
-  "sig": "2002|Peter Jackson||",
+  "sig": "2002|||",
   "data": {
    "tmdbId": 121,
    "title": "The Lord of the Rings: The Two Towers",
@@ -2134,7 +2151,7 @@
  "low-lies-the-land|2026": {
   "at": "2026-11-11",
   "q": "Low Lies the Land",
-  "sig": "2026|Emanuele Gerosa||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1747726,
    "title": "Low Lies the Land",
@@ -2151,7 +2168,7 @@
  "man-of-his-time|2026": {
   "at": "2026-11-11",
   "q": "A Man of His Time",
-  "sig": "2026|Emmanuel Marre||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1318864,
    "title": "A Man of His Time",
@@ -2170,7 +2187,7 @@
  "man-trouble|1930": {
   "at": "2026-11-11",
   "q": "Man Trouble",
-  "sig": "1930|Berthold Viertel||",
+  "sig": "1930|||",
   "data": {
    "tmdbId": 295753,
    "title": "Man Trouble",
@@ -2189,7 +2206,7 @@
  "man-who-came-back|1924": {
   "at": "2026-11-11",
   "q": "The Man Who Came Back",
-  "sig": "1924|Emmett J. Flynn||",
+  "sig": "1924|||",
   "data": {
    "tmdbId": 687169,
    "title": "The Man Who Came Back",
@@ -2290,7 +2307,7 @@
  "muppet-treasure-island|1996": {
   "at": "2026-11-11",
   "q": "Muppet Treasure Island",
-  "sig": "1996|Brian Henson||",
+  "sig": "1996|||",
   "data": {
    "tmdbId": 10874,
    "title": "Muppet Treasure Island",
@@ -2326,7 +2343,7 @@
  "network|1976": {
   "at": "2026-11-11",
   "q": "Network",
-  "sig": "1976|Sidney Lumet||",
+  "sig": "1976|||",
   "data": {
    "tmdbId": 10774,
    "title": "Network",
@@ -2362,7 +2379,7 @@
  "night-at-the-museum|2006": {
   "at": "2026-11-11",
   "q": "Night at the Museum",
-  "sig": "2006|Shawn Levy||",
+  "sig": "2006|||",
   "data": {
    "tmdbId": 1593,
    "title": "Night at the Museum",
@@ -2381,7 +2398,7 @@
  "nina-roza|2026": {
   "at": "2026-11-11",
   "q": "Nina Roza",
-  "sig": "2026|Geneviève Dulude-De Celles||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1527449,
    "title": "Nina Roza",
@@ -2415,7 +2432,7 @@
  "nine-to-five|1980": {
   "at": "2026-11-11",
   "q": "Nine to Five",
-  "sig": "1980|Colin Higgins||",
+  "sig": "1980|||",
   "data": {
    "tmdbId": 19494,
    "title": "Nine to Five",
@@ -2484,8 +2501,8 @@
  },
  "once-upon-a-time-in-hollywood|2019": {
   "at": "2026-11-11",
-  "q": "Once Upon a Time... in Hollywood",
-  "sig": "2019|Quentin Tarantino||",
+  "q": "Once Upon a Time in… Hollywood",
+  "sig": "2019|||",
   "data": {
    "tmdbId": 466272,
    "title": "Once Upon a Time in… Hollywood",
@@ -2504,7 +2521,7 @@
  "one-hour-with-you|1932": {
   "at": "2026-11-11",
   "q": "One Hour with You",
-  "sig": "1932|Ernst Lubitsch||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 43145,
    "title": "One Hour with You",
@@ -2541,7 +2558,7 @@
  "our-erika|2026": {
   "at": "2026-11-11",
   "q": "Our Erika",
-  "sig": "2026|German Golub||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1316398,
    "title": "Our Erika",
@@ -2575,7 +2592,7 @@
  "paikar|2025": {
   "at": "2026-11-11",
   "q": "Paikar",
-  "sig": "2025|Dawood Hilmandi||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1568184,
    "title": "Paikar",
@@ -2617,7 +2634,7 @@
  "pans-labyrinth|2006": {
   "at": "2026-11-11",
   "q": "Pan's Labyrinth",
-  "sig": "2006|Guillermo del Toro||",
+  "sig": "2006|||",
   "data": {
    "tmdbId": 1417,
    "title": "Pan's Labyrinth",
@@ -2655,7 +2672,7 @@
  "parallel-tales|2026": {
   "at": "2026-11-11",
   "q": "Parallel Tales",
-  "sig": "2026|Asghar Farhadi||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1157869,
    "title": "Parallel Tales",
@@ -2715,7 +2732,7 @@
  "piano|1993": {
   "at": "2026-11-11",
   "q": "The Piano",
-  "sig": "1993|Jane Campion||",
+  "sig": "1993|||",
   "data": {
    "tmdbId": 713,
    "title": "The Piano",
@@ -2874,7 +2891,7 @@
  "prisoner-of-zenda|1937": {
   "at": "2026-11-11",
   "q": "The Prisoner of Zenda",
-  "sig": "1937|John Cromwell||",
+  "sig": "1937|||",
   "data": {
    "tmdbId": 43867,
    "title": "The Prisoner of Zenda",
@@ -2898,7 +2915,7 @@
  "prosecution|2026": {
   "at": "2026-11-11",
   "q": "Prosecution",
-  "sig": "2026|Faraz Shariat||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1599784,
    "title": "Prosecution",
@@ -2915,7 +2932,7 @@
  "queen-at-sea|2026": {
   "at": "2026-11-11",
   "q": "Queen at Sea",
-  "sig": "2026|Lance Hammer||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1021848,
    "title": "Queen at Sea",
@@ -2932,7 +2949,7 @@
  "rain|1932": {
   "at": "2026-11-11",
   "q": "Rain",
-  "sig": "1932|Lewis Milestone||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 61369,
    "title": "Rain",
@@ -2966,7 +2983,7 @@
  "raise-the-red-lantern|1991": {
   "at": "2026-11-11",
   "q": "Raise the Red Lantern",
-  "sig": "1991|Zhang Yimou||",
+  "sig": "1991|||",
   "data": {
    "tmdbId": 10404,
    "title": "Raise the Red Lantern",
@@ -3001,7 +3018,7 @@
  "robert-richardson-the-white-devil|2026": {
   "at": "2026-11-11",
   "q": "Robert Richardson: The White Devil",
-  "sig": "2026|Jana Hojdovà||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1706746,
    "title": "Robert Richardson: The White Devil",
@@ -3037,7 +3054,7 @@
  "rose|2026": {
   "at": "2026-11-11",
   "q": "Rose",
-  "sig": "2026|Markus Schleinzer||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1176962,
    "title": "Rose",
@@ -3092,7 +3109,7 @@
  "scent-of-things-remembered|2025": {
   "at": "2026-11-11",
   "q": "The Scent of Things Remembered",
-  "sig": "2025|António Ferreira||",
+  "sig": "2025|||",
   "data": {
    "tmdbId": 1496142,
    "title": "The Scent of Things Remembered",
@@ -3128,7 +3145,7 @@
  "seven-per-cent-solution|1976": {
   "at": "2026-11-11",
   "q": "The Seven-Per-Cent Solution",
-  "sig": "1976|Herbert Ross||",
+  "sig": "1976|||",
   "data": {
    "tmdbId": 29578,
    "title": "The Seven-Per-Cent Solution",
@@ -3153,7 +3170,7 @@
  "shame-and-money|2026": {
   "at": "2026-11-11",
   "q": "Shame and Money",
-  "sig": "2026|Visar Morina||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1553591,
    "title": "Shame and Money",
@@ -3189,7 +3206,7 @@
  "shaun-the-sheep-movie|2015": {
   "at": "2026-11-11",
   "q": "Shaun the Sheep Movie",
-  "sig": "2015|Mark Burton, Richard Starzak||",
+  "sig": "2015|||",
   "data": {
    "tmdbId": 263109,
    "title": "Shaun the Sheep Movie",
@@ -3208,7 +3225,7 @@
  "shaun-the-sheep-the-beast-of-mossy-bottom|2026": {
   "at": "2026-11-11",
   "q": "Shaun the Sheep: The Beast of Mossy Bottom",
-  "sig": "2026|Steve Cox, Matthew Walker||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1477104,
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -3290,7 +3307,7 @@
  "spiral|2026": {
   "at": "2026-11-11",
   "q": "The Spiral",
-  "sig": "2026|Paolo Strippoli||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1412795,
    "title": "The Spiral",
@@ -3328,7 +3345,7 @@
  "spirited-away|2001": {
   "at": "2026-11-11",
   "q": "Spirited Away",
-  "sig": "2001|Hayao Miyazaki||",
+  "sig": "2001|||",
   "data": {
    "tmdbId": 129,
    "title": "Spirited Away",
@@ -3353,7 +3370,7 @@
  "squirrel|2026": {
   "at": "2026-11-11",
   "q": "The Squirrel",
-  "sig": "2026|Markus Lehmusruusu||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 683367,
    "title": "The Squirrel",
@@ -3389,7 +3406,7 @@
  "strangers-on-a-train|1951": {
   "at": "2026-11-11",
   "q": "Strangers on a Train",
-  "sig": "1951|Alfred Hitchcock||",
+  "sig": "1951|||",
   "data": {
    "tmdbId": 845,
    "title": "Strangers on a Train",
@@ -3426,7 +3443,7 @@
  "streetcar-named-desire|1951": {
   "at": "2026-11-11",
   "q": "A Streetcar Named Desire",
-  "sig": "1951|Elia Kazan||",
+  "sig": "1951|||",
   "data": {
    "tmdbId": 702,
    "title": "A Streetcar Named Desire",
@@ -3521,7 +3538,7 @@
  "ten-nights-in-a-barroom|1926": {
   "at": "2026-11-11",
   "q": "Ten Nights in a Barroom",
-  "sig": "1926|Roy Calnek||",
+  "sig": "1926|||",
   "data": {
    "tmdbId": 408008,
    "title": "Ten Nights in a Barroom",
@@ -3610,7 +3627,7 @@
  "third-man|1949": {
   "at": "2026-11-11",
   "q": "The Third Man",
-  "sig": "1949|Carol Reed||",
+  "sig": "1949|||",
   "data": {
    "tmdbId": 1092,
    "title": "The Third Man",
@@ -3628,7 +3645,7 @@
  "three-on-a-match|1932": {
   "at": "2026-11-11",
   "q": "Three on a Match",
-  "sig": "1932|Mervyn LeRoy||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 42914,
    "title": "Three on a Match",
@@ -3646,7 +3663,7 @@
  "too-many-beasts|2026": {
   "at": "2026-11-11",
   "q": "Too Many Beasts",
-  "sig": "2026|Sarah Arnold||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1001405,
    "title": "Too Many Beasts",
@@ -3663,7 +3680,7 @@
  "trial-of-hein|2026": {
   "at": "2026-11-11",
   "q": "Trial of Hein",
-  "sig": "2026|Kai Stänicke||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1476466,
    "title": "Trial of Hein",
@@ -3697,7 +3714,7 @@
  "ulya|2026": {
   "at": "2026-11-11",
   "q": "Ulya",
-  "sig": "2026|Viesturs Kairišs||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1490241,
    "title": "Ulya",
@@ -3733,7 +3750,7 @@
  "wallace-and-gromit-the-classic-shorts|1989": {
   "at": "2026-11-11",
   "q": "Wallace & Gromit: The Classic Shorts",
-  "sig": "1989|Nick Park||",
+  "sig": "1989|||",
   "data": null
  },
  "weapons|2025": {
@@ -3781,7 +3798,7 @@
  "welcome-ii-the-terrordome|1995": {
   "at": "2026-11-11",
   "q": "Welcome II the Terrordome",
-  "sig": "1995|Ngozi Onwurah||",
+  "sig": "1995|||",
   "data": {
    "tmdbId": 274710,
    "title": "Welcome II the Terrordome",
@@ -3833,7 +3850,7 @@
  "what-price-glory|1926": {
   "at": "2026-11-11",
   "q": "What Price Glory",
-  "sig": "1926|Raoul Walsh||",
+  "sig": "1926|||",
   "data": {
    "tmdbId": 111607,
    "title": "What Price Glory",
@@ -3943,7 +3960,7 @@
  "wild-at-heart|1990": {
   "at": "2026-11-11",
   "q": "Wild at Heart",
-  "sig": "1990|David Lynch, from the novel by Barry Gifford||",
+  "sig": "1990|||",
   "data": {
    "tmdbId": 483,
    "title": "Wild at Heart",
@@ -3962,7 +3979,7 @@
  "wild-girl|1932": {
   "at": "2026-11-11",
   "q": "Wild Girl",
-  "sig": "1932|Raoul Walsh||",
+  "sig": "1932|||",
   "data": {
    "tmdbId": 137509,
    "title": "Wild Girl",
@@ -3979,7 +3996,7 @@
  "wild-horse-nine|2026": {
   "at": "2026-11-11",
   "q": "Wild Horse Nine",
-  "sig": "2026|Martin McDonagh||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 891621,
    "title": "Wild Horse Nine",
@@ -3997,8 +4014,8 @@
  },
  "wild-wild-east|2026": {
   "at": "2026-11-11",
-  "q": "Wild, Wild East",
-  "sig": "2026|Jan Holoubek||",
+  "q": "Wild Wild East",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1514333,
    "title": "Wild Wild East",
@@ -4017,7 +4034,7 @@
  "wizard-of-oz|1939": {
   "at": "2026-11-11",
   "q": "The Wizard of Oz",
-  "sig": "1939|Victor Fleming||",
+  "sig": "1939|||",
   "data": {
    "tmdbId": 630,
    "title": "The Wizard of Oz",
@@ -4054,7 +4071,7 @@
  "women-as-lovers|2026": {
   "at": "2026-11-11",
   "q": "Women as Lovers",
-  "sig": "2026|Koxi||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1452018,
    "title": "Women as Lovers",
@@ -4126,7 +4143,7 @@
  "yellow-letters|2026": {
   "at": "2026-11-11",
   "q": "Yellow Letters",
-  "sig": "2026|İlker Çatak||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1315657,
    "title": "Yellow Letters",
@@ -4211,7 +4228,7 @@
  "zejtune|2026": {
   "at": "2026-11-11",
   "q": "Zejtune",
-  "sig": "2026|Alex Camilleri||",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1611903,
    "title": "Zejtune",

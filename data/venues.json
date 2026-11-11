@@ -65,7 +65,7 @@
       "area": "Barracks Row",
       "address": "535 8th St SE",
       "url": "https://themiracletheatre.com/",
-      "blurb": "Historic single-screen house on Capitol Hill showing second-run and classic films on weekends, alongside live shows."
+      "blurb": "Historic single-screen house on Capitol Hill. Mostly live shows these days, with second-run and classic films in between."
     },
     {
       "id": "nga",
@@ -114,6 +114,24 @@
       "area": "Dupont Circle",
       "url": "https://www.edcjcc.org/jxj/",
       "why": "Film programs and the annual JxJ festival."
+    },
+    {
+      "name": "Greenbelt Cinema",
+      "area": "Greenbelt, MD",
+      "url": "https://www.greenbeltcinema.org/",
+      "why": "Nonprofit art deco movie house (the Old Greenbelt Theatre). New independent releases and classics."
+    },
+    {
+      "name": "Cinema Arts Theatre",
+      "area": "Fairfax, VA",
+      "url": "https://www.cinemaartstheatre.com/",
+      "why": "Independent arthouse multiplex."
+    },
+    {
+      "name": "Arlington Cinema & Drafthouse",
+      "area": "Arlington, VA",
+      "url": "https://arlingtondrafthouse.com/",
+      "why": "Movies with food and drink, between comedy shows."
     }
   ]
 }
