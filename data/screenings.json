@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-11T05:04:05.368Z",
+ "lastUpdated": "2026-11-11T14:26:04.998Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -1402,21 +1402,6 @@
    "tmdbId": 43145,
    "rep": true
   },
-  "orphanage-2007": {
-   "title": "The Orphanage",
-   "year": 2007,
-   "director": "J. A. Bayona",
-   "runtime": 105,
-   "poster": "https://image.tmdb.org/t/p/w342/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
-   "overview": "A woman brings her family back to her childhood home, which used to be an orphanage, intent on reopening it. Before long, her son starts to communicate with a new invisible friend.",
-   "genres": [
-    "Horror",
-    "Drama",
-    "Thriller"
-   ],
-   "tmdbId": 6537,
-   "rep": true
-  },
   "our-erika-2026": {
    "title": "Our Erika",
    "year": 2026,
@@ -2029,19 +2014,6 @@
    "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005747?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "rep": true
   },
-  "weapons-2025": {
-   "title": "Weapons",
-   "year": 2025,
-   "director": "Zach Cregger",
-   "runtime": 128,
-   "poster": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-   "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-   "genres": [
-    "Horror",
-    "Mystery"
-   ],
-   "tmdbId": 1078605
-  },
   "wedding": {
    "title": "The Wedding"
   },
@@ -2600,17 +2572,6 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "orphanage-2007",
-   "title": "The Orphanage",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "ticketLink": "https://sunscinema.com/purchase/437484/",
-   "infoLink": "https://sunscinema.com/movies/the-orphanage/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28154734/vIpi1KtHLXUOfSVC2m6MqpjSPgL1.jpg"
-  },
-  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -2730,17 +2691,6 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100004813",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004813?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "20th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "weapons-2025",
-   "title": "Weapons",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-11",
-   "time": "21:30",
-   "ticketLink": "https://sunscinema.com/purchase/437485/",
-   "infoLink": "https://sunscinema.com/movies/weapons/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/09/24235713/cpf7vsRZ0MYRQcnLWteD5jK9ymT-scaled.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3258,6 +3208,15 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "12:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "being-heumann-2026",
    "title": "Being Heumann",
    "venueId": "angelika",
@@ -3269,6 +3228,15 @@
    "note": "Open Captions"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "12:45",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "rain-1932",
    "title": "Rain",
    "venueId": "afi",
@@ -3278,6 +3246,24 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005735",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005735?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Intro by film historian Scott Eyman"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "13:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "13:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3298,6 +3284,24 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668391~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "14:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "14:15",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "la-bola-negra-2026",
@@ -3355,6 +3359,15 @@
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "15:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
    "venueId": "angelika",
    "venue": "Angelika Pop-Up at Union Market",
    "date": "2026-11-13",
@@ -3384,6 +3397,33 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "16:15",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wicker-2026",
+   "title": "Wicker",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "16:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "16:40",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -3392,6 +3432,15 @@
    "time": "16:45",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668393~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "vertigo-1958",
@@ -3403,6 +3452,15 @@
    "ticketLink": "https://sunscinema.com/movies/vertigo/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28174541/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
    "soldOut": true
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "18:15",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "fatherland-2026",
@@ -3480,6 +3538,33 @@
    "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "godzilla-minus-zero-2026",
+   "title": "Godzilla Minus Zero",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "19:10",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "19:20",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -3500,6 +3585,15 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "la-bola-negra-2026",
    "title": "La Bola Negra",
    "venueId": "afi",
@@ -3509,6 +3603,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "wicker-2026",
+   "title": "Wicker",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "jason-lives-friday-the-13th-part-vi-1986",
@@ -3551,6 +3654,33 @@
    "time": "21:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "21:40",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "21:50",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "godzilla-minus-zero-2026",
+   "title": "Godzilla Minus Zero",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "la-bola-negra-2026",
