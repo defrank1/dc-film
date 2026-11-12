@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-11-12T00:46:09.844Z",
+ "generatedAt": "2026-11-12T15:21:49.029Z",
  "venues": {
-  "4eye": {
+  "suns": {
    "status": "ok",
-   "count": 12,
-   "lastSuccess": "2026-11-12T00:45:37.135Z",
-   "seconds": 0.5
+   "count": 29,
+   "lastSuccess": "2026-11-12T15:17:49.175Z",
+   "seconds": 0.7
   },
   "miracle": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-12T00:45:37.258Z",
-   "seconds": 0.6,
+   "lastSuccess": "2026-11-12T15:17:49.272Z",
+   "seconds": 0.8,
    "message": "no upcoming screenings listed"
   },
-  "suns": {
+  "4eye": {
    "status": "ok",
-   "count": 31,
-   "lastSuccess": "2026-11-12T00:45:37.331Z",
-   "seconds": 0.7
+   "count": 12,
+   "lastSuccess": "2026-11-12T15:17:49.447Z",
+   "seconds": 1
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-12T00:45:37.342Z",
-   "seconds": 0.6,
+   "lastSuccess": "2026-11-12T15:17:51.162Z",
+   "seconds": 2.6,
    "message": "no upcoming screenings listed"
   },
   "afi": {
    "status": "ok",
-   "count": 334,
-   "lastSuccess": "2026-11-12T00:45:47.267Z",
-   "seconds": 10.7
+   "count": 331,
+   "lastSuccess": "2026-11-12T15:17:56.291Z",
+   "seconds": 7.9
   },
   "angelika": {
    "status": "ok",
    "count": 218,
-   "lastSuccess": "2026-11-12T00:45:49.361Z",
-   "seconds": 12.7
+   "lastSuccess": "2026-11-12T15:18:05.455Z",
+   "seconds": 17
   },
-  "avalon": {
+  "landmark": {
    "status": "ok",
-   "count": 62,
-   "lastSuccess": "2026-11-12T00:45:50.712Z",
-   "seconds": 14
+   "count": 135,
+   "lastSuccess": "2026-11-12T15:18:19.394Z",
+   "seconds": 30.8
   },
   "nga": {
    "status": "blocked",
@@ -52,11 +52,12 @@
    "message": "nga.gov kept showing its browser check instead of the calendar",
    "keptStale": true
   },
-  "landmark": {
-   "status": "ok",
-   "count": 137,
-   "lastSuccess": "2026-11-12T00:46:09.297Z",
-   "seconds": 32.6
+  "avalon": {
+   "status": "error",
+   "count": 60,
+   "lastSuccess": "2026-11-12T00:45:50.712Z",
+   "message": "Avalon timed out after 240s",
+   "keptStale": true
   }
  }
 }

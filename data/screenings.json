@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T00:46:09.844Z",
+ "lastUpdated": "2026-11-12T15:21:49.029Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -216,20 +216,6 @@
    ],
    "tmdbId": 1324836
   },
-  "brood-1979": {
-   "title": "The Brood",
-   "year": 1979,
-   "director": "David Cronenberg",
-   "runtime": 92,
-   "poster": "https://image.tmdb.org/t/p/w342/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
-   "overview": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalised wife, amidst a series of brutal murders.",
-   "genres": [
-    "Horror",
-    "Science Fiction"
-   ],
-   "tmdbId": 28942,
-   "rep": true
-  },
   "bunker-2026": {
    "title": "Bunker",
    "year": 2026,
@@ -274,7 +260,6 @@
    "director": "Dominik Moll",
    "runtime": 115,
    "poster": "https://image.tmdb.org/t/p/w342/4QL4LcsYX8mdNktst0CnyHQDRLg.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/case-137FEATURED1web-300x177.jpg",
    "overview": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
    "genres": [
     "Crime",
@@ -559,21 +544,6 @@
    ],
    "tmdbId": 1655419
   },
-  "fall-2006": {
-   "title": "The Fall",
-   "year": 2006,
-   "director": "Tarsem",
-   "runtime": 117,
-   "poster": "https://image.tmdb.org/t/p/w342/ez7xavvDr5yDz4sSvI55xDp0BoU.jpg",
-   "overview": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
-   "genres": [
-    "Adventure",
-    "Fantasy",
-    "Drama"
-   ],
-   "tmdbId": 14784,
-   "rep": true
-  },
   "fantasy-2025": {
    "title": "Fantasy",
    "year": 2025,
@@ -720,15 +690,15 @@
   "golden-boy-2026": {
    "title": "Golden Boy",
    "year": 2026,
-   "director": "Sam Yates",
-   "runtime": 156,
-   "poster": "https://image.tmdb.org/t/p/w342/hYfGOJlr1WTJU1IRA5Sb7a14Xba.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/GoldenBoyFEATUREDweb-300x161.jpg",
-   "overview": "1930s New York, at the height of the Depression. Joe Bonaparte is a gifted young violinist with extraordinary talent and a future in music, until a chance at fame and fortune lures him into the brutal world of professional boxing. Pressured by a ruthless manager, tempted by a forbidden love, and bound by the expectations of his Italian-American family, Joe is a young man torn between the…",
+   "director": "Joe Chan",
+   "runtime": 92,
+   "poster": "https://image.tmdb.org/t/p/w342/rEm7CbnPAX2jpDTUXz6FExK41cL.jpg",
+   "overview": "A decade ago, Cheung Lek was the brightest rising boxing star—known as “Golden Boy”—until a tragic incident stripped him of his freedom. Ten years later, released from prison, he comes face to face with Fong Yuen, the son he has never met. To claim the inheritance left by Fong Yuen’s mother, Cheung must learn to live with and take care of the boy. Thrust into fatherhood and confronted by past…",
    "genres": [
-    "Drama"
+    "Drama",
+    "Action"
    ],
-   "tmdbId": 1723978
+   "tmdbId": 1421071
   },
   "grinch-2018": {
    "title": "The Grinch",
@@ -736,7 +706,6 @@
    "director": "Yarrow Cheney, Scott Mosier",
    "runtime": 85,
    "poster": "https://image.tmdb.org/t/p/w342/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/THEGRINCHfeaturedWEB-300x162.jpg",
    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
    "genres": [
     "Animation",
@@ -1062,7 +1031,6 @@
    "director": "Greta Gerwig",
    "runtime": 135,
    "poster": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/LITTLEWOMENfeaturedWEB-300x173.jpg",
    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
    "genres": [
     "Drama",
@@ -1135,7 +1103,6 @@
    "director": "Thomas Winston",
    "runtime": 90,
    "poster": "https://image.tmdb.org/t/p/w342/lM983GPSFdNF9FUP2q3cDj23cvj.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/LWOYfeaturedWEB-300x169.jpg",
    "overview": "Once on the brink of extinction in the American West, the gray wolf’s comeback is astonishing, an incredible true story with many heroes, and one crucial heroine.",
    "genres": [
     "Documentary"
@@ -1978,19 +1945,6 @@
    "tmdbId": 274710,
    "rep": true
   },
-  "what-a-way-to-go-2026": {
-   "title": "What a Way To Go",
-   "year": 2026,
-   "director": "Jan Svěrák",
-   "runtime": 100,
-   "poster": "https://image.tmdb.org/t/p/w342/9WzSp58KeedU8NHcAcJkqYNYnuv.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/WhataWaytoGoFEATUREDweb-300x171.jpg",
-   "overview": "Five old friends. One last voyage. Fed up with being written off — dismissed by their children, care homes looming, invisible to the world - they decide to defy expectations and take a sailing boat for one last adventure. No itinerary, no carers. Just open waters, old bonds and a bumbag or recreational drugs. Determined to prove that life, at any stage, is what you make of it.",
-   "genres": [
-    "Comedy"
-   ],
-   "tmdbId": 1678214
-  },
   "what-price-glory-1926": {
    "title": "What Price Glory",
    "year": 1926,
@@ -2012,7 +1966,6 @@
    "director": "Michael Curtiz",
    "runtime": 120,
    "poster": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/WhiteChristmasFEATUREDweb-300x174.jpg",
    "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
    "genres": [
     "Comedy",
@@ -2096,7 +2049,6 @@
    "director": "Martin McDonagh",
    "runtime": 117,
    "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/WILDHORSENINEfeaturedWEB-300x163.jpg",
    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "genres": [
     "Comedy",
@@ -2147,27 +2099,12 @@
    ],
    "tmdbId": 1452018
   },
-  "women-in-love-1969": {
-   "title": "Women in Love",
-   "year": 1969,
-   "director": "Ken Russell",
-   "runtime": 131,
-   "poster": "https://image.tmdb.org/t/p/w342/uHfThxdQC99LLoe2jKZ1u3vIge2.jpg",
-   "overview": "Growing up in the sheltered confines of a 1920s English coal-mining community, free-spirited sisters Gudrun and Ursula explore erotic love with a wealthy playboy and a philosophical educator, with cataclysmic results for all four.",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "tmdbId": 66027,
-   "rep": true
-  },
   "women-on-trial-2026": {
    "title": "Women on Trial",
    "year": 2026,
    "director": "Lauriane Escaffre, Yvo Muller",
    "runtime": 102,
    "poster": "https://image.tmdb.org/t/p/w342/fArOu0NgRfth0zH5YqRu1os478v.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/WomenonTrialFEATUREDweb-300x168.jpg",
    "overview": "1972. A landmark trial shakes France as young Marie-Claire is prosecuted for having an illegal abortion with the help of her mother and two other defendants. In a courtroom governed by men, the verdict seems inevitable: prison for the women, while the rapist goes unpunished. Their last hope lies with Gisèle Halimi, a fearless lawyer known for openly challenging patriarchy and confronting the…",
    "genres": [
     "History",
@@ -2204,9 +2141,8 @@
    "title": "You Can See Everything",
    "year": 2026,
    "director": "Nathan Fielder and Lance Oppenheim",
-   "runtime": 174,
+   "runtime": 175,
    "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/YCSEfeaturedWEB-300x185.jpg",
    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
    "genres": [
     "Documentary"
@@ -2227,76 +2163,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-11",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=666588~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-11",
-   "time": "20:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "what-a-way-to-go-2026",
-   "title": "What a Way To Go",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-11",
-   "time": "20:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=661787~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/what-a-way-to-go"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-11",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "fall-2006",
-   "title": "The Fall",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-11",
-   "time": "21:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100004813",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004813?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | 4K Restoration"
-  },
   {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
@@ -2608,17 +2474,6 @@
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/c5283d260ffebbbe8357c15fc74fdd2d-small.jpg"
   },
   {
-   "film": "brood-1979",
-   "title": "The Brood",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "ticketLink": "https://sunscinema.com/purchase/437480/",
-   "infoLink": "https://sunscinema.com/movies/the-brood/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/09/26193117/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg"
-  },
-  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "avalon",
@@ -2715,17 +2570,6 @@
    "time": "21:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "women-in-love-1969",
-   "title": "Women in Love",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-12",
-   "time": "21:15",
-   "ticketLink": "https://sunscinema.com/purchase/437477/",
-   "infoLink": "https://sunscinema.com/movies/women-in-love/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/07/30133103/images-5.jpeg"
   },
   {
    "film": "man-trouble-1930",
