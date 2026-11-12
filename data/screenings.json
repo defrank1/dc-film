@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T15:21:49.029Z",
+ "lastUpdated": "2026-11-12T23:40:19.522Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -141,20 +141,6 @@
    ],
    "tmdbId": 1050981
   },
-  "being-there-1979": {
-   "title": "Being There",
-   "year": 1979,
-   "director": "Hal Ashby",
-   "runtime": 130,
-   "poster": "https://image.tmdb.org/t/p/w342/6auMTgXElSKJIBp5Cl3cqiWd5bK.jpg",
-   "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "tmdbId": 10322,
-   "rep": true
-  },
   "beirut-trilogy-1976": {
    "title": "The Beirut Trilogy",
    "year": 1976,
@@ -260,6 +246,7 @@
    "director": "Dominik Moll",
    "runtime": 115,
    "poster": "https://image.tmdb.org/t/p/w342/4QL4LcsYX8mdNktst0CnyHQDRLg.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/case-137FEATURED1web-300x177.jpg",
    "overview": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
    "genres": [
     "Crime",
@@ -690,15 +677,15 @@
   "golden-boy-2026": {
    "title": "Golden Boy",
    "year": 2026,
-   "director": "Joe Chan",
-   "runtime": 92,
-   "poster": "https://image.tmdb.org/t/p/w342/rEm7CbnPAX2jpDTUXz6FExK41cL.jpg",
-   "overview": "A decade ago, Cheung Lek was the brightest rising boxing star—known as “Golden Boy”—until a tragic incident stripped him of his freedom. Ten years later, released from prison, he comes face to face with Fong Yuen, the son he has never met. To claim the inheritance left by Fong Yuen’s mother, Cheung must learn to live with and take care of the boy. Thrust into fatherhood and confronted by past…",
+   "director": "Sam Yates",
+   "runtime": 156,
+   "poster": "https://image.tmdb.org/t/p/w342/hYfGOJlr1WTJU1IRA5Sb7a14Xba.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/GoldenBoyFEATUREDweb-300x161.jpg",
+   "overview": "1930s New York, at the height of the Depression. Joe Bonaparte is a gifted young violinist with extraordinary talent and a future in music, until a chance at fame and fortune lures him into the brutal world of professional boxing. Pressured by a ruthless manager, tempted by a forbidden love, and bound by the expectations of his Italian-American family, Joe is a young man torn between the…",
    "genres": [
-    "Drama",
-    "Action"
+    "Drama"
    ],
-   "tmdbId": 1421071
+   "tmdbId": 1723978
   },
   "grinch-2018": {
    "title": "The Grinch",
@@ -706,6 +693,7 @@
    "director": "Yarrow Cheney, Scott Mosier",
    "runtime": 85,
    "poster": "https://image.tmdb.org/t/p/w342/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/THEGRINCHfeaturedWEB-300x162.jpg",
    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
    "genres": [
     "Animation",
@@ -1031,6 +1019,7 @@
    "director": "Greta Gerwig",
    "runtime": 135,
    "poster": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/LITTLEWOMENfeaturedWEB-300x173.jpg",
    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
    "genres": [
     "Drama",
@@ -1103,6 +1092,7 @@
    "director": "Thomas Winston",
    "runtime": 90,
    "poster": "https://image.tmdb.org/t/p/w342/lM983GPSFdNF9FUP2q3cDj23cvj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/LWOYfeaturedWEB-300x169.jpg",
    "overview": "Once on the brink of extinction in the American West, the gray wolf’s comeback is astonishing, an incredible true story with many heroes, and one crucial heroine.",
    "genres": [
     "Documentary"
@@ -1167,6 +1157,10 @@
   "march-forth-post-screening-conversation-with-dwayne-betts-and-jason-reynolds": {
    "title": "March Forth + Post Screening Conversation with Dwayne Betts & Jason Reynolds",
    "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/cb1cb85607bc7a4dbfc64d684f291d79-small.jpg"
+  },
+  "march-forth-post-screening-conversation-with-dwayne-betts-and-the-atlantics-clint-smith": {
+   "title": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
+   "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/1c0be4cef982e48ac6c0ab10f85d3966-small.jpg"
   },
   "minotaur-2026": {
    "title": "Minotaur",
@@ -1313,20 +1307,6 @@
     "Thriller"
    ],
    "tmdbId": 466272,
-   "rep": true
-  },
-  "one-hour-with-you-1932": {
-   "title": "One Hour with You",
-   "year": 1932,
-   "director": "Ernst Lubitsch",
-   "runtime": 80,
-   "poster": "https://image.tmdb.org/t/p/w342/oVDJZXwHKD0NgHaHZrkHuqHsJyF.jpg",
-   "overview": "Andre and Colette Bertier are happily married. When Colette introduces her husband to her flirtatious best friend, Mitzi, he does his best to resist her advances. But she is persistent, and very cute, and he succumbs. Mitzi's husband wants to divorce her, and has been having her tailed. Andre gets caught, and must confess to his wife. But Colette has had problems resisting the attentions of…",
-   "genres": [
-    "Comedy",
-    "Romance"
-   ],
-   "tmdbId": 43145,
    "rep": true
   },
   "our-erika-2026": {
@@ -1837,10 +1817,6 @@
    "tmdbId": 106373,
    "rep": true
   },
-  "that-night": {
-   "title": "That Night",
-   "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/8fe5343702efbd3fe15e3f768ebc639e-small.jpg"
-  },
   "third-man-1949": {
    "title": "The Third Man",
    "year": 1949,
@@ -1966,6 +1942,7 @@
    "director": "Michael Curtiz",
    "runtime": 120,
    "poster": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/WhiteChristmasFEATUREDweb-300x174.jpg",
    "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
    "genres": [
     "Comedy",
@@ -2030,25 +2007,13 @@
    "tmdbId": 483,
    "rep": true
   },
-  "wild-girl-1932": {
-   "title": "Wild Girl",
-   "year": 1932,
-   "director": "Raoul Walsh",
-   "runtime": 78,
-   "poster": "https://image.tmdb.org/t/p/w342/3h2xFJjb74gsDO8ZrFtSZZatzXi.jpg",
-   "overview": "Salomy Jane, a California mountain girl, is sought after by a number of men in the nearby small town of Redwood City. She is affected when two criminals are pursued by authorities: one for killing a hypocritical mayoral candidate, the other for robbing the stagecoach.",
-   "genres": [
-    "Western"
-   ],
-   "tmdbId": 137509,
-   "rep": true
-  },
   "wild-horse-nine-2026": {
    "title": "Wild Horse Nine",
    "year": 2026,
    "director": "Martin McDonagh",
    "runtime": 117,
    "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/WILDHORSENINEfeaturedWEB-300x163.jpg",
    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "genres": [
     "Comedy",
@@ -2105,6 +2070,7 @@
    "director": "Lauriane Escaffre, Yvo Muller",
    "runtime": 102,
    "poster": "https://image.tmdb.org/t/p/w342/fArOu0NgRfth0zH5YqRu1os478v.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/WomenonTrialFEATUREDweb-300x168.jpg",
    "overview": "1972. A landmark trial shakes France as young Marie-Claire is prosecuted for having an illegal abortion with the help of her mother and two other defendants. In a courtroom governed by men, the verdict seems inevitable: prison for the women, while the rapist goes unpunished. Their last hope lies with Gisèle Halimi, a fearless lawyer known for openly challenging patriarchy and confronting the…",
    "genres": [
     "History",
@@ -2141,8 +2107,9 @@
    "title": "You Can See Everything",
    "year": 2026,
    "director": "Nathan Fielder and Lance Oppenheim",
-   "runtime": 175,
+   "runtime": 174,
    "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/YCSEfeaturedWEB-300x185.jpg",
    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
    "genres": [
     "Documentary"
@@ -2163,265 +2130,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "11:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=666589~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=667123~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "11:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "12:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "one-hour-with-you-1932",
-   "title": "One Hour with You",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "13:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005744",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005744?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration | Introduction by film historian David Pierce | FREE for SCC members"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "13:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "13:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=666590~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "being-there-1979",
-   "title": "Being There",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-12",
-   "time": "15:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/92ab127c-9ef4-454c-a144-f4718b7c6e62",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/d6c00f08eccfd5a787ee0cb839d5f00a-small.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "15:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "15:10",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=667118~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "gentle-monster-2026",
-   "title": "Gentle Monster",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "15:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "15:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "15:40",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "wild-girl-1932",
-   "title": "Wild Girl",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "15:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005649",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005649?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "4K Restoration | Intro by film historian Sheila O’Malley"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "15:50",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "16:05",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "16:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "gentle-monster-2026",
-   "title": "Gentle Monster",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "16:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "16:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=666591~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "17:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "18:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
   {
    "film": "fatherland-2026",
    "title": "Fatherland",
@@ -3400,7 +3108,8 @@
    "date": "2026-11-14",
    "time": "15:45",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg",
+   "note": "Open Captions"
   },
   {
    "film": "eight-girls-in-a-boat-1934",
@@ -4435,7 +4144,8 @@
    "date": "2026-11-16",
    "time": "15:40",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg",
+   "note": "Open Captions"
   },
   {
    "film": "raise-the-red-lantern-1991",
@@ -4503,16 +4213,6 @@
    "time": "16:45",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668423~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "that-night",
-   "title": "That Night",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-16",
-   "time": "18:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/6d549126-7bc0-4422-924f-2c58a1b12277",
-   "note": "Special Filmmaker Screening"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -5205,6 +4905,16 @@
    "note": "Open Captions"
   },
   {
+   "film": "post-2017",
+   "title": "The Post",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-18",
+   "time": "13:30",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/5da9d854-05df-48c8-b25e-8fe0956b4a93",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/35172c9e33bca3803111f83f03d7af83-small.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "afi",
@@ -5432,6 +5142,15 @@
    "date": "2026-11-18",
    "time": "19:00",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "march-forth-post-screening-conversation-with-dwayne-betts-and-the-atlantics-clint-smith",
+   "title": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b893c0f0-9359-4744-898d-fd8a50c184ef"
   },
   {
    "film": "symbiopsychotaxiplasm-take-one-1968",
@@ -6831,6 +6550,16 @@
    "note": "35mm · New 35mm Print"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "strangers-on-a-train-1951",
    "title": "Strangers on a Train",
    "venueId": "afi",
@@ -6864,6 +6593,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "confucian-confusion-1994",
    "title": "A Confucian Confusion",
    "venueId": "suns",
@@ -6884,6 +6623,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
@@ -6930,6 +6679,16 @@
    "note": "35mm · 25th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "nine-to-five-1980",
    "title": "Nine to Five",
    "venueId": "afi",
@@ -6951,6 +6710,16 @@
    "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/danton?evd=202611281900",
    "series": "Wajda 100 Literary Adaptations",
    "note": "Free · Registration required"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "third-man-1949",
@@ -6997,6 +6766,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "lord-of-the-rings-the-two-towers-2002",
    "title": "The Lord of the Rings: The Two Towers",
    "venueId": "afi",
@@ -7029,6 +6808,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "lord-of-the-rings-the-return-of-the-king-2003",
    "title": "The Lord of the Rings: The Return of the King",
    "venueId": "afi",
@@ -7050,6 +6839,16 @@
    "note": "Free"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "hole-1998",
    "title": "The Hole",
    "venueId": "afi",
@@ -7069,6 +6868,16 @@
    "time": "18:00",
    "ticketLink": "https://sunscinema.com/purchase/437598/",
    "infoLink": "https://sunscinema.com/movies/the-beirut-trilogy/"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "cameron-winter-at-carnegie-hall-2026",
@@ -7124,6 +6933,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "13:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "strangers-on-a-train-1951",
    "title": "Strangers on a Train",
    "venueId": "afi",
@@ -7146,6 +6965,16 @@
    "note": "20th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "16:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "swordsman-1990",
    "title": "Swordsman",
    "venueId": "suns",
@@ -7166,6 +6995,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "20:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "swordsman-ii-1992",
@@ -7200,6 +7039,16 @@
    "series": "In Memoriam: Tim Curry (1946–2026)"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "night-at-the-museum-2006",
    "title": "Night at the Museum",
    "venueId": "afi",
@@ -7209,6 +7058,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005758",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005758?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "20th Anniversary"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -7244,6 +7103,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "cameron-winter-at-carnegie-hall-2026",
    "title": "Cameron Winter at Carnegie Hall",
    "venueId": "afi",
@@ -7266,6 +7135,16 @@
    "note": "20th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -7274,6 +7153,16 @@
    "time": "13:45",
    "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -7307,6 +7196,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "lost-wolves-of-yellowstone-2024",
    "title": "Lost Wolves of Yellowstone",
    "venueId": "avalon",
@@ -7325,6 +7224,16 @@
    "time": "11:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005748",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "12:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "wizard-of-oz-1939",
@@ -7348,6 +7257,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "black-money-for-white-nights-2026",
    "title": "Black Money For White Nights",
    "venueId": "afi",
@@ -7367,6 +7286,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005792",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005792?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Special Presentation"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "hold-onto-me-2026",

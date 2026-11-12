@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-11-12T15:21:49.029Z",
+ "generatedAt": "2026-11-12T23:40:19.522Z",
  "venues": {
   "suns": {
    "status": "ok",
    "count": 29,
-   "lastSuccess": "2026-11-12T15:17:49.175Z",
-   "seconds": 0.7
-  },
-  "miracle": {
-   "status": "empty",
-   "count": 0,
-   "lastSuccess": "2026-11-12T15:17:49.272Z",
-   "seconds": 0.8,
-   "message": "no upcoming screenings listed"
+   "lastSuccess": "2026-11-12T23:39:45.654Z",
+   "seconds": 0.6
   },
   "4eye": {
    "status": "ok",
    "count": 12,
-   "lastSuccess": "2026-11-12T15:17:49.447Z",
-   "seconds": 1
+   "lastSuccess": "2026-11-12T23:39:45.708Z",
+   "seconds": 0.6
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-12T15:17:51.162Z",
-   "seconds": 2.6,
+   "lastSuccess": "2026-11-12T23:39:47.204Z",
+   "seconds": 2,
+   "message": "no upcoming screenings listed"
+  },
+  "miracle": {
+   "status": "empty",
+   "count": 0,
+   "lastSuccess": "2026-11-12T23:39:47.403Z",
+   "seconds": 2.3,
    "message": "no upcoming screenings listed"
   },
   "afi": {
    "status": "ok",
-   "count": 331,
-   "lastSuccess": "2026-11-12T15:17:56.291Z",
-   "seconds": 7.9
+   "count": 324,
+   "lastSuccess": "2026-11-12T23:39:53.777Z",
+   "seconds": 8.8
+  },
+  "avalon": {
+   "status": "ok",
+   "count": 55,
+   "lastSuccess": "2026-11-12T23:40:01.691Z",
+   "seconds": 16.6
   },
   "angelika": {
    "status": "ok",
-   "count": 218,
-   "lastSuccess": "2026-11-12T15:18:05.455Z",
-   "seconds": 17
-  },
-  "landmark": {
-   "status": "ok",
-   "count": 135,
-   "lastSuccess": "2026-11-12T15:18:19.394Z",
-   "seconds": 30.8
+   "count": 233,
+   "lastSuccess": "2026-11-12T23:40:04.766Z",
+   "seconds": 19.7
   },
   "nga": {
    "status": "blocked",
@@ -52,12 +52,11 @@
    "message": "nga.gov kept showing its browser check instead of the calendar",
    "keptStale": true
   },
-  "avalon": {
-   "status": "error",
-   "count": 60,
-   "lastSuccess": "2026-11-12T00:45:50.712Z",
-   "message": "Avalon timed out after 240s",
-   "keptStale": true
+  "landmark": {
+   "status": "ok",
+   "count": 128,
+   "lastSuccess": "2026-11-12T23:40:18.901Z",
+   "seconds": 33.7
   }
  }
 }
