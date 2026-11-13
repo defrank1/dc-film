@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-13T06:48:49.411Z",
+ "lastUpdated": "2026-11-13T19:44:04.555Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -933,19 +933,6 @@
    ],
    "tmdbId": 1154730
   },
-  "law-and-order-1932": {
-   "title": "Law and Order",
-   "year": 1932,
-   "director": "Edward L. Cahn",
-   "runtime": 75,
-   "poster": "https://image.tmdb.org/t/p/w342/5MuW5Oe3W4TG1Ap3q00WMrYmDh0.jpg",
-   "overview": "A legendary lawman and his cohorts set out to restore order to the dangerous streets of Tombstone, Ariz.",
-   "genres": [
-    "Western"
-   ],
-   "tmdbId": 104458,
-   "rep": true
-  },
   "le-faux-soir-2026": {
    "title": "Le Faux Soir",
    "year": 2026,
@@ -1101,6 +1088,10 @@
   "march-forth-post-screening-conversation-with-dwayne-betts-and-jason-reynolds": {
    "title": "March Forth + Post Screening Conversation with Dwayne Betts & Jason Reynolds",
    "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/cb1cb85607bc7a4dbfc64d684f291d79-small.jpg"
+  },
+  "march-forth-post-screening-conversation-with-dwayne-betts-and-marcus-bullock": {
+   "title": "March Forth + Post Screening Conversation with Dwayne Betts & Marcus Bullock",
+   "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/3872b2819faca6912b230997443224eb-small.jpg"
   },
   "march-forth-post-screening-conversation-with-dwayne-betts-and-the-atlantics-clint-smith": {
    "title": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
@@ -1448,19 +1439,6 @@
    ],
    "tmdbId": 1021848
   },
-  "rain-1932": {
-   "title": "Rain",
-   "year": 1932,
-   "director": "Lewis Milestone",
-   "runtime": 94,
-   "poster": "https://image.tmdb.org/t/p/w342/loiZCnkxAiSDyFmCAsUoTm62CAb.jpg",
-   "overview": "Due to a possible cholera epidemic onboard, passengers on a ship are forced to disembark at Pago Pago, a small village on a Pacific island where it incessantly rains. Among the stranded passengers are Sadie Thompson, a prostitute, and Alfred Davidson, a fanatic missionary who will try to redeem her.",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 61369,
-   "rep": true
-  },
   "raise-the-red-lantern-1991": {
    "title": "Raise the Red Lantern",
    "year": 1991,
@@ -1731,6 +1709,20 @@
     "Documentary"
    ],
    "tmdbId": 44783,
+   "rep": true
+  },
+  "syriana-2005": {
+   "title": "Syriana",
+   "year": 2005,
+   "director": "Stephen Gaghan",
+   "runtime": 128,
+   "poster": "https://image.tmdb.org/t/p/w342/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+   "overview": "The Middle Eastern oil industry is the backdrop of this tense drama, which weaves together numerous story lines. Bennett Holiday is an American lawyer in charge of facilitating a dubious merger of oil companies, while Bryan Woodman, a Switzerland-based energy analyst, experiences both personal tragedy and opportunity during a visit with Arabian royalty. Meanwhile, veteran CIA agent Bob Barnes…",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "tmdbId": 231,
    "rep": true
   },
   "that-day-on-the-beach-1983": {
@@ -2046,147 +2038,6 @@
  },
  "screenings": [
   {
-   "film": "law-and-order-1932",
-   "title": "Law and Order",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-13",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005734",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005734?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration | Intro by film historian Richard Koszarski"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-13",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668389~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-13",
-   "time": "11:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-13",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668403~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-13",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-13",
-   "time": "12:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-13",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-13",
-   "time": "12:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-13",
-   "time": "12:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-13",
-   "time": "12:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "rain-1932",
-   "title": "Rain",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-13",
-   "time": "13:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005735",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005735?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "Intro by film historian Scott Eyman"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-13",
-   "time": "13:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-13",
-   "time": "13:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-13",
-   "time": "13:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -2195,15 +2046,6 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668391~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-13",
-   "time": "14:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -4978,6 +4820,17 @@
    "note": "2027 Oscar® Selection, Spain"
   },
   {
+   "film": "american-doctor-2026",
+   "title": "American Doctor",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-11-18",
+   "time": "21:00",
+   "ticketLink": "https://sunscinema.com/purchase/437611/",
+   "infoLink": "https://sunscinema.com/movies/american-doctor/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143912/sOSrlaXvItVdwU1P5Qpttcl12sd-scaled.jpg"
+  },
+  {
    "film": "begotten-1989",
    "title": "Begotten",
    "venueId": "afi",
@@ -5109,6 +4962,16 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668494~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "syriana-2005",
+   "title": "Syriana",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-19",
+   "time": "15:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b393a7ca-de97-4c0c-99d3-4110102f99ce",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/f4b686ecb9ebc40279216d62bd1aa966-small.jpg"
   },
   {
    "film": "la-bola-negra-2026",
@@ -5272,6 +5135,15 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "march-forth-post-screening-conversation-with-dwayne-betts-and-marcus-bullock",
+   "title": "March Forth + Post Screening Conversation with Dwayne Betts & Marcus Bullock",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b3aa353b-3868-49b1-983c-f6b347493ca9"
+  },
+  {
    "film": "48-hour-film-holiday-project",
    "title": "The 48 Hour Film Holiday Project",
    "venueId": "afi",
@@ -5370,6 +5242,16 @@
    "series": "In Memoriam: Sam Neill (1947–2026)"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-20",
+   "time": "11:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -5388,6 +5270,16 @@
    "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-20",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "pans-labyrinth-2006",
@@ -5432,6 +5324,16 @@
    "infoLink": "https://sunscinema.com/movies/who-killed-alex-odeh/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/30124142/gWN2cQ79PXGc0Vyf5KmAeu3zKgY-scaled.jpg",
    "note": "Special Screening with Filmmakers"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "48-hour-film-holiday-project",
@@ -5571,6 +5473,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "prison-on-fire-1987",
    "title": "Prison on Fire",
    "venueId": "suns",
@@ -5591,6 +5503,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100002575",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002575?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "raise-the-red-lantern-1991",
@@ -5690,6 +5612,16 @@
    "note": "Free · Registration required"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-22",
+   "time": "15:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5776,6 +5708,16 @@
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143752/t3Als0ITZfWeVRTc9tfYb5mKzF1.jpg"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-23",
+   "time": "11:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -5794,6 +5736,16 @@
    "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-23",
+   "time": "13:40",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "spirited-away-2001",
@@ -5849,6 +5801,16 @@
    "ticketLink": "https://sunscinema.com/purchase/437643/",
    "infoLink": "https://sunscinema.com/movies/american-doctor/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143912/sOSrlaXvItVdwU1P5Qpttcl12sd-scaled.jpg"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-23",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "welcome-ii-the-terrordome-1995",
@@ -5949,6 +5911,16 @@
    "note": "50th Anniversary | 4K Restoration"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-24",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5979,6 +5951,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000051?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "series": "In Memoriam: Diane Ladd (1935–2025)",
    "note": "UNRATED · New 4K Restoration"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-24",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "spirited-away-2001",
@@ -6035,6 +6017,16 @@
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29142739/sDeEZAdPFwzTUEp8Ba9M8Naw2dG-scaled.jpg"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-25",
+   "time": "11:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "alice-in-wonderland-1951",
    "title": "Alice in Wonderland",
    "venueId": "afi",
@@ -6066,6 +6058,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-25",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -6086,6 +6088,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000051?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "series": "In Memoriam: Diane Ladd (1935–2025)",
    "note": "UNRATED · New 4K Restoration"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-25",
+   "time": "18:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "once-upon-a-time-in-hollywood-2019",
@@ -6240,6 +6252,16 @@
    "note": "50th Anniversary | 4K Restoration"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-26",
+   "time": "17:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -6259,6 +6281,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "20th Anniversary | New 4K Restoration"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-26",
+   "time": "20:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "muppet-treasure-island-1996",
