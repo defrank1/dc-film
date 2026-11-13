@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-12T23:40:19.522Z",
+ "lastUpdated": "2026-11-13T06:48:49.411Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -353,21 +353,6 @@
    "tmdbId": 46919,
    "rep": true
   },
-  "dancing-lady-1933": {
-   "title": "Dancing Lady",
-   "year": 1933,
-   "director": "Robert Z. Leonard",
-   "runtime": 92,
-   "poster": "https://image.tmdb.org/t/p/w342/bJc8DTD34kbpccaMDROojHXJ0RS.jpg",
-   "overview": "Janie lives to dance and will dance anywhere, even stripping in a burlesque house. Tod Newton, the rich playboy, discovers her there and helps her get a job in a real Broadway musical being directed by Patch. Tod thinks he can get what he wants from Janie, Patch thinks Janie is using her charms rather than talent to get to the top, and Janie thinks Patch is the greatest. Steve, the stage manager,…",
-   "genres": [
-    "Comedy",
-    "Romance",
-    "Music"
-   ],
-   "tmdbId": 43600,
-   "rep": true
-  },
   "danton-1983": {
    "title": "Danton",
    "year": 1983,
@@ -620,18 +605,6 @@
    ],
    "tmdbId": 110838,
    "rep": true
-  },
-  "gentle-monster-2026": {
-   "title": "Gentle Monster",
-   "year": 2026,
-   "director": "Marie Kreutzer",
-   "runtime": 114,
-   "poster": "https://image.tmdb.org/t/p/w342/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
-   "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 1473148
   },
   "georgia-okeeffe-the-brightness-of-light-2024": {
    "title": "Georgia O'Keeffe: The Brightness of Light",
@@ -935,20 +908,6 @@
    ],
    "tmdbId": 1514847
   },
-  "jason-lives-friday-the-13th-part-vi-1986": {
-   "title": "Jason Lives - Friday the 13th Part VI",
-   "year": 1986,
-   "director": "Tom McLoughlin",
-   "runtime": 86,
-   "poster": "https://image.tmdb.org/t/p/w342/6vdUpHvkspQonXBdWcLWW5ciEPJ.jpg",
-   "overview": "Tommy Jarvis, tormented by the fear that maybe Jason isn't really dead, unwittingly resurrects the mass murderer for another bloody rampage.",
-   "genres": [
-    "Horror",
-    "Thriller"
-   ],
-   "tmdbId": 10225,
-   "rep": true
-  },
   "la-bola-negra-2026": {
    "title": "La Bola Negra",
    "year": 2026,
@@ -1125,21 +1084,6 @@
     "Drama"
    ],
    "tmdbId": 1318864
-  },
-  "man-trouble-1930": {
-   "title": "Man Trouble",
-   "year": 1930,
-   "director": "Berthold Viertel",
-   "runtime": 85,
-   "poster": "https://image.tmdb.org/t/p/w342/1cbOxwJ8vLIhXzVTqLrIexm5gxI.jpg",
-   "overview": "A hard-boiled nightclub owner saves a beautiful young girl from drowning. He promptly falls in love with her, but she prefers a younger, more-genteel lover.",
-   "genres": [
-    "Romance",
-    "Crime",
-    "Drama"
-   ],
-   "tmdbId": 295753,
-   "rep": true
   },
   "man-who-came-back-1924": {
    "title": "The Man Who Came Back",
@@ -1789,20 +1733,6 @@
    "tmdbId": 44783,
    "rep": true
   },
-  "syriana-2005": {
-   "title": "Syriana",
-   "year": 2005,
-   "director": "Stephen Gaghan",
-   "runtime": 128,
-   "poster": "https://image.tmdb.org/t/p/w342/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
-   "overview": "The Middle Eastern oil industry is the backdrop of this tense drama, which weaves together numerous story lines. Bennett Holiday is an American lawyer in charge of facilitating a dubious merger of oil companies, while Bryan Woodman, a Switzerland-based energy analyst, experiences both personal tragedy and opportunity during a visit with Arabian royalty. Meanwhile, veteran CIA agent Bob Barnes…",
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "tmdbId": 231,
-   "rep": true
-  },
   "that-day-on-the-beach-1983": {
    "title": "That Day, on the Beach",
    "year": 1983,
@@ -1880,21 +1810,6 @@
     "Drama"
    ],
    "tmdbId": 1490241
-  },
-  "vertigo-1958": {
-   "title": "Vertigo",
-   "year": 1958,
-   "director": "Alfred Hitchcock",
-   "runtime": 128,
-   "poster": "https://image.tmdb.org/t/p/w342/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
-   "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-   "genres": [
-    "Mystery",
-    "Romance",
-    "Thriller"
-   ],
-   "tmdbId": 426,
-   "rep": true
   },
   "wallace-and-gromit-the-classic-shorts-1989": {
    "title": "Wallace & Gromit: The Classic Shorts",
@@ -2130,166 +2045,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "18:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "18:35",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "dancing-lady-1933",
-   "title": "Dancing Lady",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "18:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005650",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005650?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · Opening Night | Intro by film historian Scott Eyman"
-  },
-  {
-   "film": "gentle-monster-2026",
-   "title": "Gentle Monster",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "18:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "syriana-2005",
-   "title": "Syriana",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/82a1d80e-a359-4bd7-931b-2b2ab0120d1e",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/c5283d260ffebbbe8357c15fc74fdd2d-small.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=667120~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "19:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=666592~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "20:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "man-trouble-1930",
-   "title": "Man Trouble",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-12",
-   "time": "21:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005733",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005733?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · Intro by film historian Sheila O’Malley"
-  },
   {
    "film": "law-and-order-1932",
    "title": "Law and Order",
@@ -2599,17 +2354,6 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "vertigo-1958",
-   "title": "Vertigo",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-13",
-   "time": "18:00",
-   "ticketLink": "https://sunscinema.com/movies/vertigo/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28174541/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
-   "soldOut": true
-  },
-  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -2768,17 +2512,6 @@
    "date": "2026-11-13",
    "time": "20:30",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "jason-lives-friday-the-13th-part-vi-1986",
-   "title": "Jason Lives - Friday the 13th Part VI",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "ticketLink": "https://sunscinema.com/purchase/437471/",
-   "infoLink": "https://sunscinema.com/movies/jason-lives-friday-the-13th-part-vi/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28174617/6vdUpHvkspQonXBdWcLWW5ciEPJ.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3355,9 +3088,9 @@
    "venue": "Suns Cinema",
    "date": "2026-11-14",
    "time": "20:40",
-   "ticketLink": "https://sunscinema.com/purchase/437495/",
-   "infoLink": "https://sunscinema.com/movies/the-changeling/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28175221/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg"
+   "ticketLink": "https://sunscinema.com/movies/the-changeling/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/28175221/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg",
+   "soldOut": true
   },
   {
    "film": "hold-your-man-1933",
