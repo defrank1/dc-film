@@ -345,6 +345,31 @@
    ]
   }
  },
+ "best-christmas-pageant-ever|": {
+  "at": "2026-11-14",
+  "q": "The Best Christmas Pageant Ever",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 1206617,
+   "title": "The Best Christmas Pageant Ever",
+   "year": 2024,
+   "poster": "https://image.tmdb.org/t/p/w342/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
+   "director": "Dallas Jenkins",
+   "runtime": 99,
+   "overview": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ]
+  }
+ },
+ "big-night|": {
+  "at": "2026-11-14",
+  "q": "Big Night",
+  "sig": "|||",
+  "data": null
+ },
  "black-money-for-white-nights|2026": {
   "at": "2026-11-11",
   "q": "Black Money for White Nights",
@@ -988,6 +1013,25 @@
    "overview": "In an exclusive Swiss school for young girls, Christa Storm discovers that she is going to have a baby. She keeps the secret from everyone but her boyfriend, chemistry student David Perrin. Having lived in the private school for most of her life, Christa cannot confide in her distant father - and David cannot get his approval to marry her.",
    "genres": [
     "Drama"
+   ]
+  }
+ },
+ "elf|": {
+  "at": "2026-11-14",
+  "q": "Elf",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 10719,
+   "title": "Elf",
+   "year": 2003,
+   "poster": "https://image.tmdb.org/t/p/w342/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+   "director": "Jon Favreau",
+   "runtime": 97,
+   "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
    ]
   }
  },
@@ -1848,6 +1892,25 @@
     "Animation",
     "Drama",
     "Family"
+   ]
+  }
+ },
+ "its-a-wonderful-life|": {
+  "at": "2026-11-14",
+  "q": "It's A Wonderful Life",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 1585,
+   "title": "It's a Wonderful Life",
+   "year": 1946,
+   "poster": "https://image.tmdb.org/t/p/w342/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+   "director": "Frank Capra",
+   "runtime": 131,
+   "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+   "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
    ]
   }
  },
@@ -2859,6 +2922,12 @@
     "Comedy"
    ]
   }
+ },
+ "polar-express-pajama-party|": {
+  "at": "2026-11-14",
+  "q": "The Polar Express Pajama Party",
+  "sig": "|||",
+  "data": null
  },
  "post|": {
   "at": "2026-11-11",

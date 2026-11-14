@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T06:26:11.230Z",
+ "lastUpdated": "2026-11-14T18:04:31.512Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -146,6 +146,25 @@
     "Drama"
    ],
    "tmdbId": 1074074
+  },
+  "best-christmas-pageant-ever-2024": {
+   "title": "The Best Christmas Pageant Ever",
+   "year": 2024,
+   "director": "Dallas Jenkins",
+   "runtime": 99,
+   "poster": "https://image.tmdb.org/t/p/w342/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
+   "overview": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "tmdbId": 1206617,
+   "rep": true
+  },
+  "big-night": {
+   "title": "Big Night",
+   "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/ee4a7d23daa4a4dc88323315b9918578-small.jpg"
   },
   "black-money-for-white-nights-2026": {
    "title": "Black Money For White Nights",
@@ -460,6 +479,21 @@
     "Drama"
    ],
    "tmdbId": 421793,
+   "rep": true
+  },
+  "elf-2003": {
+   "title": "Elf",
+   "year": 2003,
+   "director": "Jon Favreau",
+   "runtime": 97,
+   "poster": "https://image.tmdb.org/t/p/w342/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+   "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+   "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "tmdbId": 10719,
    "rep": true
   },
   "event-horizon-1997": {
@@ -858,6 +892,21 @@
    ],
    "tmdbId": 947493
   },
+  "its-a-wonderful-life-1946": {
+   "title": "It's a Wonderful Life",
+   "year": 1946,
+   "director": "Frank Capra",
+   "runtime": 131,
+   "poster": "https://image.tmdb.org/t/p/w342/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+   "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+   "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+   ],
+   "tmdbId": 1585,
+   "rep": true
+  },
   "ivan-and-hadoum-2026": {
    "title": "Iván & Hadoum",
    "year": 2026,
@@ -1092,11 +1141,6 @@
    "runtime": 60,
    "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005741?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
-  "more-pre-code-cartoons": {
-   "title": "More Pre-Code Cartoons",
-   "runtime": 60,
-   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005738?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
   "muppet-treasure-island-1996": {
    "title": "Muppet Treasure Island",
    "year": 1996,
@@ -1305,6 +1349,10 @@
    ],
    "tmdbId": 2609,
    "rep": true
+  },
+  "polar-express-pajama-party": {
+   "title": "The Polar Express Pajama Party",
+   "poster": "https://themiracletheatre.com/wp-content/uploads/2026/11/the-polar-express-13.jpg"
   },
   "post-2017": {
    "title": "The Post",
@@ -1986,96 +2034,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "more-pre-code-cartoons",
-   "title": "More Pre-Code Cartoons",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005738",
-   "note": "Presented by animation historian Jerry Beck"
-  },
-  {
-   "film": "wallace-and-gromit-the-classic-shorts-1989",
-   "title": "Wallace & Gromit: The Classic Shorts",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005747"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668390~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "11:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668404~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "12:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "12:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Sensory Friendly Screening"
-  },
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
@@ -4843,6 +4801,15 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "big-night",
+   "title": "Big Night",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-20",
+   "time": "16:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/08ac31f3-1ae1-4272-9792-417cc1aa29ce"
+  },
+  {
    "film": "welcome-ii-the-terrordome-1995",
    "title": "Welcome II the Terrordome",
    "venueId": "afi",
@@ -4893,6 +4860,16 @@
    "time": "19:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/523c475f-02c8-40f4-ade1-1866f9c4090d",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/ce58bf01741d6a912f109014bc69a550-small.jpg"
   },
   {
    "film": "who-killed-alex-odeh-2026",
@@ -5338,9 +5315,9 @@
    "venue": "Suns Cinema",
    "date": "2026-11-23",
    "time": "18:00",
-   "ticketLink": "https://sunscinema.com/purchase/437643/",
-   "infoLink": "https://sunscinema.com/movies/american-doctor/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143912/sOSrlaXvItVdwU1P5Qpttcl12sd-scaled.jpg"
+   "ticketLink": "https://sunscinema.com/movies/american-doctor/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29143912/sOSrlaXvItVdwU1P5Qpttcl12sd-scaled.jpg",
+   "soldOut": true
   },
   {
    "film": "being-heumann-2026",
@@ -7281,6 +7258,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005781?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "best-christmas-pageant-ever-2024",
+   "title": "The Best Christmas Pageant Ever",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-11",
+   "time": "16:30",
+   "ticketLink": "https://themiracletheatre.com/events/the-best-christmas-pageant-ever-11/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/the-best-christmas-pageant-ever-11.jpg"
+  },
+  {
    "film": "women-as-lovers-2026",
    "title": "Women as Lovers",
    "venueId": "afi",
@@ -7301,6 +7288,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005818",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005818?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Post-screening reception sponsored by the Embassy of Spain on Dec. 11"
+  },
+  {
+   "film": "elf-2003",
+   "title": "Elf",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/elf-17/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/elf-17.jpg"
   },
   {
    "film": "squirrel-2026",
@@ -7648,6 +7645,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005799?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "best-christmas-pageant-ever-2024",
+   "title": "The Best Christmas Pageant Ever",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/the-best-christmas-pageant-ever-12/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/the-best-christmas-pageant-ever-11.jpg"
+  },
+  {
    "film": "guest-2026",
    "title": "The Guest",
    "venueId": "afi",
@@ -7870,6 +7877,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "white-christmas-1954",
+   "title": "White Christmas",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/white-christmas-13/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/white-christmas-11.jpg"
+  },
+  {
    "film": "zejtune-2026",
    "title": "Zejtune",
    "venueId": "afi",
@@ -8079,6 +8096,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-13/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/its-a-wonderful-life-12.jpg"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "landmark",
@@ -8147,6 +8174,15 @@
    "time": "10:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668534~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/the-grinch"
+  },
+  {
+   "film": "polar-express-pajama-party",
+   "title": "The Polar Express Pajama Party",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-19",
+   "time": "10:30",
+   "ticketLink": "https://themiracletheatre.com/events/the-polar-express-13/"
   },
   {
    "film": "dune-part-three-2026",
@@ -8440,6 +8476,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "elf-2003",
+   "title": "Elf",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-20",
+   "time": "14:00",
+   "ticketLink": "https://themiracletheatre.com/events/elf-18/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/elf-17.jpg"
+  },
+  {
    "film": "who-killed-santa-claus-1941",
    "title": "Who Killed Santa Claus?",
    "venueId": "nga",
@@ -8499,6 +8545,16 @@
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/dune-part-three",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg",
    "note": "Open Captions"
+  },
+  {
+   "film": "white-christmas-1954",
+   "title": "White Christmas",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-20",
+   "time": "16:30",
+   "ticketLink": "https://themiracletheatre.com/events/white-christmas-11/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/white-christmas-11.jpg"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -8770,6 +8826,16 @@
    "note": "Open Captions"
   },
   {
+   "film": "elf-2003",
+   "title": "Elf",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-22",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/elf-20/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/elf-17.jpg"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -8870,6 +8936,16 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-23",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-12/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/its-a-wonderful-life-12.jpg"
   },
   {
    "film": "dune-part-three-2026",
