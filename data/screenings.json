@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T18:04:31.512Z",
+ "lastUpdated": "2026-11-14T22:26:28.669Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -466,19 +466,6 @@
     "Drama"
    ],
    "tmdbId": 43654,
-   "rep": true
-  },
-  "eight-girls-in-a-boat-1934": {
-   "title": "Eight Girls in a Boat",
-   "year": 1934,
-   "director": "Richard Wallace",
-   "runtime": 85,
-   "poster": "https://image.tmdb.org/t/p/w342/oveKdoBYMfDNa3IBdPNOgn2wBQa.jpg",
-   "overview": "In an exclusive Swiss school for young girls, Christa Storm discovers that she is going to have a baby. She keeps the secret from everyone but her boyfriend, chemistry student David Perrin. Having lived in the private school for most of her life, Christa cannot confide in her distant father - and David cannot get his approval to marry her.",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 421793,
    "rep": true
   },
   "elf-2003": {
@@ -1083,19 +1070,6 @@
     "Drama"
    ],
    "tmdbId": 1318864
-  },
-  "man-who-came-back-1924": {
-   "title": "The Man Who Came Back",
-   "year": 1924,
-   "director": "Emmett J. Flynn",
-   "runtime": 90,
-   "poster": "https://image.tmdb.org/t/p/w342/mGLTVF6rHPkeqbLmsqKiGlffRJC.jpg",
-   "overview": "Henry Potter is the irresponsible playboy son of a New York millionaire. Fearing he will disgrace the family name if he stays in New York, the father sends him to San Francisco to work in the family shipyards and, to make a man out of him, he is told he will have to start at the bottom and work his way up. Henry decides this is not a good idea and resents it to the point he will indeed start at…",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 687169,
-   "rep": true
   },
   "march-forth-post-screening-conversation-with-dwayne-betts-and-jason-reynolds": {
    "title": "March Forth + Post Screening Conversation with Dwayne Betts & Jason Reynolds",
@@ -2035,76 +2009,6 @@
  },
  "screenings": [
   {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "12:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "13:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "13:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "man-who-came-back-1924",
-   "title": "The Man Who Came Back",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "13:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005652",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005652?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "2026 Silent Cinema Showcase"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "13:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "13:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/3d74230e-b0e8-4250-a2bc-f4f2a25496b2",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/6e2913d07a4198632752bd6fbfefc2cb-small.jpg",
-   "note": "Open Caption"
-  },
-  {
    "film": "pan-tadeusz-the-last-foray-in-lithuania",
    "title": "Pan Tadeusz: The Last Foray in Lithuania",
    "venueId": "nga",
@@ -2114,145 +2018,6 @@
    "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/pan-tadeusz-last-foray-lithuania?evd=202611141900",
    "series": "Wajda 100 Literary Adaptations",
    "note": "Free · Registration required"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668392~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "14:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "15:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "15:10",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668411~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "15:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "15:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "15:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "eight-girls-in-a-boat-1934",
-   "title": "Eight Girls in a Boat",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "16:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005739",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005739?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · Intro by film historian David Stenn"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "16:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "16:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "16:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "16:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -6871,6 +6636,16 @@
    "note": "35mm · Special Presentation | 2027 Oscar® Selection, Spain"
   },
   {
+   "film": "grinch-2018",
+   "title": "The Grinch",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-06",
+   "time": "16:30",
+   "ticketLink": "https://themiracletheatre.com/events/the-grinch/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/the-grinch.jpg"
+  },
+  {
    "film": "aontas-2025",
    "title": "Aontas",
    "venueId": "afi",
@@ -7424,6 +7199,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005772",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005772?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Special Presentation | 2027 Oscar® Selection, Austria"
+  },
+  {
+   "film": "white-christmas-1954",
+   "title": "White Christmas",
+   "venueId": "miracle",
+   "venue": "Miracle Theatre",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "ticketLink": "https://themiracletheatre.com/events/white-christmas-12/",
+   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/white-christmas-11.jpg"
   },
   {
    "film": "blood-countess-2026",
@@ -8826,16 +8611,6 @@
    "note": "Open Captions"
   },
   {
-   "film": "elf-2003",
-   "title": "Elf",
-   "venueId": "miracle",
-   "venue": "Miracle Theatre",
-   "date": "2026-12-22",
-   "time": "19:00",
-   "ticketLink": "https://themiracletheatre.com/events/elf-20/",
-   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/elf-17.jpg"
-  },
-  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -8936,16 +8711,6 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
-  },
-  {
-   "film": "its-a-wonderful-life-1946",
-   "title": "It's a Wonderful Life",
-   "venueId": "miracle",
-   "venue": "Miracle Theatre",
-   "date": "2026-12-23",
-   "time": "19:00",
-   "ticketLink": "https://themiracletheatre.com/events/its-a-wonderful-life-12/",
-   "venuePoster": "https://themiracletheatre.com/wp-content/uploads/2026/11/its-a-wonderful-life-12.jpg"
   },
   {
    "film": "dune-part-three-2026",
