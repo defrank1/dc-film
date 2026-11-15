@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-15T06:34:55.838Z",
+ "lastUpdated": "2026-11-15T18:53:22.756Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -1070,11 +1070,6 @@
    "tmdbId": 583,
    "rep": true
   },
-  "more-lost-and-found-cartoons": {
-   "title": "More Lost and Found Cartoons",
-   "runtime": 60,
-   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005741?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
   "muppet-treasure-island-1996": {
    "title": "Muppet Treasure Island",
    "year": 1996,
@@ -1378,6 +1373,21 @@
     "Drama"
    ],
    "tmdbId": 10404,
+   "rep": true
+  },
+  "ratatouille-2007": {
+   "title": "Ratatouille",
+   "year": 2007,
+   "director": "Brad Bird",
+   "runtime": 111,
+   "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+   "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "tmdbId": 2062,
    "rep": true
   },
   "razors-edge-1985": {
@@ -1966,95 +1976,6 @@
  },
  "screenings": [
   {
-   "film": "golden-boy-2026",
-   "title": "Golden Boy",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-15",
-   "time": "10:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=659698~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/golden-boy"
-  },
-  {
-   "film": "more-lost-and-found-cartoons",
-   "title": "More Lost and Found Cartoons",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-15",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005741",
-   "note": "Presented by animation historian Jerry Beck"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-15",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668405~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-15",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/c0196110-4304-4db2-a5cb-c4a18fa0875e",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/f21a4966eb90e7bfa3b4666cac8099ff-small.jpg",
-   "note": "Sensory Friendly"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-15",
-   "time": "12:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-15",
-   "time": "12:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-15",
-   "time": "13:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
    "film": "fatherland-2026",
    "title": "Fatherland",
    "venueId": "afi",
@@ -2074,17 +1995,6 @@
    "time": "13:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-15",
-   "time": "13:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
   },
   {
    "film": "three-on-a-match-1932",
@@ -4335,6 +4245,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100004823"
   },
   {
+   "film": "ratatouille-2007",
+   "title": "Ratatouille",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-21",
+   "time": "10:30",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/fbad1d16-2f9b-4917-aa48-759100f71f7c",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/94435f130aa2e18efca8cec787f55146-small.jpg"
+  },
+  {
    "film": "hunt-for-the-wilderpeople-2016",
    "title": "Hunt for the Wilderpeople",
    "venueId": "afi",
@@ -4389,6 +4309,17 @@
    "note": "50th Anniversary | 4K Restoration"
   },
   {
+   "film": "being-heumann-2026",
+   "title": "Being Heumann",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/6b06e0fd-be2b-4ca2-bb5f-608d0ba5a866",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/480e7f3c5cec8c6460773e1211cadebc-small.jpg",
+   "note": "Open Audio Description"
+  },
+  {
    "film": "wedding",
    "title": "The Wedding",
    "venueId": "nga",
@@ -4429,6 +4360,15 @@
    "time": "16:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "big-night",
+   "title": "Big Night",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/bafaa834-61c2-46aa-81ce-a81761c79f08"
   },
   {
    "film": "prison-on-fire-1987",

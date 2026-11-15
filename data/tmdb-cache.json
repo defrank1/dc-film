@@ -3145,6 +3145,25 @@
    ]
   }
  },
+ "ratatouille|": {
+  "at": "2026-11-15",
+  "q": "Ratatouille",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 2062,
+   "title": "Ratatouille",
+   "year": 2007,
+   "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+   "director": "Brad Bird",
+   "runtime": 111,
+   "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
+   "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ]
+  }
+ },
  "razors-edge|1985": {
   "at": "2026-11-11",
   "q": "The Razor's Edge",
