@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-14T22:26:28.669Z",
+ "lastUpdated": "2026-11-15T06:34:55.838Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -87,18 +87,6 @@
     "Adventure"
    ],
    "tmdbId": 1003596
-  },
-  "barbara-forever-2026": {
-   "title": "Barbara Forever",
-   "year": 2026,
-   "director": "Brydie O'Connor",
-   "runtime": 102,
-   "poster": "https://image.tmdb.org/t/p/w342/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-   "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer.",
-   "genres": [
-    "Documentary"
-   ],
-   "tmdbId": 1596326
   },
   "begotten-1989": {
    "title": "Begotten",
@@ -735,20 +723,6 @@
    ],
    "tmdbId": 1318824
   },
-  "hold-your-man-1933": {
-   "title": "Hold Your Man",
-   "year": 1933,
-   "director": "Sam Wood",
-   "runtime": 87,
-   "poster": "https://image.tmdb.org/t/p/w342/xQYkhqL9yQ1aaPp2WXGG7WWRofw.jpg",
-   "overview": "Ruby falls in love with small-time con man Eddie. During a botched blackmail scheme, Eddie accidentally kills the man they were setting up. Eddie takes off and Ruby is sent to a reformatory for two years.",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "tmdbId": 90957,
-   "rep": true
-  },
   "hole-1998": {
    "title": "The Hole",
    "year": 1998,
@@ -788,20 +762,6 @@
     "Romance"
    ],
    "tmdbId": 10297,
-   "rep": true
-  },
-  "hula-1927": {
-   "title": "Hula",
-   "year": 1927,
-   "director": "Victor Fleming",
-   "runtime": 64,
-   "poster": "https://image.tmdb.org/t/p/w342/gEskzGO4SWt5PyoC8zJxditmQL3.jpg",
-   "overview": "The daughter of a pineapple plantation owner in Hawaii sets her sights on a married English engineer.",
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "tmdbId": 189677,
    "rep": true
   },
   "hundreds-of-beavers-a-northwoods-christmas-2022": {
@@ -1248,9 +1208,6 @@
     "Documentary"
    ],
    "tmdbId": 1568184
-  },
-  "pan-tadeusz-the-last-foray-in-lithuania": {
-   "title": "Pan Tadeusz: The Last Foray in Lithuania"
   },
   "pans-labyrinth-2006": {
    "title": "Pan's Labyrinth",
@@ -2009,275 +1966,6 @@
  },
  "screenings": [
   {
-   "film": "pan-tadeusz-the-last-foray-in-lithuania",
-   "title": "Pan Tadeusz: The Last Foray in Lithuania",
-   "venueId": "nga",
-   "venue": "National Gallery of Art",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/pan-tadeusz-last-foray-lithuania?evd=202611141900",
-   "series": "Wajda 100 Literary Adaptations",
-   "note": "Free · Registration required"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668394~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "post-2017",
-   "title": "The Post",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-14",
-   "time": "17:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/dfa4b3a5-059b-4ad3-b505-029f91d975af",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/35172c9e33bca3803111f83f03d7af83-small.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "17:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "18:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "18:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "18:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hula-1927",
-   "title": "Hula",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "18:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005653",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005653?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "2026 Silent Cinema Showcase",
-   "note": "Intro by film historian David Stenn | Live musical accompaniment by Makia Matsumura"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "18:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668417~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-14",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668397~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "19:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/92b8f8a6-6319-43f2-afd4-70257611397a",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/ce58bf01741d6a912f109014bc69a550-small.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "20:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hold-your-man-1933",
-   "title": "Hold Your Man",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005740",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005740?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · Intro by film historian David Stenn"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "21:05",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "begotten-1989",
-   "title": "Begotten",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-14",
-   "time": "21:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005763",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005763?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "21:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "21:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "21:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-14",
-   "time": "22:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
    "film": "golden-boy-2026",
    "title": "Golden Boy",
    "venueId": "avalon",
@@ -2597,17 +2285,6 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "barbara-forever-2026",
-   "title": "Barbara Forever",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "ticketLink": "https://sunscinema.com/purchase/437502/",
-   "infoLink": "https://sunscinema.com/movies/barbara-forever/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29130722/kYjCmL8sg17zoKtm5Pb6Cn4H0nB-scaled.jpg"
-  },
-  {
    "film": "being-heumann-2026",
    "title": "Being Heumann",
    "venueId": "4eye",
@@ -2615,7 +2292,7 @@
    "date": "2026-11-15",
    "time": "18:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/f98fbe08-e324-42ca-a3c3-698ebc814f04",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/ce58bf01741d6a912f109014bc69a550-small.jpg"
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/c9ce9c1ade0c2b3ead010782d70aee90-small.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -2754,17 +2431,6 @@
    "date": "2026-11-15",
    "time": "20:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "barbara-forever-2026",
-   "title": "Barbara Forever",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-15",
-   "time": "20:30",
-   "ticketLink": "https://sunscinema.com/purchase/437510/",
-   "infoLink": "https://sunscinema.com/movies/barbara-forever/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29130722/kYjCmL8sg17zoKtm5Pb6Cn4H0nB-scaled.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3750,7 +3416,7 @@
    "date": "2026-11-18",
    "time": "13:30",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/5da9d854-05df-48c8-b25e-8fe0956b4a93",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/35172c9e33bca3803111f83f03d7af83-small.jpg"
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/36c19cd1fdacadea0f82602085652fe2-small.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -4634,7 +4300,7 @@
    "date": "2026-11-20",
    "time": "20:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/523c475f-02c8-40f4-ade1-1866f9c4090d",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/ce58bf01741d6a912f109014bc69a550-small.jpg"
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/c9ce9c1ade0c2b3ead010782d70aee90-small.jpg"
   },
   {
    "film": "who-killed-alex-odeh-2026",
