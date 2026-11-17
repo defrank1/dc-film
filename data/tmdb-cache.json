@@ -1035,6 +1035,23 @@
    ]
   }
  },
+ "elsinore|": {
+  "at": "2026-11-17",
+  "q": "Elsinore",
+  "sig": "||tt37363222|",
+  "data": {
+   "tmdbId": 1599230,
+   "title": "Elsinore",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+   "director": "Simon Stone",
+   "runtime": 111,
+   "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+   "genres": [
+    "Drama"
+   ]
+  }
+ },
  "event-horizon|1997": {
   "at": "2026-11-11",
   "q": "Event Horizon",
@@ -1591,6 +1608,24 @@
     "Drama",
     "Romance",
     "Science Fiction"
+   ]
+  }
+ },
+ "home-alone|": {
+  "at": "2026-11-17",
+  "q": "Home Alone",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 771,
+   "title": "Home Alone",
+   "year": 1990,
+   "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+   "director": "Chris Columbus",
+   "runtime": 103,
+   "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+   "genres": [
+    "Comedy",
+    "Family"
    ]
   }
  },
@@ -3461,6 +3496,24 @@
     "Comedy",
     "Romance",
     "Crime"
+   ]
+  }
+ },
+ "soul-food|": {
+  "at": "2026-11-17",
+  "q": "Soul Food",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 29461,
+   "title": "Soul Food",
+   "year": 1997,
+   "poster": "https://image.tmdb.org/t/p/w342/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
+   "director": "George Tillman Jr.",
+   "runtime": 114,
+   "overview": "Traditional Sunday dinners at Mama Joe's turn sour when sisters Teri, Bird and Maxine start bringing their problems to the dinner table in this ensemble comedy. When tragedy strikes, it's up to grandson Ahmad to pull the family together and put the soul back into the family's weekly gatherings.",
+   "genres": [
+    "Comedy",
+    "Drama"
    ]
   }
  },
