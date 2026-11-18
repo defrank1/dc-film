@@ -9,6 +9,14 @@
    "series": "In Memoriam: Diane Ladd (1935–2025)"
   }
  },
+ "afi:0100000082": {
+  "seen": "2026-11-18",
+  "v": {
+   "director": "John McTiernan",
+   "year": 1988,
+   "runtime": 132
+  }
+ },
  "afi:0100000148": {
   "seen": "2026-11-18",
   "v": {
@@ -25,6 +33,32 @@
    "director": "Mark Burton, Richard Starzak",
    "year": 2015,
    "runtime": 85
+  }
+ },
+ "afi:0100000412": {
+  "seen": "2026-11-18",
+  "v": {
+   "director": "Brian Desmond Hurst",
+   "year": 1951,
+   "runtime": 86
+  }
+ },
+ "afi:0100000413": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "4K Restoration | $5 tickets for children 12 and under",
+   "director": "Frank Capra",
+   "year": 1946,
+   "runtime": 130
+  }
+ },
+ "afi:0100000414": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "Restored Director’s Cut | $5 tickets for children 12 and under",
+   "director": "Brian Henson",
+   "year": 1992,
+   "runtime": 89
   }
  },
  "afi:0100000421": {
@@ -73,6 +107,25 @@
    "series": "In Memoriam: Tim Curry (1946–2026)"
   }
  },
+ "afi:0100002283": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "65th Anniversary",
+   "director": "Allen Baron",
+   "year": 1961,
+   "runtime": 77
+  }
+ },
+ "afi:0100002285": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "$5 tickets for children 12 and under",
+   "director": "Henry Selick",
+   "year": 1993,
+   "runtime": 76,
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)"
+  }
+ },
  "afi:0100002575": {
   "seen": "2026-11-18",
   "v": {
@@ -88,6 +141,15 @@
    "year": 1926,
    "runtime": 116,
    "series": "Also part of the 2026 Silent Cinema Showcase."
+  }
+ },
+ "afi:0100003258": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "65th Anniversary",
+   "director": "Quentin Lawrence",
+   "year": 1961,
+   "runtime": 80
   }
  },
  "afi:0100003417": {
@@ -158,6 +220,16 @@
   "seen": "2026-11-18",
   "v": {
    "runtime": 120
+  }
+ },
+ "afi:0100005374": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "$5 tickets for children 12 and under",
+   "director": "Chris Columbus",
+   "year": 1990,
+   "runtime": 103,
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)"
   }
  },
  "afi:0100005427": {
@@ -1008,6 +1080,23 @@
    "runtime": 129
   }
  },
+ "afi:0100005826": {
+  "seen": "2026-11-18",
+  "v": {
+   "features": "$5 tickets for children 12 and under",
+   "director": "Haruki Kadokawa",
+   "year": 1993,
+   "runtime": 132
+  }
+ },
+ "afi:0100005827": {
+  "seen": "2026-11-18",
+  "v": {
+   "director": "Martin McDonagh",
+   "year": 2008,
+   "runtime": 107
+  }
+ },
  "avalon:https://www.theavalon.org/films/case-137": {
   "seen": "2026-11-18",
   "v": {
@@ -1026,20 +1115,32 @@
    "imdbId": "tt44475956"
   }
  },
+ "avalon:https://www.theavalon.org/films/hay-fever": {
+  "seen": "2026-11-18",
+  "v": {
+   "imdbId": "tt50538724"
+  }
+ },
  "avalon:https://www.theavalon.org/films/little-women-2": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt3281548"
   }
  },
  "avalon:https://www.theavalon.org/films/lost-wolves-of-yellowstone": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt35938789"
   }
  },
+ "avalon:https://www.theavalon.org/films/mouse": {
+  "seen": "2026-11-18",
+  "v": {
+   "imdbId": "tt13652154"
+  }
+ },
  "avalon:https://www.theavalon.org/films/the-grinch": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt2709692"
   }
@@ -1051,25 +1152,25 @@
   }
  },
  "avalon:https://www.theavalon.org/films/white-christmas": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt0047673"
   }
  },
  "avalon:https://www.theavalon.org/films/wild-horse-nine": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt15799564"
   }
  },
  "avalon:https://www.theavalon.org/films/women-on-trial": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt35494574"
   }
  },
  "avalon:https://www.theavalon.org/films/you-can-see-everything": {
-  "seen": "2026-11-17",
+  "seen": "2026-11-18",
   "v": {
    "imdbId": "tt45368240"
   }

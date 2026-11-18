@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T07:30:47.244Z",
+ "lastUpdated": "2026-11-18T20:33:44.922Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -152,6 +152,21 @@
    ],
    "tmdbId": 1706715
   },
+  "blast-of-silence-1961": {
+   "title": "Blast of Silence",
+   "year": 1961,
+   "director": "Allen Baron",
+   "runtime": 77,
+   "poster": "https://image.tmdb.org/t/p/w342/53vcxT6Ptz5uR9T64IwIudZqcuK.jpg",
+   "overview": "A hired killer from Cleveland has a job to do on a second-string mob boss in New York. But a special girl from his past and a fat gun dealer with pet rats get in his way.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "tmdbId": 32008,
+   "rep": true
+  },
   "blood-countess-2026": {
    "title": "The Blood Countess",
    "year": 2026,
@@ -231,6 +246,29 @@
     "Drama"
    ],
    "tmdbId": 1294698
+  },
+  "cash-on-demand-1961": {
+   "title": "Cash on Demand",
+   "year": 1961,
+   "director": "Quentin Lawrence",
+   "runtime": 80,
+   "poster": "https://image.tmdb.org/t/p/w342/7LmxstUXIjILQjuWKhC3SSzp9Ni.jpg",
+   "overview": "A charming but ruthless criminal holds the family of a bank manager hostage as part of a cold-blooded plan to steal £90,000.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "tmdbId": 37343,
+   "rep": true
+  },
+  "christmas-carol-aka-scrooge-1951": {
+   "title": "A Christmas Carol A.k.a. Scrooge",
+   "year": 1951,
+   "director": "Brian Desmond Hurst",
+   "runtime": 86,
+   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000412?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "rep": true
   },
   "christmas-in-connecticut-1945": {
    "title": "Christmas in Connecticut",
@@ -313,6 +351,20 @@
     "Comedy"
    ],
    "tmdbId": 1472813
+  },
+  "die-hard-1988": {
+   "title": "Die Hard",
+   "year": 1988,
+   "director": "John McTiernan",
+   "runtime": 132,
+   "poster": "https://image.tmdb.org/t/p/w342/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+   "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "tmdbId": 562,
+   "rep": true
   },
   "dreamed-adventure-2026": {
    "title": "The Dreamed Adventure",
@@ -547,6 +599,7 @@
    "director": "Yarrow Cheney, Scott Mosier",
    "runtime": 85,
    "poster": "https://image.tmdb.org/t/p/w342/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/THEGRINCHfeaturedWEB-300x162.jpg",
    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
    "genres": [
     "Animation",
@@ -592,6 +645,19 @@
     "Drama"
    ],
    "tmdbId": 1706729
+  },
+  "hay-fever-2027": {
+   "title": "Hay Fever",
+   "year": 2027,
+   "director": "Emily Burns",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/idaFzvv0msHN54Zi2N3olNwYclO.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/HAYFEVERfeaturedWEB-300x158.jpg",
+   "overview": "It's loathsome being looked after. Last year, Judith retired from her life-on-stage. Already, she misses the applause. Idling away at their country home, the rest of the family—reclusive novelist husband David and failure-to-launch children Sorrel and Simon—are too self-involved to be a good audience. So, Judith invites a young fan as her guest for the weekend. But unbeknownst to her, each of the…",
+   "genres": [
+    "Comedy"
+   ],
+   "tmdbId": 1791571
   },
   "heysel-85-2026": {
    "title": "Heysel 85",
@@ -734,6 +800,21 @@
    ],
    "tmdbId": 1441105
   },
+  "in-bruges-2008": {
+   "title": "In Bruges",
+   "year": 2008,
+   "director": "Martin McDonagh",
+   "runtime": 108,
+   "poster": "https://image.tmdb.org/t/p/w342/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+   "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ],
+   "tmdbId": 8321,
+   "rep": true
+  },
   "iron-boy-2026": {
    "title": "Iron Boy",
    "year": 2026,
@@ -814,6 +895,21 @@
    ],
    "tmdbId": 1090025
   },
+  "little-women-2019": {
+   "title": "Little Women",
+   "year": 2019,
+   "director": "Greta Gerwig",
+   "runtime": 135,
+   "poster": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/LITTLEWOMENfeaturedWEB-300x173.jpg",
+   "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "tmdbId": 331482,
+   "rep": true
+  },
   "loneliest-man-in-town-2026": {
    "title": "The Loneliest Man in Town",
    "year": 2026,
@@ -870,6 +966,20 @@
     "Action"
    ],
    "tmdbId": 121,
+   "rep": true
+  },
+  "lost-wolves-of-yellowstone-2024": {
+   "title": "Lost Wolves of Yellowstone",
+   "year": 2024,
+   "director": "Thomas Winston",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/lM983GPSFdNF9FUP2q3cDj23cvj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/LWOYfeaturedWEB-300x169.jpg",
+   "overview": "Once on the brink of extinction in the American West, the gray wolf’s comeback is astonishing, an incredible true story with many heroes, and one crucial heroine.",
+   "genres": [
+    "Documentary"
+   ],
+   "tmdbId": 1356077,
    "rep": true
   },
   "low-lies-the-land-2026": {
@@ -948,6 +1058,35 @@
    "tmdbId": 583,
    "rep": true
   },
+  "mouse-2026": {
+   "title": "Mouse",
+   "year": 2026,
+   "director": "Alex Thompson, Kelly O'Sullivan",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/MOUSEfeaturedWEB-300x162.jpg",
+   "overview": "In 2002 Arkansas, Callie and Minnie’s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie’s mother.",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "tmdbId": 1241052
+  },
+  "muppet-christmas-carol-1992": {
+   "title": "The Muppet Christmas Carol",
+   "year": 1992,
+   "director": "Brian Henson",
+   "runtime": 86,
+   "poster": "https://image.tmdb.org/t/p/w342/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+   "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+   "genres": [
+    "Music",
+    "Comedy",
+    "Family"
+   ],
+   "tmdbId": 10437,
+   "rep": true
+  },
   "muppet-treasure-island-1996": {
    "title": "Muppet Treasure Island",
    "year": 1996,
@@ -989,6 +1128,21 @@
     "Comedy"
    ],
    "tmdbId": 1593,
+   "rep": true
+  },
+  "nightmare-before-christmas-1993": {
+   "title": "The Nightmare Before Christmas",
+   "year": 1993,
+   "director": "Henry Selick",
+   "runtime": 76,
+   "poster": "https://image.tmdb.org/t/p/w342/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+   "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly Pumpkin King of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning in his place. But, as the holiday approaches, Jack's rag-doll girlfriend Sally tries to foil his well-meaning yet misguided plans.",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ],
+   "tmdbId": 9479,
    "rep": true
   },
   "nina-roza-2026": {
@@ -1247,6 +1401,14 @@
    "tmdbId": 330377,
    "rep": true
   },
+  "rex-a-dinosaurs-story-mickeys-christmas-carol-1993": {
+   "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
+   "year": 1993,
+   "director": "Haruki Kadokawa",
+   "runtime": 132,
+   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005826?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "rep": true
+  },
   "robert-richardson-the-white-devil-2026": {
    "title": "Robert Richardson: The White Devil",
    "year": 2026,
@@ -1425,6 +1587,9 @@
    ],
    "tmdbId": 683367
   },
+  "steps": {
+   "title": "Steps"
+  },
   "strangers-on-a-train-1951": {
    "title": "Strangers on a Train",
    "year": 1951,
@@ -1582,6 +1747,7 @@
    "director": "Michael Curtiz",
    "runtime": 120,
    "poster": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/WhiteChristmasFEATUREDweb-300x174.jpg",
    "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
    "genres": [
     "Comedy",
@@ -1638,6 +1804,7 @@
    "director": "Martin McDonagh",
    "runtime": 117,
    "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/WILDHORSENINEfeaturedWEB-300x163.jpg",
    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "genres": [
     "Comedy",
@@ -1688,6 +1855,20 @@
    ],
    "tmdbId": 1452018
   },
+  "women-on-trial-2026": {
+   "title": "Women on Trial",
+   "year": 2026,
+   "director": "Lauriane Escaffre, Yvo Muller",
+   "runtime": 102,
+   "poster": "https://image.tmdb.org/t/p/w342/fArOu0NgRfth0zH5YqRu1os478v.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/WomenonTrialFEATUREDweb-300x168.jpg",
+   "overview": "1972. A landmark trial shakes France as young Marie-Claire is prosecuted for having an illegal abortion with the help of her mother and two other defendants. In a courtroom governed by men, the verdict seems inevitable: prison for the women, while the rapist goes unpunished. Their last hope lies with Gisèle Halimi, a fearless lawyer known for openly challenging patriarchy and confronting the…",
+   "genres": [
+    "History",
+    "Drama"
+   ],
+   "tmdbId": 1003494
+  },
   "yellow-letters-2026": {
    "title": "Yellow Letters",
    "year": 2026,
@@ -1719,6 +1900,7 @@
    "director": "Nathan Fielder and Lance Oppenheim",
    "runtime": 175,
    "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/YCSEfeaturedWEB-300x185.jpg",
    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
    "genres": [
     "Documentary"
@@ -1740,110 +1922,6 @@
  },
  "screenings": [
   {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "11:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "piano-1993",
-   "title": "The Piano",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "11:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005751",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "12:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "12:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "post-2017",
-   "title": "The Post",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-18",
-   "time": "13:30",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/5da9d854-05df-48c8-b25e-8fe0956b4a93",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/36c19cd1fdacadea0f82602085652fe2-small.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "13:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "raise-the-red-lantern-1991",
-   "title": "Raise the Red Lantern",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "14:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration | 35th Anniversary"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "15:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
    "film": "la-bola-negra-2026",
    "title": "La Bola Negra",
    "venueId": "afi",
@@ -1853,6 +1931,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-18",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668436~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "being-heumann-2026",
@@ -1953,6 +2041,16 @@
    "series": "In Memoriam: Sam Neill (1947–2026)"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-18",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668440~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -2019,8 +2117,17 @@
    "venue": "4EYE Film Center",
    "date": "2026-11-18",
    "time": "19:00",
-   "ticketLink": "https://4eyefilmcenter.org/now-playing/",
-   "soldOut": true
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b893c0f0-9359-4744-898d-fd8a50c184ef"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668442~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "how-to-marry-a-millionaire-1953",
@@ -2073,6 +2180,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "women-on-trial-2026",
+   "title": "Women on Trial",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662239~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/women-on-trial"
+  },
+  {
    "film": "la-bola-negra-2026",
    "title": "La Bola Negra",
    "venueId": "afi",
@@ -2107,12 +2224,32 @@
   {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668083~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
    "venueId": "afi",
    "venue": "AFI Silver Theatre",
    "date": "2026-11-19",
    "time": "11:20",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668434~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "wallace-and-gromit-the-classic-shorts-1989",
@@ -2187,6 +2324,16 @@
    "note": "New 4K Restoration"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668494~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "syriana-2005",
    "title": "Syriana",
    "venueId": "4eye",
@@ -2195,6 +2342,15 @@
    "time": "15:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b393a7ca-de97-4c0c-99d3-4110102f99ce",
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/f4b686ecb9ebc40279216d62bd1aa966-small.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-19",
+   "time": "15:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2217,6 +2373,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668437~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
    "film": "being-heumann-2026",
    "title": "Being Heumann",
    "venueId": "angelika",
@@ -2236,6 +2402,15 @@
    "time": "15:40",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-19",
+   "time": "15:40",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -2297,6 +2472,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668441~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "fatherland-2026",
    "title": "Fatherland",
    "venueId": "afi",
@@ -2338,6 +2523,15 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-19",
+   "time": "18:45",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "march-forth-post-screening-conversation-with-dwayne-betts-and-marcus-bullock",
    "title": "March Forth + Post Screening Conversation with Dwayne Betts & Marcus Bullock",
    "venueId": "4eye",
@@ -2354,6 +2548,25 @@
    "date": "2026-11-19",
    "time": "19:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100004823"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668443~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -2382,6 +2595,16 @@
    "time": "19:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668510~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -2435,6 +2658,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "11:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670035~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "fatherland-2026",
    "title": "Fatherland",
    "venueId": "afi",
@@ -2454,6 +2687,16 @@
    "time": "11:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670060~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2533,8 +2776,8 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-20",
@@ -2572,6 +2815,16 @@
    "note": "20th Anniversary | New 4K Restoration"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670036~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -2580,6 +2833,16 @@
    "time": "15:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670063~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2660,8 +2923,8 @@
    "note": "2027 Oscar® Selection, Poland"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-20",
@@ -2687,6 +2950,16 @@
    "date": "2026-11-20",
    "time": "16:40",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670038~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -2751,8 +3024,8 @@
    "note": "English subtitles"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-20",
@@ -2790,6 +3063,16 @@
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670067~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-20",
@@ -2804,6 +3087,16 @@
    "date": "2026-11-20",
    "time": "19:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670053~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "being-heumann-2026",
@@ -2979,6 +3272,16 @@
    "note": "75th Anniversary | 4K Restoration"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "11:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670055~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -2987,6 +3290,16 @@
    "time": "11:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670061~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "la-bola-negra-2026",
@@ -3077,8 +3390,8 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-21",
@@ -3106,6 +3419,16 @@
    "note": "Open Audio Description"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670037~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -3114,6 +3437,16 @@
    "time": "15:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670064~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "fast-2026",
@@ -3196,8 +3529,8 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-21",
@@ -3212,6 +3545,16 @@
    "date": "2026-11-21",
    "time": "16:40",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670039~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -3296,8 +3639,8 @@
    "note": "New 4K Restoration | 35th Anniversary"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-21",
@@ -3326,6 +3669,16 @@
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670068~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-21",
@@ -3340,6 +3693,16 @@
    "date": "2026-11-21",
    "time": "19:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670054~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -3472,6 +3835,26 @@
    "note": "Free Thanksgiving Day Community Screening on Nov. 26"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "11:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670057~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670062~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -3572,8 +3955,8 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-22",
@@ -3597,7 +3980,17 @@
    "date": "2026-11-22",
    "time": "14:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/8aa980ac-b43b-4d96-98fb-d1a0c4890920",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/36c19cd1fdacadea0f82602085652fe2-small.jpg"
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/d3b1b22ae288b540f657fc4b4fb61d3c-small.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670058~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "la-bola-negra-2026",
@@ -3609,6 +4002,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670065~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -3690,8 +4093,8 @@
    "note": "English subtitles"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-22",
@@ -3706,6 +4109,16 @@
    "date": "2026-11-22",
    "time": "16:40",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670040~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "being-heumann-2026",
@@ -3771,8 +4184,8 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-22",
@@ -3798,6 +4211,16 @@
    "date": "2026-11-22",
    "time": "19:00",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670071~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -3837,6 +4260,16 @@
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
    "note": "English subtitles"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-22",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670059~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -3910,6 +4343,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "11:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670075~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -3918,6 +4361,16 @@
    "time": "11:30",
    "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670072~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "fatherland-2026",
@@ -3993,6 +4446,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670077~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "landmark",
@@ -4002,8 +4465,18 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670073~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-23",
@@ -4093,8 +4566,8 @@
    "note": "2027 Oscar® Selection, Poland"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-23",
@@ -4111,6 +4584,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100000326",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000326?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Free Thanksgiving Day Community Screening on Nov. 26"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670078~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -4163,6 +4646,15 @@
    "note": "50th Anniversary | 4K Restoration"
   },
   {
+   "film": "steps",
+   "title": "Steps",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-23",
+   "time": "18:45",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4171,15 +4663,6 @@
    "time": "18:45",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "planes-trains-and-automobiles-1987",
@@ -4202,6 +4685,16 @@
    "time": "19:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/e72a98a4-c6da-4fd9-b4ab-1f02b9d269b7",
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/8be82f23ac4d94f417ceb42f07f92db6-small.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670074~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -4240,6 +4733,16 @@
    "date": "2026-11-23",
    "time": "19:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-23",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670079~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "who-killed-alex-odeh-2026",
@@ -4285,6 +4788,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "11:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670084~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -4293,6 +4806,16 @@
    "time": "11:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670080~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
   },
   {
    "film": "alice-in-wonderland-1951",
@@ -4369,6 +4892,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670085~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "angelika",
@@ -4388,6 +4921,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "15:10",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670081~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
    "film": "la-bola-negra-2026",
    "title": "La Bola Negra",
    "venueId": "angelika",
@@ -4399,8 +4942,8 @@
    "note": "English subtitles"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-24",
@@ -4477,13 +5020,23 @@
    "note": "2027 Oscar® Selection, Poland"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-24",
    "time": "16:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670086~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "wild-at-heart-1990",
@@ -4537,8 +5090,8 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-24",
@@ -4579,6 +5132,16 @@
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670083~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-24",
@@ -4613,6 +5176,16 @@
    "date": "2026-11-24",
    "time": "19:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670087~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -4667,6 +5240,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-25",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670092~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "being-heumann-2026",
@@ -4731,6 +5314,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-25",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670093~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "being-heumann-2026",
    "title": "Being Heumann",
    "venueId": "afi",
@@ -4762,8 +5355,8 @@
    "note": "2027 Oscar® Selection, Spain"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-25",
@@ -4811,6 +5404,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-25",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670094~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "fatherland-2026",
    "title": "Fatherland",
    "venueId": "afi",
@@ -4822,8 +5425,8 @@
    "note": "2027 Oscar® Selection, Poland"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-25",
@@ -4872,6 +5475,15 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "steps",
+   "title": "Steps",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-11-25",
+   "time": "18:45",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4880,15 +5492,6 @@
    "time": "18:45",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "once-a-thief-1991",
@@ -4909,6 +5512,16 @@
    "date": "2026-11-25",
    "time": "19:00",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670095~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
    "film": "some-like-it-hot-1959",
@@ -5083,8 +5696,8 @@
    "note": "2027 Oscar® Selection, Spain"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-26",
@@ -5131,13 +5744,33 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-26",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669988~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-26",
    "time": "16:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-26",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669986~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "network-1976",
@@ -5171,8 +5804,8 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "film": "steps",
+   "title": "Steps",
    "venueId": "landmark",
    "venue": "Landmark Atlantic Plumbing Cinema",
    "date": "2026-11-26",
@@ -5199,6 +5832,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669989~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -5206,6 +5849,16 @@
    "date": "2026-11-26",
    "time": "19:20",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-26",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669987~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "pans-labyrinth-2006",
@@ -5250,6 +5903,26 @@
    "series": "In Memoriam: Tim Curry (1946–2026)"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670107~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670096~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "third-man-1949",
    "title": "The Third Man",
    "venueId": "afi",
@@ -5280,6 +5953,26 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100003992",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003992?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "75th Anniversary"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670111~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670099~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "once-upon-a-time-in-hollywood-2019",
@@ -5314,6 +6007,26 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670115~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670102~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "confucian-confusion-1994",
    "title": "A Confucian Confusion",
    "venueId": "suns",
@@ -5346,6 +6059,26 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670118~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670105~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
    "title": "The Lord of the Rings: The Fellowship of the Ring",
    "venueId": "afi",
@@ -5366,6 +6099,26 @@
    "ticketLink": "https://sunscinema.com/movies/yi-yi/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
    "soldOut": true
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670108~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670097~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "night-at-the-museum-2006",
@@ -5400,6 +6153,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670112~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "nine-to-five-1980",
    "title": "Nine to Five",
    "venueId": "afi",
@@ -5410,6 +6173,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003481?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "series": "In Memoriam: Dolly Parton (1946–2026)",
    "note": "4K Restoration | AFI’s 100 Years...100 Songs"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670100~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -5431,6 +6204,26 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100000148",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000148?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm · New 35mm Print"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670116~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670103~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "confucian-confusion-1994",
@@ -5476,6 +6269,26 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670119~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670106~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "lord-of-the-rings-the-two-towers-2002",
    "title": "The Lord of the Rings: The Two Towers",
    "venueId": "afi",
@@ -5508,6 +6321,26 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670109~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670098~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5529,6 +6362,26 @@
    "note": "35mm"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670113~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670101~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5537,6 +6390,26 @@
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670117~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670104~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "hole-1998",
@@ -5570,6 +6443,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670122~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "cameron-winter-at-carnegie-hall-2026",
    "title": "Cameron Winter at Carnegie Hall",
    "venueId": "afi",
@@ -5579,6 +6462,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-29",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670121~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "razors-edge-1985",
@@ -5894,6 +6787,16 @@
    "time": "19:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "lost-wolves-of-yellowstone-2024",
+   "title": "Lost Wolves of Yellowstone",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=665895~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/lost-wolves-of-yellowstone"
   },
   {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
@@ -6617,6 +7520,16 @@
    "note": "Special Presentation | 2027 Oscar® Selection, France"
   },
   {
+   "film": "mouse-2026",
+   "title": "Mouse",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670434~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/mouse"
+  },
+  {
    "film": "adult-supervision-2026",
    "title": "Adult Supervision",
    "venueId": "afi",
@@ -6906,6 +7819,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005809",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005809?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "U.S. Premiere"
+  },
+  {
+   "film": "white-christmas-1954",
+   "title": "White Christmas",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-13",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=667890~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/white-christmas"
   },
   {
    "film": "god-will-not-help-2025",
@@ -7419,6 +8342,17 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "11:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration | $5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "landmark",
@@ -7426,6 +8360,17 @@
    "date": "2026-12-18",
    "time": "12:00",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "12:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
   },
   {
    "film": "dune-part-three-2026",
@@ -7455,6 +8400,15 @@
    "time": "13:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "christmas-carol-aka-scrooge-1951",
+   "title": "A Christmas Carol A.k.a. Scrooge",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "14:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000412"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -7527,6 +8481,17 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005787?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "18:40",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration | $5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "landmark",
@@ -7586,6 +8551,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000082",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000082?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -7606,6 +8581,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "grinch-2018",
+   "title": "The Grinch",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-19",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668534~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/the-grinch"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -7615,6 +8600,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005655",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "rex-a-dinosaurs-story-mickeys-christmas-carol-1993",
+   "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-19",
+   "time": "11:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005826",
+   "note": "$5 tickets for children 12 and under"
   },
   {
    "film": "paikar-2025",
@@ -7677,6 +8672,17 @@
    "note": "Special Presentation"
   },
   {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-19",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -7705,6 +8711,17 @@
    "time": "15:30",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005800",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005800?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-19",
+   "time": "15:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration | $5 tickets for children 12 and under"
   },
   {
    "film": "dune-part-three-2026",
@@ -7745,6 +8762,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005655",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "cash-on-demand-1961",
+   "title": "Cash on Demand",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-19",
+   "time": "18:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100003258",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003258?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "65th Anniversary"
   },
   {
    "film": "parallel-tales-2026",
@@ -7817,6 +8845,28 @@
    "note": "Tickets $8"
   },
   {
+   "film": "little-women-2019",
+   "title": "Little Women",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-20",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668753~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/little-women-2"
+  },
+  {
+   "film": "nightmare-before-christmas-1993",
+   "title": "The Nightmare Before Christmas",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "11:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100002285",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002285?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "landmark",
@@ -7824,6 +8874,15 @@
    "date": "2026-12-20",
    "time": "12:00",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "christmas-carol-aka-scrooge-1951",
+   "title": "A Christmas Carol A.k.a. Scrooge",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "12:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000412"
   },
   {
    "film": "dune-part-three-2026",
@@ -7876,6 +8935,17 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "14:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
+  },
+  {
    "film": "man-of-his-time-2026",
    "title": "A Man of His Time",
    "venueId": "afi",
@@ -7926,6 +8996,18 @@
    "note": "Open Captions"
   },
   {
+   "film": "home-alone-1990",
+   "title": "Home Alone",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "16:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005374",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005374?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -7934,6 +9016,17 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "blast-of-silence-1961",
+   "title": "Blast of Silence",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "18:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100002283",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002283?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "65th Anniversary"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -7996,6 +9089,16 @@
    "note": "Open Captions"
   },
   {
+   "film": "in-bruges-2008",
+   "title": "In Bruges",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "21:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005827",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005827?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -8014,6 +9117,17 @@
    "time": "10:15",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/dune-part-three",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
+  },
+  {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-21",
+   "time": "11:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
   },
   {
    "film": "christmas-in-connecticut-1945",
@@ -8048,6 +9162,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "rex-a-dinosaurs-story-mickeys-christmas-carol-1993",
+   "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-21",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005826",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -8057,6 +9181,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005655",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "cash-on-demand-1961",
+   "title": "Cash on Demand",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-21",
+   "time": "16:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100003258",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003258?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "65th Anniversary"
   },
   {
    "film": "dune-part-three-2026",
@@ -8078,6 +9213,16 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-21",
+   "time": "18:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000082",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000082?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "christmas-in-connecticut-1945",
@@ -8123,6 +9268,18 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "home-alone-1990",
+   "title": "Home Alone",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-21",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005374",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005374?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -8143,6 +9300,27 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "nightmare-before-christmas-1993",
+   "title": "The Nightmare Before Christmas",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "11:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100002285",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002285?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
+   "film": "christmas-carol-aka-scrooge-1951",
+   "title": "A Christmas Carol A.k.a. Scrooge",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "12:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000412"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "angelika",
@@ -8161,6 +9339,17 @@
    "time": "13:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "14:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
   },
   {
    "film": "dune-part-three-2026",
@@ -8184,6 +9373,18 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "home-alone-1990",
+   "title": "Home Alone",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "16:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005374",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005374?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "series": "In Memoriam: Catherine O’Hara (1954–2026)",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -8193,6 +9394,16 @@
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg",
    "note": "Open Captions"
+  },
+  {
+   "film": "in-bruges-2008",
+   "title": "In Bruges",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "19:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005827",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005827?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "dune-part-three-2026",
@@ -8226,6 +9437,17 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "blast-of-silence-1961",
+   "title": "Blast of Silence",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-22",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100002283",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002283?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "65th Anniversary"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -8244,6 +9466,17 @@
    "time": "10:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/dune-part-three",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
+  },
+  {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-23",
+   "time": "11:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
   },
   {
    "film": "dune-part-three-2026",
@@ -8266,6 +9499,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "rex-a-dinosaurs-story-mickeys-christmas-carol-1993",
+   "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-23",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005826",
+   "note": "$5 tickets for children 12 and under"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -8275,6 +9518,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005655",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "christmas-carol-aka-scrooge-1951",
+   "title": "A Christmas Carol A.k.a. Scrooge",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-23",
+   "time": "16:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000412"
   },
   {
    "film": "dune-part-three-2026",
@@ -8295,6 +9547,17 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-23",
+   "time": "18:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration | $5 tickets for children 12 and under"
   },
   {
    "film": "dune-part-three-2026",
@@ -8329,6 +9592,16 @@
    "note": "Open Captions"
   },
   {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-23",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000082",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000082?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "angelika",
@@ -8369,6 +9642,28 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "muppet-christmas-carol-1992",
+   "title": "The Muppet Christmas Carol",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-24",
+   "time": "13:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000414",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000414?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "Restored Director’s Cut | $5 tickets for children 12 and under"
+  },
+  {
+   "film": "its-a-wonderful-life-1946",
+   "title": "It's a Wonderful Life",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-24",
+   "time": "15:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration | $5 tickets for children 12 and under"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -8398,6 +9693,16 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-24",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100000082",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000082?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "dune-part-three-2026",
@@ -9006,6 +10311,26 @@
    "time": "20:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "hay-fever-2027",
+   "title": "Hay Fever",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2027-01-24",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670429~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/hay-fever"
+  },
+  {
+   "film": "hay-fever-2027",
+   "title": "Hay Fever",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2027-01-26",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670432~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/hay-fever"
   }
  ]
 }

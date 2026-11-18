@@ -388,6 +388,25 @@
    ]
   }
  },
+ "blast-of-silence|1961": {
+  "at": "2026-11-18",
+  "q": "Blast of Silence",
+  "sig": "1961|Allen Baron||",
+  "data": {
+   "tmdbId": 32008,
+   "title": "Blast of Silence",
+   "year": 1961,
+   "poster": "https://image.tmdb.org/t/p/w342/53vcxT6Ptz5uR9T64IwIudZqcuK.jpg",
+   "director": "Allen Baron",
+   "runtime": 77,
+   "overview": "A hired killer from Cleveland has a job to do on a second-string mob boss in New York. But a special girl from his past and a fat gun dealer with pet rats get in his way.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  }
+ },
  "blood-countess|2026": {
   "at": "2026-11-11",
   "q": "The Blood Countess",
@@ -575,6 +594,25 @@
    ]
   }
  },
+ "cash-on-demand|1961": {
+  "at": "2026-11-18",
+  "q": "Cash on Demand",
+  "sig": "1961|Quentin Lawrence||",
+  "data": {
+   "tmdbId": 37343,
+   "title": "Cash on Demand",
+   "year": 1961,
+   "poster": "https://image.tmdb.org/t/p/w342/7LmxstUXIjILQjuWKhC3SSzp9Ni.jpg",
+   "director": "Quentin Lawrence",
+   "runtime": 80,
+   "overview": "A charming but ruthless criminal holds the family of a bank manager hostage as part of a cold-blooded plan to steal £90,000.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ]
+  }
+ },
  "changeling|1980": {
   "at": "2026-11-11",
   "q": "The Changeling",
@@ -610,6 +648,12 @@
     "Family"
    ]
   }
+ },
+ "christmas-carol-aka-scrooge|1951": {
+  "at": "2026-11-18",
+  "q": "A Christmas Carol A.k.a. Scrooge",
+  "sig": "1951|Brian Desmond Hurst||",
+  "data": null
  },
  "christmas-in-connecticut|1945": {
   "at": "2026-11-11",
@@ -869,6 +913,24 @@
    "genres": [
     "Drama",
     "Comedy"
+   ]
+  }
+ },
+ "die-hard|1988": {
+  "at": "2026-11-18",
+  "q": "Die Hard",
+  "sig": "1988|John McTiernan||",
+  "data": {
+   "tmdbId": 562,
+   "title": "Die Hard",
+   "year": 1988,
+   "poster": "https://image.tmdb.org/t/p/w342/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+   "director": "John McTiernan",
+   "runtime": 132,
+   "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+   "genres": [
+    "Action",
+    "Thriller"
    ]
   }
  },
@@ -1406,7 +1468,7 @@
  "grinch|": {
   "at": "2026-11-18",
   "q": "The Grinch",
-  "sig": "|||",
+  "sig": "||tt2709692|",
   "data": {
    "tmdbId": 360920,
    "title": "The Grinch",
@@ -1522,6 +1584,23 @@
    ]
   }
  },
+ "hay-fever|": {
+  "at": "2026-11-18",
+  "q": "Hay Fever",
+  "sig": "||tt50538724|",
+  "data": {
+   "tmdbId": 1791571,
+   "title": "National Theatre Live: Hay Fever",
+   "year": 2027,
+   "poster": "https://image.tmdb.org/t/p/w342/idaFzvv0msHN54Zi2N3olNwYclO.jpg",
+   "director": "Emily Burns",
+   "runtime": 120,
+   "overview": "It's loathsome being looked after. Last year, Judith retired from her life-on-stage. Already, she misses the applause. Idling away at their country home, the rest of the family—reclusive novelist husband David and failure-to-launch children Sorrel and Simon—are too self-involved to be a good audience. So, Judith invites a young fan as her guest for the weekend. But unbeknownst to her, each of the…",
+   "genres": [
+    "Comedy"
+   ]
+  }
+ },
  "heysel-85|2026": {
   "at": "2026-11-11",
   "q": "Heysel 85",
@@ -1615,6 +1694,24 @@
   "at": "2026-11-17",
   "q": "Home Alone",
   "sig": "|||",
+  "data": {
+   "tmdbId": 771,
+   "title": "Home Alone",
+   "year": 1990,
+   "poster": "https://image.tmdb.org/t/p/w342/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+   "director": "Chris Columbus",
+   "runtime": 103,
+   "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+   "genres": [
+    "Comedy",
+    "Family"
+   ]
+  }
+ },
+ "home-alone|1990": {
+  "at": "2026-11-18",
+  "q": "Home Alone",
+  "sig": "1990|Chris Columbus||",
   "data": {
    "tmdbId": 771,
    "title": "Home Alone",
@@ -1868,6 +1965,25 @@
    ]
   }
  },
+ "in-bruges|2008": {
+  "at": "2026-11-18",
+  "q": "In Bruges",
+  "sig": "2008|Martin McDonagh||",
+  "data": {
+   "tmdbId": 8321,
+   "title": "In Bruges",
+   "year": 2008,
+   "poster": "https://image.tmdb.org/t/p/w342/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+   "director": "Martin McDonagh",
+   "runtime": 108,
+   "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Crime"
+   ]
+  }
+ },
  "in-the-beginning-animations-famous-firsts|": {
   "at": "2026-11-11",
   "q": "In the Beginning: Animation's Famous Firsts!",
@@ -1934,6 +2050,25 @@
   "at": "2026-11-14",
   "q": "It's A Wonderful Life",
   "sig": "|||",
+  "data": {
+   "tmdbId": 1585,
+   "title": "It's a Wonderful Life",
+   "year": 1946,
+   "poster": "https://image.tmdb.org/t/p/w342/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+   "director": "Frank Capra",
+   "runtime": 131,
+   "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+   "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+   ]
+  }
+ },
+ "its-a-wonderful-life|1946": {
+  "at": "2026-11-18",
+  "q": "It's A Wonderful Life",
+  "sig": "1946|Frank Capra||",
   "data": {
    "tmdbId": 1585,
    "title": "It's a Wonderful Life",
@@ -2500,6 +2635,43 @@
   "sig": "|||",
   "data": null
  },
+ "mouse|": {
+  "at": "2026-11-18",
+  "q": "Mouse",
+  "sig": "||tt13652154|",
+  "data": {
+   "tmdbId": 1241052,
+   "title": "Mouse",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+   "director": "Alex Thompson, Kelly O'Sullivan",
+   "runtime": 120,
+   "overview": "In 2002 Arkansas, Callie and Minnie’s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie’s mother.",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ]
+  }
+ },
+ "muppet-christmas-carol|1992": {
+  "at": "2026-11-18",
+  "q": "The Muppet Christmas Carol",
+  "sig": "1992|Brian Henson||",
+  "data": {
+   "tmdbId": 10437,
+   "title": "The Muppet Christmas Carol",
+   "year": 1992,
+   "poster": "https://image.tmdb.org/t/p/w342/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+   "director": "Brian Henson",
+   "runtime": 86,
+   "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+   "genres": [
+    "Music",
+    "Comedy",
+    "Family"
+   ]
+  }
+ },
  "muppet-treasure-island|1996": {
   "at": "2026-11-11",
   "q": "Muppet Treasure Island",
@@ -2588,6 +2760,25 @@
     "Fantasy",
     "Family",
     "Comedy"
+   ]
+  }
+ },
+ "nightmare-before-christmas|1993": {
+  "at": "2026-11-18",
+  "q": "The Nightmare Before Christmas",
+  "sig": "1993|Henry Selick||",
+  "data": {
+   "tmdbId": 9479,
+   "title": "The Nightmare Before Christmas",
+   "year": 1993,
+   "poster": "https://image.tmdb.org/t/p/w342/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+   "director": "Henry Selick",
+   "runtime": 76,
+   "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly Pumpkin King of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning in his place. But, as the holiday approaches, Jack's rag-doll girlfriend Sally tries to foil his well-meaning yet misguided plans.",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
    ]
   }
  },
@@ -3235,6 +3426,12 @@
    ]
   }
  },
+ "rex-a-dinosaurs-story-mickeys-christmas-carol|1993": {
+  "at": "2026-11-18",
+  "q": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
+  "sig": "1993|Haruki Kadokawa||",
+  "data": null
+ },
  "robert-richardson-the-white-devil|2026": {
   "at": "2026-11-11",
   "q": "Robert Richardson: The White Devil",
@@ -3621,6 +3818,12 @@
     "Comedy"
    ]
   }
+ },
+ "steps|": {
+  "at": "2026-11-18",
+  "q": "Steps",
+  "sig": "|||",
+  "data": null
  },
  "strangers-on-a-train|": {
   "at": "2026-11-11",
@@ -4095,7 +4298,7 @@
  "white-christmas|1954": {
   "at": "2026-11-18",
   "q": "White Christmas",
-  "sig": "1954|Michael Curtiz||",
+  "sig": "1954|Michael Curtiz|tt0047673|",
   "data": {
    "tmdbId": 13368,
    "title": "White Christmas",
@@ -4241,7 +4444,7 @@
  "wild-horse-nine|2026": {
   "at": "2026-11-18",
   "q": "Wild Horse Nine",
-  "sig": "2026|Martin McDonagh||",
+  "sig": "2026|Martin McDonagh|tt15799564|",
   "data": {
    "tmdbId": 891621,
    "title": "Wild Horse Nine",
@@ -4422,7 +4625,7 @@
  "you-can-see-everything|": {
   "at": "2026-11-18",
   "q": "You Can See Everything",
-  "sig": "|Nathan Fielder and Lance Oppenheim||",
+  "sig": "|Nathan Fielder and Lance Oppenheim|tt45368240|",
   "data": {
    "tmdbId": 1765072,
    "title": "You Can See Everything",
