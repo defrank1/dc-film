@@ -1,60 +1,60 @@
 {
- "generatedAt": "2026-11-19T07:28:47.379Z",
+ "generatedAt": "2026-11-19T20:39:51.345Z",
  "venues": {
   "4eye": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-19T07:28:14.307Z",
-   "seconds": 0.5
+   "lastSuccess": "2026-11-19T20:39:20.295Z",
+   "seconds": 0.6
   },
   "suns": {
    "status": "ok",
    "count": 19,
-   "lastSuccess": "2026-11-19T07:28:14.524Z",
-   "seconds": 0.7
+   "lastSuccess": "2026-11-19T20:39:20.377Z",
+   "seconds": 0.6
   },
   "miracle": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-19T07:28:17.241Z",
-   "seconds": 3.4
+   "lastSuccess": "2026-11-19T20:39:22.048Z",
+   "seconds": 2.3
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-19T07:28:18.057Z",
-   "seconds": 4.1,
+   "lastSuccess": "2026-11-19T20:39:23.099Z",
+   "seconds": 3.3,
    "message": "no upcoming screenings listed"
   },
   "afi": {
    "status": "ok",
-   "count": 332,
-   "lastSuccess": "2026-11-19T07:28:21.686Z",
-   "seconds": 8
+   "count": 331,
+   "lastSuccess": "2026-11-19T20:39:26.417Z",
+   "seconds": 6.8
   },
   "angelika": {
    "status": "ok",
-   "count": 208,
-   "lastSuccess": "2026-11-19T07:28:30.355Z",
-   "seconds": 16.6
+   "count": 205,
+   "lastSuccess": "2026-11-19T20:39:36.912Z",
+   "seconds": 17.2
   },
   "avalon": {
    "status": "ok",
-   "count": 86,
-   "lastSuccess": "2026-11-19T07:28:31.057Z",
-   "seconds": 17.3
+   "count": 83,
+   "lastSuccess": "2026-11-19T20:39:37.923Z",
+   "seconds": 18.2
+  },
+  "landmark": {
+   "status": "ok",
+   "count": 131,
+   "lastSuccess": "2026-11-19T20:39:50.983Z",
+   "seconds": 31.2
   },
   "nga": {
    "status": "blocked",
    "count": 0,
    "lastSuccess": "2026-11-11T03:19:13.722Z",
    "message": "nga.gov kept showing its browser check instead of the calendar"
-  },
-  "landmark": {
-   "status": "ok",
-   "count": 132,
-   "lastSuccess": "2026-11-19T07:28:47.069Z",
-   "seconds": 33.1
   }
  }
 }

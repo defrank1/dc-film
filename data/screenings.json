@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-19T07:28:47.379Z",
+ "lastUpdated": "2026-11-19T20:39:51.345Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -1673,14 +1673,6 @@
    ],
    "tmdbId": 1490241
   },
-  "wallace-and-gromit-the-classic-shorts-1989": {
-   "title": "Wallace & Gromit: The Classic Shorts",
-   "year": 1989,
-   "director": "Nick Park",
-   "runtime": 82,
-   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005747?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "rep": true
-  },
   "welcome-ii-the-terrordome-1995": {
    "title": "Welcome II the Terrordome",
    "year": 1995,
@@ -1848,118 +1840,6 @@
  },
  "screenings": [
   {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-19",
-   "time": "10:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668083~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-19",
-   "time": "11:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-19",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668434~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "wallace-and-gromit-the-classic-shorts-1989",
-   "title": "Wallace & Gromit: The Classic Shorts",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-19",
-   "time": "11:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005747"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-19",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-19",
-   "time": "12:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-19",
-   "time": "12:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-19",
-   "time": "13:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "piano-1993",
-   "title": "The Piano",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-19",
-   "time": "13:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005751",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-19",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668494~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
    "film": "syriana-2005",
    "title": "Syriana",
    "venueId": "4eye",
@@ -1968,15 +1848,6 @@
    "time": "15:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b393a7ca-de97-4c0c-99d3-4110102f99ce",
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/f4b686ecb9ebc40279216d62bd1aa966-small.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-19",
-   "time": "15:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2731,8 +2602,7 @@
    "venue": "4EYE Film Center",
    "date": "2026-11-20",
    "time": "20:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/523c475f-02c8-40f4-ade1-1866f9c4090d",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/24a234729d1a694fdaf44f877749b1bc-small.jpg"
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/523c475f-02c8-40f4-ade1-1866f9c4090d"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -8037,6 +7907,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100000412"
   },
   {
+   "film": "all-of-a-sudden-2026",
+   "title": "All of a Sudden",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "14:20",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005786",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "avengers-doomsday-2026",
    "title": "Avengers: Doomsday",
    "venueId": "landmark",
@@ -8165,6 +8045,16 @@
    "time": "20:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/dune-part-three",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
+  },
+  {
+   "film": "all-of-a-sudden-2026",
+   "title": "All of a Sudden",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-18",
+   "time": "20:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005786",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -8428,6 +8318,16 @@
    "date": "2026-12-19",
    "time": "19:10",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "all-of-a-sudden-2026",
+   "title": "All of a Sudden",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-19",
+   "time": "20:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005786",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "dune-part-three-2026",
@@ -8702,6 +8602,16 @@
    "time": "20:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/dune-part-three",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
+  },
+  {
+   "film": "all-of-a-sudden-2026",
+   "title": "All of a Sudden",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-20",
+   "time": "20:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005786",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "avengers-doomsday-2026",
