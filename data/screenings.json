@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-18T20:33:44.922Z",
+ "lastUpdated": "2026-11-19T07:28:47.379Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -72,20 +72,6 @@
     "Adventure"
    ],
    "tmdbId": 1003596
-  },
-  "begotten-1989": {
-   "title": "Begotten",
-   "year": 1989,
-   "director": "E. Elias Merhige",
-   "runtime": 72,
-   "poster": "https://image.tmdb.org/t/p/w342/rvgYcVToOHe0gKWtF3mz6SvM4Aw.jpg",
-   "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
-   "genres": [
-    "Fantasy",
-    "Horror"
-   ],
-   "tmdbId": 1483,
-   "rep": true
   },
   "being-heumann-2026": {
    "title": "Being Heumann",
@@ -579,20 +565,6 @@
    ],
    "tmdbId": 1457734
   },
-  "godzilla-minus-zero-2026": {
-   "title": "Godzilla Minus Zero",
-   "year": 2026,
-   "director": "Takashi Yamazaki",
-   "runtime": 135,
-   "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-   "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-   "genres": [
-    "Science Fiction",
-    "Horror",
-    "Action"
-   ],
-   "tmdbId": 1381071
-  },
   "grinch-2018": {
    "title": "The Grinch",
    "year": 2018,
@@ -724,20 +696,6 @@
     "Drama"
    ],
    "tmdbId": 1529024
-  },
-  "how-to-marry-a-millionaire-1953": {
-   "title": "How to Marry a Millionaire",
-   "year": 1953,
-   "director": "Jean Negulesco",
-   "runtime": 96,
-   "poster": "https://image.tmdb.org/t/p/w342/dFwefYyEOOZaWVn15xGY6CbYYJ2.jpg",
-   "overview": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
-   "genres": [
-    "Comedy",
-    "Romance"
-   ],
-   "tmdbId": 10297,
-   "rep": true
   },
   "hundreds-of-beavers-a-northwoods-christmas-2022": {
    "title": "Hundreds of Beavers: A Northwoods Christmas",
@@ -1011,10 +969,6 @@
   "march-forth-post-screening-conversation-with-dwayne-betts-and-marcus-bullock": {
    "title": "March Forth + Post Screening Conversation with Dwayne Betts & Marcus Bullock",
    "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/3872b2819faca6912b230997443224eb-small.jpg"
-  },
-  "march-forth-post-screening-conversation-with-dwayne-betts-and-the-atlantics-clint-smith": {
-   "title": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
-   "poster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/1c0be4cef982e48ac6c0ab10f85d3966-small.jpg"
   },
   "minotaur-2026": {
    "title": "Minotaur",
@@ -1769,20 +1723,6 @@
    ],
    "tmdbId": 1162823
   },
-  "wicker-2026": {
-   "title": "Wicker",
-   "year": 2026,
-   "director": "Eleanor Wilson, Alex Huston Fischer",
-   "runtime": 105,
-   "poster": "https://image.tmdb.org/t/p/w342/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-   "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-   "genres": [
-    "Romance",
-    "Fantasy",
-    "Comedy"
-   ],
-   "tmdbId": 1195803
-  },
   "wild-at-heart-1990": {
    "title": "Wild at Heart",
    "year": 1990,
@@ -1855,20 +1795,6 @@
    ],
    "tmdbId": 1452018
   },
-  "women-on-trial-2026": {
-   "title": "Women on Trial",
-   "year": 2026,
-   "director": "Lauriane Escaffre, Yvo Muller",
-   "runtime": 102,
-   "poster": "https://image.tmdb.org/t/p/w342/fArOu0NgRfth0zH5YqRu1os478v.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/WomenonTrialFEATUREDweb-300x168.jpg",
-   "overview": "1972. A landmark trial shakes France as young Marie-Claire is prosecuted for having an illegal abortion with the help of her mother and two other defendants. In a courtroom governed by men, the verdict seems inevitable: prison for the women, while the rapist goes unpunished. Their last hope lies with Gisèle Halimi, a fearless lawyer known for openly challenging patriarchy and confronting the…",
-   "genres": [
-    "History",
-    "Drama"
-   ],
-   "tmdbId": 1003494
-  },
   "yellow-letters-2026": {
    "title": "Yellow Letters",
    "year": 2026,
@@ -1921,306 +1847,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "15:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-18",
-   "time": "15:10",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668436~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "15:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "15:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "15:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "16:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "16:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "16:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "16:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "event-horizon-1997",
-   "title": "Event Horizon",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "16:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005753",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005753?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Sam Neill (1947–2026)"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-18",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668440~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "18:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "18:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "18:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunt-for-the-wilderpeople-2016",
-   "title": "Hunt for the Wilderpeople",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "18:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000682",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000682?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Sam Neill (1947–2026)",
-   "note": "10th Anniversary"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "godzilla-minus-zero-2026",
-   "title": "Godzilla Minus Zero",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "march-forth-post-screening-conversation-with-dwayne-betts-and-the-atlantics-clint-smith",
-   "title": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/b893c0f0-9359-4744-898d-fd8a50c184ef"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=668442~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "how-to-marry-a-millionaire-1953",
-   "title": "How to Marry a Millionaire",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "19:10",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/how-to-marry-a-millionaire",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29024-oj.jpg",
-   "series": "100 Years of Marilyn Monroe",
-   "note": "100 Years of Marilyn Monroe"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "19:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-18",
-   "time": "19:25",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/being-heumann",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29946-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "19:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wicker-2026",
-   "title": "Wicker",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-18",
-   "time": "19:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "women-on-trial-2026",
-   "title": "Women on Trial",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=662239~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/women-on-trial"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "20:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "begotten-1989",
-   "title": "Begotten",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005763",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005763?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-18",
-   "time": "21:05",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
   {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
