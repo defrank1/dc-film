@@ -1114,6 +1114,23 @@
    ]
   }
  },
+ "elsinore|2026": {
+  "at": "2026-11-20",
+  "q": "Elsinore",
+  "sig": "2026|||",
+  "data": {
+   "tmdbId": 1599230,
+   "title": "Elsinore",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+   "director": "Simon Stone",
+   "runtime": 111,
+   "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+   "genres": [
+    "Drama"
+   ]
+  }
+ },
  "event-horizon|1997": {
   "at": "2026-11-11",
   "q": "Event Horizon",
@@ -1600,6 +1617,12 @@
     "Comedy"
    ]
   }
+ },
+ "hay-fever|2027": {
+  "at": "2026-11-20",
+  "q": "Hay Fever",
+  "sig": "2027|||",
+  "data": null
  },
  "heysel-85|2026": {
   "at": "2026-11-11",
@@ -2639,6 +2662,24 @@
   "at": "2026-11-18",
   "q": "Mouse",
   "sig": "||tt13652154|",
+  "data": {
+   "tmdbId": 1241052,
+   "title": "Mouse",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+   "director": "Alex Thompson, Kelly O'Sullivan",
+   "runtime": 120,
+   "overview": "In 2002 Arkansas, Callie and Minnie’s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie’s mother.",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ]
+  }
+ },
+ "mouse|2026": {
+  "at": "2026-11-20",
+  "q": "Mouse",
+  "sig": "2026|||",
   "data": {
    "tmdbId": 1241052,
    "title": "Mouse",
@@ -4296,9 +4337,9 @@
   }
  },
  "white-christmas|1954": {
-  "at": "2026-11-18",
+  "at": "2026-11-20",
   "q": "White Christmas",
-  "sig": "1954|Michael Curtiz|tt0047673|",
+  "sig": "1954|Michael Curtiz||",
   "data": {
    "tmdbId": 13368,
    "title": "White Christmas",
@@ -4442,9 +4483,9 @@
   }
  },
  "wild-horse-nine|2026": {
-  "at": "2026-11-18",
+  "at": "2026-11-20",
   "q": "Wild Horse Nine",
-  "sig": "2026|Martin McDonagh|tt15799564|",
+  "sig": "2026|Martin McDonagh||",
   "data": {
    "tmdbId": 891621,
    "title": "Wild Horse Nine",

@@ -1,60 +1,61 @@
 {
- "generatedAt": "2026-11-19T20:39:51.345Z",
+ "generatedAt": "2026-11-20T07:19:39.169Z",
  "venues": {
   "4eye": {
    "status": "ok",
-   "count": 10,
-   "lastSuccess": "2026-11-19T20:39:20.295Z",
+   "count": 8,
+   "lastSuccess": "2026-11-20T07:18:36.912Z",
    "seconds": 0.6
   },
   "suns": {
    "status": "ok",
-   "count": 19,
-   "lastSuccess": "2026-11-19T20:39:20.377Z",
-   "seconds": 0.6
-  },
-  "miracle": {
-   "status": "ok",
-   "count": 10,
-   "lastSuccess": "2026-11-19T20:39:22.048Z",
-   "seconds": 2.3
+   "count": 17,
+   "lastSuccess": "2026-11-20T07:18:37.128Z",
+   "seconds": 0.8
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-19T20:39:23.099Z",
-   "seconds": 3.3,
+   "lastSuccess": "2026-11-20T07:18:38.729Z",
+   "seconds": 2.3,
    "message": "no upcoming screenings listed"
+  },
+  "miracle": {
+   "status": "ok",
+   "count": 10,
+   "lastSuccess": "2026-11-20T07:18:41.246Z",
+   "seconds": 4.9
   },
   "afi": {
    "status": "ok",
-   "count": 331,
-   "lastSuccess": "2026-11-19T20:39:26.417Z",
-   "seconds": 6.8
+   "count": 322,
+   "lastSuccess": "2026-11-20T07:18:42.541Z",
+   "seconds": 6.3
   },
   "angelika": {
    "status": "ok",
-   "count": 205,
-   "lastSuccess": "2026-11-19T20:39:36.912Z",
-   "seconds": 17.2
-  },
-  "avalon": {
-   "status": "ok",
-   "count": 83,
-   "lastSuccess": "2026-11-19T20:39:37.923Z",
-   "seconds": 18.2
+   "count": 200,
+   "lastSuccess": "2026-11-20T07:18:48.773Z",
+   "seconds": 12.5
   },
   "landmark": {
    "status": "ok",
-   "count": 131,
-   "lastSuccess": "2026-11-19T20:39:50.983Z",
-   "seconds": 31.2
+   "count": 120,
+   "lastSuccess": "2026-11-20T07:19:08.514Z",
+   "seconds": 32.1
   },
   "nga": {
    "status": "blocked",
    "count": 0,
    "lastSuccess": "2026-11-11T03:19:13.722Z",
    "message": "nga.gov kept showing its browser check instead of the calendar"
+  },
+  "avalon": {
+   "status": "error",
+   "count": 79,
+   "lastSuccess": "2026-11-19T20:39:37.923Z",
+   "message": "timeout of 30000ms exceeded",
+   "keptStale": true
   }
  }
 }
