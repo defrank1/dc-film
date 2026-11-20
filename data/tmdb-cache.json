@@ -197,6 +197,12 @@
    ]
   }
  },
+ "beginning-and-beginning-again-by-robert-beavers|": {
+  "at": "2026-11-20",
+  "q": "Beginning and Beginning Again by Robert Beavers",
+  "sig": "|||",
+  "data": null
+ },
  "begotten|": {
   "at": "2026-11-11",
   "q": "Begotten",
@@ -1261,6 +1267,18 @@
     "History"
    ]
   }
+ },
+ "films-for-children-big-kid-flicks-ages-8|": {
+  "at": "2026-11-20",
+  "q": "Films for Children: Big Kid Flicks, Ages 8+",
+  "sig": "|||",
+  "data": null
+ },
+ "films-for-children-little-kid-flicks-ages-5|": {
+  "at": "2026-11-20",
+  "q": "Films for Children: Little Kid Flicks, Ages 5+",
+  "sig": "|||",
+  "data": null
  },
  "flesh-and-fuel|2026": {
   "at": "2026-11-11",
@@ -2732,6 +2750,18 @@
    ]
   }
  },
+ "my-undesirable-friends-part-ii-exile-ch-1-3|2026": {
+  "at": "2026-11-20",
+  "q": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+  "sig": "2026|Julia Loktev||",
+  "data": null
+ },
+ "my-undesirable-friends-part-ii-exile-ch-4-5|2026": {
+  "at": "2026-11-20",
+  "q": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+  "sig": "2026|Julia Loktev||",
+  "data": null
+ },
  "network|": {
   "at": "2026-11-11",
   "q": "Network",
@@ -3447,6 +3477,25 @@
     "Animation",
     "Comedy",
     "Family"
+   ]
+  }
+ },
+ "ray-gunn|": {
+  "at": "2026-11-20",
+  "q": "Ray Gunn",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 940009,
+   "title": "Ray Gunn",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+   "director": "Brad Bird",
+   "runtime": 119,
+   "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Crime"
    ]
   }
  },
@@ -4339,7 +4388,7 @@
  "white-christmas|1954": {
   "at": "2026-11-20",
   "q": "White Christmas",
-  "sig": "1954|Michael Curtiz||",
+  "sig": "1954|Michael Curtiz|tt0047673|",
   "data": {
    "tmdbId": 13368,
    "title": "White Christmas",
@@ -4485,12 +4534,12 @@
  "wild-horse-nine|2026": {
   "at": "2026-11-20",
   "q": "Wild Horse Nine",
-  "sig": "2026|Martin McDonagh||",
+  "sig": "2026|Martin McDonagh|tt15799564|",
   "data": {
    "tmdbId": 891621,
    "title": "Wild Horse Nine",
    "year": 2026,
-   "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jc9lhVWASTgkuQiukNNxaivsTns.jpg",
    "director": "Martin McDonagh",
    "runtime": 117,
    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",

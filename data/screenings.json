@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-20T07:19:39.169Z",
+ "lastUpdated": "2026-11-20T20:24:01.232Z",
  "films": {
   "48-hour-film-holiday-project": {
    "title": "The 48 Hour Film Holiday Project",
@@ -72,6 +72,9 @@
     "Adventure"
    ],
    "tmdbId": 1003596
+  },
+  "beginning-and-beginning-again-by-robert-beavers": {
+   "title": "Beginning and Beginning Again by Robert Beavers"
   },
   "being-heumann-2026": {
    "title": "Being Heumann",
@@ -225,6 +228,7 @@
    "director": "Dominik Moll",
    "runtime": 115,
    "poster": "https://image.tmdb.org/t/p/w342/4QL4LcsYX8mdNktst0CnyHQDRLg.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/case-137FEATURED1web-300x177.jpg",
    "overview": "When Internal Affairs officer Stéphanie investigates a young man severely injured during a chaotic Paris demonstration and finds no police misconduct, the routine case hits close to home upon her discovering the victim is from her native town.",
    "genres": [
     "Crime",
@@ -269,6 +273,9 @@
    "tmdbId": 13669,
    "rep": true
   },
+  "cine-concert-berlin-symphony-of-a-great-city": {
+   "title": "Cine-concert: Berlin, Symphony of a Great City"
+  },
   "closure-2026": {
    "title": "Closure",
    "year": 2026,
@@ -309,6 +316,34 @@
     "War"
    ],
    "tmdbId": 1437981
+  },
+  "daisies-1966": {
+   "title": "Daisies",
+   "year": 1966,
+   "director": "Věra Chytilová",
+   "runtime": 76,
+   "poster": "https://image.tmdb.org/t/p/w342/8sxMhdn3i1Pn8OlGCBBjr9rjP1y.jpg",
+   "overview": "Two teenage girls embark on a series of destructive pranks in which they consume and destroy the world around them.",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "tmdbId": 46919,
+   "rep": true
+  },
+  "danton-1983": {
+   "title": "Danton",
+   "year": 1983,
+   "director": "Andrzej Wajda",
+   "runtime": 136,
+   "poster": "https://image.tmdb.org/t/p/w342/az5XParmpea0fxAjwEgHpUrXzw0.jpg",
+   "overview": "Danton and Robespierre were close friends and fought together in the French Revolution, but by 1793 Robespierre was France's ruler, determined to wipe out opposition with a series of mass executions that became known as the Reign of Terror. Danton, well known as a spokesman of the people, had been living in relative solitude in the French countryside, but he returned to Paris to challenge…",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "tmdbId": 4202,
+   "rep": true
   },
   "de-gaulle-part-one-resistance-2026": {
    "title": "De Gaulle - Part One: Résistance",
@@ -426,6 +461,7 @@
    "director": "Simon Stone",
    "runtime": 111,
    "poster": "https://image.tmdb.org/t/p/w342/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/ELSINOREfeaturedWEB-300x179.jpg",
    "overview": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
    "genres": [
     "Drama"
@@ -495,6 +531,12 @@
     "History"
    ],
    "tmdbId": 1437696
+  },
+  "films-for-children-big-kid-flicks-ages-8": {
+   "title": "Films for Children: Big Kid Flicks, Ages 8+"
+  },
+  "films-for-children-little-kid-flicks-ages-5": {
+   "title": "Films for Children: Little Kid Flicks, Ages 5+"
   },
   "flesh-and-fuel-2026": {
    "title": "Flesh & Fuel",
@@ -569,6 +611,7 @@
    "director": "Yarrow Cheney, Scott Mosier",
    "runtime": 85,
    "poster": "https://image.tmdb.org/t/p/w342/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/THEGRINCHfeaturedWEB-300x162.jpg",
    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
    "genres": [
     "Animation",
@@ -615,9 +658,21 @@
    ],
    "tmdbId": 1706729
   },
+  "guy-maddins-careful": {
+   "title": "Guy Maddin's Careful"
+  },
   "hay-fever-2027": {
    "title": "Hay Fever",
-   "year": 2027
+   "year": 2027,
+   "director": "Emily Burns",
+   "runtime": 120,
+   "poster": "https://image.tmdb.org/t/p/w342/idaFzvv0msHN54Zi2N3olNwYclO.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/HAYFEVERfeaturedWEB-300x158.jpg",
+   "overview": "It's loathsome being looked after. Last year, Judith retired from her life-on-stage. Already, she misses the applause. Idling away at their country home, the rest of the family—reclusive novelist husband David and failure-to-launch children Sorrel and Simon—are too self-involved to be a good audience. So, Judith invites a young fan as her guest for the weekend. But unbeknownst to her, each of the…",
+   "genres": [
+    "Comedy"
+   ],
+   "tmdbId": 1791571
   },
   "heysel-85-2026": {
    "title": "Heysel 85",
@@ -847,6 +902,7 @@
    "director": "Greta Gerwig",
    "runtime": 135,
    "poster": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/LITTLEWOMENfeaturedWEB-300x173.jpg",
    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
    "genres": [
     "Drama",
@@ -919,6 +975,7 @@
    "director": "Thomas Winston",
    "runtime": 90,
    "poster": "https://image.tmdb.org/t/p/w342/lM983GPSFdNF9FUP2q3cDj23cvj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/LWOYfeaturedWEB-300x169.jpg",
    "overview": "Once on the brink of extinction in the American West, the gray wolf’s comeback is astonishing, an incredible true story with many heroes, and one crucial heroine.",
    "genres": [
     "Documentary"
@@ -1000,6 +1057,7 @@
    "director": "Alex Thompson, Kelly O'Sullivan",
    "runtime": 120,
    "poster": "https://image.tmdb.org/t/p/w342/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/MOUSEfeaturedWEB-300x162.jpg",
    "overview": "In 2002 Arkansas, Callie and Minnie’s friendship is suddenly upended the summer before their senior year of high school. Left rudderless without her best friend, Minnie forms a complicated bond with Callie’s mother.",
    "genres": [
     "Drama",
@@ -1036,6 +1094,20 @@
    ],
    "tmdbId": 10874,
    "rep": true
+  },
+  "my-undesirable-friends-part-ii-exile-ch-1-3-2026": {
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "year": 2026,
+   "director": "Julia Loktev",
+   "runtime": 192,
+   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005828?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  "my-undesirable-friends-part-ii-exile-ch-4-5-2026": {
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "year": 2026,
+   "director": "Julia Loktev",
+   "runtime": 164,
+   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005829?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   "network-1976": {
    "title": "Network",
@@ -1120,6 +1192,18 @@
    "tmdbId": 47423,
    "rep": true
   },
+  "once-upon-a-time-in-harlem-2026": {
+   "title": "Once Upon a Time in Harlem",
+   "year": 2026,
+   "director": "David Greaves, William Greaves",
+   "runtime": 100,
+   "poster": "https://image.tmdb.org/t/p/w342/9eukk5gby8NZCwraiC7mloZmasP.jpg",
+   "overview": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance.",
+   "genres": [
+    "Documentary"
+   ],
+   "tmdbId": 1596300
+  },
   "once-upon-a-time-in-hollywood-2019": {
    "title": "Once Upon a Time in… Hollywood",
    "year": 2019,
@@ -1188,6 +1272,9 @@
    ],
    "tmdbId": 1157869
   },
+  "peter-hutton-behind-the-camera-no-picnic": {
+   "title": "Peter Hutton Behind the Camera: No Picnic"
+  },
   "phantom-beirut-1998": {
    "title": "Phantom Beirut",
    "year": 1998,
@@ -1241,6 +1328,18 @@
    ],
    "tmdbId": 446354,
    "rep": true
+  },
+  "powwow-people-2025": {
+   "title": "Powwow People",
+   "year": 2025,
+   "director": "Sky Hopinka",
+   "runtime": 88,
+   "poster": "https://image.tmdb.org/t/p/w342/mSg1slgGPe3xTBntfAWxpvTEOrT.jpg",
+   "overview": "Powwow People is a portrait of a powwow and its participants.",
+   "genres": [
+    "Documentary"
+   ],
+   "tmdbId": 1249271
   },
   "prison-on-fire-1987": {
    "title": "Prison on Fire",
@@ -1322,6 +1421,20 @@
    ],
    "tmdbId": 2062,
    "rep": true
+  },
+  "ray-gunn-2026": {
+   "title": "Ray Gunn",
+   "year": 2026,
+   "director": "Brad Bird",
+   "runtime": 119,
+   "poster": "https://image.tmdb.org/t/p/w342/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+   "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
+   "genres": [
+    "Animation",
+    "Science Fiction",
+    "Crime"
+   ],
+   "tmdbId": 940009
   },
   "razors-edge-1985": {
    "title": "The Razor's Edge",
@@ -1410,6 +1523,9 @@
    ],
    "tmdbId": 29578,
    "rep": true
+  },
+  "shadow-line": {
+   "title": "The Shadow Line"
   },
   "shame-and-money-2026": {
    "title": "Shame and Money",
@@ -1640,6 +1756,9 @@
    ],
    "tmdbId": 1490241
   },
+  "wedding": {
+   "title": "The Wedding"
+  },
   "welcome-ii-the-terrordome-1995": {
    "title": "Welcome II the Terrordome",
    "year": 1995,
@@ -1660,6 +1779,7 @@
    "director": "Michael Curtiz",
    "runtime": 120,
    "poster": "https://image.tmdb.org/t/p/w342/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/WhiteChristmasFEATUREDweb-300x174.jpg",
    "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
    "genres": [
     "Comedy",
@@ -1681,6 +1801,20 @@
    ],
    "tmdbId": 1162823
   },
+  "who-killed-santa-claus-1941": {
+   "title": "Who Killed Santa Claus?",
+   "year": 1941,
+   "director": "Christian-Jaque",
+   "runtime": 105,
+   "poster": "https://image.tmdb.org/t/p/w342/xScDM79VloXlS53zZHiiHgl0add.jpg",
+   "overview": "A village in the French Alps is rocked by a series of crimes, including the theft of a sacred ring and the murder of a man dressed as Père Noël (Father Christmas).",
+   "genres": [
+    "Crime",
+    "Mystery"
+   ],
+   "tmdbId": 6296,
+   "rep": true
+  },
   "wild-at-heart-1990": {
    "title": "Wild at Heart",
    "year": 1990,
@@ -1701,7 +1835,8 @@
    "year": 2026,
    "director": "Martin McDonagh",
    "runtime": 117,
-   "poster": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jc9lhVWASTgkuQiukNNxaivsTns.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/09/WILDHORSENINEfeaturedWEB-300x163.jpg",
    "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "genres": [
     "Comedy",
@@ -1783,6 +1918,7 @@
    "director": "Nathan Fielder and Lance Oppenheim",
    "runtime": 175,
    "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/YCSEfeaturedWEB-300x185.jpg",
    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
    "genres": [
     "Documentary"
@@ -1803,193 +1939,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "11:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-20",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670035~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "11:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-20",
-   "time": "11:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-20",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670060~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-20",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wizard-of-oz-1939",
-   "title": "The Wizard of Oz",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "11:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-20",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "12:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "12:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "13:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "13:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "13:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "13:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "13:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-20",
-   "time": "13:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "pans-labyrinth-2006",
-   "title": "Pan's Labyrinth",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-20",
-   "time": "14:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | New 4K Restoration"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-20",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670036~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-20",
-   "time": "15:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
@@ -2548,6 +2497,17 @@
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/6b06e0fd-be2b-4ca2-bb5f-608d0ba5a866",
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/480e7f3c5cec8c6460773e1211cadebc-small.jpg",
    "note": "Open Audio Description"
+  },
+  {
+   "film": "wedding",
+   "title": "The Wedding",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/wedding?evd=202611211900",
+   "series": "Wajda 100 Literary Adaptations",
+   "note": "Free · Registration required"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3112,6 +3072,17 @@
    "time": "14:00",
    "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/8aa980ac-b43b-4d96-98fb-d1a0c4890920",
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/d3b1b22ae288b540f657fc4b4fb61d3c-small.jpg"
+  },
+  {
+   "film": "shadow-line",
+   "title": "The Shadow Line",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/shadow-line?evd=202611221900",
+   "series": "Wajda 100 Literary Adaptations",
+   "note": "Free · Registration required"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -5158,6 +5129,16 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
+   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
+  },
+  {
    "film": "confucian-confusion-1994",
    "title": "A Confucian Confusion",
    "venueId": "suns",
@@ -5221,6 +5202,15 @@
    "note": "35mm · 25th Anniversary"
   },
   {
+   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "20:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
+  },
+  {
    "film": "yi-yi-2000",
    "title": "Yi Yi",
    "venueId": "suns",
@@ -5240,6 +5230,16 @@
    "time": "11:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670108~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "11:20",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
+   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
   },
   {
    "film": "elsinore-2026",
@@ -5306,6 +5306,17 @@
    "note": "4K Restoration | AFI’s 100 Years...100 Songs"
   },
   {
+   "film": "danton-1983",
+   "title": "Danton",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-11-28",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/danton?evd=202611281900",
+   "series": "Wajda 100 Literary Adaptations",
+   "note": "Free · Registration required"
+  },
+  {
    "film": "elsinore-2026",
    "title": "Elsinore",
    "venueId": "avalon",
@@ -5314,6 +5325,15 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670100~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "15:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -5513,6 +5533,16 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "powwow-people-2025",
+   "title": "Powwow People",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/powwow-people?evd=202611291900",
+   "note": "Free"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5541,6 +5571,16 @@
    "time": "16:45",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670104~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
+   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
   },
   {
    "film": "hole-1998",
@@ -5603,6 +5643,15 @@
    "time": "19:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670121~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "20:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
   },
   {
    "film": "razors-edge-1985",
@@ -5795,6 +5844,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "17:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
+   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
+  },
+  {
    "film": "hole-1998",
    "title": "The Hole",
    "venueId": "afi",
@@ -5836,6 +5895,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "20:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
   },
   {
    "film": "night-at-the-museum-2006",
@@ -5940,6 +6008,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "11:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
+   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -5969,6 +6047,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100004096",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004096?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "75th Anniversary"
+  },
+  {
+   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
+   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "15:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -6045,6 +6132,15 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005794?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "series": "New Releases",
    "note": "Special Presentation | 2027 Oscar® Selection, France"
+  },
+  {
+   "film": "ray-gunn-2026",
+   "title": "Ray Gunn",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-04",
+   "time": "16:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "closure-2026",
@@ -6142,6 +6238,28 @@
    "note": "2027 Oscar® Selection, Italy"
   },
   {
+   "film": "films-for-children-little-kid-flicks-ages-5",
+   "title": "Films for Children: Little Kid Flicks, Ages 5+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-05",
+   "time": "10:15",
+   "ticketLink": "https://www.nga.gov/calendar/first-saturday-festivals/films-children-little-kid-flicks-ages-5?evd=202612051515",
+   "series": "First Saturday Festivals",
+   "note": "Free · Registration required"
+  },
+  {
+   "film": "films-for-children-big-kid-flicks-ages-8",
+   "title": "Films for Children: Big Kid Flicks, Ages 8+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-05",
+   "time": "11:15",
+   "ticketLink": "https://www.nga.gov/calendar/first-saturday-festivals/films-children-big-kid-flicks-ages-8?evd=202612051615",
+   "series": "First Saturday Festivals",
+   "note": "Free · Registration required"
+  },
+  {
    "film": "closure-2026",
    "title": "Closure",
    "venueId": "afi",
@@ -6203,6 +6321,15 @@
    "time": "15:40",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005815",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005815?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "ray-gunn-2026",
+   "title": "Ray Gunn",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-05",
+   "time": "16:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "minotaur-2026",
@@ -6302,6 +6429,16 @@
    "note": "35mm"
   },
   {
+   "film": "beginning-and-beginning-again-by-robert-beavers",
+   "title": "Beginning and Beginning Again by Robert Beavers",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-06",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/beginning-and-beginning-again-robert-beavers?evd=202612061900",
+   "note": "Free"
+  },
+  {
    "film": "scent-of-things-remembered-2025",
    "title": "The Scent of Things Remembered",
    "venueId": "afi",
@@ -6333,6 +6470,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005820",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005820?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm · Special Presentation | 2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "ray-gunn-2026",
+   "title": "Ray Gunn",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-06",
+   "time": "16:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "grinch-2018",
@@ -6837,6 +6983,26 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005796?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "films-for-children-little-kid-flicks-ages-5",
+   "title": "Films for Children: Little Kid Flicks, Ages 5+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-12",
+   "time": "10:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-little-kid-flicks-ages-5?evd=202612121515",
+   "note": "Free"
+  },
+  {
+   "film": "films-for-children-big-kid-flicks-ages-8",
+   "title": "Films for Children: Big Kid Flicks, Ages 8+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-12",
+   "time": "11:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-big-kid-flicks-ages-8?evd=202612121615",
+   "note": "Free"
+  },
+  {
    "film": "our-erika-2026",
    "title": "Our Erika",
    "venueId": "afi",
@@ -6876,6 +7042,17 @@
    "time": "13:50",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005798",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005798?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "daisies-1966",
+   "title": "Daisies",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-12",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/daisies?evd=202612121900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "coward-2026",
@@ -6981,6 +7158,17 @@
    "time": "13:30",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005781",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005781?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "cine-concert-berlin-symphony-of-a-great-city",
+   "title": "Cine-concert: Berlin, Symphony of a Great City",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-13",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/cine-concert-berlin-symphony-great-city?evd=202612131900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "nina-roza-2026",
@@ -7722,6 +7910,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
   },
   {
+   "film": "films-for-children-little-kid-flicks-ages-5",
+   "title": "Films for Children: Little Kid Flicks, Ages 5+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-19",
+   "time": "10:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-little-kid-flicks-ages-5?evd=202612191515",
+   "note": "Free"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "angelika",
@@ -7761,6 +7959,16 @@
    "time": "11:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005826",
    "note": "$5 tickets for children 12 and under"
+  },
+  {
+   "film": "films-for-children-big-kid-flicks-ages-8",
+   "title": "Films for Children: Big Kid Flicks, Ages 8+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-19",
+   "time": "11:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-big-kid-flicks-ages-8?evd=202612191615",
+   "note": "Free"
   },
   {
    "film": "paikar-2025",
@@ -7843,6 +8051,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005655",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005655?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "70mm"
+  },
+  {
+   "film": "peter-hutton-behind-the-camera-no-picnic",
+   "title": "Peter Hutton Behind the Camera: No Picnic",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-19",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/peter-hutton-behind-camera-no-picnic?evd=202612191900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -8094,6 +8313,17 @@
    "time": "13:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "who-killed-santa-claus-1941",
+   "title": "Who Killed Santa Claus?",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-20",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/who-killed-santa-claus?evd=202612201900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "muppet-christmas-carol-1992",
@@ -9018,6 +9248,26 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27754-oj.jpg"
   },
   {
+   "film": "films-for-children-little-kid-flicks-ages-5",
+   "title": "Films for Children: Little Kid Flicks, Ages 5+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-26",
+   "time": "10:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-little-kid-flicks-ages-5?evd=202612261515",
+   "note": "Free"
+  },
+  {
+   "film": "films-for-children-big-kid-flicks-ages-8",
+   "title": "Films for Children: Big Kid Flicks, Ages 8+",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-26",
+   "time": "11:15",
+   "ticketLink": "https://www.nga.gov/calendar/films-children-big-kid-flicks-ages-8?evd=202612261615",
+   "note": "Free"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "angelika",
@@ -9036,6 +9286,17 @@
    "time": "13:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "guy-maddins-careful",
+   "title": "Guy Maddin's Careful",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-26",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/guy-maddins-careful?evd=202612261900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "dune-part-three-2026",
@@ -9117,6 +9378,17 @@
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg",
    "note": "Open Captions"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem-2026",
+   "title": "Once Upon a Time in Harlem",
+   "venueId": "nga",
+   "venue": "National Gallery of Art",
+   "date": "2026-12-27",
+   "time": "14:00",
+   "ticketLink": "https://www.nga.gov/calendar/vaults-recent-film-restorations/once-upon-time-harlem?evd=202612271900",
+   "series": "Vaults Recent Film Restorations",
+   "note": "Free · Registration required"
   },
   {
    "film": "dune-part-three-2026",
