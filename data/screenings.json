@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-21T07:11:02.243Z",
+ "lastUpdated": "2026-11-21T19:18:22.021Z",
  "films": {
   "adult-supervision-2026": {
    "title": "Adult Supervision",
@@ -741,21 +741,6 @@
     "Adventure"
    ],
    "tmdbId": 1300968
-  },
-  "hunt-for-the-wilderpeople-2016": {
-   "title": "Hunt for the Wilderpeople",
-   "year": 2016,
-   "director": "Taika Waititi",
-   "runtime": 101,
-   "poster": "https://image.tmdb.org/t/p/w342/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
-   "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
-   "genres": [
-    "Adventure",
-    "Comedy",
-    "Drama"
-   ],
-   "tmdbId": 371645,
-   "rep": true
   },
   "if-pigeons-turned-to-gold-2026": {
    "title": "If Pigeons Turned to Gold",
@@ -1549,20 +1534,6 @@
    "tmdbId": 239,
    "rep": true
   },
-  "soul-food-1997": {
-   "title": "Soul Food",
-   "year": 1997,
-   "director": "George Tillman Jr.",
-   "runtime": 114,
-   "poster": "https://image.tmdb.org/t/p/w342/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
-   "overview": "Traditional Sunday dinners at Mama Joe's turn sour when sisters Teri, Bird and Maxine start bringing their problems to the dinner table in this ensemble comedy. When tragedy strikes, it's up to grandson Ahmad to pull the family together and put the soul back into the family's weekly gatherings.",
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "tmdbId": 29461,
-   "rep": true
-  },
   "spiral-2026": {
    "title": "The Spiral",
    "year": 2026,
@@ -1656,6 +1627,20 @@
    "director": "Tony Ching Siu-Tung",
    "runtime": 107,
    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134946/nHDvrm1tpaZIE3g5ZENIW7Kfe1E-scaled.jpg",
+   "rep": true
+  },
+  "taste-of-things-2023": {
+   "title": "The Taste of Things",
+   "year": 2023,
+   "director": "Trần Anh Hùng",
+   "runtime": 135,
+   "poster": "https://image.tmdb.org/t/p/w342/pYwK6rg0pmxDxzdtECABUsf49Eu.jpg",
+   "overview": "Set in 1889 France, Dodin Bouffant is a chef living with his personal cook and lover Eugénie. They share a long history of gastronomy and love but Eugénie refuses to marry Dodin, so the food lover decides to do something he has never done before: cook for her.",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "tmdbId": 964960,
    "rep": true
   },
   "that-day-on-the-beach-1983": {
@@ -1905,177 +1890,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "ratatouille-2007",
-   "title": "Ratatouille",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-21",
-   "time": "10:30",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/fbad1d16-2f9b-4917-aa48-759100f71f7c",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/94435f130aa2e18efca8cec787f55146-small.jpg"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "hunt-for-the-wilderpeople-2016",
-   "title": "Hunt for the Wilderpeople",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000682",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000682?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Sam Neill (1947–2026)",
-   "note": "10th Anniversary"
-  },
-  {
-   "film": "alice-in-wonderland-1951",
-   "title": "Alice in Wonderland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "11:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005757",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "75th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-21",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670055~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-21",
-   "time": "11:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-21",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670061~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-21",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-21",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-21",
-   "time": "12:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-21",
-   "time": "12:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "12:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wizard-of-oz-1939",
-   "title": "The Wizard of Oz",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "13:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "network-1976",
-   "title": "Network",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-21",
-   "time": "13:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000978",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000978?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "50th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-21",
-   "time": "13:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-21",
-   "time": "13:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-21",
-   "time": "13:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
@@ -3353,16 +3167,6 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27060-oj.jpg",
    "series": "Angelika Classics",
    "note": "Angelika Classics"
-  },
-  {
-   "film": "soul-food-1997",
-   "title": "Soul Food",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/e72a98a4-c6da-4fd9-b4ab-1f02b9d269b7",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/8be82f23ac4d94f417ceb42f07f92db6-small.jpg"
   },
   {
    "film": "you-can-see-everything-2026",
@@ -4715,6 +4519,16 @@
    "note": "Preceded by a recorded intro by executive producer Meryl Streep"
   },
   {
+   "film": "ratatouille-2007",
+   "title": "Ratatouille",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/3753ece0-e37a-447f-88f2-eece2fa015c8",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/51e63831f579031e0bbf6218f4b4a058-small.jpg"
+  },
+  {
    "film": "confucian-confusion-1994",
    "title": "A Confucian Confusion",
    "venueId": "suns",
@@ -4765,6 +4579,16 @@
    "time": "19:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670105~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "taste-of-things-2023",
+   "title": "The Taste of Things",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/7095dfda-f53d-45ce-bd07-3056df44bfa2",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/9feaff1837b774ab69a15dbef720ae97-small.jpg"
   },
   {
    "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
