@@ -636,6 +636,23 @@
    ]
   }
  },
+ "chef|": {
+  "at": "2026-11-22",
+  "q": "Chef",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 212778,
+   "title": "Chef",
+   "year": 2014,
+   "poster": "https://image.tmdb.org/t/p/w342/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
+   "director": "Jon Favreau",
+   "runtime": 114,
+   "overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen --…",
+   "genres": [
+    "Comedy"
+   ]
+  }
+ },
  "chicken-run|2000": {
   "at": "2026-11-11",
   "q": "Chicken Run",
@@ -2553,6 +2570,24 @@
   "q": "March Forth + Post Screening Conversation with Dwayne Betts and The Atlantic's Clint Smith",
   "sig": "|||",
   "data": null
+ },
+ "menu|": {
+  "at": "2026-11-22",
+  "q": "The Menu",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 593643,
+   "title": "The Menu",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+   "director": "Mark Mylod",
+   "runtime": 107,
+   "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+   "genres": [
+    "Comedy",
+    "Horror"
+   ]
+  }
  },
  "minotaur|2026": {
   "at": "2026-11-12",
@@ -4603,6 +4638,25 @@
     "War",
     "Thriller",
     "Crime"
+   ]
+  }
+ },
+ "willy-wonka-and-the-chocolate-factory|": {
+  "at": "2026-11-22",
+  "q": "Willy Wonka & the Chocolate Factory",
+  "sig": "|||",
+  "data": {
+   "tmdbId": 252,
+   "title": "Willy Wonka & the Chocolate Factory",
+   "year": 1971,
+   "poster": "https://image.tmdb.org/t/p/w342/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+   "director": "Mel Stuart",
+   "runtime": 100,
+   "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+   "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy"
    ]
   }
  },
