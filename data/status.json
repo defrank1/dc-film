@@ -1,60 +1,60 @@
 {
- "generatedAt": "2026-11-23T07:41:38.446Z",
+ "generatedAt": "2026-11-23T23:55:58.582Z",
  "venues": {
-  "4eye": {
-   "status": "ok",
-   "count": 4,
-   "lastSuccess": "2026-11-23T07:41:06.550Z",
-   "seconds": 0.4
-  },
   "suns": {
    "status": "ok",
    "count": 12,
-   "lastSuccess": "2026-11-23T07:41:07.013Z",
-   "seconds": 0.9
+   "lastSuccess": "2026-11-23T23:54:54.636Z",
+   "seconds": 0.5
   },
-  "loc": {
-   "status": "empty",
-   "count": 0,
-   "lastSuccess": "2026-11-23T07:41:09.182Z",
-   "seconds": 2.9,
-   "message": "no upcoming screenings listed"
+  "4eye": {
+   "status": "ok",
+   "count": 4,
+   "lastSuccess": "2026-11-23T23:54:54.965Z",
+   "seconds": 0.8
   },
   "miracle": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-23T07:41:11.202Z",
-   "seconds": 5.1
+   "lastSuccess": "2026-11-23T23:54:57.685Z",
+   "seconds": 3.5
   },
   "afi": {
    "status": "ok",
-   "count": 290,
-   "lastSuccess": "2026-11-23T07:41:15.796Z",
-   "seconds": 9.8
+   "count": 280,
+   "lastSuccess": "2026-11-23T23:55:02.061Z",
+   "seconds": 8
   },
   "angelika": {
    "status": "ok",
-   "count": 167,
-   "lastSuccess": "2026-11-23T07:41:17.752Z",
-   "seconds": 11.6
+   "count": 166,
+   "lastSuccess": "2026-11-23T23:55:09.281Z",
+   "seconds": 15.1
   },
   "avalon": {
    "status": "ok",
-   "count": 58,
-   "lastSuccess": "2026-11-23T07:41:19.516Z",
-   "seconds": 13.4
-  },
-  "nga": {
-   "status": "ok",
-   "count": 17,
-   "lastSuccess": "2026-11-23T07:41:19.955Z",
-   "seconds": 13.8
+   "count": 53,
+   "lastSuccess": "2026-11-23T23:55:09.604Z",
+   "seconds": 15.4
   },
   "landmark": {
    "status": "ok",
-   "count": 63,
-   "lastSuccess": "2026-11-23T07:41:37.728Z",
-   "seconds": 31.5
+   "count": 48,
+   "lastSuccess": "2026-11-23T23:55:24.564Z",
+   "seconds": 30.3
+  },
+  "nga": {
+   "status": "blocked",
+   "count": 17,
+   "lastSuccess": "2026-11-23T07:41:19.955Z",
+   "message": "nga.gov kept showing its browser check instead of the calendar",
+   "keptStale": true
+  },
+  "loc": {
+   "status": "error",
+   "count": 0,
+   "lastSuccess": "2026-11-23T07:41:09.182Z",
+   "message": "Request failed with status code 429"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T07:41:38.446Z",
+ "lastUpdated": "2026-11-23T23:55:58.582Z",
  "films": {
   "adult-supervision-2026": {
    "title": "Adult Supervision",
@@ -1305,6 +1305,14 @@
    "tmdbId": 21539,
    "rep": true
   },
+  "prince-3121-las-vegas-live-2026": {
+   "title": "Prince: 3121 Las Vegas Live",
+   "year": 2026,
+   "runtime": 115,
+   "poster": "https://image.tmdb.org/t/p/w342/6HCxwebALmNKyRk3xbn5Kxo2P5v.jpg",
+   "overview": "Prepare for an electrifying, once in a lifetime concert experience as Prince commands the stage in 3121 Las Vegas Live. At the height of his legendary Las Vegas residency, Prince delivers a breathtaking showcase of unparalleled musicianship, explosive energy, dazzling guitar work, and unforgettable performances. Blending funk, rock, soul, R&B, and pop, he tears through hits, fan favorites, deep…",
+   "tmdbId": 1828745
+  },
   "prosecution-2026": {
    "title": "Prosecution",
    "year": 2026,
@@ -1834,290 +1842,9 @@
    "venueId": "afi",
    "venue": "AFI Silver Theatre",
    "date": "2026-11-23",
-   "time": "11:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "11:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670075~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wizard-of-oz-1939",
-   "title": "The Wizard of Oz",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "11:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670072~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "11:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "12:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "12:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "13:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "spirited-away-2001",
-   "title": "Spirited Away",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "13:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100003417",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "25th Anniversary"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "13:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670077~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "15:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "15:10",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670073~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "15:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "15:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "15:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "planes-trains-and-automobiles-1987",
-   "title": "Planes, Trains and Automobiles",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "16:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/planes-trains-and-automobiles",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27060-oj.jpg",
-   "series": "Angelika Classics",
-   "note": "Angelika Classics"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "16:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "16:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "16:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "16:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "shaun-the-sheep-movie-2015",
-   "title": "Shaun the Sheep Movie",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "16:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000326",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000326?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "Free Thanksgiving Day Community Screening on Nov. 26"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670078~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "18:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
    "time": "18:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "18:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "welcome-ii-the-terrordome-1995",
@@ -2377,16 +2104,6 @@
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-24",
-   "time": "15:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "landmark",
@@ -2565,25 +2282,6 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-24",
-   "time": "18:50",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
    "film": "edward-ii-1991",
    "title": "Edward II",
    "venueId": "suns",
@@ -2756,6 +2454,17 @@
    "time": "11:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670088~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-25",
+   "time": "11:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -3105,6 +2814,17 @@
    "note": "Free Thanksgiving Day Community Screening on Nov. 26"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "11:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3279,6 +2999,17 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "18:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
    "film": "steps",
    "title": "Steps",
    "venueId": "landmark",
@@ -3398,17 +3129,6 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
-   "film": "third-man-1949",
-   "title": "The Third Man",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "11:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000148",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000148?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · New 35mm Print"
-  },
-  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3417,6 +3137,17 @@
    "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "13:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -3448,17 +3179,6 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670099~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "once-upon-a-time-in-hollywood-2019",
-   "title": "Once Upon a Time in… Hollywood",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "14:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100002575",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002575?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "70mm"
   },
   {
    "film": "streetcar-named-desire-1951",
@@ -3574,6 +3294,17 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
    "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
    "title": "The Lord of the Rings: The Fellowship of the Ring",
    "venueId": "afi",
@@ -3603,6 +3334,16 @@
    "ticketLink": "https://sunscinema.com/movies/yi-yi/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
    "soldOut": true
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "21:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "willy-wonka-and-the-chocolate-factory-1971",
@@ -3876,6 +3617,16 @@
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29140010/83GRYRWEXWkfGbDBIpEhXdEhONA-scaled.jpg"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "21:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "venueId": "afi",
@@ -4115,7 +3866,7 @@
    "venueId": "angelika",
    "venue": "Angelika Pop-Up at Union Market",
    "date": "2026-11-30",
-   "time": "13:00",
+   "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
@@ -4131,6 +3882,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "15:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
    "film": "night-at-the-museum-2006",
    "title": "Night at the Museum",
    "venueId": "afi",
@@ -4140,16 +3901,6 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005758",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005758?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "20th Anniversary"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-30",
-   "time": "16:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
    "film": "swordsman-1990",
@@ -4179,7 +3930,7 @@
    "venueId": "angelika",
    "venue": "Angelika Pop-Up at Union Market",
    "date": "2026-11-30",
-   "time": "20:00",
+   "time": "19:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
@@ -4501,6 +4252,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005792",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005792?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Special Presentation"
+  },
+  {
+   "film": "prince-3121-las-vegas-live-2026",
+   "title": "Prince: 3121 Las Vegas Live",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "18:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005830",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005830?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -6396,24 +6157,6 @@
    "note": "2027 Oscar® Selection, Netherlands"
   },
   {
-   "film": "avengers-doomsday-2026",
-   "title": "Avengers: Doomsday",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "12:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "dune-part-three-2026",
-   "title": "Dune: Part Three",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "12:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "angelika",
@@ -6478,15 +6221,6 @@
    "note": "Free · Registration required"
   },
   {
-   "film": "avengers-doomsday-2026",
-   "title": "Avengers: Doomsday",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "15:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
    "film": "trial-of-hein-2026",
    "title": "Trial of Hein",
    "venueId": "afi",
@@ -6506,15 +6240,6 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "4K Restoration | $5 tickets for children 12 and under"
-  },
-  {
-   "film": "dune-part-three-2026",
-   "title": "Dune: Part Three",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "16:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "dune-part-three-2026",
@@ -6568,24 +6293,6 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005795",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005795?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Closing Night"
-  },
-  {
-   "film": "avengers-doomsday-2026",
-   "title": "Avengers: Doomsday",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "dune-part-three-2026",
-   "title": "Dune: Part Three",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-12-19",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "all-of-a-sudden-2026",
