@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-22T19:42:44.968Z",
+ "lastUpdated": "2026-11-23T07:41:38.446Z",
  "films": {
   "adult-supervision-2026": {
    "title": "Adult Supervision",
@@ -1278,20 +1278,6 @@
    "tmdbId": 2609,
    "rep": true
   },
-  "post-2017": {
-   "title": "The Post",
-   "year": 2017,
-   "director": "Steven Spielberg",
-   "runtime": 116,
-   "poster": "https://image.tmdb.org/t/p/w342/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
-   "overview": "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
-   "genres": [
-    "Drama",
-    "History"
-   ],
-   "tmdbId": 446354,
-   "rep": true
-  },
   "powwow-people-2025": {
    "title": "Powwow People",
    "year": 2025,
@@ -1444,24 +1430,6 @@
    ],
    "tmdbId": 1496142
   },
-  "seven-per-cent-solution-1976": {
-   "title": "The Seven-Per-Cent Solution",
-   "year": 1976,
-   "director": "Herbert Ross",
-   "runtime": 113,
-   "poster": "https://image.tmdb.org/t/p/w342/wvrFj27OmsrTC04n57huYciFFPT.jpg",
-   "overview": "Concerned about his friend's cocaine use, Dr. Watson tricks Sherlock Holmes into travelling to Vienna, where Holmes enters the care of Sigmund Freud. Freud attempts to solve the mysteries of Holmes' subconscious, while Holmes devotes himself to solving a mystery involving the kidnapping of Lola Deveraux.",
-   "genres": [
-    "Mystery",
-    "Thriller",
-    "Comedy"
-   ],
-   "tmdbId": 29578,
-   "rep": true
-  },
-  "shadow-line": {
-   "title": "The Shadow Line"
-  },
   "shame-and-money-2026": {
    "title": "Shame and Money",
    "year": 2026,
@@ -1613,20 +1581,6 @@
    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134946/nHDvrm1tpaZIE3g5ZENIW7Kfe1E-scaled.jpg",
    "rep": true
   },
-  "taste-of-things-2023": {
-   "title": "The Taste of Things",
-   "year": 2023,
-   "director": "Trần Anh Hùng",
-   "runtime": 135,
-   "poster": "https://image.tmdb.org/t/p/w342/pYwK6rg0pmxDxzdtECABUsf49Eu.jpg",
-   "overview": "Set in 1889 France, Dodin Bouffant is a chef living with his personal cook and lover Eugénie. They share a long history of gastronomy and love but Eugénie refuses to marry Dodin, so the food lover decides to do something he has never done before: cook for her.",
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "tmdbId": 964960,
-   "rep": true
-  },
   "that-day-on-the-beach-1983": {
    "title": "That Day, on the Beach",
    "year": 1983,
@@ -1720,18 +1674,6 @@
    ],
    "tmdbId": 13368,
    "rep": true
-  },
-  "who-killed-alex-odeh-2026": {
-   "title": "Who Killed Alex Odeh?",
-   "year": 2026,
-   "director": "Jason Osder, William Lafi Youmans",
-   "runtime": 83,
-   "poster": "https://image.tmdb.org/t/p/w342/gWN2cQ79PXGc0Vyf5KmAeu3zKgY.jpg",
-   "overview": "In October 1985, Santa Ana, California was shaken by a brazen act of political violence when Palestinian American Alex Odeh, a beloved teacher and community leader, was killed by a tripwire bomb planted in his office. Despite substantial evidence and identified suspects, the case was never solved. Who Killed Alex Odeh? reopens the mystery, tracking a renewed investigation in real time as new…",
-   "genres": [
-    "Documentary"
-   ],
-   "tmdbId": 1162823
   },
   "who-killed-santa-claus-1941": {
    "title": "Who Killed Santa Claus?",
@@ -1886,355 +1828,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "post-2017",
-   "title": "The Post",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-22",
-   "time": "14:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/8aa980ac-b43b-4d96-98fb-d1a0c4890920",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/d3b1b22ae288b540f657fc4b4fb61d3c-small.jpg"
-  },
-  {
-   "film": "shadow-line",
-   "title": "The Shadow Line",
-   "venueId": "nga",
-   "venue": "National Gallery of Art",
-   "date": "2026-11-22",
-   "time": "14:00",
-   "ticketLink": "https://www.nga.gov/calendar/wajda-100-literary-adaptations-film/shadow-line?evd=202611221900",
-   "series": "Wajda 100 Literary Adaptations",
-   "note": "Free · Registration required"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-22",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670058~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "15:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-22",
-   "time": "15:10",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670065~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "15:20",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "15:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "15:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "alice-in-wonderland-1951",
-   "title": "Alice in Wonderland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "15:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005757",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "75th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "15:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "16:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "16:20",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "16:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-22",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670040~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/79fad0b0-bbe7-4eec-9f14-b702199122ac",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/c0a2fcb75d29211086a8bae190f41bd6-small.jpg",
-   "note": "Open Caption"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "seven-per-cent-solution-1976",
-   "title": "The Seven-Per-Cent Solution",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "17:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000873",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000873?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "50th Anniversary | Intro by Alan Rettig, The Red Circle of Washington, DC"
-  },
-  {
-   "film": "pans-labyrinth-2006",
-   "title": "Pan's Labyrinth",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "18:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | New 4K Restoration"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "18:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "18:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg",
-   "note": "Open Captions"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670071~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "19:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-22",
-   "time": "19:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-22",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670059~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "20:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "welcome-ii-the-terrordome-1995",
-   "title": "Welcome II the Terrordome",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "20:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005755",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005755?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 2K Restoration"
-  },
-  {
-   "film": "raise-the-red-lantern-1991",
-   "title": "Raise the Red Lantern",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "20:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration | 35th Anniversary"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-22",
-   "time": "20:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-22",
-   "time": "20:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
   {
    "film": "being-heumann-2026",
    "title": "Being Heumann",
@@ -2636,17 +2229,6 @@
    "time": "19:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670079~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "who-killed-alex-odeh-2026",
-   "title": "Who Killed Alex Odeh?",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-23",
-   "time": "20:15",
-   "ticketLink": "https://sunscinema.com/purchase/437659/",
-   "infoLink": "https://sunscinema.com/movies/who-killed-alex-odeh-2/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/30124244/gWN2cQ79PXGc0Vyf5KmAeu3zKgY-1-scaled.jpg"
   },
   {
    "film": "pans-labyrinth-2006",
@@ -3990,16 +3572,6 @@
    "time": "19:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670105~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "taste-of-things-2023",
-   "title": "The Taste of Things",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-27",
-   "time": "20:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/7095dfda-f53d-45ce-bd07-3056df44bfa2",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/9feaff1837b774ab69a15dbef720ae97-small.jpg"
   },
   {
    "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
