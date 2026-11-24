@@ -1902,6 +1902,24 @@
   "sig": "2022|Mike Cheslik||",
   "data": null
  },
+ "hundreds-of-beavers|": {
+  "at": "2026-11-24",
+  "q": "Hundreds of Beavers",
+  "sig": "||tt12818328|",
+  "data": {
+   "tmdbId": 1019939,
+   "title": "Hundreds of Beavers",
+   "year": 2024,
+   "poster": "https://image.tmdb.org/t/p/w342/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+   "director": "Mike Cheslik",
+   "runtime": 108,
+   "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers.",
+   "genres": [
+    "Comedy",
+    "Adventure"
+   ]
+  }
+ },
  "hunger-games-sunrise-on-the-reaping|": {
   "at": "2026-11-11",
   "q": "The Hunger Games: Sunrise on the Reaping",

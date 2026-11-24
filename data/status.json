@@ -1,54 +1,54 @@
 {
- "generatedAt": "2026-11-24T09:56:24.010Z",
+ "generatedAt": "2026-11-24T22:28:32.011Z",
  "venues": {
   "4eye": {
    "status": "ok",
    "count": 5,
-   "lastSuccess": "2026-11-24T09:55:49.586Z",
+   "lastSuccess": "2026-11-24T22:27:58.408Z",
    "seconds": 0.3
   },
   "suns": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-24T09:55:49.787Z",
-   "seconds": 0.5
+   "lastSuccess": "2026-11-24T22:27:58.608Z",
+   "seconds": 0.6
   },
   "loc": {
    "status": "empty",
    "count": 0,
-   "lastSuccess": "2026-11-24T09:55:50.688Z",
-   "seconds": 1.3,
+   "lastSuccess": "2026-11-24T22:28:00.222Z",
+   "seconds": 2.1,
    "message": "no upcoming screenings listed"
   },
   "miracle": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-24T09:55:52.470Z",
-   "seconds": 3.2
-  },
-  "afi": {
-   "status": "ok",
-   "count": 314,
-   "lastSuccess": "2026-11-24T09:55:57.608Z",
-   "seconds": 8.5
+   "lastSuccess": "2026-11-24T22:28:00.287Z",
+   "seconds": 2.2
   },
   "angelika": {
    "status": "ok",
-   "count": 218,
-   "lastSuccess": "2026-11-24T09:56:00.846Z",
-   "seconds": 11.6
+   "count": 212,
+   "lastSuccess": "2026-11-24T22:28:09.135Z",
+   "seconds": 11.1
+  },
+  "afi": {
+   "status": "ok",
+   "count": 306,
+   "lastSuccess": "2026-11-24T22:28:10.371Z",
+   "seconds": 12.4
   },
   "avalon": {
    "status": "ok",
-   "count": 82,
-   "lastSuccess": "2026-11-24T09:56:18.891Z",
-   "seconds": 29.6
+   "count": 80,
+   "lastSuccess": "2026-11-24T22:28:24.696Z",
+   "seconds": 26.6
   },
   "landmark": {
    "status": "ok",
-   "count": 50,
-   "lastSuccess": "2026-11-24T09:56:19.822Z",
-   "seconds": 30.5
+   "count": 62,
+   "lastSuccess": "2026-11-24T22:28:28.596Z",
+   "seconds": 30.4
   },
   "nga": {
    "status": "blocked",
