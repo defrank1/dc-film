@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>7:30 Showtimes — every indie and repertory screening in DC</title>
+  <title>Showtimes DC — every indie and repertory screening in DC</title>
   <meta name="description" content="Every showtime at Washington, DC's independent and repertory movie screens — AFI Silver, the Avalon, Suns Cinema, Angelika Pop-Up, 4EYE Film Center, the National Gallery and more — on one page, updated through the day.">
-  <meta property="og:title" content="7:30 Showtimes">
+  <meta property="og:title" content="Showtimes DC">
   <meta property="og:description" content="Every showtime at DC's independent and repertory screens, in one place.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://defrank1.github.io/dc-film/">
@@ -15,7 +15,7 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <script>
     // Apply the saved "house lights" choice before first paint.
@@ -27,9 +27,9 @@
 
   <div class="frame">
     <header class="masthead">
-      <a class="wordmark" href="#" data-view="showtimes" aria-label="7:30 Showtimes, home">
-        <span class="wordmark__time">7<span class="wordmark__colon" aria-hidden="true">:</span>30</span>
+      <a class="wordmark" href="#" data-view="showtimes" aria-label="Showtimes DC, home">
         <span class="wordmark__word">Showtimes</span>
+        <span class="wordmark__dc">DC</span>
       </a>
       <nav class="nav" aria-label="Sections">
         <a href="#" data-view="showtimes">Showtimes</a>
@@ -42,14 +42,16 @@
     <main id="main">
       <!-- ============ SHOWTIMES ============ -->
       <section id="view-showtimes" class="view">
-        <div class="hero" id="seven-thirty" aria-labelledby="seven-thirty-title">
-          <div class="bulbs" aria-hidden="true"></div>
-          <div class="hero__head">
-            <h1 id="seven-thirty-title">Tonight around 7:30</h1>
+        <div class="hero">
+          <div class="hero__pitch">
+            <p class="label">Lights down in Washington</p>
+            <h1>Every showtime at DC’s independent and repertory screens, in one place.</h1>
             <p class="hero__stats" id="stats" aria-live="polite">Loading showtimes…</p>
           </div>
-          <ol class="seven-list" id="seven-list"></ol>
-          <div class="bulbs" aria-hidden="true"></div>
+          <div class="hero__seven" id="seven-thirty" aria-labelledby="seven-thirty-title">
+            <p class="label" id="seven-thirty-title">Tonight around 7:30</p>
+            <ol class="seven-list" id="seven-list"></ol>
+          </div>
         </div>
 
         <div class="controls" id="controls">
@@ -81,6 +83,7 @@
       <!-- ============ CALENDAR ============ -->
       <section id="view-calendar" class="view" hidden>
         <div class="pagehead">
+          <p class="label">Calendar</p>
           <div class="calnav">
             <button class="chip" id="cal-prev" aria-label="Previous month">←</button>
             <h1 id="cal-title"></h1>
@@ -94,10 +97,12 @@
       <!-- ============ THEATERS ============ -->
       <section id="view-theaters" class="view" hidden>
         <div class="pagehead">
+          <p class="label">Theaters</p>
           <h1>The screens we track</h1>
         </div>
         <div id="theaters" class="theaters"></div>
         <div class="pagehead pagehead--sub">
+          <p class="label">Also showing</p>
           <h2>More screens worth checking</h2>
           <p class="pagehead__note">Not in the listings yet. Their sites are a click away.</p>
         </div>
@@ -107,13 +112,14 @@
       <!-- ============ ABOUT ============ -->
       <section id="view-about" class="view" hidden>
         <div class="pagehead">
+          <p class="label">About</p>
           <h1>One page for DC’s other movie theaters</h1>
         </div>
         <div class="about">
           <div class="about__col">
             <h2 class="label">What this is</h2>
             <p>Washington has a handful of independent, nonprofit and museum screens showing old movies, second-run movies and films that never reach the multiplex. Each one keeps its own calendar on its own website.</p>
-            <p>7:30 Showtimes reads those calendars and puts every screening on one schedule, so you can see what is playing tonight without opening eight tabs.</p>
+            <p>Showtimes DC reads those calendars and puts every screening on one schedule, so you can see what is playing tonight without opening eight tabs.</p>
           </div>
           <div class="about__col">
             <h2 class="label">How it works</h2>
@@ -133,7 +139,7 @@
       <p class="footer__cell"><span class="label">Updated</span> <span id="updated">—</span></p>
       <p class="footer__cell footer__cell--grow">Times are Eastern and come from each theater’s own site. Check with the theater before you go.</p>
       <button class="footer__cell footer__lights" id="lights" aria-pressed="false">
-        <span id="lights-state">Light mode</span>
+        <span class="label">House lights</span> <span id="lights-state">Down</span>
       </button>
     </footer>
   </div>
@@ -142,7 +148,7 @@
     <div class="dialog__inner" id="film-dialog-body"></div>
   </dialog>
 
-  <noscript><p style="padding:2rem;font-family:monospace">7:30 Showtimes needs JavaScript to load the listings.</p></noscript>
+  <noscript><p style="padding:2rem;font-family:sans-serif">Showtimes DC needs JavaScript to load the listings.</p></noscript>
   <script src="js/app.js"></script>
 </body>
 </html>

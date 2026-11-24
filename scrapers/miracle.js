@@ -29,7 +29,7 @@ const FEEDS = [
   { url: `${BASE}/events/feed/`, filmsOnly: false },
 ];
 const HEADERS = {
-  'User-Agent': '730Showtimes/1.0 (+https://github.com/defrank1/dc-film; DC indie film listings)',
+  'User-Agent': 'ShowtimesDC/1.0 (+https://github.com/defrank1/dc-film; DC indie film listings)',
   Accept: 'application/rss+xml, application/xml;q=0.9, */*;q=0.8',
 };
 

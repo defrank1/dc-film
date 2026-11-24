@@ -1,7 +1,7 @@
 {
   "name": "dc-film-screenings",
   "version": "1.0.0",
-  "description": "7:30 Showtimes: every indie and repertory film screening in DC, scraped from the theaters and published as a static site",
+  "description": "Showtimes DC: every indie and repertory film screening in DC, scraped from the theaters and published as a static site",
   "main": "scraper.js",
   "scripts": {
     "scrape": "node scraper.js",
