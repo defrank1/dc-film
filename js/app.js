@@ -299,6 +299,7 @@
       renderTheaters();
     }
     renderDialog(today);
+    document.dispatchEvent(new CustomEvent('sdc:render'));
   }
 
   function renderStats() {
@@ -711,7 +712,16 @@
         window.scrollTo(0, 0);
         return;
       }
-      if (t.dataset.date) { pushState({ date: t.dataset.date }, true); return; }
+      if (t.dataset.date) {
+        var nextDate = t.dataset.date;
+        var go = function () { pushState({ date: nextDate }, true); };
+        var motionOK = !(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+        if (document.documentElement.classList.contains('idea-advance') && document.startViewTransition && motionOK && nextDate !== state.date) {
+          document.documentElement.dataset.advance = nextDate > state.date ? 'next' : 'prev';
+          document.startViewTransition(go);
+        } else go();
+        return;
+      }
       if (t.dataset.goto) {
         e.preventDefault();
         pushState({ view: 'showtimes', date: t.dataset.goto, film: null });
@@ -791,6 +801,7 @@
   /* ------------------------------------------------------------------ */
 
   load().then(function () {
+    window.SDC = { data: data, state: state };
     readHash();
     wire();
     render();
