@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-23T23:55:58.582Z",
+ "lastUpdated": "2026-11-24T09:56:24.010Z",
  "films": {
   "adult-supervision-2026": {
    "title": "Adult Supervision",
@@ -118,6 +118,11 @@
    ],
    "tmdbId": 1206617,
    "rep": true
+  },
+  "best-of-the-48-hour-film-holiday-project": {
+   "title": "Best of the 48 Hour Film Holiday Project",
+   "runtime": 150,
+   "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004882?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   "black-money-for-white-nights-2026": {
    "title": "Black Money For White Nights",
@@ -292,6 +297,19 @@
    ],
    "tmdbId": 1596319
   },
+  "club-kid-2026": {
+   "title": "Club Kid",
+   "year": 2026,
+   "director": "Jordan Firstman",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+   "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "tmdbId": 1585239
+  },
   "confucian-confusion-1994": {
    "title": "A Confucian Confusion",
    "year": 1994,
@@ -429,21 +447,6 @@
    ],
    "tmdbId": 1576934
   },
-  "edward-ii-1991": {
-   "title": "Edward II",
-   "year": 1991,
-   "director": "Derek Jarman",
-   "runtime": 90,
-   "poster": "https://image.tmdb.org/t/p/w342/sB3ktIeyCoudoRMJgzo9goA9k1v.jpg",
-   "overview": "England, 14th century. King Edward II falls in love with Piers Gaveston, a young man of humble origins, whom he honors with favors and titles of nobility. The cold and jealous Queen Isabella conspires with the evil Mortimer to get rid of Gaveston, overthrow her husband and take power…",
-   "genres": [
-    "History",
-    "Romance",
-    "Drama"
-   ],
-   "tmdbId": 43654,
-   "rep": true
-  },
   "elf-2003": {
    "title": "Elf",
    "year": 2003,
@@ -553,19 +556,6 @@
     "Thriller"
    ],
    "tmdbId": 27073,
-   "rep": true
-  },
-  "garden-1990": {
-   "title": "The Garden",
-   "year": 1990,
-   "director": "Derek Jarman",
-   "runtime": 88,
-   "poster": "https://image.tmdb.org/t/p/w342/sDeEZAdPFwzTUEp8Ba9M8Naw2dG.jpg",
-   "overview": "A nearly wordless visual narrative intercuts two main stories and a couple of minor ones. A woman, perhaps the Madonna, brings forth her baby to a crowd of intrusive paparazzi; she tries to flee them. Two men who are lovers marry and are arrested by the powers that be. The men are mocked and pilloried, tarred, feathered, and beaten. Loose in this contemporary world of electrical-power…",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 110838,
    "rep": true
   },
   "god-will-not-help-2025": {
@@ -1265,19 +1255,6 @@
    "tmdbId": 713,
    "rep": true
   },
-  "planes-trains-and-automobiles-1987": {
-   "title": "Planes, Trains and Automobiles",
-   "year": 1987,
-   "director": "John Hughes",
-   "runtime": 92,
-   "poster": "https://image.tmdb.org/t/p/w342/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
-   "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
-   "genres": [
-    "Comedy"
-   ],
-   "tmdbId": 2609,
-   "rep": true
-  },
   "powwow-people-2025": {
    "title": "Powwow People",
    "year": 2025,
@@ -1392,6 +1369,19 @@
    "tmdbId": 330377,
    "rep": true
   },
+  "renoir-and-love-2027": {
+   "title": "Renoir & Love",
+   "year": 2027,
+   "director": "Ali Ray",
+   "runtime": 90,
+   "poster": "https://image.tmdb.org/t/p/w342/50h9zwCwzrTgnaHJ1GZwT5UyuMV.jpg",
+   "still": "https://www.theavalon.org/wp-content/uploads/2026/11/renoirloveFEATUREDweb-300x177.jpg",
+   "overview": "Pierre-Auguste Renoir is one of the world’s favourite artists, a founding member of the Impressionist movement and a constantly evolving artist. With exclusive access to the National Gallery’s new exciting show of the same name (3 October 2026 – 31 January 2027), Exhibition on Screen will bring Renoir’s world class works to cinema audiences. Be transported back to a Parisian summer of love…",
+   "genres": [
+    "Documentary"
+   ],
+   "tmdbId": 1747216
+  },
   "rex-a-dinosaurs-story-mickeys-christmas-carol-1993": {
    "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
    "year": 1993,
@@ -1492,6 +1482,20 @@
     "Crime"
    ],
    "tmdbId": 239,
+   "rep": true
+  },
+  "soul-food-1997": {
+   "title": "Soul Food",
+   "year": 1997,
+   "director": "George Tillman Jr.",
+   "runtime": 114,
+   "poster": "https://image.tmdb.org/t/p/w342/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
+   "overview": "Traditional Sunday dinners at Mama Joe's turn sour when sisters Teri, Bird and Maxine start bringing their problems to the dinner table in this ensemble comedy. When tragedy strikes, it's up to grandson Ahmad to pull the family together and put the soul back into the family's weekly gatherings.",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "tmdbId": 29461,
    "rep": true
   },
   "spiral-2026": {
@@ -1837,159 +1841,6 @@
  },
  "screenings": [
   {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "18:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "welcome-ii-the-terrordome-1995",
-   "title": "Welcome II the Terrordome",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "18:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005755",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005755?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 2K Restoration"
-  },
-  {
-   "film": "network-1976",
-   "title": "Network",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "18:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000978",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000978?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "50th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "18:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "planes-trains-and-automobiles-1987",
-   "title": "Planes, Trains and Automobiles",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/planes-trains-and-automobiles",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/27060-oj.jpg",
-   "series": "Angelika Classics",
-   "note": "Angelika Classics"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670074~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-23",
-   "time": "19:10",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-23",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-23",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670079~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "pans-labyrinth-2006",
-   "title": "Pan's Labyrinth",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "20:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | New 4K Restoration"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "20:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-23",
-   "time": "21:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -2221,6 +2072,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-24",
+   "time": "16:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -2282,17 +2143,6 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
-   "film": "edward-ii-1991",
-   "title": "Edward II",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "ticketLink": "https://sunscinema.com/purchase/437593/",
-   "infoLink": "https://sunscinema.com/movies/edward-ii/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29142659/sB3ktIeyCoudoRMJgzo9goA9k1v.jpg"
-  },
-  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -2351,6 +2201,16 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -2391,17 +2251,6 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005755",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005755?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "New 2K Restoration"
-  },
-  {
-   "film": "garden-1990",
-   "title": "The Garden",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-24",
-   "time": "21:15",
-   "ticketLink": "https://sunscinema.com/purchase/437594/",
-   "infoLink": "https://sunscinema.com/movies/the-garden/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29142739/sDeEZAdPFwzTUEp8Ba9M8Naw2dG-scaled.jpg"
   },
   {
    "film": "fatherland-2026",
@@ -2478,6 +2327,16 @@
    "note": "Crybaby Matinee"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-25",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "afi",
@@ -2526,6 +2385,26 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670089~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-25",
+   "time": "15:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-25",
+   "time": "15:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2720,6 +2599,16 @@
    "note": "100 Years of Marilyn Monroe"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-25",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -2846,6 +2735,16 @@
    "note": "New 4K Restoration | 35th Anniversary"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "13:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "alice-in-wonderland-1951",
    "title": "Alice in Wonderland",
    "venueId": "afi",
@@ -2878,6 +2777,16 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000051?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "series": "In Memoriam: Diane Ladd (1935–2025)",
    "note": "UNRATED · New 4K Restoration"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "15:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "la-bola-negra-2026",
@@ -2937,6 +2846,16 @@
    "date": "2026-11-26",
    "time": "15:50",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "16:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3048,6 +2967,16 @@
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-26",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -3129,6 +3058,28 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "third-man-1949",
+   "title": "The Third Man",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "11:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005832",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005832?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "4K Restoration"
+  },
+  {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "11:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3148,6 +3099,16 @@
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
    "note": "English subtitles"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "13:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -3171,6 +3132,17 @@
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
    "film": "elsinore-2026",
    "title": "Elsinore",
    "venueId": "avalon",
@@ -3179,6 +3151,26 @@
    "time": "14:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670099~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "soul-food-1997",
+   "title": "Soul Food",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-27",
+   "time": "14:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/61655462-66e0-4744-8d56-a442323a8406",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/8be82f23ac4d94f417ceb42f07f92db6-small.jpg"
+  },
+  {
+   "film": "once-upon-a-time-in-hollywood-2019",
+   "title": "Once Upon a Time in… Hollywood",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "14:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005831",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005831?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "streetcar-named-desire-1951",
@@ -3202,6 +3194,16 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "16:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -3210,6 +3212,16 @@
    "time": "16:15",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670115~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "16:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "elsinore-2026",
@@ -3253,6 +3265,16 @@
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "18:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "cameron-winter-at-carnegie-hall-2026",
    "title": "Cameron Winter at Carnegie Hall",
    "venueId": "afi",
@@ -3262,6 +3284,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "18:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -3316,6 +3348,16 @@
    "note": "35mm · 25th Anniversary"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-27",
+   "time": "20:40",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
    "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
    "venueId": "afi",
@@ -3344,6 +3386,16 @@
    "time": "21:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-27",
+   "time": "22:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "willy-wonka-and-the-chocolate-factory-1971",
@@ -3419,6 +3471,27 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "13:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "13:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -3488,7 +3561,8 @@
    "date": "2026-11-28",
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg",
+   "note": "Open Captions"
   },
   {
    "film": "third-man-1949",
@@ -3502,6 +3576,26 @@
    "note": "35mm · New 35mm Print"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "16:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "16:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -3510,6 +3604,16 @@
    "time": "16:15",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670116~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "16:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "elsinore-2026",
@@ -3554,6 +3658,27 @@
    "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/2f6c5ac16b56e6334eaa9352eb7b8bbb-small.jpg"
   },
   {
+   "film": "raise-the-red-lantern-1991",
+   "title": "Raise the Red Lantern",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "New 4K Restoration | 35th Anniversary"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "18:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "strangers-on-a-train-1951",
    "title": "Strangers on a Train",
    "venueId": "afi",
@@ -3595,6 +3720,17 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
    "film": "lord-of-the-rings-the-two-towers-2002",
    "title": "The Lord of the Rings: The Two Towers",
    "venueId": "afi",
@@ -3604,6 +3740,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005761",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005761?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "35mm"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "20:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
   },
   {
    "film": "that-day-on-the-beach-1983",
@@ -3617,6 +3764,16 @@
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29140010/83GRYRWEXWkfGbDBIpEhXdEhONA-scaled.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-28",
+   "time": "21:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3625,6 +3782,16 @@
    "time": "21:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-28",
+   "time": "22:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
@@ -3665,6 +3832,49 @@
    "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "raise-the-red-lantern-1991",
+   "title": "Raise the Red Lantern",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "13:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "New 4K Restoration | 35th Anniversary"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "13:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "13:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
   },
   {
    "film": "lord-of-the-rings-the-return-of-the-king-2003",
@@ -3708,6 +3918,17 @@
    "note": "Free"
   },
   {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "15:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3716,6 +3937,36 @@
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "15:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "15:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -3769,6 +4020,27 @@
    "infoLink": "https://sunscinema.com/movies/the-beirut-trilogy/"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "18:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "18:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3787,6 +4059,17 @@
    "time": "19:00",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670122~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-29",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
   },
   {
    "film": "cameron-winter-at-carnegie-hall-2026",
@@ -3841,6 +4124,26 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-29",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671884~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "venueId": "afi",
@@ -3849,6 +4152,26 @@
    "time": "11:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005748",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671880~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "11:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "wizard-of-oz-1939",
@@ -3871,6 +4194,58 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "13:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "13:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671885~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671881~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "strangers-on-a-train-1951",
    "title": "Strangers on a Train",
    "venueId": "afi",
@@ -3882,6 +4257,27 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "14:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "15:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3890,6 +4286,26 @@
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "15:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "15:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "night-at-the-museum-2006",
@@ -3903,6 +4319,36 @@
    "note": "20th Anniversary"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671886~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671882~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "17:05",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "swordsman-1990",
    "title": "Swordsman",
    "venueId": "suns",
@@ -3912,6 +4358,27 @@
    "ticketLink": "https://sunscinema.com/purchase/437546/",
    "infoLink": "https://sunscinema.com/movies/swordsman/",
    "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134910/tnbQngk3fKAqwqyVmqxBXvoD3DZ-scaled.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "raise-the-red-lantern-1991",
+   "title": "Raise the Red Lantern",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "18:40",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "New 4K Restoration | 35th Anniversary"
   },
   {
    "film": "cameron-winter-at-carnegie-hall-2026",
@@ -3935,6 +4402,47 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671888~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-11-30",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671883~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-11-30",
+   "time": "19:50",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "swordsman-ii-1992",
    "title": "Swordsman II",
    "venueId": "suns",
@@ -3956,6 +4464,47 @@
    "note": "35mm · New 35mm Print"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "20:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-11-30",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671898~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "11:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "muppet-treasure-island-1996",
    "title": "Muppet Treasure Island",
    "venueId": "afi",
@@ -3967,6 +4516,17 @@
    "series": "In Memoriam: Tim Curry (1946–2026)"
   },
   {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "11:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3974,7 +4534,60 @@
    "date": "2026-12-01",
    "time": "12:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg",
+   "note": "Open Captions"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671901~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "13:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671891~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "night-at-the-museum-2006",
@@ -3988,6 +4601,16 @@
    "note": "20th Anniversary"
   },
   {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "14:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -3996,6 +4619,16 @@
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "15:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -4009,6 +4642,36 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "16:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671904~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671893~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
    "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
    "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
    "venueId": "afi",
@@ -4017,6 +4680,16 @@
    "time": "17:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
    "note": "Preceded by a recorded intro by executive producer Meryl Streep"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "17:05",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "hole-1998",
@@ -4051,6 +4724,47 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671907~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-01",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671894~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-01",
+   "time": "19:50",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
    "film": "cameron-winter-at-carnegie-hall-2026",
    "title": "Cameron Winter at Carnegie Hall",
    "venueId": "afi",
@@ -4069,6 +4783,46 @@
    "date": "2026-12-01",
    "time": "20:45",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-01",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671899~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "11:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671909~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "night-at-the-museum-2006",
@@ -4092,6 +4846,38 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "13:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671902~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -4102,6 +4888,47 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671910~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "14:00",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "14:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "15:10",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4110,6 +4937,16 @@
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "15:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -4123,6 +4960,16 @@
    "note": "75th Anniversary"
   },
   {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671905~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "venueId": "afi",
@@ -4131,6 +4978,36 @@
    "time": "16:30",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005748",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671913~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "18:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "all-of-a-sudden-2026",
@@ -4143,6 +5020,17 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005786?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "18:40",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4151,6 +5039,26 @@
    "time": "19:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-02",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-02",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671912~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "lost-wolves-of-yellowstone-2024",
@@ -4163,6 +5071,38 @@
    "infoLink": "https://www.theavalon.org/films/lost-wolves-of-yellowstone"
   },
   {
+   "film": "raise-the-red-lantern-1991",
+   "title": "Raise the Red Lantern",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "20:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "New 4K Restoration | 35th Anniversary"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-02",
+   "time": "20:50",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Spain"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "11:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671900~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
    "film": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "venueId": "afi",
@@ -4171,6 +5111,26 @@
    "time": "11:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005748",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005748?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "11:30",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "11:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671915~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
@@ -4193,6 +5153,17 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "12:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
    "film": "wizard-of-oz-1939",
    "title": "The Wizard of Oz",
    "venueId": "afi",
@@ -4201,6 +5172,47 @@
    "time": "12:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "fatherland-2026",
+   "title": "Fatherland",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "13:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
+   "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "13:35",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671903~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "14:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671911~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "14:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "streetcar-named-desire-1951",
@@ -4230,7 +5242,48 @@
    "date": "2026-12-03",
    "time": "15:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg",
+   "note": "Open Captions"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "15:45",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "15:45",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "16:15",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671906~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "16:45",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671914~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
    "film": "black-money-for-white-nights-2026",
@@ -4241,6 +5294,16 @@
    "time": "17:00",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005776",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005776?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "la-gradiva-2026",
@@ -4272,6 +5335,66 @@
    "time": "19:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671908~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
+  },
+  {
+   "film": "la-bola-negra-2026",
+   "title": "La Bola Negra",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "19:15",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
+   "note": "English subtitles"
+  },
+  {
+   "film": "best-of-the-48-hour-film-holiday-project",
+   "title": "Best of the 48 Hour Film Holiday Project",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100004882"
+  },
+  {
+   "film": "elsinore-2026",
+   "title": "Elsinore",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671916~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/elsinore"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "angelika",
+   "venue": "Angelika Pop-Up at Union Market",
+   "date": "2026-12-03",
+   "time": "19:50",
+   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
+   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "wild-horse-nine-2026",
+   "title": "Wild Horse Nine",
+   "venueId": "afi",
+   "venue": "AFI Silver Theatre",
+   "date": "2026-12-03",
+   "time": "21:15",
+   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
+   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
    "film": "hold-onto-me-2026",
@@ -6157,6 +7280,24 @@
    "note": "2027 Oscar® Selection, Netherlands"
   },
   {
+   "film": "avengers-doomsday-2026",
+   "title": "Avengers: Doomsday",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "12:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "dune-part-three-2026",
+   "title": "Dune: Part Three",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "12:50",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "angelika",
@@ -6221,6 +7362,15 @@
    "note": "Free · Registration required"
   },
   {
+   "film": "avengers-doomsday-2026",
+   "title": "Avengers: Doomsday",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "15:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "trial-of-hein-2026",
    "title": "Trial of Hein",
    "venueId": "afi",
@@ -6240,6 +7390,15 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100000413",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000413?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "4K Restoration | $5 tickets for children 12 and under"
+  },
+  {
+   "film": "dune-part-three-2026",
+   "title": "Dune: Part Three",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "16:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "dune-part-three-2026",
@@ -6293,6 +7452,24 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005795",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005795?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "Closing Night"
+  },
+  {
+   "film": "avengers-doomsday-2026",
+   "title": "Avengers: Doomsday",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "dune-part-three-2026",
+   "title": "Dune: Part Three",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-19",
+   "time": "19:10",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "all-of-a-sudden-2026",
@@ -7906,6 +9083,16 @@
    "time": "10:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670432~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/hay-fever"
+  },
+  {
+   "film": "renoir-and-love-2027",
+   "title": "Renoir & Love",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2027-02-07",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671889~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/renoir-love"
   }
  ]
 }

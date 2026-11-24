@@ -370,6 +370,12 @@
    ]
   }
  },
+ "best-of-the-48-hour-film-holiday-project|": {
+  "at": "2026-11-24",
+  "q": "Best of the 48 Hour Film Holiday Project",
+  "sig": "|||",
+  "data": null
+ },
  "big-night|": {
   "at": "2026-11-19",
   "q": "Big Night",
@@ -734,6 +740,24 @@
    "overview": "After his teenage son goes missing, Daniel scours the depths of the Vistula River, torn between the dread of a fatal leap and the hope that his son may still be alive.",
    "genres": [
     "Documentary"
+   ]
+  }
+ },
+ "club-kid|": {
+  "at": "2026-11-24",
+  "q": "Club Kid",
+  "sig": "|Jordan Firstman||",
+  "data": {
+   "tmdbId": 1585239,
+   "title": "Club Kid",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+   "director": "Jordan Firstman",
+   "runtime": 122,
+   "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+   "genres": [
+    "Comedy",
+    "Drama"
    ]
   }
  },
@@ -1873,7 +1897,7 @@
   }
  },
  "hundreds-of-beavers-a-northwoods-christmas|2022": {
-  "at": "2026-11-19",
+  "at": "2026-11-24",
   "q": "Hundreds of Beavers: A Northwoods Christmas",
   "sig": "2022|Mike Cheslik||",
   "data": null
@@ -3582,6 +3606,23 @@
    "overview": "Samar, a child of the war, finds relief from the chaos around her through Egyptian movies she watches on television. Karim, an artist in retreat from life, remains in his apartment in war-torn West Beirut, confident that he is safe in his familiar neighborhood. An unlikely bond is formed between the two as they face the devastating civil war.",
    "genres": [
     "Drama"
+   ]
+  }
+ },
+ "renoir-and-love|": {
+  "at": "2026-11-24",
+  "q": "Renoir & Love",
+  "sig": "||tt43754565|",
+  "data": {
+   "tmdbId": 1747216,
+   "title": "Renoir & Love",
+   "year": 2027,
+   "poster": "https://image.tmdb.org/t/p/w342/50h9zwCwzrTgnaHJ1GZwT5UyuMV.jpg",
+   "director": "Ali Ray",
+   "runtime": 90,
+   "overview": "Pierre-Auguste Renoir is one of the world’s favourite artists, a founding member of the Impressionist movement and a constantly evolving artist. With exclusive access to the National Gallery’s new exciting show of the same name (3 October 2026 – 31 January 2027), Exhibition on Screen will bring Renoir’s world class works to cinema audiences. Be transported back to a Parisian summer of love…",
+   "genres": [
+    "Documentary"
    ]
   }
  },
