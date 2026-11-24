@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#150c0b"/>
-  <rect x="2.5" y="2.5" width="59" height="59" fill="none" stroke="#f72e2a" stroke-width="3"/>
-  <!-- "7:30" drawn as shapes so it renders the same without the web font -->
+  <rect width="64" height="64" rx="6" fill="#150c0b"/>
+  <!-- DC flag as film: three stars over two strips of film -->
   <g fill="#f72e2a">
-    <path d="M9 22h13v5l-6 15h-5.2l6-15H9z"/>
-    <rect x="25.5" y="27" width="4.6" height="4.6"/>
-    <rect x="25.5" y="37.4" width="4.6" height="4.6"/>
-    <path d="M33.5 22h10.5v20H33.5v-4.4h5.9v-3.5h-4.4v-4.2h4.4v-3.5h-5.9z"/>
-    <path d="M47 22h9.5v20H47zm4.3 4.4v11.2h.9V26.4z" fill-rule="evenodd"/>
+    <polygon points="17.00,9.00 18.80,14.53 24.61,14.53 19.91,17.94 21.70,23.47 17.00,20.06 12.30,23.47 14.09,17.94 9.39,14.53 15.20,14.53"/><polygon points="32.00,9.00 33.80,14.53 39.61,14.53 34.91,17.94 36.70,23.47 32.00,20.06 27.30,23.47 29.09,17.94 24.39,14.53 30.20,14.53"/><polygon points="47.00,9.00 48.80,14.53 54.61,14.53 49.91,17.94 51.70,23.47 47.00,20.06 42.30,23.47 44.09,17.94 39.39,14.53 45.20,14.53"/>
+    <rect x="5" y="29" width="54" height="11"/>
+    <rect x="5" y="45" width="54" height="11"/>
   </g>
+  <g fill="#150c0b"><rect x="8" y="30.6" width="3" height="2.4"/><rect x="8" y="36" width="3" height="2.4"/><rect x="14" y="30.6" width="3" height="2.4"/><rect x="14" y="36" width="3" height="2.4"/><rect x="20" y="30.6" width="3" height="2.4"/><rect x="20" y="36" width="3" height="2.4"/><rect x="26" y="30.6" width="3" height="2.4"/><rect x="26" y="36" width="3" height="2.4"/><rect x="32" y="30.6" width="3" height="2.4"/><rect x="32" y="36" width="3" height="2.4"/><rect x="38" y="30.6" width="3" height="2.4"/><rect x="38" y="36" width="3" height="2.4"/><rect x="44" y="30.6" width="3" height="2.4"/><rect x="44" y="36" width="3" height="2.4"/><rect x="50" y="30.6" width="3" height="2.4"/><rect x="50" y="36" width="3" height="2.4"/><rect x="56" y="30.6" width="3" height="2.4"/><rect x="56" y="36" width="3" height="2.4"/><rect x="8" y="46.6" width="3" height="2.4"/><rect x="8" y="52" width="3" height="2.4"/><rect x="14" y="46.6" width="3" height="2.4"/><rect x="14" y="52" width="3" height="2.4"/><rect x="20" y="46.6" width="3" height="2.4"/><rect x="20" y="52" width="3" height="2.4"/><rect x="26" y="46.6" width="3" height="2.4"/><rect x="26" y="52" width="3" height="2.4"/><rect x="32" y="46.6" width="3" height="2.4"/><rect x="32" y="52" width="3" height="2.4"/><rect x="38" y="46.6" width="3" height="2.4"/><rect x="38" y="52" width="3" height="2.4"/><rect x="44" y="46.6" width="3" height="2.4"/><rect x="44" y="52" width="3" height="2.4"/><rect x="50" y="46.6" width="3" height="2.4"/><rect x="50" y="52" width="3" height="2.4"/><rect x="56" y="46.6" width="3" height="2.4"/><rect x="56" y="52" width="3" height="2.4"/></g>
 </svg>

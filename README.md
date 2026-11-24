@@ -1,4 +1,4 @@
-# 7:30 Showtimes
+# Showtimes DC
 
 Every showtime at Washington, DC's independent and repertory movie screens, on one page.
 
@@ -73,7 +73,7 @@ scrapers/                one file per theater + shared helpers
 
 ## Design
 
-The look is derived from 730DC (one red, hairline grid, Space Mono, wide uppercase labels) on a dark ground. Colors and fonts are CSS variables at the top of `css/style.css`. The label face is Archivo Expanded from Google Fonts.
+One red on a warm black, hairline rules, Anton for titles and Work Sans for reading and labels (both from Google Fonts). Colors and fonts are CSS variables at the top of `css/style.css`. The favicon is the DC flag with its two bars drawn as film strips.
 
 ## Credits
 

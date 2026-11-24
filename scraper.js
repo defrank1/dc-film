@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * 7:30 Showtimes scraper
+ * Showtimes DC scraper
  *
  * Runs every venue scraper in scrapers/, cleans and merges the results,
  * looks films up on TMDB, and writes:
@@ -80,7 +80,7 @@ async function main() {
     (prevByVenue[id] = prevByVenue[id] || []).push(s);
   }
 
-  console.log(`7:30 Showtimes scraper — ${today} (Eastern)\n`);
+  console.log(`Showtimes DC scraper — ${today} (Eastern)\n`);
 
   /* ---- 1. scrape every venue ---- */
   const status = {};
