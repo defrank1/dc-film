@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-24T22:28:32.011Z",
+ "lastUpdated": "2026-11-25T08:37:37.240Z",
  "films": {
   "adult-supervision-2026": {
    "title": "Adult Supervision",
@@ -542,21 +542,6 @@
     "History"
    ],
    "tmdbId": 1567441
-  },
-  "full-contact-1992": {
-   "title": "Full Contact",
-   "year": 1992,
-   "director": "Ringo Lam Ling-tung",
-   "runtime": 98,
-   "poster": "https://image.tmdb.org/t/p/w342/qbSgjlhn9x2GVcNrYWhCsJjzvSV.jpg",
-   "overview": "In an effort to get his buddy out of a gambling debt, Jeff agrees to join forces with Judge in a weapons heist. The job goes bad and Judge betrays Jeff. Jeff plots the ultimate revenge on Judge and his followers and it is a question of whether he can follow through with his plan.",
-   "genres": [
-    "Action",
-    "Crime",
-    "Thriller"
-   ],
-   "tmdbId": 27073,
-   "rep": true
   },
   "god-will-not-help-2025": {
    "title": "God Will Not Help",
@@ -1158,21 +1143,6 @@
    "tmdbId": 19494,
    "rep": true
   },
-  "once-a-thief-1991": {
-   "title": "Once a Thief",
-   "year": 1991,
-   "director": "John Woo",
-   "runtime": 108,
-   "poster": "https://image.tmdb.org/t/p/w342/xCm4qIID3oyhBxRNKsYo3TpDivF.jpg",
-   "overview": "Three orphans grow up to become art thieves under the tutelage of a crime boss. Romance complicates matters when the trio are double-crossed.",
-   "genres": [
-    "Action",
-    "Comedy",
-    "Thriller"
-   ],
-   "tmdbId": 47423,
-   "rep": true
-  },
   "once-upon-a-time-in-harlem-2026": {
    "title": "Once Upon a Time in Harlem",
    "year": 2026,
@@ -1527,21 +1497,6 @@
    ],
    "tmdbId": 1412795
   },
-  "spirited-away-2001": {
-   "title": "Spirited Away",
-   "year": 2001,
-   "director": "Hayao Miyazaki",
-   "runtime": 125,
-   "poster": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-   "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
-   ],
-   "tmdbId": 129,
-   "rep": true
-  },
   "squirrel-2026": {
    "title": "The Squirrel",
    "year": 2026,
@@ -1671,20 +1626,6 @@
     "Drama"
    ],
    "tmdbId": 1490241
-  },
-  "welcome-ii-the-terrordome-1995": {
-   "title": "Welcome II the Terrordome",
-   "year": 1995,
-   "director": "Ngozi Onwurah",
-   "runtime": 94,
-   "poster": "https://image.tmdb.org/t/p/w342/zNuhvBA8c3UhOQjYFDzI3R0ykmc.jpg",
-   "overview": "In a near future, black people have been forced to live in the drug-infested Terrordome, a ghetto where they are continually subjected to the racist actions of the police. When a black boy is killed, it sets off an explosion of further violence.",
-   "genres": [
-    "Science Fiction",
-    "Drama"
-   ],
-   "tmdbId": 274710,
-   "rep": true
   },
   "white-christmas-1954": {
    "title": "White Christmas",
@@ -1832,9 +1773,8 @@
    "title": "You Can See Everything",
    "year": 2026,
    "director": "Nathan Fielder and Lance Oppenheim",
-   "runtime": 175,
-   "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-   "still": "https://www.theavalon.org/wp-content/uploads/2026/10/YCSEfeaturedWEB-300x185.jpg",
+   "runtime": 174,
+   "poster": "https://image.tmdb.org/t/p/w342/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
    "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
    "genres": [
     "Documentary"
@@ -1855,177 +1795,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-24",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670086~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-at-heart-1990",
-   "title": "Wild at Heart",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000051",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000051?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Diane Ladd (1935–2025)",
-   "note": "UNRATED · New 4K Restoration"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "18:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "18:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "spirited-away-2001",
-   "title": "Spirited Away",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "18:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100003417",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003417?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "25th Anniversary"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "18:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670083~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/you-can-see-everything"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-24",
-   "time": "19:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-24",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-24",
-   "time": "19:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-24",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670087~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "20:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "20:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "welcome-ii-the-terrordome-1995",
-   "title": "Welcome II the Terrordome",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-24",
-   "time": "20:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005755",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005755?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 2K Restoration"
-  },
   {
    "film": "fatherland-2026",
    "title": "Fatherland",
@@ -2367,17 +2136,6 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
   },
   {
-   "film": "once-a-thief-1991",
-   "title": "Once a Thief",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "ticketLink": "https://sunscinema.com/purchase/437550/",
-   "infoLink": "https://sunscinema.com/movies/once-a-thief/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134348/xCm4qIID3oyhBxRNKsYo3TpDivF.jpg"
-  },
-  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "avalon",
@@ -2513,17 +2271,6 @@
    "date": "2026-11-25",
    "time": "21:30",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "full-contact-1992",
-   "title": "Full Contact",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-25",
-   "time": "21:35",
-   "ticketLink": "https://sunscinema.com/purchase/437551/",
-   "infoLink": "https://sunscinema.com/movies/full-contact/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134459/qbSgjlhn9x2GVcNrYWhCsJjzvSV.jpg"
   },
   {
    "film": "fatherland-2026",
@@ -3309,9 +3056,9 @@
    "venue": "Suns Cinema",
    "date": "2026-11-27",
    "time": "21:00",
-   "ticketLink": "https://sunscinema.com/purchase/437565/",
-   "infoLink": "https://sunscinema.com/movies/yi-yi/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg"
+   "ticketLink": "https://sunscinema.com/movies/yi-yi/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
+   "soldOut": true
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",

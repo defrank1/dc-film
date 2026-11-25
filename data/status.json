@@ -1,61 +1,59 @@
 {
- "generatedAt": "2026-11-24T22:28:32.011Z",
+ "generatedAt": "2026-11-25T08:37:37.240Z",
  "venues": {
   "4eye": {
    "status": "ok",
    "count": 5,
-   "lastSuccess": "2026-11-24T22:27:58.408Z",
-   "seconds": 0.3
+   "lastSuccess": "2026-11-25T08:37:07.544Z",
+   "seconds": 0.2
   },
   "suns": {
    "status": "ok",
-   "count": 10,
-   "lastSuccess": "2026-11-24T22:27:58.608Z",
-   "seconds": 0.6
-  },
-  "loc": {
-   "status": "empty",
-   "count": 0,
-   "lastSuccess": "2026-11-24T22:28:00.222Z",
-   "seconds": 2.1,
-   "message": "no upcoming screenings listed"
+   "count": 8,
+   "lastSuccess": "2026-11-25T08:37:07.992Z",
+   "seconds": 0.7
   },
   "miracle": {
    "status": "ok",
    "count": 10,
-   "lastSuccess": "2026-11-24T22:28:00.287Z",
-   "seconds": 2.2
-  },
-  "angelika": {
-   "status": "ok",
-   "count": 212,
-   "lastSuccess": "2026-11-24T22:28:09.135Z",
-   "seconds": 11.1
+   "lastSuccess": "2026-11-25T08:37:09.352Z",
+   "seconds": 2
   },
   "afi": {
    "status": "ok",
-   "count": 306,
-   "lastSuccess": "2026-11-24T22:28:10.371Z",
-   "seconds": 12.4
+   "count": 300,
+   "lastSuccess": "2026-11-25T08:37:13.794Z",
+   "seconds": 6.6
+  },
+  "loc": {
+   "status": "error",
+   "count": 0,
+   "lastSuccess": "2026-11-24T22:28:00.222Z",
+   "message": "Request failed with status code 429"
+  },
+  "angelika": {
+   "status": "ok",
+   "count": 209,
+   "lastSuccess": "2026-11-25T08:37:20.937Z",
+   "seconds": 13.6
+  },
+  "nga": {
+   "status": "ok",
+   "count": 17,
+   "lastSuccess": "2026-11-25T08:37:21.439Z",
+   "seconds": 14.1
   },
   "avalon": {
    "status": "ok",
-   "count": 80,
-   "lastSuccess": "2026-11-24T22:28:24.696Z",
-   "seconds": 26.6
+   "count": 77,
+   "lastSuccess": "2026-11-25T08:37:29.031Z",
+   "seconds": 21.7
   },
   "landmark": {
    "status": "ok",
-   "count": 62,
-   "lastSuccess": "2026-11-24T22:28:28.596Z",
-   "seconds": 30.4
-  },
-  "nga": {
-   "status": "blocked",
-   "count": 17,
-   "lastSuccess": "2026-11-23T07:41:19.955Z",
-   "message": "nga.gov kept showing its browser check instead of the calendar",
-   "keptStale": true
+   "count": 57,
+   "lastSuccess": "2026-11-25T08:37:35.764Z",
+   "seconds": 28.3
   }
  }
 }
