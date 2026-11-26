@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-25T21:43:37.613Z",
+ "lastUpdated": "2026-11-26T08:21:29.383Z",
  "films": {
   "14th-2026": {
    "title": "14th",
@@ -1470,21 +1470,6 @@
    ],
    "tmdbId": 1477104
   },
-  "some-like-it-hot-1959": {
-   "title": "Some Like It Hot",
-   "year": 1959,
-   "director": "Billy Wilder",
-   "runtime": 123,
-   "poster": "https://image.tmdb.org/t/p/w342/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
-   "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
-   "genres": [
-    "Comedy",
-    "Romance",
-    "Crime"
-   ],
-   "tmdbId": 239,
-   "rep": true
-  },
   "soul-food-1997": {
    "title": "Soul Food",
    "year": 1997,
@@ -1811,242 +1796,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-25",
-   "time": "16:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670094~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-25",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670090~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "18:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "18:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "once-upon-a-time-in-hollywood-2019",
-   "title": "Once Upon a Time in… Hollywood",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "18:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100002575",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002575?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "70mm"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "18:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "18:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-25",
-   "time": "18:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670095~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "some-like-it-hot-1959",
-   "title": "Some Like It Hot",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-25",
-   "time": "19:10",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/some-like-it-hot",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18107-oj.jpg",
-   "series": "100 Years of Marilyn Monroe",
-   "note": "100 Years of Marilyn Monroe"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-25",
-   "time": "19:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670091~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "20:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "21:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "21:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "pans-labyrinth-2006",
-   "title": "Pan's Labyrinth",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-25",
-   "time": "21:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | New 4K Restoration"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-25",
-   "time": "21:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
   {
    "film": "fatherland-2026",
    "title": "Fatherland",
@@ -9506,6 +9255,16 @@
    "date": "2027-02-07",
    "time": "10:30",
    "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671889~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
+   "infoLink": "https://www.theavalon.org/films/renoir-love"
+  },
+  {
+   "film": "renoir-and-love-2027",
+   "title": "Renoir & Love",
+   "venueId": "avalon",
+   "venue": "Avalon Theatre",
+   "date": "2027-02-09",
+   "time": "10:30",
+   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=671890~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
    "infoLink": "https://www.theavalon.org/films/renoir-love"
   }
  ]
