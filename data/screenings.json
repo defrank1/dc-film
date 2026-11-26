@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T08:21:29.383Z",
+ "lastUpdated": "2026-11-26T21:34:12.267Z",
  "films": {
   "14th-2026": {
    "title": "14th",
@@ -26,21 +26,6 @@
     "Thriller"
    ],
    "tmdbId": 1461432
-  },
-  "alice-in-wonderland-1951": {
-   "title": "Alice in Wonderland",
-   "year": 1951,
-   "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
-   "runtime": 75,
-   "poster": "https://image.tmdb.org/t/p/w342/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
-   "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
-   ],
-   "tmdbId": 12092,
-   "rep": true
   },
   "all-of-a-sudden-2026": {
    "title": "All of a Sudden",
@@ -1242,20 +1227,6 @@
   "peter-hutton-behind-the-camera-no-picnic": {
    "title": "Peter Hutton Behind the Camera: No Picnic"
   },
-  "piano-1993": {
-   "title": "The Piano",
-   "year": 1993,
-   "director": "Jane Campion",
-   "runtime": 120,
-   "poster": "https://image.tmdb.org/t/p/w342/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
-   "overview": "When an arranged marriage brings Ada and her spirited pre-teen daughter Flora to the wilderness of 19th-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "tmdbId": 713,
-   "rep": true
-  },
   "powwow-people-2025": {
    "title": "Powwow People",
    "year": 2025,
@@ -1440,21 +1411,6 @@
     "Drama"
    ],
    "tmdbId": 1553591
-  },
-  "shaun-the-sheep-movie-2015": {
-   "title": "Shaun the Sheep Movie",
-   "year": 2015,
-   "director": "Mark Burton, Richard Starzak",
-   "runtime": 85,
-   "poster": "https://image.tmdb.org/t/p/w342/1GMvKNy2Ht5QwI0oV0ycYnxzWdC.jpg",
-   "overview": "When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.",
-   "genres": [
-    "Family",
-    "Animation",
-    "Comedy"
-   ],
-   "tmdbId": 263109,
-   "rep": true
   },
   "shaun-the-sheep-the-beast-of-mossy-bottom-2026": {
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -1658,21 +1614,6 @@
    "tmdbId": 6296,
    "rep": true
   },
-  "wild-at-heart-1990": {
-   "title": "Wild at Heart",
-   "year": 1990,
-   "director": "David Lynch, from the novel by Barry Gifford",
-   "runtime": 125,
-   "poster": "https://image.tmdb.org/t/p/w342/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-   "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short.",
-   "genres": [
-    "Crime",
-    "Thriller",
-    "Romance"
-   ],
-   "tmdbId": 483,
-   "rep": true
-  },
   "wild-horse-nine-2026": {
    "title": "Wild Horse Nine",
    "year": 2026,
@@ -1797,192 +1738,6 @@
  },
  "screenings": [
   {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "wizard-of-oz-1939",
-   "title": "The Wizard of Oz",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000421",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000421?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "shaun-the-sheep-movie-2015",
-   "title": "Shaun the Sheep Movie",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "11:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000326",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000326?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "Free Thanksgiving Day Community Screening on Nov. 26"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "11:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "raise-the-red-lantern-1991",
-   "title": "Raise the Red Lantern",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "12:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration | 35th Anniversary"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "13:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "alice-in-wonderland-1951",
-   "title": "Alice in Wonderland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "13:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005757",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005757?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "75th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "piano-1993",
-   "title": "The Piano",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "13:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005751",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005751?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "New 4K Restoration"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "15:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-at-heart-1990",
-   "title": "Wild at Heart",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "15:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000051",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000051?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Diane Ladd (1935–2025)",
-   "note": "UNRATED · New 4K Restoration"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "15:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "15:20",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "15:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "15:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "15:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "16:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
    "film": "club-kid-2026",
    "title": "Club Kid",
    "venueId": "landmark",
@@ -1990,16 +1745,6 @@
    "date": "2026-11-26",
    "time": "16:10",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "16:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -2575,9 +2320,9 @@
    "venue": "Suns Cinema",
    "date": "2026-11-27",
    "time": "18:00",
-   "ticketLink": "https://sunscinema.com/purchase/437630/",
-   "infoLink": "https://sunscinema.com/movies/a-confucian-confusion/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg"
+   "ticketLink": "https://sunscinema.com/movies/a-confucian-confusion/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg",
+   "soldOut": true
   },
   {
    "film": "wild-horse-nine-2026",
@@ -4953,6 +4698,15 @@
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
+   "film": "in-waves",
+   "title": "In Waves",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "15:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "la-bola-negra-2026",
    "title": "La Bola Negra",
    "venueId": "afi",
@@ -4976,12 +4730,30 @@
   {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "15:30",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "you-can-see-everything-2026",
+   "title": "You Can See Everything",
    "venueId": "angelika",
    "venue": "Angelika Pop-Up at Union Market",
    "date": "2026-12-02",
    "time": "15:45",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
+  },
+  {
+   "film": "14th-2026",
+   "title": "14th",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "15:50",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "strangers-on-a-train-1951",
@@ -4993,6 +4765,24 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100003992",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003992?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "75th Anniversary"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping-2026",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "16:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
+   "film": "club-kid-2026",
+   "title": "Club Kid",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "16:10",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -5025,6 +4815,15 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
+   "film": "14th-2026",
+   "title": "14th",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "16:50",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
+  },
+  {
    "film": "club-kid-2026",
    "title": "Club Kid",
    "venueId": "angelika",
@@ -5033,6 +4832,15 @@
    "time": "17:00",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "in-waves",
+   "title": "In Waves",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -5084,6 +4892,15 @@
    "time": "19:15",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
+  },
+  {
+   "film": "in-waves",
+   "title": "In Waves",
+   "venueId": "landmark",
+   "venue": "Landmark Atlantic Plumbing Cinema",
+   "date": "2026-12-02",
+   "time": "19:20",
+   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
    "film": "elsinore-2026",
