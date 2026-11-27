@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T08:36:54.273Z",
+ "lastUpdated": "2026-11-27T21:19:33.987Z",
  "films": {
   "14th-2026": {
    "title": "14th",
@@ -1144,21 +1144,6 @@
    ],
    "tmdbId": 1596300
   },
-  "once-upon-a-time-in-hollywood-2019": {
-   "title": "Once Upon a Time in… Hollywood",
-   "year": 2019,
-   "director": "Quentin Tarantino",
-   "runtime": 162,
-   "poster": "https://image.tmdb.org/t/p/w342/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-   "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Thriller"
-   ],
-   "tmdbId": 466272,
-   "rep": true
-  },
   "our-erika-2026": {
    "title": "Our Erika",
    "year": 2026,
@@ -1398,20 +1383,6 @@
     "Comedy"
    ],
    "tmdbId": 1477104
-  },
-  "soul-food-1997": {
-   "title": "Soul Food",
-   "year": 1997,
-   "director": "George Tillman Jr.",
-   "runtime": 114,
-   "poster": "https://image.tmdb.org/t/p/w342/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
-   "overview": "Traditional Sunday dinners at Mama Joe's turn sour when sisters Teri, Bird and Maxine start bringing their problems to the dinner table in this ensemble comedy. When tragedy strikes, it's up to grandson Ahmad to pull the family together and put the soul back into the family's weekly gatherings.",
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "tmdbId": 29461,
-   "rep": true
   },
   "spiral-2026": {
    "title": "The Spiral",
@@ -1695,206 +1666,6 @@
  },
  "screenings": [
   {
-   "film": "muppet-treasure-island-1996",
-   "title": "Muppet Treasure Island",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "11:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100001215",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100001215?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "series": "In Memoriam: Tim Curry (1946–2026)"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "11:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670107~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "11:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670096~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "third-man-1949",
-   "title": "The Third Man",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "11:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005832",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005832?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "4K Restoration"
-  },
-  {
-   "film": "fatherland-2026",
-   "title": "Fatherland",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "11:50",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Poland"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "12:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "12:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "13:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "13:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "13:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "strangers-on-a-train-1951",
-   "title": "Strangers on a Train",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "13:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100003992",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100003992?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "75th Anniversary"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "13:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "13:35",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670111~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "in-waves",
-   "title": "In Waves",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "13:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "13:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005730",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005730?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "2027 Oscar® Selection, Spain"
-  },
-  {
-   "film": "14th-2026",
-   "title": "14th",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "13:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "14:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670099~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "soul-food-1997",
-   "title": "Soul Food",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-27",
-   "time": "14:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/61655462-66e0-4744-8d56-a442323a8406",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/8be82f23ac4d94f417ceb42f07f92db6-small.jpg"
-  },
-  {
-   "film": "once-upon-a-time-in-hollywood-2019",
-   "title": "Once Upon a Time in… Hollywood",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "14:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005831",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005831?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
    "film": "streetcar-named-desire-1951",
    "title": "A Streetcar Named Desire",
    "venueId": "afi",
@@ -1906,16 +1677,6 @@
    "note": "75th Anniversary"
   },
   {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "15:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
    "film": "you-can-see-everything-2026",
    "title": "You Can See Everything",
    "venueId": "landmark",
@@ -1923,16 +1684,6 @@
    "date": "2026-11-27",
    "time": "15:50",
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "16:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
   },
   {
    "film": "club-kid-2026",
