@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-26T21:34:12.267Z",
+ "lastUpdated": "2026-11-27T08:36:54.273Z",
  "films": {
   "14th-2026": {
    "title": "14th",
@@ -68,19 +68,6 @@
   },
   "beginning-and-beginning-again-by-robert-beavers": {
    "title": "Beginning and Beginning Again by Robert Beavers"
-  },
-  "being-heumann-2026": {
-   "title": "Being Heumann",
-   "year": 2026,
-   "director": "Siân Heder",
-   "runtime": 127,
-   "poster": "https://image.tmdb.org/t/p/w342/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-   "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
-   "genres": [
-    "Drama",
-    "History"
-   ],
-   "tmdbId": 1050981
   },
   "beirut-trilogy-1976": {
    "title": "The Beirut Trilogy",
@@ -690,6 +677,20 @@
    ],
    "tmdbId": 1529024
   },
+  "hundred-foot-journey-2014": {
+   "title": "The Hundred-Foot Journey",
+   "year": 2014,
+   "director": "Lasse Hallström",
+   "runtime": 122,
+   "poster": "https://image.tmdb.org/t/p/w342/1vFhSr7INoulu18smHqicft05i8.jpg",
+   "overview": "A story centered around an Indian family who moves to France and opens a restaurant across the street from a Michelin-starred French restaurant.",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "tmdbId": 228194,
+   "rep": true
+  },
   "hundreds-of-beavers-2024": {
    "title": "Hundreds of Beavers",
    "year": 2024,
@@ -1076,19 +1077,6 @@
    "runtime": 164,
    "poster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005829?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
-  "network-1976": {
-   "title": "Network",
-   "year": 1976,
-   "director": "Sidney Lumet",
-   "runtime": 122,
-   "poster": "https://image.tmdb.org/t/p/w342/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
-   "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 10774,
-   "rep": true
-  },
   "night-at-the-museum-2006": {
    "title": "Night at the Museum",
    "year": 2006,
@@ -1194,21 +1182,6 @@
     "Documentary"
    ],
    "tmdbId": 1568184
-  },
-  "pans-labyrinth-2006": {
-   "title": "Pan's Labyrinth",
-   "year": 2006,
-   "director": "Guillermo del Toro",
-   "runtime": 118,
-   "poster": "https://image.tmdb.org/t/p/w342/khBQ6nN5FLfg9XgPXIZDkABJjqo.jpg",
-   "overview": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
-   "genres": [
-    "Fantasy",
-    "Drama",
-    "War"
-   ],
-   "tmdbId": 1417,
-   "rep": true
   },
   "parallel-tales-2026": {
    "title": "Parallel Tales",
@@ -1466,9 +1439,6 @@
    ],
    "tmdbId": 683367
   },
-  "steps": {
-   "title": "Steps"
-  },
   "strangers-on-a-train-1951": {
    "title": "Strangers on a Train",
    "year": 1951,
@@ -1698,19 +1668,6 @@
    ],
    "tmdbId": 1315657
   },
-  "yi-yi-2000": {
-   "title": "Yi Yi",
-   "year": 2000,
-   "director": "Edward Yang",
-   "runtime": 174,
-   "poster": "https://image.tmdb.org/t/p/w342/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
-   "overview": "Each member of a family in Taipei asks hard questions about life's meaning as they live through everyday quandaries. NJ is morose: his brother owes him money, his mother is in a coma, his wife suffers a spiritual crisis when she finds her life a blank and his business partners make bad decisions.",
-   "genres": [
-    "Drama"
-   ],
-   "tmdbId": 25538,
-   "rep": true
-  },
   "you-can-see-everything-2026": {
    "title": "You Can See Everything",
    "year": 2026,
@@ -1737,247 +1694,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "16:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-26",
-   "time": "16:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669988~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-26",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669986~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "network-1976",
-   "title": "Network",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "17:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100000978",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000978?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "50th Anniversary | 4K Restoration"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "17:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "18:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "18:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "18:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "18:45",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "18:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669989~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-26",
-   "time": "19:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-26",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=669987~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "pans-labyrinth-2006",
-   "title": "Pan's Labyrinth",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "20:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005756",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005756?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "20th Anniversary | New 4K Restoration"
-  },
-  {
-   "film": "being-heumann-2026",
-   "title": "Being Heumann",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "20:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005769",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005769?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "21:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-26",
-   "time": "21:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "21:15",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "21:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "steps",
-   "title": "Steps",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-26",
-   "time": "21:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
   {
    "film": "muppet-treasure-island-1996",
    "title": "Muppet Treasure Island",
@@ -2488,17 +2204,6 @@
    "date": "2026-11-27",
    "time": "20:45",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
-  },
-  {
-   "film": "yi-yi-2000",
-   "title": "Yi Yi",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-27",
-   "time": "21:00",
-   "ticketLink": "https://sunscinema.com/movies/yi-yi/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2023/11/10135843/hTPkCpK9SLGDMXRbUwzoep0MxOx.jpg",
-   "soldOut": true
   },
   {
    "film": "you-can-see-everything-2026",
@@ -5035,6 +4740,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "hundred-foot-journey-2014",
+   "title": "The Hundred-Foot Journey",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-12-03",
+   "time": "13:30",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/1ee5f350-09f2-4cc8-b01b-f9a3b7442e95",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/13f5ace953454718a2859ec2931571e1-small.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
