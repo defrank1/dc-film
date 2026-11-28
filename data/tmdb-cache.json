@@ -215,6 +215,24 @@
    ]
   }
  },
+ "batman-returns|1992": {
+  "at": "2026-11-28",
+  "q": "Batman Returns",
+  "sig": "1992|Tim Burton||",
+  "data": {
+   "tmdbId": 364,
+   "title": "Batman Returns",
+   "year": 1992,
+   "poster": "https://image.tmdb.org/t/p/w342/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+   "director": "Tim Burton",
+   "runtime": 126,
+   "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
+   "genres": [
+    "Action",
+    "Fantasy"
+   ]
+  }
+ },
  "beginning-and-beginning-again-by-robert-beavers|": {
   "at": "2026-11-25",
   "q": "Beginning and Beginning Again by Robert Beavers",
@@ -697,7 +715,7 @@
   }
  },
  "christmas-carol-aka-scrooge|1951": {
-  "at": "2026-11-23",
+  "at": "2026-11-28",
   "q": "A Christmas Carol A.k.a. Scrooge",
   "sig": "1951|Brian Desmond Hurst||",
   "data": null
@@ -820,6 +838,25 @@
     "Drama",
     "Romance",
     "War"
+   ]
+  }
+ },
+ "cremator|1969": {
+  "at": "2026-11-28",
+  "q": "The Cremator",
+  "sig": "1969|Juraj Herz||",
+  "data": {
+   "tmdbId": 18352,
+   "title": "The Cremator",
+   "year": 1969,
+   "poster": "https://image.tmdb.org/t/p/w342/9or2Jzw9HOE4gp9niwXBkZdpTVx.jpg",
+   "director": "Juraj Herz",
+   "runtime": 101,
+   "overview": "In 1930s Prague, a Czech cremator who firmly believes cremation relieves one from earthly suffering is drawn inexorably to Nazism.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Crime"
    ]
   }
  },
@@ -1556,6 +1593,25 @@
    "genres": [
     "Drama",
     "Action"
+   ]
+  }
+ },
+ "gremlins|1984": {
+  "at": "2026-11-28",
+  "q": "Gremlins",
+  "sig": "1984|Joe Dante||",
+  "data": {
+   "tmdbId": 927,
+   "title": "Gremlins",
+   "year": 1984,
+   "poster": "https://image.tmdb.org/t/p/w342/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+   "director": "Joe Dante",
+   "runtime": 106,
+   "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Comedy"
    ]
   }
  },
@@ -2783,6 +2839,25 @@
    ]
   }
  },
+ "moonstruck|1987": {
+  "at": "2026-11-28",
+  "q": "Moonstruck",
+  "sig": "1987|Norman Jewison||",
+  "data": {
+   "tmdbId": 2039,
+   "title": "Moonstruck",
+   "year": 1987,
+   "poster": "https://image.tmdb.org/t/p/w342/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+   "director": "Norman Jewison",
+   "runtime": 102,
+   "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples…",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  }
+ },
  "more-lost-and-found-cartoons|": {
   "at": "2026-11-11",
   "q": "More Lost and Found Cartoons",
@@ -3288,6 +3363,24 @@
    ]
   }
  },
+ "phantom-thread|2017": {
+  "at": "2026-11-28",
+  "q": "Phantom Thread",
+  "sig": "2017|Paul Thomas Anderson||",
+  "data": {
+   "tmdbId": 400617,
+   "title": "Phantom Thread",
+   "year": 2017,
+   "poster": "https://image.tmdb.org/t/p/w342/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+   "director": "Paul Thomas Anderson",
+   "runtime": 130,
+   "overview": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+   "genres": [
+    "Drama",
+    "Romance"
+   ]
+  }
+ },
  "piano|": {
   "at": "2026-11-11",
   "q": "The Piano",
@@ -3563,6 +3656,25 @@
    ]
   }
  },
+ "r-xmas|2001": {
+  "at": "2026-11-28",
+  "q": "‘R Xmas",
+  "sig": "2001|Abel Ferrara||",
+  "data": {
+   "tmdbId": 49110,
+   "title": "'R Xmas",
+   "year": 2001,
+   "poster": "https://image.tmdb.org/t/p/w342/DzoSalOppsZ5by1X2ISevQH2U4.jpg",
+   "director": "Abel Ferrara",
+   "runtime": 85,
+   "overview": "A New York drug dealer is kidnapped, and his wife must try to come up with the money and drugs to free him from his abductors before Christmas.",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ]
+  }
+ },
  "rain|1932": {
   "at": "2026-11-11",
   "q": "Rain",
@@ -3687,10 +3799,28 @@
   }
  },
  "rex-a-dinosaurs-story-mickeys-christmas-carol|1993": {
-  "at": "2026-11-23",
+  "at": "2026-11-28",
   "q": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
   "sig": "1993|Haruki Kadokawa||",
   "data": null
+ },
+ "rex-a-dinosaurs-story|1993": {
+  "at": "2026-11-28",
+  "q": "Rex: A Dinosaur's Story",
+  "sig": "1993|Haruki Kadokawa||",
+  "data": {
+   "tmdbId": 627110,
+   "title": "Rex: A Dinosaur's Story",
+   "year": 1993,
+   "poster": "https://image.tmdb.org/t/p/w342/f7EsJ9YCIslx2pf4AGOGe8GfqgJ.jpg",
+   "director": "Haruki Kadokawa",
+   "runtime": 106,
+   "overview": "A young girl befriends an infant T-rex after her paleontologist father nurtures a lair of lost dinosaur eggs.",
+   "genres": [
+    "Family",
+    "Adventure"
+   ]
+  }
  },
  "robert-richardson-the-white-devil|2026": {
   "at": "2026-11-11",

@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-11-27T21:19:33.987Z",
+ "lastUpdated": "2026-11-28T07:52:15.701Z",
  "films": {
   "14th-2026": {
    "title": "14th",
@@ -65,6 +65,20 @@
     "Adventure"
    ],
    "tmdbId": 1003596
+  },
+  "batman-returns-1992": {
+   "title": "Batman Returns",
+   "year": 1992,
+   "director": "Tim Burton",
+   "runtime": 126,
+   "poster": "https://image.tmdb.org/t/p/w342/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+   "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "tmdbId": 364,
+   "rep": true
   },
   "beginning-and-beginning-again-by-robert-beavers": {
    "title": "Beginning and Beginning Again by Robert Beavers"
@@ -295,21 +309,6 @@
    ],
    "tmdbId": 1585239
   },
-  "confucian-confusion-1994": {
-   "title": "A Confucian Confusion",
-   "year": 1994,
-   "director": "Edward Yang",
-   "runtime": 129,
-   "poster": "https://image.tmdb.org/t/p/w342/sDEPrUoBf52AISJd5liP47ofKzp.jpg",
-   "overview": "Over the course of a few days, the paths of a group of young friends, lovers, and acquaintances in Taipei intersect, prompting them to arrive at realizations about their lives.",
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "tmdbId": 54233,
-   "rep": true
-  },
   "coward-2026": {
    "title": "Coward",
    "year": 2026,
@@ -323,6 +322,21 @@
     "War"
    ],
    "tmdbId": 1437981
+  },
+  "cremator-1969": {
+   "title": "The Cremator",
+   "year": 1969,
+   "director": "Juraj Herz",
+   "runtime": 101,
+   "poster": "https://image.tmdb.org/t/p/w342/9or2Jzw9HOE4gp9niwXBkZdpTVx.jpg",
+   "overview": "In 1930s Prague, a Czech cremator who firmly believes cremation relieves one from earthly suffering is drawn inexorably to Nazism.",
+   "genres": [
+    "Horror",
+    "Drama",
+    "Crime"
+   ],
+   "tmdbId": 18352,
+   "rep": true
   },
   "daisies-1966": {
    "title": "Daisies",
@@ -541,6 +555,21 @@
     "Romance"
    ],
    "tmdbId": 1457734
+  },
+  "gremlins-1984": {
+   "title": "Gremlins",
+   "year": 1984,
+   "director": "Joe Dante",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+   "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+   "genres": [
+    "Fantasy",
+    "Horror",
+    "Comedy"
+   ],
+   "tmdbId": 927,
+   "rep": true
   },
   "grinch-2018": {
    "title": "The Grinch",
@@ -1019,6 +1048,21 @@
    "tmdbId": 583,
    "rep": true
   },
+  "moonstruck-1987": {
+   "title": "Moonstruck",
+   "year": 1987,
+   "director": "Norman Jewison",
+   "runtime": 102,
+   "poster": "https://image.tmdb.org/t/p/w342/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+   "overview": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples…",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "tmdbId": 2039,
+   "rep": true
+  },
   "mouse-2026": {
    "title": "Mouse",
    "year": 2026,
@@ -1185,6 +1229,20 @@
   "peter-hutton-behind-the-camera-no-picnic": {
    "title": "Peter Hutton Behind the Camera: No Picnic"
   },
+  "phantom-thread-2017": {
+   "title": "Phantom Thread",
+   "year": 2017,
+   "director": "Paul Thomas Anderson",
+   "runtime": 130,
+   "poster": "https://image.tmdb.org/t/p/w342/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+   "overview": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "tmdbId": 400617,
+   "rep": true
+  },
   "powwow-people-2025": {
    "title": "Powwow People",
    "year": 2025,
@@ -1244,6 +1302,21 @@
    ],
    "tmdbId": 1021848
   },
+  "r-xmas-2001": {
+   "title": "'R Xmas",
+   "year": 2001,
+   "director": "Abel Ferrara",
+   "runtime": 85,
+   "poster": "https://image.tmdb.org/t/p/w342/DzoSalOppsZ5by1X2ISevQH2U4.jpg",
+   "overview": "A New York drug dealer is kidnapped, and his wife must try to come up with the money and drugs to free him from his abductors before Christmas.",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+   ],
+   "tmdbId": 49110,
+   "rep": true
+  },
   "raise-the-red-lantern-1991": {
    "title": "Raise the Red Lantern",
    "year": 1991,
@@ -1255,21 +1328,6 @@
     "Drama"
    ],
    "tmdbId": 10404,
-   "rep": true
-  },
-  "ratatouille-2007": {
-   "title": "Ratatouille",
-   "year": 2007,
-   "director": "Brad Bird",
-   "runtime": 111,
-   "poster": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-   "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Family"
-   ],
-   "tmdbId": 2062,
    "rep": true
   },
   "ray-gunn-2026": {
@@ -1311,6 +1369,20 @@
     "Documentary"
    ],
    "tmdbId": 1747216
+  },
+  "rex-a-dinosaurs-story-1993": {
+   "title": "Rex: A Dinosaur's Story",
+   "year": 1993,
+   "director": "Haruki Kadokawa",
+   "runtime": 106,
+   "poster": "https://image.tmdb.org/t/p/w342/f7EsJ9YCIslx2pf4AGOGe8GfqgJ.jpg",
+   "overview": "A young girl befriends an infant T-rex after her paleontologist father nurtures a lair of lost dinosaur eggs.",
+   "genres": [
+    "Family",
+    "Adventure"
+   ],
+   "tmdbId": 627110,
+   "rep": true
   },
   "rex-a-dinosaurs-story-mickeys-christmas-carol-1993": {
    "title": "Rex: A Dinosaur's Story + Mickey's Christmas Carol",
@@ -1461,18 +1533,18 @@
    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29134946/nHDvrm1tpaZIE3g5ZENIW7Kfe1E-scaled.jpg",
    "rep": true
   },
-  "that-day-on-the-beach-1983": {
-   "title": "That Day, on the Beach",
-   "year": 1983,
-   "director": "Edward Yang",
-   "runtime": 166,
-   "poster": "https://image.tmdb.org/t/p/w342/83GRYRWEXWkfGbDBIpEhXdEhONA.jpg",
-   "overview": "Two friends who haven't seen each other for thirteen years reunite. One is a successful concert pianist just back from a European tour and the other has just started a new business.",
+  "taste-of-things-2023": {
+   "title": "The Taste of Things",
+   "year": 2023,
+   "director": "Trần Anh Hùng",
+   "runtime": 135,
+   "poster": "https://image.tmdb.org/t/p/w342/pYwK6rg0pmxDxzdtECABUsf49Eu.jpg",
+   "overview": "Set in 1889 France, Dodin Bouffant is a chef living with his personal cook and lover Eugénie. They share a long history of gastronomy and love but Eugénie refuses to marry Dodin, so the food lover decides to do something he has never done before: cook for her.",
    "genres": [
-    "Drama",
-    "Romance"
+    "Romance",
+    "Drama"
    ],
-   "tmdbId": 106373,
+   "tmdbId": 964960,
    "rep": true
   },
   "third-man-1949": {
@@ -1665,344 +1737,6 @@
   }
  },
  "screenings": [
-  {
-   "film": "streetcar-named-desire-1951",
-   "title": "A Streetcar Named Desire",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "15:30",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100004096",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100004096?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "75th Anniversary"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "15:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "16:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "in-waves",
-   "title": "In Waves",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "16:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "16:15",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670115~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "16:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "14th-2026",
-   "title": "14th",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "16:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "16:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/you-can-see-everything",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28649-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "16:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "16:45",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670102~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "my-undesirable-friends-part-ii-exile-ch-1-3-2026",
-   "title": "My Undesirable Friends: Part II - Exile (Ch. 1-3)",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "17:00",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005828",
-   "note": "Preceded by a recorded intro by executive producer Meryl Streep"
-  },
-  {
-   "film": "ratatouille-2007",
-   "title": "Ratatouille",
-   "venueId": "4eye",
-   "venue": "4EYE Film Center",
-   "date": "2026-11-27",
-   "time": "17:00",
-   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/3753ece0-e37a-447f-88f2-eece2fa015c8",
-   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/51e63831f579031e0bbf6218f4b4a058-small.jpg"
-  },
-  {
-   "film": "confucian-confusion-1994",
-   "title": "A Confucian Confusion",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-27",
-   "time": "18:00",
-   "ticketLink": "https://sunscinema.com/movies/a-confucian-confusion/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg",
-   "soldOut": true
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "18:10",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "cameron-winter-at-carnegie-hall-2026",
-   "title": "Cameron Winter at Carnegie Hall",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "18:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005700",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005700?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm"
-  },
-  {
-   "film": "in-waves",
-   "title": "In Waves",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "18:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "18:45",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
-  {
-   "film": "14th-2026",
-   "title": "14th",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "18:50",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670118~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/wild-horse-nine"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "19:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "19:20",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "elsinore-2026",
-   "title": "Elsinore",
-   "venueId": "avalon",
-   "venue": "Avalon Theatre",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "ticketLink": "https://prod5.agileticketing.net/websales/pages/ticketsearchcriteria.aspx?evtinfo=670105~6c8c0697-5bfe-46a4-9ff7-3b01a44d6e6f&",
-   "infoLink": "https://www.theavalon.org/films/elsinore"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "la-bola-negra-2026",
-   "title": "La Bola Negra",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "20:00",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/la-bola-negra",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/28390-oj.jpg",
-   "note": "English subtitles"
-  },
-  {
-   "film": "lord-of-the-rings-the-fellowship-of-the-ring-2001",
-   "title": "The Lord of the Rings: The Fellowship of the Ring",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "20:15",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005760",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005760?referenceScheme=HeadOffice&allowPlaceHolder=true",
-   "note": "35mm · 25th Anniversary"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "20:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "wild-horse-nine-2026",
-   "title": "Wild Horse Nine",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "20:40",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
-   "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
-  },
-  {
-   "film": "my-undesirable-friends-part-ii-exile-ch-4-5-2026",
-   "title": "My Undesirable Friends: Part II - Exile (Ch. 4-5)",
-   "venueId": "afi",
-   "venue": "AFI Silver Theatre",
-   "date": "2026-11-27",
-   "time": "20:45",
-   "ticketLink": "https://silver.afi.com/movies/detail/0100005829"
-  },
-  {
-   "film": "you-can-see-everything-2026",
-   "title": "You Can See Everything",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "21:10",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "21:30",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "21:30",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/the-hunger-games-sunrise-on-the-reaping",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/18407-oj.jpg"
-  },
-  {
-   "film": "hunger-games-sunrise-on-the-reaping-2026",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "venueId": "landmark",
-   "venue": "Landmark Atlantic Plumbing Cinema",
-   "date": "2026-11-27",
-   "time": "21:40",
-   "ticketLink": "https://www.landmarktheatres.com/showtimes/"
-  },
-  {
-   "film": "club-kid-2026",
-   "title": "Club Kid",
-   "venueId": "angelika",
-   "venue": "Angelika Pop-Up at Union Market",
-   "date": "2026-11-27",
-   "time": "22:15",
-   "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/club-kid",
-   "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/29379-oj.jpg"
-  },
   {
    "film": "willy-wonka-and-the-chocolate-factory-1971",
    "title": "Willy Wonka & the Chocolate Factory",
@@ -2340,17 +2074,6 @@
    "infoLink": "https://www.theavalon.org/films/elsinore"
   },
   {
-   "film": "confucian-confusion-1994",
-   "title": "A Confucian Confusion",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-28",
-   "time": "18:00",
-   "ticketLink": "https://sunscinema.com/purchase/437562/",
-   "infoLink": "https://sunscinema.com/movies/a-confucian-confusion/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29135633/sDEPrUoBf52AISJd5liP47ofKzp.jpg"
-  },
-  {
    "film": "cameron-winter-at-carnegie-hall-2026",
    "title": "Cameron Winter at Carnegie Hall",
    "venueId": "afi",
@@ -2530,17 +2253,6 @@
    "note": "2027 Oscar® Selection, Spain"
   },
   {
-   "film": "that-day-on-the-beach-1983",
-   "title": "That Day, on the Beach",
-   "venueId": "suns",
-   "venue": "Suns Cinema",
-   "date": "2026-11-28",
-   "time": "21:00",
-   "ticketLink": "https://sunscinema.com/purchase/437563/",
-   "infoLink": "https://sunscinema.com/movies/that-day-on-the-beach/",
-   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/10/29140010/83GRYRWEXWkfGbDBIpEhXdEhONA-scaled.jpg"
-  },
-  {
    "film": "wild-horse-nine-2026",
    "title": "Wild Horse Nine",
    "venueId": "afi",
@@ -2676,6 +2388,16 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005766",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005766?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "New 4K Restoration | 35th Anniversary"
+  },
+  {
+   "film": "taste-of-things-2023",
+   "title": "The Taste of Things",
+   "venueId": "4eye",
+   "venue": "4EYE Film Center",
+   "date": "2026-11-29",
+   "time": "13:00",
+   "ticketLink": "https://patron.4eyefilmcenter.org/ticketing/4eye/fd74f733-1b4c-4cef-b4a2-58a8f29e230e",
+   "venuePoster": "https://4eyefilmcenter.org/wp-content/uploads/event-posters/3a1c6de4e3c21e7a3cb52699715e60c5-small.jpg"
   },
   {
    "film": "club-kid-2026",
@@ -3914,6 +3636,17 @@
    "ticketLink": "https://www.landmarktheatres.com/showtimes/"
   },
   {
+   "film": "in-bruges-2008",
+   "title": "In Bruges",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "ticketLink": "https://sunscinema.com/purchase/444117/",
+   "infoLink": "https://sunscinema.com/movies/in-bruges-2/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4029,6 +3762,17 @@
    "time": "21:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005767",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005767?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "in-bruges-2008",
+   "title": "In Bruges",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-01",
+   "time": "21:35",
+   "ticketLink": "https://sunscinema.com/purchase/444118/",
+   "infoLink": "https://sunscinema.com/movies/in-bruges-2/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2024/11/25120606/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg"
   },
   {
    "film": "wild-horse-nine-2026",
@@ -4328,6 +4072,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005712",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005712?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Poland"
+  },
+  {
+   "film": "moonstruck-1987",
+   "title": "Moonstruck",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-02",
+   "time": "19:00",
+   "ticketLink": "https://sunscinema.com/purchase/444120/",
+   "infoLink": "https://sunscinema.com/movies/moonstruck/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19144023/hH5mm3A5r1Bw8uBAJXbAtJxBpPB.jpg"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
@@ -4717,6 +4472,17 @@
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005830?referenceScheme=HeadOffice&allowPlaceHolder=true"
   },
   {
+   "film": "gremlins-1984",
+   "title": "Gremlins",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "ticketLink": "https://sunscinema.com/purchase/444127/",
+   "infoLink": "https://sunscinema.com/movies/gremlins/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19142510/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg"
+  },
+  {
    "film": "hunger-games-sunrise-on-the-reaping-2026",
    "title": "The Hunger Games: Sunrise on the Reaping",
    "venueId": "angelika",
@@ -4834,6 +4600,17 @@
    "note": "2027 Oscar® Selection, Cyprus"
   },
   {
+   "film": "batman-returns-1992",
+   "title": "Batman Returns",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-03",
+   "time": "21:35",
+   "ticketLink": "https://sunscinema.com/purchase/444128/",
+   "infoLink": "https://sunscinema.com/movies/batman-returns/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10105927/jKBjeXM7iBBV9UkUcOXx3m7FSHY-scaled.jpg"
+  },
+  {
    "film": "minotaur-2026",
    "title": "Minotaur",
    "venueId": "afi",
@@ -4896,6 +4673,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100005816",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005816?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "2027 Oscar® Selection, Slovak Republic"
+  },
+  {
+   "film": "phantom-thread-2017",
+   "title": "Phantom Thread",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "ticketLink": "https://sunscinema.com/purchase/444130/",
+   "infoLink": "https://sunscinema.com/movies/phantom-thread/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2022/11/10110001/hgoWjp9Sh0MI97eAMZCnIoVfgvq-scaled.jpg"
   },
   {
    "film": "minotaur-2026",
@@ -5552,6 +5340,17 @@
    "note": "2027 Oscar® Selection, Greece"
   },
   {
+   "film": "cremator-1969",
+   "title": "The Cremator",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-09",
+   "time": "21:25",
+   "ticketLink": "https://sunscinema.com/purchase/444140/",
+   "infoLink": "https://sunscinema.com/movies/the-cremator/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2025/09/24224241/9or2Jzw9HOE4gp9niwXBkZdpTVx.jpg"
+  },
+  {
    "film": "de-gaulle-part-two-liberte-2026",
    "title": "De Gaulle - Part Two: Liberté",
    "venueId": "afi",
@@ -6184,6 +5983,17 @@
    "time": "21:15",
    "ticketLink": "https://silver.afi.com/movies/detail/0100005774",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100005774?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "r-xmas-2001",
+   "title": "'R Xmas",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-16",
+   "time": "21:30",
+   "ticketLink": "https://sunscinema.com/purchase/444180/",
+   "infoLink": "https://sunscinema.com/movies/r-xmas/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/11/27124021/DzoSalOppsZ5by1X2ISevQH2U4.jpg"
   },
   {
    "film": "dune-part-three-2026",
@@ -7521,6 +7331,17 @@
    "note": "Open Captions"
   },
   {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-22",
+   "time": "19:00",
+   "ticketLink": "https://sunscinema.com/purchase/444187/",
+   "infoLink": "https://sunscinema.com/movies/die-hard/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  },
+  {
    "film": "in-bruges-2008",
    "title": "In Bruges",
    "venueId": "afi",
@@ -7571,6 +7392,17 @@
    "ticketLink": "https://silver.afi.com/movies/detail/0100002283",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100002283?referenceScheme=HeadOffice&allowPlaceHolder=true",
    "note": "65th Anniversary"
+  },
+  {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-22",
+   "time": "22:00",
+   "ticketLink": "https://sunscinema.com/purchase/444188/",
+   "infoLink": "https://sunscinema.com/movies/die-hard/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -7685,6 +7517,17 @@
    "note": "4K Restoration | $5 tickets for children 12 and under"
   },
   {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-23",
+   "time": "19:00",
+   "ticketLink": "https://sunscinema.com/purchase/444185/",
+   "infoLink": "https://sunscinema.com/movies/die-hard/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  },
+  {
    "film": "dune-part-three-2026",
    "title": "Dune: Part Three",
    "venueId": "afi",
@@ -7725,6 +7568,17 @@
    "time": "21:10",
    "ticketLink": "https://silver.afi.com/movies/detail/0100000082",
    "venuePoster": "https://vista.afi.com/CDN/media/entity/get/FilmPosterGraphic/e-0100000082?referenceScheme=HeadOffice&allowPlaceHolder=true"
+  },
+  {
+   "film": "die-hard-1988",
+   "title": "Die Hard",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-23",
+   "time": "22:00",
+   "ticketLink": "https://sunscinema.com/purchase/444186/",
+   "infoLink": "https://sunscinema.com/movies/die-hard/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2021/11/19143234/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
   },
   {
    "film": "avengers-doomsday-2026",
@@ -8082,6 +7936,17 @@
    "time": "20:30",
    "ticketLink": "https://angelikafilmcenter.com/dc/movies/details/avengers-doomsday-iv",
    "venuePoster": "https://d35zcch9f9it10.cloudfront.net/wpdata/images/26581-oj.jpg"
+  },
+  {
+   "film": "rex-a-dinosaurs-story-1993",
+   "title": "Rex: A Dinosaur's Story",
+   "venueId": "suns",
+   "venue": "Suns Cinema",
+   "date": "2026-12-26",
+   "time": "22:00",
+   "ticketLink": "https://sunscinema.com/purchase/444232/",
+   "infoLink": "https://sunscinema.com/movies/rex-a-dinosaurs-story/",
+   "venuePoster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/197/2026/11/27130643/f7EsJ9YCIslx2pf4AGOGe8GfqgJ.jpg"
   },
   {
    "film": "avengers-doomsday-2026",
